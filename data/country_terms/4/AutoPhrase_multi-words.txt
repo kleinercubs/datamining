@@ -1,337 +1,2173 @@
-1.0000000000	445 443 443 2155 43 1133
-1.0000000000	2 13 15 17 19 109
-1.0000000000	0 2144 2145 445 438 2145
-1.0000000000	2135 443 2139 445 2141
-1.0000000000	2145 445 443 443 2155
-1.0000000000	438 2145 445 443 443
-1.0000000000	23 72 147 31 110
-1.0000000000	0 2144 2145 445 438
-1.0000000000	2 13 15 17 19
-1.0000000000	13 15 17 19 109
-1.0000000000	23 31 110 72
-1.0000000000	72 147 31 110
-1.0000000000	31 110 72 20
-1.0000000000	114 141 109 383
-1.0000000000	0 2144 2145 445
-1.0000000000	1 191 167 195
-1.0000000000	1 31 110 134
-1.0000000000	2 13 15 17
-1.0000000000	443 2139 445 2141
-1.0000000000	9 31 110 72
-1.0000000000	9 114 141 109
-1.0000000000	9 31 110 20
-1.0000000000	9 31 110 23
-1.0000000000	13 15 17 19
-1.0000000000	0 761 390
-1.0000000000	1 228 9
-1.0000000000	1 314 9
-1.0000000000	1 234 9
-1.0000000000	1 74 9
-1.0000000000	1 114 141
-1.0000000000	1 191 167
-1.0000000000	114 141 109
-1.0000000000	38 31 110
-1.0000000000	0 2144 2145
-1.0000000000	2379 167 4688
-1.0000000000	2 13 15
-1.0000000000	1 79 9
-1.0000000000	2379 167 5225
-1.0000000000	1 31 110
-1.0000000000	1 167 1273
-1.0000000000	2 31 110
-1.0000000000	1 251 298
-1.0000000000	1 200 9
-1.0000000000	1 518 757
-1.0000000000	20 31 110
-1.0000000000	1 768 9
-1.0000000000	31 110 148
-1.0000000000	31 110 72
-1.0000000000	31 110 20
-1.0000000000	1 1191 9
-1.0000000000	31 110 23
-1.0000000000	23 261 62
-1.0000000000	31 110 383
-1.0000000000	31 110 134
-1.0000000000	1 271 9
-1.0000000000	23 88 62
-1.0000000000	23 72 147
-1.0000000000	1 371 477
-1.0000000000	141 109 383
-1.0000000000	1 746 9
-1.0000000000	1 464 19
-1.0000000000	1 371 161
-1.0000000000	1 512 9
-1.0000000000	1675 167 70
-1.0000000000	147 114 141
-1.0000000000	9 31 110
-1.0000000000	9 114 141
-1.0000000000	23 31 110
-1.0000000000	62 31 110
-1.0000000000	191 167 195
-1.0000000000	4737 436 383
-1.0000000000	624 20 617
-1.0000000000	19 223 171
-1.0000000000	77 355 77
-1.0000000000	147 276 20
-1.0000000000	43 1133 2683
-1.0000000000	147 31 110
-1.0000000000	421 423 426
-1.0000000000	423 426 109
-1.0000000000	13 15 17
-1.0000000000	15 17 19
-1.0000000000	118 120
-1.0000000000	117 9
-1.0000000000	110 134
-1.0000000000	116 148
-1.0000000000	517 148
-1.0000000000	110 20
-1.0000000000	114 141
-1.0000000000	110 148
-1.0000000000	110 72
-1.0000000000	110 383
-1.0000000000	110 23
-1.0000000000	403 23
-1.0000000000	50 9
-1.0000000000	114 2094
-1.0000000000	512 9
-1.0000000000	2727 9
-1.0000000000	2011 23
-1.0000000000	2379 167
-1.0000000000	541 543
-1.0000000000	473 9
-1.0000000000	277 62
-1.0000000000	76 77
-1.0000000000	72 147
-1.0000000000	70 1220
-1.0000000000	275 77
-1.0000000000	74 9
-1.0000000000	276 20
-1.0000000000	72 20
-1.0000000000	77 9
-1.0000000000	79 9
-1.0000000000	788 9
-1.0000000000	79 262
-1.0000000000	77 355
-1.0000000000	271 9
-1.0000000000	4737 436
-1.0000000000	1384 9
-1.0000000000	1320 147
-1.0000000000	19 223
-1.0000000000	768 9
-1.0000000000	768 23
-1.0000000000	581 147
-1.0000000000	15 1905
-1.0000000000	307 167
-1.0000000000	761 390
-1.0000000000	177 171
-1.0000000000	15 124
-1.0000000000	15 50
-1.0000000000	426 109
-1.0000000000	15 17
-1.0000000000	422 121
-1.0000000000	13 15
-1.0000000000	19 109
-1.0000000000	1766 9
-1.0000000000	421 423
-1.0000000000	2486 167
-1.0000000000	1438 9
-1.0000000000	1216 62
-1.0000000000	1213 9
-1.0000000000	2239 62
-1.0000000000	3723 3725
-1.0000000000	684 9
-1.0000000000	680 62
-1.0000000000	436 383
-1.0000000000	138 223
-1.0000000000	138 390
-1.0000000000	134 20
-1.0000000000	138 134
-1.0000000000	208 2933
-1.0000000000	82 62
-1.0000000000	138 298
-1.0000000000	939 277
-1.0000000000	939 843
-1.0000000000	1372 62
-1.0000000000	243 62
-1.0000000000	200 9
-1.0000000000	1692 186
-1.0000000000	2933 3221
-1.0000000000	23 629
-1.0000000000	20 870
-1.0000000000	23 173
-1.0000000000	5747 5748
-1.0000000000	20 2
-1.0000000000	1847 124
-1.0000000000	20 31
-1.0000000000	20 518
-1.0000000000	20 23
-1.0000000000	23 468
-1.0000000000	20 196
-1.0000000000	20 228
-1.0000000000	20 221
-1.0000000000	23 532
-1.0000000000	20 167
-1.0000000000	23 167
-1.0000000000	20 617
-1.0000000000	23 31
-1.0000000000	23 72
-1.0000000000	23 88
-1.0000000000	23 261
-1.0000000000	23 315
-1.0000000000	2933 2931
-1.0000000000	31 110
-1.0000000000	1133 2683
-1.0000000000	1012 38
-1.0000000000	873 1955
-1.0000000000	839 23
-1.0000000000	746 9
-1.0000000000	631 9
-1.0000000000	1871 167
-1.0000000000	745 9
-1.0000000000	38 31
-1.0000000000	6033 1817
-1.0000000000	34 147
-1.0000000000	2145 2947
-1.0000000000	298 826
-1.0000000000	383 23
-1.0000000000	383 20
-1.0000000000	748 750
-1.0000000000	314 9
-1.0000000000	624 20
-1.0000000000	509 303
-1.0000000000	503 9
-1.0000000000	4983 2919
-1.0000000000	350 62
-1.0000000000	350 23
-1.0000000000	147 114
-1.0000000000	553 9
-1.0000000000	1064 9
-1.0000000000	520 62
-1.0000000000	141 109
-1.0000000000	2020 9
-1.0000000000	43 1133
-1.0000000000	941 114
-1.0000000000	147 31
-1.0000000000	148 9
-1.0000000000	148 23
-1.0000000000	147 2
-1.0000000000	1673 2546
-1.0000000000	148 20
-1.0000000000	147 276
-1.0000000000	251 298
-1.0000000000	234 9
-1.0000000000	983 62
-1.0000000000	983 147
-1.0000000000	1191 9
-1.0000000000	1817 9
-1.0000000000	1890 1891
-1.0000000000	62 518
-1.0000000000	674 39
-1.0000000000	617 982
-1.0000000000	617 684
-1.0000000000	62 578
-1.0000000000	535 23
-1.0000000000	445 438
-1.0000000000	167 20
-1.0000000000	371 477
-1.0000000000	371 161
-1.0000000000	69 70
-1.0000000000	62 428
-1.0000000000	217 77
-1.0000000000	62 31
-1.0000000000	65 9
-1.0000000000	62 1997
-1.0000000000	62 986
-1.0000000000	62 485
-1.0000000000	63 23
-1.0000000000	62 313
-1.0000000000	163 168
-1.0000000000	62 64
-1.0000000000	167 1249
-1.0000000000	617 23
-1.0000000000	167 1273
-1.0000000000	167 195
-1.0000000000	167 70
-1.0000000000	261 62
-1.0000000000	5572 257
-1.0000000000	9 1362
-1.0000000000	9 447
-1.0000000000	1 1156
-1.0000000000	9 2095
-1.0000000000	9 114
-1.0000000000	9 31
-1.0000000000	5 9
-1.0000000000	9 383
-1.0000000000	1 72
-1.0000000000	9 167
-1.0000000000	0 710
-1.0000000000	9 617
-1.0000000000	1 31
-1.0000000000	9 72
-1.0000000000	1 558
-1.0000000000	1 167
-1.0000000000	1 74
-1.0000000000	1 228
-1.0000000000	1 314
-1.0000000000	1 1793
-1.0000000000	0 761
-1.0000000000	1 114
-1.0000000000	1 191
-1.0000000000	0 464
-1.0000000000	1 1766
-1.0000000000	1 372
-1.0000000000	9 94
-1.0000000000	1 1885
-1.0000000000	1 280
-1.0000000000	0 308
-1.0000000000	1 586
-1.0000000000	1 271
-1.0000000000	1 1890
-1.0000000000	0 332
-1.0000000000	1 746
-1.0000000000	1 473
-1.0000000000	1 464
-1.0000000000	0 125
-1.0000000000	9 748
-1.0000000000	0 134
-1.0000000000	1 436
-1.0000000000	1 371
-1.0000000000	9 2
-1.0000000000	1 34
-1.0000000000	0 2448
-1.0000000000	1 398
-1.0000000000	1 223
-1.0000000000	1 134
-1.0000000000	1 1200
-1.0000000000	1 79
-1.0000000000	1 19
-1.0000000000	2 13
-1.0000000000	1 251
-1.0000000000	1 357
-1.0000000000	1 518
-1.0000000000	1 383
-1.0000000000	1 2379
-1.0000000000	1 447
-1.0000000000	1 458
-1.0000000000	1 768
-1.0000000000	1 182
-1.0000000000	9 116
-1.0000000000	1 298
-1.0000000000	9 3149
-1.0000000000	223 23
-1.0000000000	184 187
-1.0000000000	223 171
-1.0000000000	125 9
-1.0000000000	221 2634
-1.0000000000	127 129
-1.0000000000	129 147
-1.0000000000	126 4601
-1.0000000000	125 128
-1.0000000000	228 9
-1.0000000000	124 20
-1.0000000000	126 131
-1.0000000000	753 754
-1.0000000000	464 19
-1.0000000000	826 62
-1.0000000000	820 121
-1.0000000000	821 9
+0.9795141988	south korea
+0.9758268407	hubei province
+0.9716029641	south africa
+0.9703381408	artificial intelligence
+0.9701417739	diabetes mellitus
+0.9680807507	middle east
+0.9671578618	united kingdom
+0.9664788377	emotional intelligence
+0.9652708949	polymerase chain reaction
+0.9636471569	odds ratio
+0.9626262355	feature selection
+0.9587575918	acute respiratory distress syndrome
+0.9584678988	nsw government
+0.9571168462	cytokine storm
+0.9569620346	blood pressure
+0.9562463923	air pollution
+0.9554298338	systematic reviews
+0.9551722356	southeast asia
+0.9549922012	machine learning
+0.9549759690	united nations
+0.9547206625	hong kong
+0.9539080184	torres strait
+0.9527281991	intensive care unit
+0.9525431106	french polynesia
+0.9521215340	palliative care
+0.9519275034	positive psychology
+0.9506112103	chronic obstructive pulmonary disease
+0.9501442758	united states
+0.9499021292	hydrogen peroxide
+0.9498529001	sustainable development
+0.9497556651	respiratory syncytial virus
+0.9489555359	human immunodeficiency virus
+0.9474901158	food security
+0.9468096628	indigenous peoples
+0.9462988357	amino acid
+0.9458032538	dark matter
+0.9450984852	manual therapy
+0.9449543396	sustainable development goals
+0.9446841816	deep learning
+0.9445464871	emergency department
+0.9437812884	nucleic acid
+0.9436355974	information overload
+0.9420295334	clinical trials
+0.9411345402	australian government
+0.9410392661	anti inflammatory
+0.9409197694	traffic sign
+0.9399454437	nucleic acids
+0.9398337999	logistic regression
+0.9397407309	personal protective equipment
+0.9395396551	angiotensin converting enzyme
+0.9391573316	computed tomography
+0.9385077567	mobile phones
+0.9385008467	neural networks
+0.9364673566	world health organization
+0.9363982784	epithelial cells
+0.9362100807	food insecurity
+0.9345841540	rt pcr
+0.9330985333	open access
+0.9329849208	incubation period
+0.9327346574	supply chain
+0.9327020002	suicide prevention
+0.9322387040	financial crisis
+0.9321940067	immune response
+0.9318579741	scoping review
+0.9315060253	drug discovery
+0.9313874317	psychological distress
+0.9313313317	standard precautions
+0.9296222797	antimicrobial resistance
+0.9290854572	granted medrxiv
+0.9290638677	intensive care
+0.9285641861	ion channels
+0.9284647876	immune responses
+0.9278611482	prone positioning
+0.9274492741	infectious bronchitis
+0.9274240535	human rights
+0.9273310481	tobacco smoking
+0.9267427205	distance learning
+0.9264397384	medicinal plants
+0.9258923969	east asia
+0.9255323875	gene expression
+0.9245481287	neural network
+0.9236366125	climate change
+0.9225897673	mental health
+0.9220655534	young people's
+0.9211434808	herd immunity
+0.9208205480	nk cells
+0.9207780396	fruit bats
+0.9207440461	meta analyses
+0.9191370095	relative humidity
+0.9189434253	psychological injury
+0.9187993502	neutron star
+0.9180785397	world health organisation
+0.9178043509	myocardial injury
+0.9167274436	press conference
+0.9159362633	magnetic resonance
+0.9155902904	severe acute respiratory syndrome
+0.9149886273	systematic review
+0.9149056779	primary care
+0.9130678301	neutron stars
+0.9124193680	convolutional neural
+0.9120324076	supply chains
+0.9114684181	pregnant women
+0.9104491791	social media
+0.9098979076	peer reviewed
+0.9097281499	pacific sids
+0.9094755893	medrxiv preprint
+0.9094113545	extreme events
+0.9089700991	literature review
+0.9087501373	factors influencing
+0.9086388551	health promotion
+0.9080854008	semi structured interviews
+0.9079224749	older adults
+0.9073060757	respiratory failure
+0.9068789015	food vacuole
+0.9067139220	european researchers
+0.9054904789	predictive maintenance
+0.9051324027	public health
+0.9050922390	peer review
+0.9050626571	pacific island
+0.9050194384	early warning
+0.9047820284	hand washing
+0.9035279766	early childhood educators
+0.9028875223	contact lens
+0.9023187715	university students
+0.9017253184	mortality rate
+0.9015642751	ecosystem services
+0.9011720122	health literacy
+0.9005042837	3c pro
+0.9004822317	food literacy
+0.8991807302	higher education
+0.8988348840	meta analysis
+0.8981121013	word count
+0.8980447344	respiratory tract
+0.8976455527	power law
+0.8971332585	upper respiratory tract
+0.8960632044	online proctoring
+0.8960236163	press conferences
+0.8951864898	air quality
+0.8942138256	matrix factorization
+0.8934753446	regional migration
+0.8932352624	science diplomacy
+0.8924961550	cell lines
+0.8917374383	mood disorder
+0.8911140120	meta transcriptomics
+0.8897403874	cohort study
+0.8892771832	nature inspired
+0.8882935076	contact tracing
+0.8878812799	cardiovascular disease
+0.8875271567	quaternary ammonium
+0.8871441855	trait ei
+0.8871050794	rights reserved
+0.8869857841	birth weight
+0.8861960077	visually impaired
+0.8858731457	early childhood
+0.8853621437	physically active
+0.8852818307	primary health care
+0.8850322025	influenza virus
+0.8844976681	gestational diabetes
+0.8844704960	south east
+0.8844548112	drug repurposing
+0.8842814511	street performers
+0.8841100502	identity leadership
+0.8840231530	differential privacy
+0.8833402735	natural disasters
+0.8831506324	young children
+0.8830008999	zika virus
+0.8828953758	lung cancer
+0.8828161879	emotional exhaustion
+0.8827977285	service utilization
+0.8826976119	television viewing
+0.8826800671	ad hd
+0.8818207760	physical distancing
+0.8817766569	mers cov
+0.8815223276	convalescent plasma
+0.8811157491	stranded rna
+0.8804314719	conceptual framework
+0.8799717287	nanoporous materials
+0.8772532332	open book assessment
+0.8771759310	medical imaging
+0.8757531617	seasonal influenza
+0.8731535847	scientific names
+0.8717210757	mental health problems
+0.8715450789	experiential loyalty
+0.8713890487	dating apps
+0.8710938011	confirmed cases
+0.8708786729	point process
+0.8703670436	social isolation
+0.8701161616	digital contact tracing
+0.8699714233	privacy preserving
+0.8699131827	dc sign
+0.8698269193	sars cov
+0.8694720722	pl pro
+0.8693981718	written feedback
+0.8692781456	tourism industry
+0.8692160789	young adults
+0.8687290803	coping strategies
+0.8686697088	standard care
+0.8684184849	randomised controlled trial
+0.8683565842	physical activity
+0.8683231756	respiratory viruses
+0.8677530271	maternal immunisation
+0.8652634419	viewport pose
+0.8651769576	follow ups
+0.8645411213	subjective memory
+0.8640854752	asia pacific
+0.8625810476	polymerase chain
+0.8618692399	sedentary behaviour
+0.8614474120	behaviour change
+0.8614002741	face masks
+0.8610250390	career progression
+0.8603609139	hybrid pipp
+0.8601434139	risk factor
+0.8592926440	drug delivery
+0.8588078111	healthcare workers
+0.8587835344	decision support
+0.8575488330	airborne transmission
+0.8573452155	local food
+0.8566713130	mask wearing
+0.8557238185	frail nh
+0.8552740107	significantly higher
+0.8550496430	rna viruses
+0.8547458115	innate immune
+0.8535994886	digital technology
+0.8533300289	social ecological
+0.8525607259	aquatic food
+0.8516285554	ebola virus
+0.8509206114	developing countries
+0.8506097091	chest x ray images
+0.8499082188	healthcare systems
+0.8498817567	plasma glucose
+0.8498205141	ebov gp
+0.8497640568	life cycle
+0.8496408671	big data
+0.8495500292	south west
+0.8487611877	social support
+0.8485899022	pr55 gag
+0.8478597531	digital technologies
+0.8477260356	critical care
+0.8476856825	energy consumption
+0.8474397325	severe symptoms
+0.8463798657	heteroclinic network
+0.8447208450	reproductive travel
+0.8444809666	socio economic
+0.8444184253	network analysis
+0.8442573905	maternal morbidity
+0.8437393243	vaccination strategies
+0.8430632473	variety seeking
+0.8428420517	middle east respiratory syndrome
+0.8417901436	experimental results
+0.8417130299	respiratory distress syndrome
+0.8415167903	online teaching
+0.8406847716	social policies
+0.8406473636	nipah virus
+0.8405810993	alcohol consumption
+0.8405667994	adaptive immune
+0.8397238238	australian bureau of statistics
+0.8391498642	online open book
+0.8388603043	statistically significant
+0.8382857521	recent advances
+0.8376703520	spatio temporal
+0.8369775882	hospitalized patients
+0.8369470084	digital play
+0.8369153461	health professionals
+0.8368468826	mhc ii
+0.8366565809	cardiovascular diseases
+0.8365436053	adverse events
+0.8364573049	infected person
+0.8364563288	health protective behavior
+0.8352886570	policy makers
+0.8351938179	social distancing
+0.8349101090	qualitative study
+0.8336281096	animal diseases
+0.8329684674	kidney disease
+0.8320628212	hdc sign
+0.8318978822	health care
+0.8311539270	pro inflammatory
+0.8307260313	hrv qpm
+0.8304930886	early stage
+0.8303242923	infectious disease
+0.8301872902	disaster management
+0.8290271529	vaccine efficacy
+0.8289289407	samples collected
+0.8288579616	immune cells
+0.8281826724	inclusion criteria
+0.8281261941	genome sequencing
+0.8275237596	sex biased
+0.8265293895	infectious diseases
+0.8262856392	data collection
+0.8260524896	health risk behaviors
+0.8253982297	plasma derived
+0.8252114546	travel restrictions
+0.8248219828	individual responsibility
+0.8243757943	growth centric
+0.8243552919	dhn melanin
+0.8239529606	family members
+0.8237844337	alert level
+0.8229587401	hand hygiene
+0.8222554659	clinical trial
+0.8221740384	short term
+0.8208995352	image classification
+0.8206538882	csa visualizations
+0.8184834833	chronic diseases
+0.8178784817	medicines lists
+0.8175838752	infectious disease outbreaks
+0.8174950711	ultrasound images
+0.8171963615	lower respiratory tract
+0.8165345903	author funder
+0.8161252079	viral vectors
+0.8158548309	journal pre proof
+0.8157300839	million deaths
+0.8147913208	case study
+0.8146322848	movement behaviors
+0.8142257841	mdc sign
+0.8136127901	spike protein
+0.8135654124	community transmission
+0.8133396281	bat ecology
+0.8131502189	housing market
+0.8113972324	low prevalence
+0.8112098728	chronic respiratory
+0.8109887706	depressive symptoms
+0.8106285605	sub saharan africa
+0.8103862249	structural proteins
+0.8102218368	transmission dynamics
+0.8096538972	anxiety symptoms
+0.8096203442	health service
+0.8090779383	publisher full text
+0.8085778593	agile project
+0.8083078075	viral infections
+0.8081844359	decision making
+0.8079839863	pubmed abstract | publisher full text
+0.8054532496	disease severity
+0.8052359521	calibration error
+0.8052146074	controlled trials
+0.8044555492	chronic disease
+0.8039996930	infected cells
+0.8032472874	global health
+0.8032361039	randomised controlled
+0.8025408006	respiratory illness
+0.8018478608	evidence based
+0.8011864426	phid cv
+0.8004815490	convolutional neural network
+0.8003186934	indoor airflow
+0.7984253531	delta variant
+0.7979028435	physical activity participation
+0.7973390169	pre existing
+0.7967483251	long covid
+0.7966140772	care providers
+0.7963133294	clinical practice
+0.7962851339	viral rna
+0.7943021585	infection control
+0.7934344379	ace2 binding
+0.7934343280	thematic analysis
+0.7930810644	digital society
+0.7929697627	children aged
+0.7928255646	acute respiratory
+0.7924201568	hand hygiene and mask wearing
+0.7919967144	health authorities
+0.7908140381	cross sectional
+0.7902026975	containment measures
+0.7895259011	health care workers
+0.7893756121	standardized office
+0.7892350164	proposed method
+0.7880085989	journal pre
+0.7877502480	physical health
+0.7876506161	contact information
+0.7868245149	study protocol
+0.7865429841	mortality rates
+0.7863874055	research questions
+0.7863677344	risk factors
+0.7859719797	control measures
+0.7856721168	labor market
+0.7854995745	lower respiratory
+0.7851215226	economic development
+0.7844512796	vr frames
+0.7841573586	health services
+0.7837246860	ibd patients
+0.7837198750	people's republic of china
+0.7828515829	bat populations
+0.7824728025	proactive coping for technostress
+0.7822521521	social distancing measures
+0.7821055791	pandemic environments
+0.7817892737	healthcare rationing
+0.7813691370	zoonotic viruses
+0.7802441303	large scale
+0.7801695920	type heartbeats
+0.7799082436	high income countries
+0.7797342820	multi step
+0.7791439370	excess mortality
+0.7782576853	forestry sector
+0.7782076110	online learning
+0.7781527011	public health workforce
+0.7779169671	chronic conditions
+0.7768761969	host cell
+0.7761273680	middle income countries
+0.7753134210	case fatality
+0.7749427472	closely related
+0.7746638768	dengue cases
+0.7740238501	risk mitigation
+0.7732511623	wage subsidy
+0.7725265238	viral replication
+0.7710929332	long term
+0.7703115769	health care professionals
+0.7693778650	il 6
+0.7673019851	high redshift
+0.7665294580	high risk
+0.7664163766	suspected cases
+0.7654644544	healthcare settings
+0.7653889694	proactive coping
+0.7648786189	cc by nc
+0.7648413375	pandemic preparedness
+0.7644055663	type 2 diabetes
+0.7642358641	randomized controlled
+0.7640744384	adverse outcomes
+0.7622593576	bat species
+0.7622455801	data sets
+0.7611511981	pharmacy students
+0.7601526430	essential services
+0.7598265694	longer term
+0.7594993971	single stranded
+0.7591268827	confidence interval
+0.7585617962	coronavirus disease
+0.7574573173	reverse transcription
+0.7571198642	real world
+0.7567587637	x ray
+0.7558085700	income countries
+0.7537998563	healthcare professionals
+0.7535960277	lockdown restrictions
+0.7522411209	data analysis
+0.7514058606	study design
+0.7504440885	health systems
+0.7504386426	mass vaccination
+0.7502900794	nsw department of health
+0.7485211776	previous studies
+0.7462413119	tract infections
+0.7458742546	palliative care services
+0.7436107859	nc nd license
+0.7435626212	international air
+0.7412517644	life history
+0.7398612935	evidence base
+0.7398290243	graph data
+0.7397288307	cohort studies
+0.7396807504	middle income
+0.7394070618	new south wales
+0.7385541552	end of semester
+0.7375125668	business as usual
+0.7370451314	respiratory disease
+0.7367160418	office bp
+0.7354743157	health behaviors
+0.7344554390	high quality
+0.7336930815	severe acute respiratory syndrome coronavirus
+0.7335979565	semi structured
+0.7307429010	proposed framework
+0.7298442633	social groups
+0.7274667392	growth factor
+0.7273035706	disease spread
+0.7257198287	obstructive pulmonary
+0.7256783007	case studies
+0.7247387910	vaccine development
+0.7236124915	ml solutions
+0.7229211546	adherence to sp
+0.7216243116	women of reproductive age
+0.7195339246	cnn model
+0.7194098971	home based
+0.7172148685	public health measures
+0.7153832547	positive sense
+0.7152893449	high throughput
+0.7147192454	disease progression
+0.7129842474	physical activity and sedentary
+0.7123790951	health outcomes
+0.7117543540	analysis showed
+0.7107674304	communicable diseases
+0.7099282425	low risk
+0.7096171539	prevalence of anaemia
+0.7082826891	severe acute respiratory
+0.7076683437	data sources
+0.7076656424	digital work connectivity
+0.7044903479	infected individuals
+0.7038963093	work family conflict
+0.7033966662	transmission rate
+0.7029823378	risk behaviors
+0.7009935833	angiotensin converting
+0.6985629492	negative impacts
+0.6978374322	animal models
+0.6954099834	pa and sb
+0.6939752853	public health crisis
+0.6933704856	self efficacy
+0.6932301112	virus transmission
+0.6926212187	remote communities
+0.6918960705	severe disease
+0.6914201996	key stakeholders
+0.6909884303	east and southeast
+0.6898162612	respiratory infections
+0.6842250763	food consumption
+0.6834964400	east respiratory syndrome coronavirus
+0.6803126040	respiratory diseases
+0.6802307035	health crisis
+0.6795410126	systematic review and meta analysis
+0.6791349555	low income
+0.6786610092	sars coronavirus
+0.6785368860	low and middle income countries
+0.6783207939	health related
+0.6781259186	after hours palliative care services
+0.6763369704	future research
+0.6760473509	95 confidence interval
+0.6758096902	community based
+0.6727044400	close contact
+0.6700312675	findings suggest
+0.6678696187	public health emergency of international concern
+0.6669798008	medium and long term
+0.6659457368	public healthcare
+0.6645646502	infection rate
+0.6641109143	acute respiratory syndrome
+0.6633787899	stay at home
+0.6632321008	significant role
+0.6622212154	online survey
+0.6599055543	severe acute respiratory syndrome coronavirus 2
+0.6594618129	animal human
+0.6584740435	health workforce
+0.6542272867	rural and remote communities
+0.6541331838	non communicable diseases
+0.6541062776	anxiety and depression
+0.6536268904	protective equipment
+0.6529906366	disease outbreaks
+0.6510486617	acute respiratory syndrome coronavirus 2
+0.6507043894	personal protective
+0.6491861199	water and energy
+0.6488392304	recent studies
+0.6478424945	global pandemic
+0.6477685072	health and wellbeing
+0.6468608914	public health interventions
+0.6468512779	person to person
+0.6466734972	protein as01
+0.6457977288	syncytial virus
+0.6431648558	chest x ray
+0.6427175435	rural and remote
+0.6405314523	patients with ncds
+0.6393821531	cost effective
+0.6388067074	sars cov 2 pl pro
+0.6380661695	name strings
+0.6379633182	health care systems
+0.6370181767	confirmed and recovered
+0.6368969915	results showed
+0.6367751660	distancing measures
+0.6366871392	w e f nexus
+0.6362347455	protein as01 b
+0.6354759337	co creation
+0.6311802662	viral infection
+0.6275428558	4.0 international license
+0.6274089002	broad range
+0.6258238375	clinical management
+0.6257482587	pre covid
+0.6249780846	direct and indirect
+0.6247699944	local community
+0.6237763762	previous research
+0.6224485924	pharmaceutical interventions
+0.6188056436	higher mortality
+0.6134925299	million confirmed
+0.6106608233	global population
+0.6085038635	infection rates
+0.6068974951	viral transmission
+0.6068049976	confirmed covid 19 cases
+0.6065336896	prevention measures
+0.6055213663	controlled trial
+0.5993249317	quality of life
+0.5969349721	face to face
+0.5952658535	early life
+0.5944223877	clinical outcomes
+0.5933478683	co design
+0.5915211181	low and middle income
+0.5898203528	clinical care
+0.5889529294	increased risk
+0.5881654274	copyright holder for
+0.5868539364	preparedness and response
+0.5857190341	cd38 + mhc ii +
+0.5845266419	full text
+0.5819306918	morbidity and mortality
+0.5779391568	cd8 + t cells
+0.5778250497	sars cov 2 variants
+0.5760215070	non pharmaceutical interventions
+0.5759923289	learning based
+0.5748424645	pubmed abstract | publisher full
+0.5733532094	significant impact
+0.5731402252	important role
+0.5710475269	vitamin d
+0.5699704317	number of confirmed cases
+0.5691410369	coronavirus disease 2019
+0.5678487155	higher risk
+0.5647844796	point of care
+0.5640715346	sars cov 2
+0.5634932404	respiratory distress
+0.5631106906	million cases
+0.5600986486	adherence to standard
+0.5585273650	review and meta analysis
+0.5567098232	systematic literature
+0.5562346792	health information
+0.5553156871	department of health
+0.5531176802	central nervous system
+0.5524118047	family conflict
+0.5495989495	not certified by peer review
+0.5492228190	year olds
+0.5488390215	pacific region
+0.5472370726	pre proof
+0.5459109888	health emergency
+0.5458930078	bvdv 1
+0.5433850218	cc by nc nd
+0.5429597967	pla 2
+0.5417488205	study aims
+0.5412431168	human health
+0.5387611375	viral respiratory
+0.5362634207	global public health
+0.5357831416	digital health
+0.5341538902	national and international
+0.5331079806	industry 4.0
+0.5309416771	nc nd 4.0
+0.5306081199	x ray images
+0.5286107366	pcv 13
+0.5265187138	new zealand
+0.5250171008	control and prevention
+0.5234396850	time series prediction
+0.5211371686	prevention and control
+0.5199719872	social and economic
+0.5181158968	years of age
+0.5181034786	after hours palliative
+0.5162735062	virus infection
+0.5136426793	model of care
+0.5130929525	risk of death
+0.5093954417	2019 ncov
+0.5034599993	sex bias in
+0.5020310162	near miss
+0.4977603064	patients with chronic
+0.4946390775	human to human
+0.4919366462	w e f
+0.4913647643	de novo
+0.4874713562	wang et al
+0.4872509137	second wave
+0.4853514941	protective behavior
+0.4831336905	health risks
+0.4812343347	post covid
+0.4807591281	per capita
+0.4770427533	tgf b
+0.4736539909	95 ci
+0.4723197211	× 10
+0.4687968118	li et al
+0.4683410802	proposed model
+0.4677408389	patients with severe
+0.4666893342	sars cov 2 infection
+0.4664029460	study conducted
+0.4659467054	risk of developing
+0.4626726950	growing body of
+0.4602950596	infected patients
+0.4573619474	sars cov 2 rna
+0.4559985937	covid 19
+0.4545672294	disease transmission
+0.4511907611	plos one
+0.4418531115	pm +
+0.4385230570	an online survey
+0.4377672647	time series
+0.4357880652	global covid 19 pandemic
+0.4344744312	p 0.001
+0.4339568163	important to understand
+0.4328660251	° c
+0.4327964601	tobacco smoking use
+0.4248463457	follow up
+0.4234223867	new york
+0.4200513610	current covid
+0.4186628007	sub saharan
+0.4174958341	respiratory infection
+0.4167874930	critically ill
+0.4164586338	the general public
+0.4100882967	mhc ii +
+0.4088918869	the world health organization
+0.4075893821	for disease control and prevention
+0.4072282109	high income
+0.4047154678	close contact with
+0.4023708281	liu et al
+0.4009838473	first nations
+0.4001607321	early stages
+0.3949130004	co design approach
+0.3948525095	risk of severe
+0.3948019497	zhang et al
+0.3868333595	smith et al
+0.3867050753	august 2021
+0.3841424524	covid 19 pandemic
+0.3802168408	the author funder
+0.3797779659	real time
+0.3785237297	health problems
+0.3770866422	large proportion of
+0.3769874445	the world health organisation
+0.3751834144	highest number of
+0.3750996501	time consuming
+0.3746596250	covid 19 vaccine
+0.3742945709	current covid 19 pandemic
+0.3740412300	publicly available
+0.3738591893	3 ′
+0.3735895519	infected with sars cov 2
+0.3728204915	a systematic review
+0.3728182046	risk of infection
+0.3698290556	world health
+0.3686796515	screen time
+0.3668139791	public health emergency
+0.3651473415	december 2019
+0.3643439021	health conditions
+0.3627749064	p 0.05
+0.3626990444	35 36 37
+0.3616769475	whole genome
+0.3588173175	as01 b
+0.3583627753	population based
+0.3572947219	march 2020
+0.3548595344	local health
+0.3523968931	e p r o o
+0.3492845367	the general population
+0.3492423840	43 44
+0.3490677224	covid 19 related
+0.3488223466	the wage subsidy
+0.3456685192	disease control
+0.3453185276	severe covid 19
+0.3447873943	organized as follows
+0.3419075842	turnaround time
+0.3413346953	cd38 +
+0.3410192467	b cell
+0.3396606747	table 1
+0.3386204800	transmission of sars cov 2
+0.3384017568	5 ′
+0.3374081714	sars cov 1
+0.3344283547	a power law
+0.3343990610	self isolation
+0.3340482354	sequence data
+0.3334521779	so called
+0.3330906912	total number of
+0.3326132825	small number of
+0.3319335378	not necessarily
+0.3317091043	health protective
+0.3308941691	in silico
+0.3302538274	june 2021
+0.3301030509	the forestry sector
+0.3290273515	cd8 + t
+0.3282250416	two thirds
+0.3262582185	higher rates of
+0.3248446280	the present study
+0.3248133978	figure 1
+0.3241659401	study aimed to
+0.3240551476	by nc nd 4.0
+0.3225735019	covid 19 cases
+0.3196911001	covid 19 patients
+0.3194336904	a license to display
+0.3184184298	the united states
+0.3177260111	the delta variant
+0.3174877807	national health
+0.3164691973	28 29 30
+0.3148737371	young people
+0.3125211873	in recent years
+0.3124692280	the current pandemic
+0.3123862350	pulmonary disease
+0.3115408416	cc by
+0.3109727222	feasibility and acceptability of
+0.3106943399	higher levels
+0.3057491908	january 2021
+0.3024884941	b cells
+0.3024150338	r o o f
+0.3017982407	recent years
+0.3016721008	insight into
+0.3013160483	june 2020
+0.3005735159	j o u r n
+0.2991572407	of cd38
+0.2977561919	s protein
+0.2967590567	covid 19 infection
+0.2954255823	et al
+0.2950964124	section 5
+0.2936197154	among healthcare workers
+0.2935885018	disease outbreak
+0.2931560602	closely related to
+0.2926610286	33 34
+0.2910836162	infection prevention
+0.2895037928	26 27 28
+0.2880589947	limited access to
+0.2867337038	children and young people
+0.2853556443	number of cases
+0.2848138179	section 6
+0.2821949525	risk factors for
+0.2819462106	so far
+0.2805697862	january 2020
+0.2802455378	a l p r e p
+0.2791547247	covid 19 pneumonia
+0.2791510813	high levels of
+0.2786498996	well documented
+0.2737687504	population health
+0.2714067189	higher levels of
+0.2701156145	cd8 +
+0.2688955324	of ml solutions
+0.2688876440	22 23 24
+0.2688372898	to combat
+0.2668285945	sars cov 2 pandemic
+0.2662147588	section 3
+0.2661441369	determine whether
+0.2653015822	chest x
+0.2646446480	relationship between
+0.2643635207	health care system
+0.2633960005	risk factor for
+0.2622400708	in other words
+0.2619107626	31 32
+0.2610370923	divided into
+0.2608741764	e protein
+0.2605593747	higher risk of
+0.2591020363	t cells
+0.2573405300	novel coronavirus
+0.2566190087	20 21 22
+0.2563246649	higher rates
+0.2562161890	the united nations
+0.2552169296	in hong kong
+0.2549370332	and southeast asia
+0.2516718829	the covid 19 pandemic
+0.2510128832	16 17 18
+0.2502668666	section 2
+0.2501139027	r o o f journal pre
+0.2500444071	early stages of
+0.2496132252	a public health emergency
+0.2495110921	on social media
+0.2491817741	23 24 25
+0.2473466211	sars cov 2 virus
+0.2470769484	covid 19 spread
+0.2468811076	april 2020
+0.2447919762	6 7 8
+0.2441653529	7 8 9
+0.2437013750	novel coronavirus disease
+0.2420443495	and proactive coping for technostress
+0.2418669981	severe acute
+0.2415334078	cases of covid 19
+0.2407631676	work from home
+0.2396986279	into account
+0.2390146166	the housing market
+0.2361543445	leading cause of
+0.2360349687	design approach
+0.2354551768	health organization
+0.2350610024	the other hand
+0.2346750568	in rural and remote communities
+0.2346569883	a high level
+0.2345875755	study aims to
+0.2328765838	july 2020
+0.2313373281	care workers
+0.2289590167	k =
+0.2286509012	+ + +
+0.2284522453	a global pandemic
+0.2278167951	a cross sectional
+0.2277137892	the current study
+0.2270468077	type 2
+0.2262383553	t cell
+0.2245438448	an important role
+0.2244732144	day to day
+0.2238525866	13 14 15
+0.2237940467	protection against
+0.2220316220	9 10 11
+0.2219324293	immune system
+0.2217547422	this systematic review
+0.2216080041	o u r n
+0.2211598530	this paper
+0.2208259115	section 4
+0.2206163366	the asia pacific
+0.2190650756	months after
+0.2175205219	current study
+0.2169183168	health and well
+0.2164767800	19 20 21
+0.2164575458	virus disease
+0.2150185996	in vitro
+0.2133405131	accounted for
+0.2130394292	per day
+0.2128424285	increased risk of
+0.2124203337	health interventions
+0.2112930863	self management
+0.2106220952	well established
+0.2092496041	cope with
+0.2089295873	urgent need
+0.2083102663	the globe
+0.2076515682	owing to
+0.2069853344	dealing with
+0.2060529052	concerns about
+0.2049624022	rather than
+0.2034884265	r e
+0.2034652837	outbreak of covid 19
+0.2025824263	high levels
+0.2024889616	of visually impaired
+0.2024334263	non pharmaceutical
+0.2021375780	after hours
+0.2020428216	correlation between
+0.2015485829	12 13 14
+0.2011237922	and sedentary behaviour
+0.2000675630	severity of covid 19
+0.1990744376	arising from
+0.1989969308	covid 19 restrictions
+0.1988054525	and depressive symptoms
+0.1984328289	classified into
+0.1976923358	n =
+0.1964341279	ministry of
+0.1959770871	large number of
+0.1956383509	high level
+0.1953585044	mask use
+0.1942692222	people living
+0.1938641458	for instance
+0.1935008700	health response
+0.1923946787	covid 19 lockdown
+0.1914602933	17 18 19
+0.1911387472	in sect
+0.1905811948	seeks to
+0.1897969733	depending on
+0.1893599015	accounting for
+0.1888450351	type 1
+0.1887158944	learning methods
+0.1870877171	bureau of
+0.1868463734	frontiers in
+0.1865834241	ranging from
+0.1861638222	24 h
+0.1860627289	widely used
+0.1855849617	18 19 20
+0.1853588355	covid 19 response
+0.1853286084	pertaining to
+0.1851182661	patients with covid
+0.1843243095	insights into
+0.1840400005	the tourism industry
+0.1839987548	8 9 10
+0.1829741140	4 5 6
+0.1829233658	12 months
+0.1827886386	5 6 7
+0.1811028733	to date
+0.1807758215	21 22 23
+0.1805179382	to tackle
+0.1804548732	spread of covid 19
+0.1801421834	focuses on
+0.1800583053	covid 19 outbreak
+0.1800354608	o u r
+0.1799199640	number of studies
+0.1797525064	million people
+0.1794843628	wave of covid 19
+0.1793425482	10 11 12
+0.1788514961	patients with covid 19
+0.1785673014	associations between
+0.1780088775	3 4 5
+0.1775865291	made available under
+0.1769222231	multitude of
+0.1748583108	focusing on
+0.1745785734	the current covid 19 pandemic
+0.1743666653	post covid 19
+0.1739222231	consisting of
+0.1739059676	p =
+0.1738436188	in aotearoa
+0.1734629069	this regard
+0.1733878232	o o
+0.1714755086	republic of
+0.1710249448	dearth of
+0.1703228275	this study
+0.1701184116	10 11 12 13
+0.1699294412	1 2 3
+0.1696865936	even though
+0.1695876696	did not
+0.1690891117	this article
+0.1673323513	suffer from
+0.1672467579	treatment of covid 19
+0.1672280472	a l p r
+0.1661443461	based on
+0.1653016817	on march
+0.1652726996	in pa and
+0.1649670444	unable to
+0.1645325087	36 37
+0.1639589087	nervous system
+0.1623582165	65 years
+0.1621013368	related work
+0.1612044455	does not
+0.1610160293	covid 19 vaccines
+0.1602549104	s type
+0.1598270905	ranged from
+0.1580649032	the severe acute respiratory syndrome
+0.1575298195	a broad range of
+0.1562245187	link between
+0.1561363026	response to covid 19
+0.1558292991	the teique
+0.1555182690	in vivo
+0.1552819649	the sars cov
+0.1552620264	focused on
+0.1545864494	tend to
+0.1545772164	questions about
+0.1545414694	for disease control
+0.1536627576	a wide range of
+0.1535897813	+ t cells
+0.1531072511	results indicated
+0.1527590940	covid 19 transmission
+0.1525754043	caused by
+0.1517922874	at least
+0.1517342816	refers to
+0.1510525837	mean age
+0.1510241357	new normal
+0.1507143681	in australia
+0.1505453149	urgent need for
+0.1495447922	the peak of
+0.1487660933	do so
+0.1486711578	between march
+0.1478129696	refer to
+0.1475670681	covid 19 crisis
+0.1458180874	adhere to
+0.1457812159	the growth of
+0.1457776671	amounts of
+0.1457711034	35 36
+0.1455329002	cov 2
+0.1454013425	referred to as
+0.1453023680	the focus of
+0.1447251010	the ffm
+0.1445447922	the perspective of
+0.1443191627	transmission of covid 19
+0.1438803888	consists of
+0.1434478826	the university of
+0.1426954592	depends on
+0.1425084886	the prevention of
+0.1424422643	single use
+0.1423832569	the spread of covid 19
+0.1422114589	the study of
+0.1420232459	aspect of
+0.1417640292	rely on
+0.1417413709	compared to
+0.1415696946	posed by
+0.1414449904	do not
+0.1413298011	pandemic in australia
+0.1413213120	differences between
+0.1408721250	the age of
+0.1404961875	regarded as
+0.1399399320	reliance on
+0.1398721250	the process of
+0.1398721250	the design of
+0.1397812159	the future of
+0.1394402120	knowledge regarding
+0.1393095660	an australian
+0.1392114589	the addition of
+0.1384903001	of face masks
+0.1384478826	the health of
+0.1380245902	in line with
+0.1376066400	interact with
+0.1374411475	a new normal
+0.1373557373	non communicable
+0.1372682702	few studies
+0.1353339625	better understand
+0.1353224528	commonly used
+0.1346856935	the minion
+0.1345398965	information about
+0.1343777674	in pa and sb
+0.1343053188	a model of
+0.1340797243	first wave
+0.1339252168	depend on
+0.1337365938	2 3 4
+0.1337040508	11 12 13
+0.1325950340	with pre existing
+0.1323023680	the outbreak of
+0.1320189645	the severe acute respiratory syndrome coronavirus
+0.1315447922	first year of
+0.1312656117	in addition
+0.1312114589	the movement of
+0.1302114589	the issue of
+0.1292217731	emphasis on
+0.1287262053	general population
+0.1273023680	the preprint in
+0.1266800119	to ensure
+0.1258779836	to investigate
+0.1257929495	greater than
+0.1256446502	to determine
+0.1253710515	due to
+0.1252114589	the value of
+0.1252114589	the surface of
+0.1248390947	to assess
+0.1246751883	days after
+0.1240549915	contribute to
+0.1236503049	to identify
+0.1225438637	26 27
+0.1223375605	better than
+0.1223023680	with respect to
+0.1222473956	health system
+0.1215447922	a time of
+0.1207327137	12 weeks
+0.1205750953	a series of
+0.1205534442	influenced by
+0.1203194837	serve as
+0.1203023680	the field of
+0.1186175424	o u
+0.1183023680	the case of
+0.1175750953	the time of
+0.1174081427	as well as
+0.1170189387	meta analysis of
+0.1163023680	before and during
+0.1160227175	health measures
+0.1151961426	to deliver
+0.1150776061	characterised by
+0.1150575001	health risk
+0.1150435227	37 38
+0.1149234362	to perform
+0.1148789871	impact on
+0.1145533598	patients with
+0.1142250485	high risk of
+0.1140384585	an integrated
+0.1137393235	in relation to
+0.1134831216	correspond to
+0.1133116765	covid 19 infections
+0.1130874413	at home
+0.1128376520	leads to
+0.1126668959	according to
+0.1124605888	focus on
+0.1124560267	of covid 19
+0.1122507556	to undertake
+0.1121992350	strongly associated
+0.1120464621	current pandemic
+0.1117745937	aimed at
+0.1117203226	attributed to
+0.1116752209	in order to
+0.1114358263	in new zealand
+0.1102383585	in china
+0.1098709639	impacts of covid 19 on
+0.1091352024	34 35
+0.1090797321	characterized by
+0.1087325948	to develop
+0.1087003429	lead to
+0.1086914872	extracted from
+0.1085224939	mental health of
+0.1081120711	mixture of
+0.1074867231	systematic review of
+0.1072610774	results show
+0.1061932144	infected people
+0.1058881819	the covid 19 outbreak
+0.1058483793	higher than
+0.1057782548	knowledge about
+0.1057055456	able to
+0.1053776306	assess whether
+0.1050251756	effects of covid 19
+0.1049918997	new technologies
+0.1046839650	95 ci =
+0.1044712533	more than
+0.1044379071	6 months
+0.1039337199	21 22
+0.1038977231	an important
+0.1038255697	supported by
+0.1034298235	self reported
+0.1033270130	important role in
+0.1032075875	to avoid
+0.1024537223	confirmed covid 19
+0.1022490498	high level of
+0.1017414769	8 9 10 11
+0.1016442214	work family
+0.1015582102	covid 19 information
+0.1013033021	most commonly
+0.1012134298	contributed to
+0.1008405214	an increased risk
+0.1005997358	association between
+0.1003470955	contributing to
+0.1002270662	no evidence
+0.0994496182	well known
+0.0989699098	in lmics
+0.0988880311	one health
+0.0987690555	such as
+0.0986806651	to better understand
+0.0986396751	failed to
+0.0984187341	the fv
+0.0983563741	in cuba
+0.0982200435	to maximize
+0.0979200483	6 7 8 9
+0.0975411627	9 10 11 12
+0.0972950069	relationships between
+0.0968946489	this review
+0.0967222195	the most important
+0.0965792730	for example
+0.0964136574	responsible for
+0.0962826507	impact of covid 19
+0.0961426138	to participate
+0.0960754916	the global pandemic
+0.0956021808	derived from
+0.0954731311	non structural
+0.0954680040	4.0 international
+0.0954406928	the fourth
+0.0951280299	associated with
+0.0949877897	o f
+0.0949125981	2 3 4 5 6
+0.0947682890	correlated with
+0.0943931521	access to
+0.0940824280	the most common
+0.0939989375	apart from
+0.0932934036	to mitigate
+0.0932174481	less than
+0.0929070482	consist of
+0.0927532043	to train
+0.0924463601	the world
+0.0915693843	the long term
+0.0915282310	relating to
+0.0915236411	to examine
+0.0913982799	more recently
+0.0910467225	to protect
+0.0909231773	comprised of
+0.0908719661	18 years
+0.0905076184	followed by
+0.0899635718	related to
+0.0899246666	health issues
+0.0896114503	factors associated with
+0.0895688925	other countries
+0.0884464481	led to
+0.0881232666	4 5 6 7
+0.0873393256	to reduce
+0.0872912279	regard to
+0.0865545935	description of
+0.0863212498	the mental health
+0.0858587842	classified as
+0.0853622562	better understanding
+0.0853315403	less likely
+0.0852388151	as follows
+0.0851966908	in depth
+0.0851463788	referred to
+0.0847454684	a comprehensive
+0.0845921774	aligned with
+0.0844899332	5 6 7 8
+0.0843342721	continues to
+0.0840966010	29 30
+0.0839202665	present study
+0.0837747578	to leave
+0.0828907320	to address
+0.0828383203	3 4 5 6 7
+0.0825928048	the pandemic
+0.0823173764	+ +
+0.0822085752	a single
+0.0821556601	data from
+0.0820999010	of sars cov 2 infection
+0.0820293477	in section
+0.0819568278	belonging to
+0.0819564485	the coronavirus disease
+0.0816509956	to detect
+0.0816137376	the covid 19 pandemic in australia
+0.0812951099	another study
+0.0810309535	changes in pa
+0.0794269624	in crc
+0.0792616875	well being
+0.0791106740	willingness to
+0.0789864703	to achieve
+0.0789379501	to diagnose
+0.0785392529	to evaluate
+0.0785365364	work connectivity
+0.0779641554	defined as
+0.0779478714	no significant
+0.0774676687	this gap
+0.0766956101	driven by
+0.0763958318	the uk
+0.0754822463	capable of
+0.0754268412	leading to
+0.0750660611	care system
+0.0750305892	3 4 5 6
+0.0749717570	to quantify
+0.0748587572	impacts of covid 19
+0.0748381618	return to
+0.0744293489	technology use
+0.0740082693	coupled with
+0.0739705849	p r
+0.0738140744	accounts for
+0.0736639226	7 8 9 10
+0.0728697729	to minimize
+0.0728522460	than half
+0.0728191069	resulted in
+0.0724993290	w e
+0.0724668414	of sars cov 2
+0.0723426242	to understand
+0.0719813555	the novel coronavirus
+0.0718795660	isolated from
+0.0718520894	5 years
+0.0717125703	act as
+0.0716262969	1 2 3 4
+0.0713238951	the most recent
+0.0712838006	covid 19 disease
+0.0711423835	across multiple
+0.0711190362	an urgent need
+0.0710407620	the risk factors
+0.0706314652	an alternative
+0.0704843004	27 28
+0.0704186083	the covid 19
+0.0703872332	to obtain
+0.0703248902	effect on
+0.0700876769	compared with
+0.0699851284	from march
+0.0699266594	the mco
+0.0698555234	to improve
+0.0698453859	not fully
+0.0695384692	accumulation of
+0.0695110583	more specifically
+0.0692625011	factors such as
+0.0690424611	consistent with
+0.0687240794	away from
+0.0683900237	impact of covid 19 on
+0.0683246846	for covid 19
+0.0678944394	associated with higher
+0.0674969977	to reach
+0.0673678587	3 months
+0.0672695719	an effective
+0.0672031486	in bangladesh
+0.0670512446	the past
+0.0668003238	to manage
+0.0667894934	a large number of
+0.0665946550	certified by
+0.0664789761	two thirds of
+0.0663238572	to treat
+0.0660167187	the w e f
+0.0657728867	in asia
+0.0656998247	a range of
+0.0656898954	+ t
+0.0656277985	consequence of
+0.0655665872	prior to
+0.0654945616	in terms of
+0.0647028556	impacts on
+0.0644612483	this project
+0.0644347355	to prevent
+0.0638694208	very high
+0.0634899826	this study aims to
+0.0633590194	disease 2019
+0.0632264914	more likely to
+0.0630391813	during covid 19
+0.0628012811	16 17
+0.0625799455	at risk
+0.0625167264	the context of
+0.0624483360	since then
+0.0622765573	the world health
+0.0621607337	affected by
+0.0620939270	more effective
+0.0619624396	contributes to
+0.0614669905	to meet
+0.0610868076	each year
+0.0610841385	an overview of
+0.0610784035	in vietnam
+0.0608489185	adherence to
+0.0604503238	to maintain
+0.0603791800	to explore
+0.0601817899	to elucidate
+0.0601521449	to monitor
+0.0601324180	implications for
+0.0600146938	obtained from
+0.0599884745	the same
+0.0598771564	to engage
+0.0596714010	the spread of covid
+0.0595275243	the impact of covid 19 on
+0.0593194482	to build
+0.0592455978	result in
+0.0592442587	coronavirus 2
+0.0592097439	in rural and remote
+0.0591134630	in ckd
+0.0589851762	the australian
+0.0589000094	in december 2019
+0.0588552440	first reported
+0.0587688536	involved in
+0.0586143739	many countries
+0.0584832536	the global
+0.0584562186	in israel
+0.0583588464	the main
+0.0581959298	to deal with
+0.0581343456	the impact of covid 19
+0.0574190413	to assess whether
+0.0573424395	2 3 4 5
+0.0569839955	even if
+0.0567382761	research into
+0.0567227618	recognised as
+0.0564703508	the first wave
+0.0564280309	further research
+0.0564122206	an opportunity to
+0.0563294905	the entire
+0.0560300159	the nsw
+0.0555045736	an increase in
+0.0552986064	interested in
+0.0552780735	account for
+0.0549643127	in chile
+0.0549359495	in many countries
+0.0549247126	exposed to
+0.0548780168	over time
+0.0547792722	known about
+0.0547715448	most common
+0.0546854790	drawing on
+0.0546509697	e p
+0.0545555670	a better understanding of
+0.0545182523	not only
+0.0544949491	for detecting
+0.0542251513	in turn
+0.0541362431	to inform
+0.0540025260	parts of
+0.0538233817	in contrast
+0.0536782112	the co design
+0.0532788801	this systematic
+0.0529668414	for sars cov 2
+0.0527629929	linked to
+0.0524863721	in section 4
+0.0521955515	reductions in
+0.0519201038	an unprecedented
+0.0518709869	due to covid 19
+0.0518706252	aimed to
+0.0518252732	determined by
+0.0517380220	lack of
+0.0516439177	role in
+0.0515099455	appears to
+0.0512336492	in comparison to
+0.0511326736	covid 19 patients with
+0.0507911296	effects on
+0.0505433063	the final
+0.0505225828	sought to
+0.0504913663	to implement
+0.0504265817	an individual
+0.0502597718	collected from
+0.0501659064	the virus
+0.0501643990	22 23
+0.0500580887	children with
+0.0499860230	number of
+0.0499486883	an international
+0.0498208389	proportion of
+0.0496772784	in wuhan
+0.0496733310	a result
+0.0491894462	interaction between
+0.0491362008	various types of
+0.0488559162	thought to
+0.0487991895	to guide
+0.0485809322	three countries
+0.0484150127	early 2020
+0.0482209800	one third
+0.0481033018	aims to
+0.0481027130	this area
+0.0478743440	expected to
+0.0478529429	effects of
+0.0477870493	calls for
+0.0476449047	opportunities for
+0.0476378393	several studies
+0.0473817662	trying to
+0.0473718440	exposure to
+0.0472526002	along with
+0.0471133254	influenza a
+0.0470980240	difficult to
+0.0470196565	the same time
+0.0468953750	the most commonly
+0.0468704837	to predict
+0.0468654974	an estimated
+0.0467148706	to gain
+0.0467083578	an increased risk of
+0.0466998247	a variety of
+0.0465239021	to increase
+0.0463691748	ability to
+0.0461669325	anaemia in
+0.0458688767	the current
+0.0458467569	to analyze
+0.0457566730	to promote
+0.0456563496	in covid 19 patients
+0.0456079757	number of people
+0.0455604406	an ongoing
+0.0455551902	the current covid 19
+0.0455358372	a systematic
+0.0454745314	associated with covid 19
+0.0450935124	aspects of
+0.0450888824	implicated in
+0.0450622193	generated by
+0.0450116436	emerged as
+0.0449366697	restrictions on
+0.0449314514	the beginning of
+0.0447536597	of lc
+0.0445628078	continue to
+0.0445038871	the bootstrap
+0.0444350249	rest of
+0.0443496580	respond to
+0.0443142495	improvements in
+0.0442625334	shown to
+0.0440909300	required for
+0.0440796479	in december
+0.0439824586	an essential
+0.0439467569	to compare
+0.0439221938	a heteroclinic
+0.0430419424	the user's
+0.0429979979	to provide
+0.0427091351	differences in
+0.0426033145	resulting from
+0.0425445736	a total of
+0.0425155948	the police
+0.0424054027	amount of
+0.0423063384	variety of
+0.0423016153	need to
+0.0423009040	an additional
+0.0422897954	combined with
+0.0420481807	identified as
+0.0420472635	appeared to
+0.0419590939	in figure 1
+0.0418479054	an epidemic
+0.0417402352	to produce
+0.0414595981	24 25
+0.0412911878	designed to
+0.0412708539	more common
+0.0412271670	a review
+0.0412100228	a combination of
+0.0411433427	to generate
+0.0408555406	the lhs
+0.0407905484	dependent on
+0.0405843895	but also
+0.0405559481	this issue
+0.0404221938	of hapln1
+0.0403794161	made available
+0.0403382280	a subset of
+0.0400946900	a significant
+0.0400031413	predictor of
+0.0395305614	in fairfield
+0.0395232840	suitable for
+0.0394682488	the emergence of
+0.0394361994	in vr
+0.0393929899	the extent to
+0.0392261977	the development of
+0.0391999891	resulting in
+0.0390763991	an average
+0.0389613914	deal with
+0.0389239021	a large
+0.0388579870	this strategy
+0.0387619356	the number of cases
+0.0387343517	the author
+0.0387182388	contact with
+0.0386403979	the importance of
+0.0385584195	study found
+0.0385555448	majority of
+0.0385442472	new cases
+0.0385089628	at least one
+0.0384949211	with ncds
+0.0384187959	patterns of
+0.0384120868	to limit
+0.0383957704	in europe
+0.0380283630	in fact
+0.0379964282	millions of
+0.0378296170	covid 19 pandemic in
+0.0377266568	this research
+0.0376991356	thousands of
+0.0375932693	levels of
+0.0374542690	began to
+0.0374183763	to estimate
+0.0373517072	results from
+0.0372261977	the number of
+0.0371900625	the early stages of
+0.0371776886	a novel coronavirus
+0.0371403979	a number of
+0.0371263232	different types of
+0.0371261977	the impact of
+0.0371091314	to support
+0.0370719925	against sars cov 2
+0.0370715613	in combination with
+0.0369546470	a viable
+0.0369497674	covid 19 pandemic on
+0.0369180543	an established
+0.0368511374	an initial
+0.0368412529	a global
+0.0368295783	in japan
+0.0368070646	the end of
+0.0367194865	tool for
+0.0365924690	fraction of
+0.0365427228	but not
+0.0364886496	benefit from
+0.0364564282	half of
+0.0360415350	relationship with
+0.0360329863	known as
+0.0360142037	a critical
+0.0358634630	in indonesia
+0.0358202404	interpretability of
+0.0358015973	in table 1
+0.0357696464	reasons for
+0.0356280761	for technostress
+0.0355331472	to adopt
+0.0353235842	to respond
+0.0352687466	this context
+0.0352647847	the purpose of
+0.0352261977	the role of
+0.0352120790	this approach
+0.0351865300	pathogenesis of
+0.0351261977	the use of
+0.0351140821	the presence of
+0.0350028576	the cns
+0.0349239021	a major
+0.0348928643	the potential to
+0.0348400259	a c
+0.0347234277	abundance of
+0.0346562210	establishment of
+0.0346383798	the s protein
+0.0346372935	demand for
+0.0345252056	loss of
+0.0344473121	placed on
+0.0342625663	to facilitate
+0.0342270412	increase in
+0.0342022616	contribution to
+0.0341900749	consequences for
+0.0341261977	the spread of
+0.0341150396	a pandemic by
+0.0339428379	decline in
+0.0338934173	quantification of
+0.0338928643	the aim of
+0.0338415441	to establish
+0.0338001895	in march
+0.0337875013	the relationship between
+0.0336477518	an important role in
+0.0336452556	none of
+0.0336348087	the usa
+0.0335932693	understanding of
+0.0335477762	a strong
+0.0335470158	analysis of
+0.0335219208	across different
+0.0334115342	an urgent
+0.0332439372	produced by
+0.0331763717	approach to
+0.0331555022	the covid 19 pandemic on
+0.0331074666	ease of
+0.0330592932	except for
+0.0328192309	intention to
+0.0324501565	to assist
+0.0322128238	infants with
+0.0321583529	the ability of
+0.0319850196	23 24
+0.0316068493	to control
+0.0315263594	to capture
+0.0314844703	in march 2020
+0.0313291178	not yet
+0.0312520411	an outbreak
+0.0310712498	to enhance
+0.0310221620	advantage of
+0.0309642650	types of
+0.0309636824	impact of
+0.0309341917	spectrum of
+0.0309247116	the absence of
+0.0309143590	interaction with
+0.0308583959	as part of
+0.0308324184	advances in
+0.0307952440	susceptible to
+0.0307861870	added to
+0.0307450979	absence of
+0.0306367943	compliance with
+0.0305782396	this study aimed to
+0.0305558346	in addition to
+0.0305424829	infected with
+0.0304424773	inhibition of
+0.0303512691	percentage of
+0.0303049690	closure of
+0.0302289441	applied to
+0.0302135452	diagnosed with
+0.0301311096	a safe
+0.0300724343	the existence of
+0.0300274202	a matter
+0.0299716356	predictors of
+0.0298849359	response to
+0.0298528646	perspectives on
+0.0297977798	association with
+0.0297282038	adoption of
+0.0297017773	regardless of
+0.0296388086	goal of
+0.0296270513	one study
+0.0295958346	the need for
+0.0295516010	the possibility of
+0.0293724065	19 20
+0.0293305526	other than
+0.0292925776	numbers of
+0.0291682195	to create
+0.0291488321	framework for
+0.0290334319	this work
+0.0290062528	a common
+0.0289465889	a key
+0.0288797084	a l
+0.0287061380	of covid 19 patients
+0.0287008034	the forestry
+0.0286999398	reduction in
+0.0286517773	vulnerability to
+0.0286020639	the zika
+0.0284786242	the interaction between
+0.0283718129	the next
+0.0281740369	also known as
+0.0281288071	a new
+0.0281273602	impacts of
+0.0281060746	a better understanding
+0.0280885452	proven to
+0.0280626397	the art
+0.0278066297	against covid 19
+0.0277617592	a few
+0.0276124064	considered as
+0.0275977754	the first
+0.0275958346	a result of
+0.0275920121	to learn
+0.0275841443	different countries
+0.0275349669	different levels of
+0.0274717761	the nasal
+0.0274478537	considered to
+0.0274318942	interests of
+0.0274073603	to reveal
+0.0272528576	the housing
+0.0272163783	the magnitude of
+0.0271284013	characterization of
+0.0271257589	the united
+0.0270845310	the management of
+0.0270353972	among healthcare
+0.0270155822	considerations for
+0.0269168788	to respond to
+0.0268875013	the effectiveness of
+0.0268162815	engaged in
+0.0267659331	associations with
+0.0264478537	required to
+0.0264367554	developments in
+0.0264291358	an overview
+0.0263650192	nature of
+0.0263333141	consideration of
+0.0263211722	the performance of
+0.0263211722	the risk of
+0.0262272982	more recent
+0.0262021781	the effect of
+0.0261927457	a novel
+0.0261925776	source of
+0.0261559316	type of
+0.0260856598	likely to
+0.0260769952	evaluation of
+0.0260175054	a great
+0.0260051484	the efficacy of
+0.0259628349	an opportunity
+0.0259599429	the treatment of
+0.0259503735	to overcome
+0.0259051484	in response to
+0.0258335300	variations in
+0.0256585450	to enable
+0.0255958346	a lack of
+0.0255632808	of covid 19 cases
+0.0255303000	set of
+0.0255058369	similar to
+0.0254786242	an analysis of
+0.0251492104	significance of
+0.0251273602	rate of
+0.0250482335	not well
+0.0249921366	burden of
+0.0249750986	used to
+0.0249678928	more severe
+0.0249599429	the course of
+0.0249145611	strategies for
+0.0247971841	an example
+0.0247608195	believed to
+0.0247099786	periods of
+0.0246893295	provided by
+0.0246604424	the expansion of
+0.0245822432	probability of
+0.0245438291	effect of
+0.0244853541	the potential
+0.0244670317	validity of
+0.0244473902	14 15
+0.0243503360	any other
+0.0243102246	consequences of
+0.0242569726	a reduction in
+0.0241869017	threat to
+0.0241192766	12 13
+0.0239370759	women with
+0.0238912563	attention to
+0.0238875013	the majority of
+0.0238849359	rates of
+0.0238651484	the potential for
+0.0238413897	sense of
+0.0237669412	application of
+0.0237579230	increases in
+0.0237554954	implementation of
+0.0234613799	array of
+0.0234272483	important to
+0.0233314649	a small
+0.0233152073	the elderly
+0.0232136067	more likely
+0.0231882860	living in
+0.0231168553	to adapt
+0.0230783529	component of
+0.0230720447	important for
+0.0230528433	interviews with
+0.0230280190	addition to
+0.0230117778	change in
+0.0229888120	a scoping
+0.0229747873	reason for
+0.0229492962	part of
+0.0228786242	the feasibility of
+0.0228717756	forms of
+0.0225224342	a unique
+0.0225176341	attempt to
+0.0224629683	recommendations for
+0.0224613799	integration of
+0.0223961741	composition of
+0.0222217180	about covid 19
+0.0222161887	properties of
+0.0221863201	to continue
+0.0221552759	relative to
+0.0221370220	detected in
+0.0220881480	the production of
+0.0220522685	the possibility
+0.0218786242	the utility of
+0.0218717756	duration of
+0.0217377744	appear to
+0.0216896352	level of
+0.0216881480	the extent of
+0.0216828904	two different
+0.0216168553	to explain
+0.0215215649	evidence on
+0.0214322887	an online
+0.0214135853	information on
+0.0213860660	to help
+0.0213465925	scope of
+0.0213302958	studies on
+0.0212494170	other factors
+0.0212392762	role of
+0.0210944837	classes of
+0.0210881480	the onset of
+0.0210763278	state of
+0.0210537729	possibility of
+0.0210241425	the prevalence of
+0.0208891951	to aid
+0.0208695768	diseases such as
+0.0208657562	occur in
+0.0208638183	different levels
+0.0206999398	mechanism of
+0.0206990843	prevalence of
+0.0206896352	risk of
+0.0206411643	information from
+0.0206203010	17 18
+0.0205030664	together with
+0.0204432939	the last
+0.0204255859	drivers of
+0.0203959495	distribution of
+0.0202225256	the latter
+0.0202132591	close to
+0.0200881480	a set of
+0.0200232789	comparison with
+0.0200060167	to contain
+0.0199603705	perceptions of
+0.0199468592	release of
+0.0199441068	or =
+0.0198786242	the provision of
+0.0197756539	the size of
+0.0196577046	a simple
+0.0195544875	three different
+0.0195378346	degree of
+0.0194529543	spread of
+0.0194502657	the most
+0.0194129809	attempts to
+0.0193166196	described as
+0.0193069961	to receive
+0.0192828406	the association between
+0.0191927457	changes in
+0.0191798148	may 2020
+0.0190782544	the establishment
+0.0190289459	modes of
+0.0190269315	this report
+0.0189375921	diversity of
+0.0188995701	importance of
+0.0188779423	a brief
+0.0188724195	combination with
+0.0188551934	the original
+0.0188336371	a decrease in
+0.0187766624	difference in
+0.0187687306	a decrease
+0.0187568112	a decade
+0.0187220299	most important
+0.0186593698	seems to
+0.0186495285	to measure
+0.0186083911	19 restrictions
+0.0185050602	use of
+0.0184927938	3 4
+0.0184271676	an infectious
+0.0183409477	an infected
+0.0183069961	to track
+0.0182978348	each other
+0.0182295481	literature on
+0.0182132591	variation in
+0.0182021588	overview of
+0.0181515566	effectiveness of
+0.0181202158	proliferation of
+0.0181016501	to represent
+0.0180830548	a discussion
+0.0180501621	interactions with
+0.0179933804	the delta
+0.0179886268	form of
+0.0179465925	identification of
+0.0179025088	most recent
+0.0178378968	occurred in
+0.0176604424	the combination of
+0.0175587135	2 3
+0.0175204092	trust in
+0.0175195792	development of
+0.0175084228	likelihood of
+0.0175030046	people living in
+0.0174786242	the introduction of
+0.0174648154	used as
+0.0174501828	many other
+0.0174066827	19 pandemic
+0.0172454566	delivery of
+0.0172155409	research on
+0.0172128015	the first time
+0.0171462671	to conduct
+0.0171452909	the availability of
+0.0170956167	search for
+0.0170757649	made by
+0.0170501621	definition of
+0.0170185637	class of
+0.0169680555	needed to
+0.0169583937	aim to
+0.0169236652	the establishment of
+0.0168485142	effort to
+0.0167819225	discussed in
+0.0166870258	samples from
+0.0166534289	the synthesis of
+0.0166534289	the rest of
+0.0166381521	to make
+0.0165847966	structure of
+0.0164825286	the implementation of
+0.0164629683	phases of
+0.0163616922	roles in
+0.0163370077	used in
+0.0163294383	reported in
+0.0162029116	representation of
+0.0161781124	discovery of
+0.0161663445	11 12
+0.0161420874	moderate to
+0.0161389468	relevant to
+0.0161365561	a wide
+0.0160956167	occurring in
+0.0160782544	the existence
+0.0160782544	the feasibility
+0.0160501621	vulnerable to
+0.0160375542	this method
+0.0159886268	period of
+0.0159771721	history of
+0.0158868033	engagement in
+0.0158850903	adapted to
+0.0158786242	the concept of
+0.0158264080	the rest
+0.0156705761	findings from
+0.0156462625	opportunity to
+0.0155491069	of covid
+0.0154979936	maintenance of
+0.0154367450	a qualitative
+0.0153345212	the world's
+0.0153108652	a continuous
+0.0153092953	the covid
+0.0152695709	to define
+0.0152123090	reports from
+0.0151947639	reports on
+0.0151617189	length of
+0.0151536929	infection with
+0.0151026045	employed to
+0.0150806571	strength of
+0.0150782544	the adoption
+0.0150180386	included in
+0.0150141889	1 2
+0.0149792207	the formation of
+0.0149421671	interest in
+0.0149145247	determinants of
+0.0149029399	and management of
+0.0148713974	to test
+0.0148617420	the link between
+0.0148294383	identified in
+0.0148166904	reported by
+0.0147468143	the distribution of
+0.0147468143	the adoption of
+0.0147078202	18 19
+0.0146980459	the lack of
+0.0146980459	the level of
+0.0146761507	profile of
+0.0145120343	stay at
+0.0145023586	9 10
+0.0143534965	to complete
+0.0142292532	method for
+0.0142219272	interpretation of
+0.0141712000	effective at
+0.0141511659	version of
+0.0141401225	body of
+0.0141401225	diagnosis of
+0.0140960274	in contrast to
+0.0140102736	a diverse
+0.0139488059	capacity to
+0.0139334774	engage in
+0.0138632103	efficiency of
+0.0138590807	an early
+0.0138567888	view of
+0.0138273770	gaps in
+0.0138113542	a crucial
+0.0137468143	the application of
+0.0136508261	proposed by
+0.0135623316	the rate of
+0.0135195792	performance of
+0.0135195792	observed in
+0.0135150614	to demonstrate
+0.0135086363	availability of
+0.0134825286	the transmission of
+0.0134381340	detection of
+0.0134349461	and acceptability of
+0.0134349461	the feasibility and
+0.0133424631	concentration of
+0.0132695709	the beginning
+0.0132256938	care for
+0.0132125548	evidence from
+0.0131912588	at risk of
+0.0131631904	care during
+0.0131478031	frequency of
+0.0131050606	the likelihood of
+0.0130979742	estimated to
+0.0130979255	5 6
+0.0130372039	a sense of
+0.0130341367	a subset
+0.0129923247	to take
+0.0129639280	developed by
+0.0129396776	a particular
+0.0129033036	a broad
+0.0128932504	stages of
+0.0128850903	located in
+0.0128703801	aim of
+0.0128632103	rise in
+0.0128281124	contribution of
+0.0128130349	first time
+0.0127966327	transmission of
+0.0127725273	a good
+0.0127564027	intensity of
+0.0127525605	the pandemic in
+0.0126828406	a need for
+0.0126534289	a review of
+0.0126483948	a substantial
+0.0126480693	need for
+0.0126411643	identified by
+0.0126096378	to find
+0.0125462113	the pandemic on
+0.0124825286	the form of
+0.0124546548	up to
+0.0124392883	conducted by
+0.0124160427	decrease in
+0.0123643243	the relationship
+0.0123371613	a systematic review of
+0.0122885842	the need to
+0.0122848088	status of
+0.0122746855	the incidence of
+0.0122742890	feasibility of
+0.0122603373	essential for
+0.0122393092	targets for
+0.0122158619	the quality of
+0.0122158619	the identification of
+0.0121850877	known to
+0.0121012012	the first year
+0.0120650862	stability of
+0.0120380443	the discovery of
+0.0120289459	participation in
+0.0119792207	the result of
+0.0118835885	evidence for
+0.0118381340	management of
+0.0117804466	found to
+0.0117468143	the ability to
+0.0117468143	the occurrence of
+0.0117468143	the experience of
+0.0117220430	critical for
+0.0116746885	a multi
+0.0115861042	the majority
+0.0115763105	end of
+0.0115195792	conducted in
+0.0115109302	shape of
+0.0115000853	to play
+0.0115000579	incidence of
+0.0114927437	presence of
+0.0114644298	mode of
+0.0114625431	working with
+0.0114160427	fear of
+0.0114062498	a case
+0.0113714540	the amount of
+0.0113588501	present in
+0.0113230669	the analysis of
+0.0113087688	to contribute
+0.0112887058	formation of
+0.0112861376	to occur
+0.0112721907	the potential of
+0.0112712266	translation of
+0.0112259019	protocol for
+0.0112259019	regulation of
+0.0111862296	to do
+0.0111050606	the frequency of
+0.0110782544	to stay
+0.0110782544	the magnitude
+0.0110566735	the detection of
+0.0110566735	the health system
+0.0109551158	potential to
+0.0109488059	area of
+0.0109294501	trends in
+0.0109294501	era of
+0.0109130003	range of
+0.0108804638	better understanding of
+0.0108720391	magnitude of
+0.0108545599	coverage of
+0.0108381340	outbreak in
+0.0108158985	the state of
+0.0108047975	a form of
+0.0107742890	onset of
+0.0107550622	cause of
+0.0107468143	the range of
+0.0107468143	the influence of
+0.0107118064	binding to
+0.0107090841	pandemic on
+0.0107009513	synthesis of
+0.0106977255	subset of
+0.0106977255	bias in
+0.0106401225	presented in
+0.0106319301	also found
+0.0106050606	the degree of
+0.0106026045	relation to
+0.0105839819	crucial to
+0.0104899588	conducted on
+0.0104814430	useful for
+0.0104445049	opportunity for
+0.0104349461	the understanding of
+0.0104349461	of care for
+0.0104029470	gap in
+0.0103643243	the presence
+0.0102237101	the number
+0.0102237101	the role
+0.0102158619	the evolution of
+0.0101699835	a serious
+0.0101676270	implemented in
+0.0101419651	occurrence of
+0.0100979742	severity of
+0.0100458764	awareness of
+0.0100337444	acceptability of
+0.0100327530	19 patients with
+0.0100246318	limited to
+0.0099625431	measurement of
+0.0099514889	expansion of
+0.0099125431	investigation of
+0.0098839717	pattern of
+0.0098369713	a role in
+0.0097885842	a focus on
+0.0097693822	as well
+0.0097468143	the contribution of
+0.0097118064	reviewed in
+0.0097113990	used by
+0.0096901810	available on
+0.0096419355	to allow
+0.0095495185	potential for
+0.0095115232	to face
+0.0094415717	support for
+0.0094012856	emergence of
+0.0093872080	a useful
+0.0093526794	combination of
+0.0092254533	the absence
+0.0091050606	the scope of
+0.0090953677	existence of
+0.0090848223	provision of
+0.0090792667	contrast to
+0.0090566735	the literature on
+0.0090204899	evolution of
+0.0090124016	factor for
+0.0090011314	quality of
+0.0089181556	wellbeing of
+0.0088210851	essential to
+0.0088026794	wave of
+0.0087822955	living with
+0.0087562508	concept of
+0.0087504969	introduction of
+0.0086919651	utility of
+0.0086226724	extent of
+0.0086214540	the capacity to
+0.0086075017	context of
+0.0085566735	the diagnosis of
+0.0085495185	efficacy of
+0.0085011314	experience of
+0.0084904096	necessary for
+0.0084349461	to contribute to
+0.0083714540	a need to
+0.0083060524	point of
+0.0081050606	the area of
+0.0080202163	described in
+0.0079738492	seen in
+0.0078695445	influence of
+0.0078695445	size of
+0.0078138509	result of
+0.0077899110	license to
+0.0077721907	the proportion of
+0.0077076397	production of
+0.0076284606	the highest
+0.0074349461	and treatment of
+0.0074349461	the severity of
+0.0073714540	the delivery of
+0.0072887058	assist in
+0.0072542424	terms of
+0.0071353209	to describe
+0.0069281631	way to
+0.0068517742	necessary to
+0.0064916552	possible to
+0.0064844210	to better
+0.0063923575	help to
+0.0063629457	the best
+0.0062733442	needs to
+0.0061540304	course of
