@@ -1,0 +1,395 @@
+0.9706474825	systemic risk
+0.9627987324	avian influenza
+0.9593404746	risk perception
+0.9496408628	amino acid
+0.9477509249	immune response
+0.9458748762	air pollution
+0.9441524726	machine learning
+0.9429735211	middle east
+0.9392698666	ovarian cancer
+0.9364527789	cell cycle
+0.9329193181	world health organization
+0.9325844755	rt pcr
+0.9292004527	wind power
+0.9279411919	respiratory tract
+0.9276560503	stock market
+0.9268815800	nucleic acid
+0.9219438071	united states
+0.9197367935	immune responses
+0.9185201921	public health
+0.9169377047	meta analysis
+0.9162171907	offshore wind power
+0.9131010343	air quality
+0.9076951024	health care workers
+0.9054865649	polymerase chain reaction
+0.9021147770	angiotensin converting enzyme
+0.8978915266	severe acute respiratory syndrome
+0.8886037209	middle east respiratory syndrome
+0.8842551801	drug discovery
+0.8793283605	developing countries
+0.8788228724	influenza virus
+0.8738777701	fake news
+0.8712862093	complex network
+0.8666890247	federated learning
+0.8649414983	china's stock market
+0.8613418393	humidity field
+0.8587321660	prv gd
+0.8566814725	cell culture
+0.8555407174	green finance
+0.8490842402	gut microbiome
+0.8480324209	delta variant
+0.8456044394	rt qpcr
+0.8363399866	long term
+0.8346860256	gut microbiota
+0.8337812430	viral entry
+0.8308112164	optical properties
+0.8261288257	social recommendation
+0.8255497873	antibody responses
+0.8227746296	respiratory disease
+0.8206227176	regional economic
+0.8187902722	mers cov
+0.8177724248	16s rrna amplicon sequencing
+0.8149614210	journal pre proof
+0.8126019780	travel patterns
+0.8114611554	membrane fusion
+0.8082682414	broad spectrum
+0.8054650886	au ncs
+0.8001046095	antibody titers
+0.7984293651	recent years
+0.7955183001	million deaths
+0.7949911783	giant pandas
+0.7938043420	16s rrna
+0.7911924367	ev a71
+0.7840053982	antibody response
+0.7831576760	spike protein
+0.7727494923	sinws fet sensors
+0.7662503467	neutralizing antibodies
+0.7661875128	large scale
+0.7639069830	anso drr
+0.7601604105	sars cov
+0.7598979798	sinws fet
+0.7529615710	fake news detection
+0.7498907678	rna virus
+0.7482419853	receptor binding domain
+0.7424833840	serum samples
+0.7304562087	structural proteins
+0.7274284537	infectious diseases
+0.7215014998	igm and igg
+0.7089270502	infectious disease
+0.7053869358	respiratory syndrome coronavirus
+0.7037758210	viral rna
+0.7026886296	offshore wind
+0.6966543017	based ceramics
+0.6938933307	rna viruses
+0.6929132966	brown and beige
+0.6903932639	clinical symptoms
+0.6862853059	sequencing data
+0.6814138770	confirmed cases
+0.6734219041	au @ pt
+0.6687220753	journal pre
+0.6679389520	risk factors
+0.6536945578	health care
+0.6439497327	previous studies
+0.6407743568	prevention and control
+0.6397347105	coronavirus disease 2019
+0.6334837698	experimental results
+0.6282951883	china's stock
+0.6212553559	severe acute respiratory syndrome coronavirus
+0.6178506266	angiotensin converting enzyme 2
+0.6105361795	host cell
+0.5825610221	rbd ace2 interaction
+0.5736243954	acute respiratory syndrome
+0.5675746327	severe acute respiratory syndrome coronavirus 2
+0.5649767459	recent studies
+0.5547080066	world health
+0.5506905876	sars cov 2
+0.5500703836	pm 2.5
+0.5464547246	polymerase chain
+0.5383244112	receptor binding
+0.5346608353	host cells
+0.5298290548	east respiratory syndrome coronavirus
+0.5275340108	human health
+0.5201585286	nectin 1
+0.5137922246	chain reaction
+0.4975345128	current study
+0.4861702191	syndrome coronavirus
+0.4806972287	acute respiratory
+0.4623245773	ace2 interaction
+0.4622008202	s rbd ace2 interaction
+0.4601389396	acute respiratory syndrome coronavirus 2
+0.4541563080	caco 2
+0.4507031273	study aimed to
+0.4350943134	anti sars
+0.4339420788	acute respiratory syndrome coronavirus
+0.4313958115	respiratory syndrome
+0.4284127656	li et al
+0.4273786178	severe acute respiratory
+0.4153680007	− 1
+0.4126032063	december 2019
+0.4080052533	h 0
+0.4055521691	type v
+0.4011957566	virus infection
+0.3960883413	zero shot
+0.3903188918	covid 19
+0.3883565842	+ ions
+0.3881468974	mhc i
+0.3876313327	95 ci
+0.3818327202	rbd ace2
+0.3817066483	covid 19 pandemic
+0.3755320754	2019 ncov
+0.3735124210	sars cov 2 infection
+0.3734773935	rabv g
+0.3723786808	k mer
+0.3707330645	cathepsin d
+0.3677010316	wang et al
+0.3674471825	full length
+0.3638910655	divided into
+0.3486485221	o o f journal pre proof
+0.3395066427	hrv c
+0.3383351666	coronavirus disease
+0.3326303371	zhang et al
+0.3300808216	m pro
+0.3201146220	a l p r e
+0.3187010837	liu et al
+0.3155405395	unique k
+0.3150468887	protein of sars cov
+0.3145759043	months after
+0.3136932328	the atmosphere
+0.3126441666	n terminal
+0.3092240428	et al
+0.3073018209	j o u r n
+0.3042868984	protein of sars
+0.2993417122	like protease
+0.2973295987	p r o o f
+0.2963992201	sars cov 2 virus
+0.2962198916	o u r n
+0.2937398058	syndrome coronavirus 2
+0.2901927168	antibodies against
+0.2888331297	s igg
+0.2868770682	a l p r
+0.2855365432	l p r e p r
+0.2817560572	6 7 8
+0.2728553162	covid 19 patients
+0.2723257812	leads to
+0.2705267150	figure 1
+0.2679823916	e p r o o
+0.2636221549	responsible for
+0.2569257198	this paper
+0.2536516002	of risk perception
+0.2439239955	composed of
+0.2416530458	sars cov 2 s rbd
+0.2410616937	so far
+0.2402334599	real time
+0.2399314449	the interaction between
+0.2370682457	the sensitivity of
+0.2349958876	presence of
+0.2278922727	in vitro
+0.2267021742	in terms of
+0.2230403656	widely used
+0.2199941411	protein of sars cov 2
+0.2195839924	as well as
+0.2187141196	into host cells
+0.2171000756	12 months
+0.2167373290	higher than
+0.2162375543	variety of
+0.2152204217	important role in
+0.2132214068	novel coronavirus
+0.2115057457	a total of
+0.2094852840	did not
+0.2061961295	5 6 7
+0.2060996435	at least
+0.2027776421	22 23
+0.1934460809	n protein
+0.1918260627	as follows
+0.1890585922	associated with
+0.1856847796	lead to
+0.1856270629	extracts from
+0.1839336171	patients with
+0.1838507270	the receptor binding
+0.1827155960	entry into
+0.1819656442	more than
+0.1789081335	2 3 4
+0.1780504329	correlation between
+0.1777736812	group 1
+0.1773500416	based on
+0.1755822074	credibility of
+0.1732489350	able to
+0.1723127087	caused by
+0.1717225635	in panama
+0.1705860364	collected from
+0.1688260627	according to
+0.1675121213	patients with covid 19
+0.1649497385	relationship between
+0.1649090408	leading to
+0.1627397966	due to
+0.1621700232	this study
+0.1596462287	1 2 3
+0.1570944709	such as
+0.1522569358	s protein
+0.1470488798	an important role in
+0.1468377236	less than
+0.1461260475	results show
+0.1455151116	wang et
+0.1447258087	cov 2
+0.1440026510	2 o
+0.1389945443	followed by
+0.1387254649	this review
+0.1369487618	for sars cov
+0.1366357407	of mers cov
+0.1364958489	derived from
+0.1359583701	of sars cov
+0.1358640725	focused on
+0.1312429972	for example
+0.1302973786	involved in
+0.1302015013	s rbd
+0.1300280097	to develop
+0.1276369187	compared with
+0.1264022077	in china
+0.1259070117	isolated from
+0.1252891931	most common
+0.1239355737	the art
+0.1229036175	bind to
+0.1200578085	12 13
+0.1185874431	4 5 6
+0.1182283724	effectiveness of
+0.1141710347	a series of
+0.1133828419	perception of
+0.1125322850	to determine
+0.1113509145	number of
+0.1094808392	o o
+0.1091581261	impact on
+0.1089347050	not only
+0.1070606967	8 9
+0.1066374868	to explore
+0.1065496671	against sars cov 2
+0.1057329406	focus on
+0.1053915644	against sars cov
+0.1052837667	disease 2019
+0.1034310908	the presence of
+0.1024109834	of pahs
+0.1012667825	ability to
+0.1006444576	but also
+0.1004950816	a variety of
+0.0959331101	compared to
+0.0938981344	an important
+0.0932662867	of covid 19
+0.0932142682	new coronavirus
+0.0926376978	threat to
+0.0920912807	in addition
+0.0916689618	the impact of
+0.0910188053	in order to
+0.0902303762	to identify
+0.0900379094	detection of
+0.0896818915	for instance
+0.0889201401	to evaluate
+0.0879188758	of sars cov 2
+0.0878075345	the world
+0.0869136178	3 4 5
+0.0857155171	related to
+0.0842129666	effects on
+0.0832458824	effects of
+0.0831770263	the spread of
+0.0830007814	needed to
+0.0794532784	set of
+0.0792916409	pathogenesis of
+0.0789212142	in contrast
+0.0784201401	to improve
+0.0772028765	2 +
+0.0764963873	11 12
+0.0759231667	to analyze
+0.0753442691	the treatment of
+0.0734529666	binding to
+0.0732799493	strategies for
+0.0731802077	to prevent
+0.0725776633	proportion of
+0.0711723300	the antioxidant
+0.0710060077	this method
+0.0688038715	the novel coronavirus
+0.0687803078	the development of
+0.0685743389	induced by
+0.0673287027	these results
+0.0668658498	pandemic on
+0.0656999953	response to
+0.0650393028	9 10
+0.0641574004	the risk of
+0.0634801510	order to
+0.0633387512	to understand
+0.0625640777	levels of
+0.0625247254	characterization of
+0.0615950448	severe or
+0.0610979794	the credibility
+0.0605225410	sars cov 2 s
+0.0601773732	modification of
+0.0598432128	to obtain
+0.0577822542	the number of
+0.0570934612	roles in
+0.0568596990	inhibition of
+0.0558207877	this work
+0.0552616832	expression of
+0.0550507293	changes in
+0.0549484260	aimed to
+0.0546921226	the effect of
+0.0538587893	the outbreak of
+0.0537225959	series of
+0.0525567095	of npis
+0.0519004560	the basis of
+0.0514400279	to detect
+0.0512931389	the detection of
+0.0508134689	performance of
+0.0507356912	research on
+0.0498658498	mechanisms of
+0.0497617663	essential for
+0.0494443496	characteristics of
+0.0493953652	10 11
+0.0490618835	emergence of
+0.0486442248	binds to
+0.0485708101	values of
+0.0460031330	identified as
+0.0460023942	infected with
+0.0460023898	understanding of
+0.0459265644	in wuhan
+0.0448568585	but not
+0.0438466222	detected in
+0.0430177929	the evolution
+0.0419114209	the performance of
+0.0410118835	evaluation of
+0.0409870800	effect of
+0.0408229026	role in
+0.0402381089	development of
+0.0401486429	history of
+0.0392051337	identification of
+0.0389870800	risk of
+0.0379870800	treatment of
+0.0376533362	4 5
+0.0373041038	in addition to
+0.0371872305	used to
+0.0371698364	a result
+0.0369666016	5 6
+0.0367835635	similar to
+0.0365940226	observed in
+0.0365926905	differences in
+0.0365497846	used for
+0.0363601323	nature of
+0.0362073802	part of
+0.0361073127	of china's
+0.0358940524	against sars
+0.0356960216	to provide
+0.0343601323	prevalence of
+0.0334898042	mechanism of
+0.0333460635	shown to
+0.0330127302	target for
+0.0319379101	basis of
+0.0318940524	2 3
+0.0316801486	in vivo
+0.0315072770	of sars
+0.0294637493	19 pandemic
+0.0289978492	impact of
+0.0284637493	6 7
+0.0282770430	into host
+0.0238978492	spread of
+0.0237877302	outbreak of
+0.0223478073	in order
+0.0187404383	in patients with
+0.0174390353	as well
+0.0156970827	3 4
+0.0153390353	a novel

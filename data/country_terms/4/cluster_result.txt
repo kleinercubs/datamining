@@ -1,0 +1,5015 @@
+Cluster 0:
+	plasmodium: 0.7530756979
+	preterm: 0.7503896388
+	federation: 0.7321471446
+	sb: 0.7285920651
+	nk: 0.7265134852
+	alpha: 0.7208007619
+	fv: 0.7196940973
+	deficiency: 0.7193138083
+	cnn: 0.7187317202
+	sp: 0.7155110572
+	sect: 0.7140285321
+	selective: 0.7128800827
+	council: 0.711050993
+	super: 0.7102785139
+	flu: 0.7091864163
+	app: 0.7064070547
+	gp: 0.7015674735
+	guiding: 0.700637902
+	maximum: 0.700536986
+	competitive: 0.7000490464
+	frail: 0.6999991752
+	census: 0.6991299996
+	pulse: 0.6971197601
+	game: 0.6970860189
+	mhc: 0.6938059007
+	fuel: 0.693586177
+	names: 0.6911523501
+	abstract: 0.6910519688
+	influenzae: 0.6901152361
+	foreign: 0.6873073856
+	lc: 0.6862745854
+	geometric: 0.6862743396
+	h1n1: 0.6851681248
+	neurodevelopmental: 0.6851612052
+	lake: 0.6850880508
+	cloud: 0.6839110931
+	pcv: 0.6833204543
+	aided: 0.6831575108
+	temperate: 0.68287911
+	comfort: 0.6827015735
+	adrenal: 0.6826630689
+	spontaneous: 0.6807973581
+	coagulation: 0.6782066787
+	north: 0.6776667852
+	bootstrap: 0.6773333704
+	ml: 0.677183935
+	union: 0.6765283589
+	rt: 0.6765067754
+	islands: 0.6763546753
+	ebola: 0.6750741806
+	anaemia: 0.6744847088
+	southern: 0.6734392097
+	taxon: 0.671098821
+	angiotensin: 0.6708037407
+	western: 0.670652
+	assisted: 0.6695997484
+	postgraduate: 0.6691937882
+	st: 0.6673270029
+	frame: 0.6671252579
+	free: 0.6660897229
+	ei: 0.6659773475
+	settlement: 0.6643404425
+	airway: 0.6636200954
+	southeast: 0.6626533589
+	visual: 0.6621889994
+	generalized: 0.6620860704
+	nasal: 0.6614834488
+	phylogenetic: 0.6614326412
+	principal: 0.6607336391
+	net: 0.659870564
+	complementary: 0.6592053228
+	undertake: 0.6584869594
+	channels: 0.6555181964
+	west: 0.6552460651
+	party: 0.6549491541
+	la: 0.6548385082
+	hong: 0.6532772368
+	bronchitis: 0.6527418508
+	traffic: 0.6525457469
+	participatory: 0.6520217367
+	stars: 0.651184863
+	weather: 0.6506769152
+	fresh: 0.6494144307
+	arm: 0.6494054281
+	mers: 0.6484611336
+	reference: 0.6477005897
+	executive: 0.6472145394
+	channel: 0.6456469721
+	ci: 0.6451035685
+	sustainable: 0.6446265861
+	miss: 0.6442608895
+	leave: 0.6441761007
+	title: 0.6441159424
+	bound: 0.6439872905
+	ebov: 0.6438106611
+	wild: 0.6433002016
+	calibration: 0.6430181415
+	ups: 0.6423349507
+	neglected: 0.6419985257
+	acquisition: 0.6414494131
+	trace: 0.6410882709
+	virtual: 0.6410847993
+	resonance: 0.6410194964
+	big: 0.6397688296
+	artificially: 0.6387633868
+	tracking: 0.6384799956
+	remote: 0.6384254504
+	war: 0.6370863352
+	terminus: 0.6370407892
+	solving: 0.6363599045
+	interested: 0.6360863352
+	semi: 0.6360831808
+	internal: 0.6353717476
+	fusion: 0.6348564169
+	stem: 0.6329203205
+	storm: 0.6325252211
+	capital: 0.6321013365
+	usual: 0.631526235
+	translate: 0.6309569102
+	specifically: 0.6309004343
+	discussion: 0.6308181428
+	rare: 0.6306803645
+	recovered: 0.6305592345
+	excess: 0.6301618834
+	tgf: 0.6300038644
+	binary: 0.6299487922
+	external: 0.6298802759
+	abs: 0.6298092248
+	identity: 0.6297706272
+	organizational: 0.6296858362
+	inference: 0.6295211148
+	attending: 0.629308625
+	viewing: 0.6286987012
+	h5n1: 0.627854977
+	fp: 0.6270276409
+	flow: 0.6266845134
+	figure: 0.6259545377
+	alert: 0.6258537771
+	nhs: 0.6244135007
+	false: 0.6238685955
+	minimum: 0.6236213518
+	iot: 0.6234498855
+	ca: 0.6233752681
+	older: 0.6233616335
+	rv: 0.62304756
+	ep: 0.6225985877
+	conventional: 0.6225528841
+	establishment: 0.6220863557
+	count: 0.6217514826
+	signal: 0.6217311364
+	attempts: 0.6215334162
+	detecting: 0.6214011737
+	integrated: 0.621070138
+	define: 0.620818118
+	critically: 0.6207332127
+	multi: 0.6207283432
+	adopt: 0.6205995979
+	nz: 0.6201897316
+	cycle: 0.6199371009
+	igg: 0.6194544824
+	job: 0.6194498331
+	feature: 0.6187437283
+	informal: 0.6187134297
+	spike: 0.6186461079
+	carrying: 0.6185353234
+	lists: 0.6182695208
+	explicit: 0.6182509478
+	overload: 0.6177810219
+	ari: 0.6174905485
+	informed: 0.6174518736
+	paradigm: 0.6174230499
+	ehr: 0.617104727
+	reverse: 0.6163334306
+	stone: 0.6162901405
+	pp: 0.6162134239
+	odds: 0.6161143984
+	promotion: 0.6153837732
+	divided: 0.6152939326
+	responsibility: 0.6151249931
+	active: 0.6151235174
+	central: 0.6149048912
+	standardized: 0.6148064318
+	resolution: 0.6136081662
+	ssa: 0.6132030807
+	east: 0.6127908155
+	′: 0.6126328027
+	mitigation: 0.612237388
+	complete: 0.6120365476
+	rsv: 0.6120341302
+	biased: 0.6118721581
+	proactive: 0.6118612827
+	seeking: 0.6118533448
+	explain: 0.6115413296
+	space: 0.6111202127
+	word: 0.6110954634
+	construct: 0.6109274193
+	traditional: 0.6107232153
+	×: 0.610489339
+	results: 0.6101026969
+	visible: 0.6098705072
+	fn: 0.6097173782
+	working: 0.6095671398
+	stop: 0.6091926172
+	op: 0.6091706328
+	alternative: 0.6082074199
+	track: 0.6076684569
+	neurological: 0.6076406023
+	safe: 0.6072269902
+	recently: 0.6070972292
+	profile: 0.6066417882
+	fc: 0.6061509375
+	superior: 0.6057736896
+	hps: 0.6055032072
+	massive: 0.6054887354
+	insight: 0.604463274
+	curve: 0.6040217438
+	loop: 0.6039349406
+	cd14: 0.603308376
+	overcome: 0.6021507437
+	double: 0.6020880556
+	words: 0.6011569701
+	mitigating: 0.5991569501
+	prime: 0.5985996388
+	initial: 0.5978272379
+	recent: 0.5964592155
+	phase: 0.5963824346
+	variable: 0.5963539388
+	adverse: 0.5962218398
+	presenting: 0.5960106663
+	combined: 0.5959650347
+	gram: 0.5955649054
+	advantage: 0.5953871011
+	tract: 0.5951262745
+	creation: 0.5950936211
+	insights: 0.5949701078
+	previous: 0.5947352934
+	peak: 0.594596928
+	le: 0.5945538417
+	hr: 0.5937232208
+	gold: 0.5932713539
+	resource: 0.5927663168
+	coding: 0.5925956913
+	simple: 0.592423297
+	occurring: 0.5919292845
+	spatio: 0.5913100597
+	intelligent: 0.5909974625
+	trust: 0.5907703793
+	affinity: 0.5903869592
+	drawing: 0.5903123051
+	bidirectional: 0.5900950821
+	fog: 0.5900503345
+	south: 0.5899323108
+	wave: 0.589872445
+	link: 0.5897506228
+	natural: 0.5889111324
+	implicated: 0.5877771343
+	upper: 0.5876034843
+	guide: 0.587539943
+	represent: 0.5867995165
+	autistic: 0.5862386569
+	optimal: 0.5858429727
+	open: 0.5857027376
+	early: 0.5856774467
+	conduct: 0.5855816191
+	article: 0.585534878
+	aligned: 0.5854343592
+	prototype: 0.5853479071
+	unique: 0.5852696385
+	à: 0.5849989427
+	reductions: 0.5849649198
+	preserving: 0.5848527598
+	consensus: 0.5847382101
+	los: 0.584689222
+	gestational: 0.5846413138
+	polypropylene: 0.5844412679
+	tertiary: 0.5842332706
+	additional: 0.5838950875
+	implement: 0.5838825682
+	probability: 0.5830732853
+	technological: 0.5828640739
+	adapt: 0.5827372561
+	ppe: 0.5824017214
+	independent: 0.5823151901
+	suspected: 0.5819057242
+	intermediate: 0.5814623027
+	responsible: 0.581263495
+	general: 0.5812189936
+	ng: 0.5811483127
+	vulnerable: 0.5811078601
+	cross: 0.5799534755
+	fracture: 0.5798319978
+	ease: 0.579532014
+	conceptual: 0.5791161388
+	fully: 0.5785817558
+	small: 0.5784852736
+	demand: 0.5784556984
+	entire: 0.5783335402
+	unintended: 0.5781966128
+	mark: 0.5780510782
+	diagnose: 0.5779919054
+	correspond: 0.5779653149
+	greater: 0.5777475627
+	hospitalized: 0.5777231508
+	train: 0.5776245427
+	maximize: 0.5776245427
+	young: 0.5775360088
+	berry: 0.5774681189
+	ami: 0.5772896955
+	expert: 0.575597751
+	hard: 0.5754716917
+	current: 0.5752263355
+	built: 0.5751481313
+	common: 0.574796196
+	concept: 0.5744800514
+	fig: 0.5744021341
+	logistic: 0.5740982753
+	distributed: 0.5740327026
+	establish: 0.5735824444
+	operating: 0.5734926658
+	readiness: 0.5734718613
+	shift: 0.5732207429
+	questions: 0.5731016361
+	je: 0.5729868539
+	mbl: 0.5728805974
+	provision: 0.5727299513
+	bubble: 0.5726360127
+	fib: 0.5725741682
+	smoothing: 0.5721032136
+	respect: 0.5720476993
+	reactive: 0.57160313
+	participate: 0.5714759517
+	willingness: 0.5714379564
+	acquired: 0.5710746161
+	direct: 0.5710225042
+	hgs: 0.570513933
+	extreme: 0.5700060435
+	complex: 0.5698402205
+	isolated: 0.5697525889
+	clp: 0.5697307201
+	representation: 0.5694931393
+	directed: 0.5692956737
+	contributes: 0.5692422409
+	coronary: 0.5692149408
+	effective: 0.5691300223
+	ground: 0.5688272599
+	short: 0.5685432162
+	converting: 0.567914427
+	belonging: 0.567914427
+	aki: 0.56753015
+	kun: 0.56753015
+	cow: 0.5669956839
+	series: 0.5669739802
+	myocardial: 0.5668342675
+	pose: 0.5668276569
+	extracted: 0.5665688052
+	travel: 0.566351574
+	interrupted: 0.5659438506
+	understanding: 0.5652672859
+	characteristic: 0.5650604502
+	author: 0.5643844423
+	posed: 0.5643731494
+	content: 0.5643565718
+	elucidate: 0.5639738796
+	tomography: 0.5639732033
+	connected: 0.5639520312
+	mimic: 0.5637230369
+	comprehensive: 0.5633893523
+	engaged: 0.5633235896
+	shape: 0.5632249913
+	recognised: 0.562968686
+	key: 0.5629642582
+	reveal: 0.5624843338
+	secondary: 0.5624757676
+	consist: 0.5621952933
+	chapter: 0.5621048536
+	ongoing: 0.561708862
+	comprised: 0.5611952933
+	proven: 0.5608599369
+	percentage: 0.5606541762
+	variant: 0.5603042624
+	latent: 0.5601663201
+	influencing: 0.5601373723
+	low: 0.5599423475
+	socio: 0.5598220283
+	multiple: 0.5596131402
+	high: 0.5582972386
+	carrier: 0.558175994
+	sign: 0.5581243774
+	emphasis: 0.5581126239
+	large: 0.5579058466
+	concussion: 0.5574955353
+	calls: 0.5573739639
+	existing: 0.5572883358
+	written: 0.5571891819
+	appeared: 0.5570708158
+	future: 0.5569904644
+	gaps: 0.5569646375
+	established: 0.556271033
+	pilot: 0.5559721808
+	likelihood: 0.5559142261
+	longitudinal: 0.5558583414
+	characterised: 0.5558107358
+	interpreting: 0.5557325414
+	protection: 0.555610717
+	indirect: 0.5555378507
+	primary: 0.5552999514
+	began: 0.5551177888
+	differential: 0.5550685305
+	site: 0.5549422895
+	developing: 0.5545709682
+	computed: 0.5541395352
+	immunodeficiency: 0.5541395352
+	nonetheless: 0.5539613847
+	coupled: 0.5539229944
+	critical: 0.5537333772
+	receive: 0.5537283132
+	μm: 0.553379466
+	increases: 0.5533774035
+	arising: 0.5532307761
+	thematic: 0.5528608828
+	dk: 0.5528575059
+	transcript: 0.5528575059
+	collecting: 0.5525059157
+	portable: 0.5525059157
+	increased: 0.5523994872
+	consequence: 0.5521170844
+	basic: 0.5513612551
+	firstly: 0.5513068349
+	fatality: 0.550674424
+	determinants: 0.550614387
+	mass: 0.5505462117
+	factor: 0.5505366682
+	footprint: 0.5503486051
+	conditional: 0.5503324711
+	era: 0.5501839666
+	structured: 0.5500918374
+	warning: 0.5498164329
+	suitable: 0.5497635437
+	subset: 0.5495344612
+	fourth: 0.5494652873
+	similar: 0.5493477732
+	reliance: 0.5493287035
+	phases: 0.5480190651
+	prior: 0.5476950063
+	pre: 0.5475313064
+	demonstrate: 0.5474439429
+	likewise: 0.5473914723
+	spp: 0.5470929365
+	amino: 0.5470011907
+	gastric: 0.5467111071
+	concern: 0.5465551214
+	controlled: 0.5461380103
+	northern: 0.5460547834
+	effort: 0.5460351111
+	fur: 0.5458817067
+	mentors: 0.545772446
+	preventing: 0.5453799361
+	asymptotic: 0.5452337998
+	suffer: 0.5451759465
+	long: 0.5449458402
+	believed: 0.5445866991
+	depend: 0.5445363711
+	pneumococcal: 0.5444667998
+	compact: 0.544011988
+	targets: 0.5439592004
+	monoclonal: 0.5439416989
+	grade: 0.5438337498
+	hierarchical: 0.5436115359
+	spectrum: 0.5435547834
+	wearing: 0.5430814945
+	elicited: 0.5425895623
+	term: 0.5421773726
+	shrimp: 0.5418887595
+	quantify: 0.5416129492
+	diagnosed: 0.5413673655
+	attempt: 0.5410210744
+	impaired: 0.5409844876
+	wellbeing: 0.5407504027
+	clade: 0.5405405505
+	prophylactic: 0.5405405505
+	growing: 0.5402751869
+	final: 0.5402588341
+	ranged: 0.5402032257
+	protect: 0.5400320872
+	decline: 0.5400237802
+	monitor: 0.5395753173
+	standard: 0.5394770159
+	build: 0.5394317103
+	certified: 0.5393634465
+	perform: 0.5389600383
+	duration: 0.5387467785
+	local: 0.5385671406
+	improvements: 0.5385226406
+	consuming: 0.5382980691
+	motor: 0.5377155036
+	driven: 0.537605702
+	team: 0.5374267517
+	representative: 0.5372916763
+	administrative: 0.5372523045
+	waves: 0.5372489338
+	obstructive: 0.5370498934
+	beginning: 0.537040981
+	organized: 0.5369541822
+	produced: 0.5368286637
+	correlated: 0.5367093837
+	located: 0.5366895287
+	acute: 0.5365469932
+	play: 0.5359179796
+	induced: 0.5350954916
+	conversely: 0.5348656663
+	adhere: 0.5348242231
+	paired: 0.5345795768
+	dynamic: 0.5344409768
+	recurrent: 0.5339544615
+	porous: 0.5338232736
+	strong: 0.5334707315
+	incremental: 0.5333481
+	strongly: 0.5333125672
+	type: 0.5332578868
+	regarded: 0.5332370026
+	potential: 0.5331771962
+	moral: 0.5331071799
+	meant: 0.5329593992
+	highest: 0.5328292704
+	adapted: 0.5325949078
+	screen: 0.5318181857
+	contribution: 0.5318014206
+	aid: 0.5314738958
+	dependent: 0.5308796063
+	generate: 0.5307289203
+	annotated: 0.5305855584
+	mmol: 0.5305855584
+	immunoglobulin: 0.5305855584
+	relevant: 0.530456399
+	cardiometabolic: 0.5300722554
+	®: 0.5300722554
+	versus: 0.5298729317
+	source: 0.5293574602
+	tackle: 0.5292029261
+	consecutive: 0.5289541035
+	unprecedented: 0.528170904
+	point: 0.5280393626
+	essential: 0.5279434984
+	minimize: 0.5278636816
+	plasma: 0.5276419423
+	prevent: 0.5276066186
+	linked: 0.5275051326
+	ray: 0.5272975437
+	single: 0.5270128627
+	case: 0.5269874489
+	classified: 0.5268686732
+	arrival: 0.5261984455
+	sold: 0.5261984455
+	divergent: 0.5261984455
+	encodes: 0.526086967
+	pore: 0.5259111927
+	swing: 0.5259111927
+	les: 0.5258279619
+	testicular: 0.5258279619
+	decision: 0.5256773073
+	communicable: 0.5255241667
+	related: 0.5250765209
+	lower: 0.5250541317
+	briefly: 0.5250394014
+	things: 0.5250216888
+	view: 0.5243771823
+	longer: 0.5242882988
+	called: 0.5241604176
+	substantial: 0.5241600634
+	strategic: 0.5240614734
+	artificial: 0.5234388063
+	additionally: 0.5234229619
+	estimator: 0.5233680736
+	serve: 0.5226165429
+	en: 0.522291151
+	obtained: 0.5221900895
+	protected: 0.5219684309
+	documented: 0.5214614873
+	display: 0.5214203132
+	mask: 0.5214053818
+	paper: 0.5212457817
+	generated: 0.520731028
+	levels: 0.5206077233
+	capture: 0.5205133225
+	create: 0.5204993592
+	wear: 0.5204950583
+	refer: 0.5204469139
+	develop: 0.5203374545
+	agenda: 0.5201881386
+	centred: 0.5197215507
+	added: 0.5196938167
+	organization: 0.5194905221
+	classroom: 0.5193350903
+	manage: 0.5190401275
+	diverse: 0.51874946
+	fact: 0.5186214262
+	exposed: 0.5175772723
+	obtain: 0.5170941764
+	influence: 0.5170887863
+	enable: 0.5170539278
+	determined: 0.5169613314
+	past: 0.5165974034
+	stranded: 0.5163659302
+	mediated: 0.5162869576
+	pooling: 0.5160906203
+	provided: 0.5159923504
+	reduction: 0.5159846891
+	pandemic: 0.5158341632
+	widely: 0.515833639
+	finally: 0.5154004944
+	necessarily: 0.5152736826
+	return: 0.5150286696
+	closely: 0.5150076645
+	depends: 0.5149406156
+	rise: 0.5148250546
+	great: 0.514658374
+	granted: 0.5146129975
+	produce: 0.5141713796
+	status: 0.5140483844
+	induces: 0.5140471629
+	running: 0.5140311286
+	enhance: 0.5139242547
+	suggest: 0.5137578506
+	assess: 0.51375323
+	attenuated: 0.5136956906
+	multiplex: 0.5135890966
+	consistent: 0.51321989
+	depending: 0.5128838921
+	outbreak: 0.5128583652
+	avoid: 0.5125250135
+	explanation: 0.511869354
+	parallel: 0.5118306728
+	inappropriate: 0.5118153516
+	demonstration: 0.5118153516
+	characterized: 0.5117729855
+	continues: 0.5117379125
+	thought: 0.5116023934
+	facilitate: 0.5114512823
+	unlike: 0.5110866261
+	gap: 0.5108559852
+	employed: 0.5107489036
+	showed: 0.5106188447
+	regard: 0.5105628873
+	competing: 0.510423109
+	magnitude: 0.510389073
+	maintain: 0.5102665551
+	sequential: 0.5100661213
+	engage: 0.509889073
+	accessory: 0.5098818102
+	worked: 0.5098818102
+	gravity: 0.5098818102
+	simulate: 0.5098818102
+	raises: 0.5098818102
+	commonly: 0.5095767821
+	turn: 0.5088580977
+	main: 0.5087777972
+	limit: 0.5087126126
+	taxonomic: 0.5086058111
+	meet: 0.5085690769
+	analyze: 0.508408374
+	contributing: 0.5082293572
+	improve: 0.5081578439
+	half: 0.5080607048
+	keeping: 0.5079358893
+	strengthen: 0.5079358893
+	initiative: 0.5079358893
+	importantly: 0.5079069587
+	collected: 0.5078245663
+	affected: 0.5078220776
+	account: 0.507661572
+	influenced: 0.5067915638
+	developed: 0.5067448869
+	higher: 0.5064792201
+	promote: 0.5064390517
+	identified: 0.5063926747
+	reach: 0.5063834262
+	rule: 0.5063710808
+	opportunity: 0.5063277861
+	order: 0.5062768275
+	mm: 0.5062070456
+	implemented: 0.5061751817
+	match: 0.5056940731
+	reduce: 0.5049241016
+	attributed: 0.5047968471
+	analysing: 0.5047024066
+	read: 0.5044390294
+	polymerase: 0.5043142911
+	extension: 0.5042312436
+	relating: 0.5041991186
+	degree: 0.5041785088
+	rely: 0.5039328777
+	collectively: 0.5038543662
+	individuals: 0.5037105597
+	embedding: 0.503669335
+	employing: 0.5035623753
+	respond: 0.5035282503
+	measuring: 0.5034277834
+	compare: 0.50337832
+	decrease: 0.5031667153
+	crucial: 0.5028493723
+	contemporary: 0.5028033331
+	brief: 0.5025609806
+	taxa: 0.5024056336
+	emerged: 0.5019968082
+	labelled: 0.501968214
+	severity: 0.5019608386
+	based: 0.5019504856
+	presented: 0.5018828144
+	principle: 0.5018697083
+	residual: 0.5014561425
+	possibility: 0.501189004
+	important: 0.5008334321
+	contributed: 0.5007830982
+	bridge: 0.500697241
+	universal: 0.5004511261
+	estimated: 0.5001164097
+	severe: 0.4993885456
+	confidence: 0.4990172206
+	response: 0.4988479162
+	conflicting: 0.4988399224
+	purified: 0.4987660424
+	capable: 0.4978419972
+	systematic: 0.4976606789
+	refers: 0.4973808178
+	investigation: 0.4972412643
+	pro: 0.4972167255
+	proposed: 0.4971403352
+	combining: 0.4969231826
+	forms: 0.4963313186
+	attendance: 0.4962972705
+	estimating: 0.4962972705
+	simultaneous: 0.4961141538
+	shifting: 0.496024653
+	enrolled: 0.496024653
+	urgent: 0.4959127401
+	though: 0.4955403626
+	selecting: 0.4953095142
+	applying: 0.4951533639
+	deal: 0.494962307
+	subunit: 0.4948110208
+	benchmark: 0.4947317844
+	provide: 0.494641251
+	similarly: 0.4944865583
+	referred: 0.493524121
+	zone: 0.4935190909
+	result: 0.4929915301
+	ability: 0.4927495597
+	diagnostic: 0.4921176742
+	reviewed: 0.4918837687
+	making: 0.4918468143
+	de: 0.4914118082
+	focusing: 0.4913975527
+	ethical: 0.4906339643
+	investigate: 0.4902290588
+	form: 0.4899064715
+	absolute: 0.4895464813
+	implementing: 0.4890310053
+	end: 0.4890155635
+	left: 0.4887091859
+	traditionally: 0.4887012117
+	needed: 0.4885365499
+	tracing: 0.4881273016
+	regardless: 0.4880530852
+	failed: 0.4871726716
+	projects: 0.4869427078
+	revised: 0.4864210712
+	naturally: 0.4864210712
+	abnormalities: 0.4864210712
+	putting: 0.4864210712
+	limited: 0.4861880377
+	close: 0.486145291
+	hit: 0.4859256603
+	applied: 0.4858894347
+	appears: 0.4856652195
+	focuses: 0.485402905
+	km: 0.4852704994
+	proposes: 0.4849751492
+	dedicated: 0.4849751492
+	consumed: 0.4849751492
+	worry: 0.4849751492
+	reform: 0.4849751492
+	preliminary: 0.4848148281
+	lessons: 0.484599388
+	ill: 0.4841808678
+	inputs: 0.4840061247
+	numerical: 0.4840061247
+	feel: 0.4840061247
+	sought: 0.4839882157
+	formally: 0.4838784193
+	preferred: 0.4838784193
+	organisational: 0.4838653497
+	episodes: 0.4838653497
+	stay: 0.4832330435
+	discussed: 0.4830871486
+	confirmed: 0.4829967549
+	threatened: 0.482640663
+	differing: 0.482640663
+	stimulated: 0.482640663
+	detect: 0.4826171609
+	broad: 0.4825715434
+	zones: 0.4825209379
+	parametric: 0.4825209379
+	continuing: 0.4821331304
+	ventilated: 0.4820343732
+	linking: 0.4820343732
+	present: 0.4818867855
+	required: 0.481548483
+	included: 0.4815181058
+	identify: 0.4813848684
+	shown: 0.4811635698
+	extremely: 0.4811209213
+	explore: 0.4810205203
+	extent: 0.4808797421
+	increase: 0.4805905084
+	bind: 0.4804189559
+	liquid: 0.4804189559
+	answer: 0.4804189559
+	representatives: 0.4804189559
+	binds: 0.4804189559
+	conducted: 0.4798097255
+	another: 0.4795264387
+	utilizing: 0.4793670103
+	effect: 0.4788448071
+	importance: 0.478161754
+	whilst: 0.4779752531
+	mitigate: 0.4779537637
+	screened: 0.4777950822
+	excessive: 0.4776123646
+	regularly: 0.4775640343
+	specialist: 0.4772675454
+	spread: 0.4771330629
+	simply: 0.4771284348
+	connection: 0.4771284348
+	wide: 0.4769501419
+	classical: 0.4762430561
+	demonstrating: 0.4754827249
+	comparing: 0.4754136211
+	considered: 0.4753268029
+	derived: 0.4752234595
+	third: 0.4750128365
+	generates: 0.4745689877
+	occurred: 0.4743416231
+	earliest: 0.4741959068
+	careful: 0.4741959068
+	conserved: 0.4739484273
+	interpreted: 0.4738070525
+	matched: 0.4737418806
+	extant: 0.473688049
+	fight: 0.473688049
+	optimize: 0.473688049
+	ultimately: 0.4734856357
+	flows: 0.4734124717
+	helping: 0.4733783555
+	role: 0.4732711222
+	rate: 0.4727638178
+	special: 0.4723853489
+	informing: 0.4722606696
+	evaluating: 0.472255022
+	inferred: 0.4722422924
+	upstream: 0.4722422924
+	admitted: 0.4722422924
+	cumulative: 0.4721698242
+	integrating: 0.4721563114
+	chain: 0.4715827063
+	share: 0.4714222844
+	updated: 0.4710576735
+	collection: 0.4707234595
+	rd: 0.4703574248
+	notably: 0.4703413662
+	detected: 0.4698509965
+	circulating: 0.4697374715
+	alongside: 0.4697295678
+	·: 0.4696938444
+	designing: 0.4692137041
+	inclusive: 0.4692137041
+	faster: 0.4685858292
+	collaborative: 0.4683548151
+	detrimental: 0.4683548151
+	ensure: 0.4681011491
+	occur: 0.4680411475
+	geographically: 0.4679361721
+	outline: 0.4679361721
+	kg: 0.4679224621
+	next: 0.467892733
+	ranging: 0.4672569023
+	situ: 0.4669797002
+	wealth: 0.4669797002
+	replaced: 0.4669797002
+	lineage: 0.4669797002
+	adjacent: 0.4669797002
+	reveals: 0.4669797002
+	break: 0.4669797002
+	assistance: 0.4669797002
+	designated: 0.4669797002
+	accessing: 0.4669797002
+	advanced: 0.4669070719
+	middle: 0.4668668537
+	planned: 0.4661749213
+	resulted: 0.4660453697
+	subsequently: 0.4659672547
+	yet: 0.4657755903
+	moment: 0.4653597095
+	intensive: 0.4651408329
+	500: 0.4651214735
+	lineages: 0.4649670352
+	types: 0.4647701998
+	emergence: 0.4646836589
+	narrow: 0.4646083335
+	challenged: 0.4645252642
+	prove: 0.4645252642
+	raising: 0.4644766037
+	embedded: 0.4642445889
+	switching: 0.4638980923
+	possibly: 0.463670022
+	prolonged: 0.4636525764
+	equivalent: 0.4629874434
+	modelled: 0.4629874434
+	this: 0.4629517869
+	scholarship: 0.4629237813
+	presence: 0.4626458665
+	address: 0.4624558106
+	achieve: 0.4623908362
+	caused: 0.4619132035
+	popularity: 0.4617136685
+	simulated: 0.4614009863
+	declined: 0.4614009863
+	forward: 0.4612051253
+	preventive: 0.4610764987
+	new: 0.4608879294
+	integrity: 0.4607523813
+	writing: 0.4607018773
+	≤: 0.4605103909
+	introducing: 0.4604782987
+	continued: 0.4603806361
+	led: 0.4602214117
+	initially: 0.460193258
+	follow: 0.4599106141
+	gut: 0.4597525209
+	desired: 0.4597525209
+	reflecting: 0.459547665
+	equally: 0.459547665
+	instance: 0.459278695
+	leaving: 0.4587379915
+	emerging: 0.4584499554
+	paid: 0.4583838065
+	concentrated: 0.4583161289
+	usage: 0.4581001956
+	delivering: 0.4579923033
+	determine: 0.4575673262
+	as: 0.4574684115
+	explicitly: 0.457331454
+	student: 0.4572748846
+	defined: 0.4570869631
+	simultaneously: 0.4567892659
+	proportion: 0.4566423314
+	rapid: 0.4566398702
+	differentially: 0.4566123231
+	visiting: 0.4566123231
+	numerous: 0.4560136474
+	ie: 0.4558951014
+	understand: 0.4557521109
+	enabling: 0.4556601951
+	remaining: 0.4555251542
+	hypothesised: 0.4555251542
+	macro: 0.4555251542
+	bodies: 0.4555251542
+	leads: 0.4554055149
+	resulting: 0.4552868814
+	neutralizing: 0.4552719192
+	incorporates: 0.4552421555
+	together: 0.4551660058
+	responsibilities: 0.4550069328
+	dimension: 0.4550069328
+	genera: 0.4548149089
+	broadly: 0.4548075015
+	studying: 0.4548075015
+	orders: 0.4546013076
+	majority: 0.4544798129
+	second: 0.4544710843
+	inside: 0.454327512
+	rather: 0.4542177791
+	standardised: 0.4541974256
+	exploring: 0.4541803141
+	most: 0.4540359331
+	assessing: 0.4539636486
+	investigating: 0.4537097982
+	full: 0.4532676215
+	collaboration: 0.4532340236
+	et: 0.4531130029
+	abnormal: 0.4529234016
+	creating: 0.4527892749
+	coordinated: 0.4527892749
+	historical: 0.4527892749
+	evolving: 0.4523511046
+	complement: 0.4522324275
+	examine: 0.4520669518
+	evaluate: 0.4515924228
+	predicting: 0.4513074187
+	immediately: 0.4513006995
+	adequately: 0.4513006995
+	enabled: 0.4513006995
+	narrative: 0.4512802288
+	unfortunately: 0.4508621482
+	designed: 0.4507732737
+	correct: 0.4503815417
+	promoting: 0.450299882
+	since: 0.4502201008
+	addressing: 0.4502108071
+	focused: 0.4498102308
+	|: 0.4496184944
+	advice: 0.4494073448
+	everyday: 0.4493227448
+	expertise: 0.4493227448
+	isolate: 0.4493227448
+	one: 0.4490814827
+	dimensional: 0.4490632695
+	category: 0.4490407785
+	spanning: 0.4490407785
+	matching: 0.4490407785
+	disadvantaged: 0.4490407785
+	completion: 0.4490407785
+	encoded: 0.4490407785
+	operational: 0.4489508389
+	shedding: 0.4487632508
+	analyse: 0.4487632508
+	cut: 0.4487632508
+	enforced: 0.4487632508
+	regulate: 0.447871863
+	protecting: 0.447871863
+	adding: 0.447871863
+	formal: 0.447871863
+	consequences: 0.4478420381
+	opportunistic: 0.4476230529
+	encode: 0.4476230529
+	heavy: 0.4476230529
+	norm: 0.4476230529
+	standards: 0.447594043
+	connections: 0.4473573126
+	collect: 0.4473573126
+	inducing: 0.4473573126
+	translated: 0.4473573126
+	touch: 0.4473573126
+	parties: 0.4473573126
+	fitted: 0.4473573126
+	acceptable: 0.4473573126
+	focussed: 0.4473573126
+	displayed: 0.4473573126
+	enhancing: 0.447205273
+	facilitating: 0.447205273
+	contribute: 0.4466896217
+	approximately: 0.4464224929
+	seems: 0.446383651
+	∼: 0.4461362923
+	secondly: 0.4459241049
+	weak: 0.4457700648
+	further: 0.4457384696
+	managing: 0.4452163763
+	extended: 0.4450789588
+	±: 0.4449635348
+	oriented: 0.4449036204
+	heightened: 0.4445956443
+	notion: 0.4445956443
+	disproportionately: 0.4445956443
+	such: 0.444523736
+	encompasses: 0.4444529142
+	abundant: 0.4444529142
+	near: 0.4444353194
+	leading: 0.4440067816
+	idea: 0.443662874
+	technical: 0.4436030943
+	chosen: 0.4430496258
+	recover: 0.4429839916
+	capability: 0.4429839916
+	continue: 0.4429697799
+	after: 0.4428745637
+	generally: 0.4426436754
+	extensive: 0.4424387662
+	sizes: 0.4420786174
+	involved: 0.4419919159
+	contextual: 0.4419693626
+	heterogeneous: 0.4419670118
+	stronger: 0.4419670118
+	listed: 0.4417392974
+	minimizing: 0.4417392974
+	minimise: 0.4417392974
+	lasting: 0.4417392974
+	cover: 0.4417392974
+	categorized: 0.4417392974
+	accompanied: 0.4417392974
+	eliminate: 0.4417392974
+	outer: 0.4417392974
+	transferred: 0.4417392974
+	kinds: 0.4417392974
+	equipped: 0.4417392974
+	helped: 0.4417392974
+	participating: 0.4417392974
+	besides: 0.4416659581
+	cleaved: 0.4415104604
+	classify: 0.4415104604
+	choose: 0.4415104604
+	lost: 0.4415104604
+	dramatic: 0.4415104604
+	proximity: 0.4415104604
+	projected: 0.4415104604
+	explained: 0.4415104604
+	calling: 0.4415104604
+	promotes: 0.4415104604
+	identifying: 0.4412920973
+	decreased: 0.4412796687
+	except: 0.4412300072
+	carry: 0.4411710936
+	captured: 0.4411710936
+	motivated: 0.4411710936
+	if: 0.4410041287
+	adequate: 0.4409249419
+	regulating: 0.4408541357
+	worse: 0.4407427112
+	integrate: 0.4407427112
+	capabilities: 0.4406623724
+	trajectory: 0.4406623724
+	actual: 0.4406623724
+	grow: 0.4404947201
+	explores: 0.4404947201
+	threatening: 0.4404947201
+	visit: 0.4404947201
+	adopting: 0.4404947201
+	undergoing: 0.4404947201
+	synthesized: 0.4404947201
+	comprises: 0.4404947201
+	suggestions: 0.4401923717
+	select: 0.4401923717
+	right: 0.4399811967
+	causal: 0.4399351559
+	seek: 0.4399351559
+	putative: 0.4398944603
+	examining: 0.4397070066
+	elevated: 0.4392734451
+	suffering: 0.4391947472
+	modelling: 0.4391538749
+	guided: 0.4391371296
+	first: 0.4385774037
+	determining: 0.4380976559
+	attract: 0.4378729369
+	desirable: 0.4378729369
+	lowest: 0.4378729369
+	appointments: 0.4378729369
+	sequenced: 0.4378729369
+	remarkable: 0.4378729369
+	gave: 0.4378729369
+	properly: 0.4378729369
+	promoted: 0.4378729369
+	diagnosing: 0.4378729369
+	improving: 0.4377862006
+	a: 0.4377292629
+	incorporate: 0.4375027233
+	difficult: 0.4374518209
+	shorter: 0.4370875457
+	ensuring: 0.43674871
+	expanding: 0.4366945982
+	introduces: 0.4366945982
+	heavily: 0.4366945982
+	prompted: 0.4366945982
+	consistently: 0.4366945982
+	raise: 0.4366945982
+	agreement: 0.4366945982
+	offering: 0.4366945982
+	intense: 0.4366945982
+	expanded: 0.4366945982
+	transient: 0.436655599
+	separate: 0.4366012041
+	candidates: 0.4365661148
+	altered: 0.4365474317
+	characterize: 0.4364880608
+	accurately: 0.4364880608
+	utilisation: 0.4364880608
+	varies: 0.4364880608
+	carefully: 0.4364880608
+	utilised: 0.4364880608
+	guidance: 0.4364393693
+	even: 0.4362885248
+	list: 0.4362751287
+	younger: 0.4362751287
+	typical: 0.4362498818
+	obvious: 0.4362397381
+	sub: 0.4361577306
+	disruption: 0.4361308508
+	mentioned: 0.435961592
+	dominated: 0.435961592
+	contained: 0.435961592
+	chance: 0.435961592
+	returned: 0.435961592
+	defining: 0.4359459598
+	away: 0.4358030857
+	lack: 0.4356969537
+	reduces: 0.4356477209
+	compared: 0.4356392813
+	no: 0.4350470646
+	asymptomatic: 0.4347696019
+	none: 0.4338758366
+	formed: 0.4336473677
+	earlier: 0.4336473677
+	comparable: 0.4336125322
+	managed: 0.4334170932
+	temporary: 0.4334170932
+	partial: 0.4332997783
+	argued: 0.4332937011
+	avoiding: 0.4332937011
+	conducting: 0.4332937011
+	describing: 0.4332937011
+	responded: 0.4332937011
+	placed: 0.433280636
+	endemic: 0.4332425633
+	aimed: 0.4331372632
+	meanwhile: 0.4330766028
+	…: 0.4330714559
+	temporarily: 0.4330714559
+	advancing: 0.4330714559
+	connect: 0.4330714559
+	realistic: 0.4330714559
+	forming: 0.4330714559
+	comprise: 0.4330714559
+	derive: 0.4330714559
+	considerably: 0.4330714559
+	contracting: 0.4330714559
+	overwhelming: 0.4330714559
+	partly: 0.4330714559
+	exception: 0.4330714559
+	feeling: 0.4330714559
+	performs: 0.4330714559
+	discovered: 0.4330714559
+	stringent: 0.4330714559
+	discussing: 0.4330714559
+	avoided: 0.4328436778
+	determines: 0.4328436778
+	learned: 0.4328436778
+	portion: 0.4328436778
+	counterparts: 0.4328436778
+	spent: 0.4328436778
+	explains: 0.4328436778
+	optimized: 0.4328436778
+	mediate: 0.4328436778
+	accelerate: 0.4328436778
+	problematic: 0.4328436778
+	drawn: 0.4328436778
+	actively: 0.4328436778
+	meaningful: 0.4328436778
+	formulated: 0.4328436778
+	potent: 0.4328436778
+	eligible: 0.4328436778
+	unnecessary: 0.4328436778
+	inherent: 0.4328436778
+	expand: 0.4328436778
+	so: 0.4327356364
+	regarding: 0.432733597
+	strict: 0.4323339397
+	sustained: 0.4323203789
+	wider: 0.432284704
+	position: 0.4322719506
+	accurate: 0.4322638781
+	monitoring: 0.4319828721
+	many: 0.4319643053
+	the: 0.431879814
+	profiles: 0.4316818552
+	alter: 0.4315871637
+	analyzing: 0.4315871637
+	outlined: 0.4315871637
+	quantified: 0.4315871637
+	proportional: 0.4315871637
+	expect: 0.4315871637
+	differentiate: 0.4315871637
+	smaller: 0.4315871637
+	inhibits: 0.4315871637
+	held: 0.4315871637
+	−: 0.4313987171
+	due: 0.4313515403
+	concluded: 0.4310554606
+	notable: 0.4310554606
+	undertook: 0.4310554606
+	triggered: 0.4310554606
+	unexpected: 0.4310554606
+	precise: 0.4310554606
+	initiated: 0.4310554606
+	played: 0.4310554606
+	enter: 0.4310554606
+	gathering: 0.4310554606
+	holistic: 0.4310554606
+	applies: 0.4310554606
+	relied: 0.4310554606
+	facilitates: 0.4310554606
+	in: 0.4308078777
+	termed: 0.4307340926
+	combine: 0.4305606949
+	shaped: 0.4305606949
+	attracted: 0.4305606949
+	processed: 0.4305606949
+	marked: 0.4305606949
+	asked: 0.4302337014
+	several: 0.4301186323
+	removed: 0.4295177063
+	terminal: 0.4294878679
+	far: 0.4287802036
+	options: 0.4287213432
+	restricted: 0.4282990843
+	campaigns: 0.4279544774
+	priorities: 0.4279544774
+	distinguish: 0.4279544774
+	emerge: 0.4279544774
+	confirm: 0.4279544774
+	placing: 0.4279544774
+	residing: 0.4279544774
+	summarized: 0.4279544774
+	span: 0.4279544774
+	proper: 0.4279544774
+	aware: 0.4279544774
+	decreasing: 0.4279544774
+	ago: 0.4279544774
+	composed: 0.4279544774
+	issued: 0.4279544774
+	gradual: 0.4279544774
+	lacking: 0.4279544774
+	markedly: 0.4279544774
+	contributor: 0.4279544774
+	scarce: 0.4279544774
+	participated: 0.4279544774
+	coming: 0.4279544774
+	solely: 0.4279544774
+	scores: 0.4270583101
+	over: 0.4269966761
+	poses: 0.4268502494
+	degrees: 0.4268502494
+	~: 0.4268502494
+	each: 0.4264133427
+	newly: 0.4263163888
+	frequent: 0.4261003735
+	conclude: 0.4260301837
+	apart: 0.425429122
+	providing: 0.4252437024
+	targeting: 0.4251363326
+	subsequent: 0.4251363326
+	ideal: 0.4250217218
+	improved: 0.4249650011
+	original: 0.4248466968
+	urgently: 0.4245790528
+	constructed: 0.4245790528
+	improves: 0.4245790528
+	maintained: 0.4243123479
+	then: 0.4239390184
+	greatest: 0.4237058849
+	accepted: 0.4233612443
+	does: 0.4229818702
+	systematically: 0.4229504203
+	operate: 0.4229504203
+	takes: 0.4229504203
+	induce: 0.4229504203
+	trigger: 0.4229504203
+	characterise: 0.4229504203
+	ideas: 0.4229504203
+	causative: 0.4229504203
+	indirectly: 0.4229504203
+	constitutes: 0.4229504203
+	sophisticated: 0.4229504203
+	regular: 0.4225379225
+	valuable: 0.4223765865
+	incorporating: 0.4222620289
+	micro: 0.4222620289
+	reaching: 0.4222620289
+	hypothesized: 0.4221098075
+	increasingly: 0.4220459259
+	decreases: 0.4219885467
+	receiving: 0.4217061121
+	during: 0.4215065982
+	acknowledged: 0.421038136
+	constitute: 0.421038136
+	poor: 0.4203090211
+	trying: 0.4202266415
+	teams: 0.4202221183
+	option: 0.4201414584
+	supports: 0.4201414584
+	prevalent: 0.4200369284
+	preventative: 0.4200369284
+	employ: 0.4200369284
+	producing: 0.4200369284
+	map: 0.4200369284
+	observe: 0.4200369284
+	helps: 0.419573122
+	≥: 0.4195554516
+	targeted: 0.4194978243
+	three: 0.4190432664
+	revealed: 0.4190075695
+	inhibit: 0.4189508544
+	prepared: 0.4189508544
+	other: 0.4186130753
+	verified: 0.4185573174
+	argue: 0.4185573174
+	imperative: 0.4185082959
+	latest: 0.4185082959
+	enables: 0.4185082959
+	devastating: 0.4185082959
+	illustrated: 0.4185082959
+	true: 0.4179347263
+	involvement: 0.4178170085
+	stable: 0.4177971748
+	disruptions: 0.4176668495
+	fast: 0.4172434003
+	less: 0.4172325216
+	among: 0.4172231103
+	excellent: 0.4172116671
+	sudden: 0.4172116671
+	summarize: 0.4172116671
+	felt: 0.4172116671
+	assumed: 0.4172116671
+	powerful: 0.4172116671
+	draws: 0.4172116671
+	mandatory: 0.4172116671
+	requirements: 0.417090223
+	priority: 0.416873904
+	trained: 0.416873904
+	similarities: 0.4167542871
+	border: 0.4167542871
+	distinct: 0.4167315887
+	two: 0.4166048848
+	accordingly: 0.416600083
+	dramatically: 0.4165532378
+	facilitated: 0.4165532378
+	bring: 0.4165532378
+	candidate: 0.4165532378
+	covering: 0.4165532378
+	enhanced: 0.4164122544
+	generating: 0.4164122544
+	differences: 0.416293458
+	any: 0.4162282758
+	offered: 0.416137503
+	symptomatic: 0.4160822373
+	named: 0.4158864279
+	intra: 0.4158864279
+	fewer: 0.4158864279
+	extend: 0.4157818979
+	comprising: 0.4157818979
+	respective: 0.4157818979
+	enormous: 0.4157818979
+	articles: 0.4157354259
+	complicated: 0.4157147156
+	non: 0.4155664433
+	released: 0.4155551041
+	best: 0.414992103
+	at: 0.4148916769
+	typically: 0.4147985
+	performing: 0.4145865987
+	proved: 0.4145865987
+	inadequate: 0.4145865987
+	apparent: 0.4145865987
+	stated: 0.4145865987
+	completely: 0.4142710992
+	disrupted: 0.4142710992
+	better: 0.4142683248
+	readily: 0.4137695427
+	exacerbated: 0.4137695427
+	fall: 0.4137695427
+	constrained: 0.4137695427
+	herein: 0.4137293851
+	establishing: 0.4134906775
+	differ: 0.4134906775
+	concerned: 0.4134906775
+	persist: 0.4134906775
+	before: 0.4131876193
+	closing: 0.4129252543
+	administered: 0.4129252543
+	reached: 0.4128377658
+	real: 0.4128155013
+	locally: 0.4126412494
+	profound: 0.4126412494
+	raised: 0.4126412494
+	representing: 0.4126412494
+	greatly: 0.4126412494
+	introduce: 0.4126412494
+	strain: 0.4123871598
+	very: 0.4123749424
+	utilized: 0.4122982073
+	huge: 0.4122982073
+	evolved: 0.4122982073
+	evident: 0.4122982073
+	encourage: 0.4122982073
+	limits: 0.4122982073
+	substantially: 0.4122982073
+	improvement: 0.4121425777
+	changing: 0.412087092
+	an: 0.4119653324
+	reducing: 0.4115720202
+	identifies: 0.411402457
+	rising: 0.411402457
+	increasing: 0.4107258548
+	efforts: 0.4106091547
+	discuss: 0.4103800957
+	beneficial: 0.4103194526
+	successful: 0.410309489
+	he: 0.4100655043
+	positively: 0.4098953537
+	faced: 0.4098953537
+	intended: 0.4098608278
+	damage: 0.409631229
+	interesting: 0.4089365825
+	starting: 0.4086310969
+	modified: 0.4085810969
+	finding: 0.4083763664
+	you: 0.4079609706
+	impacting: 0.4077726073
+	validated: 0.4077726073
+	recommend: 0.4076525776
+	specific: 0.4071914757
+	only: 0.4069964692
+	borders: 0.4067097122
+	rarely: 0.4067097122
+	recognized: 0.4066862175
+	whether: 0.406679652
+	novel: 0.4064905914
+	points: 0.4063517238
+	varying: 0.4060760248
+	maintaining: 0.40595144
+	easily: 0.405872156
+	apply: 0.4055690162
+	vast: 0.4053859109
+	draw: 0.4053859109
+	on: 0.4052138436
+	achieving: 0.4052119261
+	timely: 0.404374539
+	for: 0.4042105621
+	various: 0.4039198111
+	robust: 0.4038394621
+	allow: 0.4038363844
+	latter: 0.403792977
+	affecting: 0.4035899118
+	by: 0.4035154158
+	delivered: 0.4034060215
+	genus: 0.4032894
+	allowing: 0.4032894
+	serious: 0.403104773
+	about: 0.4029644675
+	target: 0.4029343856
+	taking: 0.4028952061
+	make: 0.4026863632
+	treating: 0.402574673
+	un: 0.4024135042
+	allowed: 0.4021599882
+	spreading: 0.4021338446
+	highlighting: 0.4020967287
+	broader: 0.4020763274
+	considerable: 0.4020605405
+	vital: 0.4020605405
+	prominent: 0.4019459417
+	requirement: 0.4019459417
+	widespread: 0.4016572941
+	larger: 0.4016053271
+	underlying: 0.4015415451
+	detailed: 0.4014560205
+	involve: 0.4012906681
+	started: 0.4012906681
+	century: 0.4012906681
+	gained: 0.4012906681
+	searched: 0.4012906681
+	received: 0.401223217
+	clear: 0.4011413778
+	previously: 0.4008442591
+	affects: 0.4004808755
+	score: 0.4003872541
+	cause: 0.4000693246
+	moreover: 0.3998873649
+	adopted: 0.3998824699
+	noted: 0.3995739208
+	per: 0.3995676694
+	varied: 0.3995620884
+	extensively: 0.3995620884
+	up: 0.3993099062
+	presents: 0.3992719938
+	with: 0.3991433457
+	fundamental: 0.3991152369
+	directly: 0.3991037008
+	poorer: 0.3990240014
+	forced: 0.3990240014
+	offers: 0.3990240014
+	negatively: 0.3990240014
+	reduced: 0.3989235614
+	discusses: 0.3989212975
+	+: 0.3987447616
+	furthermore: 0.398573952
+	efficient: 0.398522221
+	impacted: 0.3984168075
+	nevertheless: 0.3983924192
+	minimal: 0.398368149
+	exists: 0.398368149
+	being: 0.3983409621
+	requires: 0.3982736662
+	involves: 0.3982357743
+	influences: 0.3977590581
+	drive: 0.3977590581
+	manner: 0.3974329547
+	successfully: 0.3974329547
+	ways: 0.3973888802
+	largely: 0.3972481842
+	insufficient: 0.3971145023
+	demonstrates: 0.3968701613
+	deployed: 0.3968701613
+	under: 0.3968332851
+	take: 0.3967828544
+	efficiently: 0.3965651187
+	recruited: 0.3965651187
+	question: 0.3964357743
+	also: 0.3962521915
+	more: 0.3960398659
+	achieved: 0.3960005652
+	highlight: 0.3958611382
+	indicating: 0.3957813161
+	undertaken: 0.3957813161
+	requiring: 0.3957159187
+	recommended: 0.3957007924
+	indicated: 0.395690556
+	expressed: 0.3956438457
+	remained: 0.3955101893
+	explored: 0.3953674591
+	highlighted: 0.3952481842
+	shared: 0.3950005652
+	primarily: 0.3947007924
+	independently: 0.3946210711
+	brought: 0.3946210711
+	examines: 0.3946210711
+	colleagues: 0.3946188161
+	well: 0.394617287
+	shows: 0.3944236496
+	frequently: 0.3943774378
+	imposed: 0.3943476893
+	represented: 0.3941241532
+	sufficient: 0.3938774378
+	mild: 0.3938774378
+	remain: 0.3937841113
+	reliable: 0.3936957506
+	involving: 0.3935445768
+	recorded: 0.3934209563
+	potentially: 0.3931769455
+	entry: 0.3931241532
+	exhibit: 0.3930695918
+	experiencing: 0.3929555658
+	suggests: 0.392835287
+	analyzed: 0.3927881113
+	quickly: 0.3925024378
+	offer: 0.3925024378
+	us: 0.3924914407
+	particular: 0.3924727693
+	twenty: 0.3924619544
+	performed: 0.3923162176
+	suggesting: 0.3922266799
+	including: 0.3921824642
+	https: 0.3921686203
+	surrounding: 0.3920985992
+	poorly: 0.3920985992
+	evaluated: 0.3919224298
+	predicted: 0.3918013313
+	causing: 0.3917112435
+	largest: 0.3915683724
+	from: 0.3913988613
+	analysed: 0.39133992
+	but: 0.3913181522
+	effectively: 0.3912545945
+	unknown: 0.3911584281
+	created: 0.3911166006
+	rapidly: 0.3907662176
+	unclear: 0.3907545742
+	propose: 0.3906995223
+	highly: 0.3906920284
+	represents: 0.390672527
+	addressed: 0.3906003746
+	investigated: 0.3902617432
+	reflect: 0.3902502014
+	describes: 0.390173885
+	understood: 0.390173885
+	carried: 0.3899001028
+	demonstrated: 0.389833417
+	seen: 0.3895012997
+	selected: 0.3894347325
+	completed: 0.3892502014
+	exist: 0.3891931509
+	vary: 0.3888196348
+	occurs: 0.3887304603
+	limiting: 0.3882253746
+	predominantly: 0.3882253746
+	makes: 0.3882253746
+	tested: 0.3879941993
+	remains: 0.3879662176
+	include: 0.3877864238
+	changed: 0.387704385
+	studied: 0.3876815369
+	facing: 0.3874914295
+	whole: 0.3873414501
+	plays: 0.38694024
+	innovative: 0.386703447
+	approved: 0.3863305598
+	experienced: 0.3860226102
+	suggested: 0.3859945629
+	changes: 0.3858369621
+	require: 0.3854765357
+	showing: 0.3853945629
+	made: 0.3846500199
+	needs: 0.3845363679
+	help: 0.3843266903
+	severely: 0.3842183279
+	examined: 0.3838699985
+	assessed: 0.3834870833
+	introduced: 0.3834486218
+	between: 0.382797038
+	last: 0.3827339187
+	however: 0.3826627043
+	promising: 0.3825111694
+	follows: 0.382224999
+	against: 0.3818536183
+	across: 0.3817828436
+	includes: 0.3816441993
+	not: 0.3814875071
+	plus: 0.3812786736
+	different: 0.3805865587
+	consequently: 0.3804104905
+	get: 0.3790278692
+	use: 0.3780888691
+	show: 0.3780306586
+	of: 0.3769566084
+	few: 0.3768492193
+	who: 0.3762292737
+	useful: 0.3760773786
+	here: 0.3760277063
+	neither: 0.3758960167
+	hence: 0.3754652125
+	indeed: 0.3751269318
+	do: 0.3736244752
+	appear: 0.3734720641
+	into: 0.372901644
+	contain: 0.3721062811
+	to: 0.3720279058
+	clearly: 0.3717579339
+	than: 0.3712455345
+	known: 0.3701352743
+	along: 0.3695994606
+	possible: 0.3695633148
+	may: 0.3692751115
+	never: 0.369057965
+	way: 0.3680846243
+	despite: 0.3666599881
+	saw: 0.3665677658
+	go: 0.365778662
+	associated: 0.3654330813
+	sometimes: 0.3654082694
+	quite: 0.3651748402
+	looking: 0.3641409451
+	necessary: 0.3627145837
+	while: 0.3616912106
+	described: 0.3615275442
+	it: 0.3605352848
+	we: 0.3605325653
+	least: 0.3603868361
+	found: 0.3594725025
+	used: 0.3592979516
+	likely: 0.3592384579
+	although: 0.3587977512
+	therefore: 0.3578263226
+	=: 0.3577472884
+	there: 0.3574626091
+	think: 0.3570327753
+	our: 0.3564785306
+	these: 0.3559802562
+	instead: 0.3555772713
+
+Cluster 1:
+	artificial intelligence: 0.9703381408
+	diabetes mellitus: 0.9701417739
+	emotional intelligence: 0.9664788377
+	polymerase chain reaction: 0.9652708949
+	odds ratio: 0.9636471569
+	feature selection: 0.9626262355
+	acute respiratory distress syndrome: 0.9587575918
+	cytokine storm: 0.9571168462
+	blood pressure: 0.9569620346
+	air pollution: 0.9562463923
+	systematic reviews: 0.9554298338
+	machine learning: 0.9549922012
+	intensive care unit: 0.9527281991
+	palliative care: 0.952121534
+	positive psychology: 0.9519275034
+	chronic obstructive pulmonary disease: 0.9506112103
+	hydrogen peroxide: 0.9499021292
+	sustainable development: 0.9498529001
+	respiratory syncytial virus: 0.9497556651
+	human immunodeficiency virus: 0.9489555359
+	food security: 0.9474901158
+	indigenous peoples: 0.9468096628
+	manual therapy: 0.9450984852
+	sustainable development goals: 0.9449543396
+	deep learning: 0.9446841816
+	emergency department: 0.9445464871
+	information overload: 0.9436355974
+	clinical trials: 0.9420295334
+	anti inflammatory: 0.9410392661
+	logistic regression: 0.9398337999
+	personal protective equipment: 0.9397407309
+	angiotensin converting enzyme: 0.9395396551
+	computed tomography: 0.9391573316
+	neural networks: 0.9385008467
+	epithelial cells: 0.9363982784
+	food insecurity: 0.9362100807
+	incubation period: 0.9329849208
+	supply chain: 0.9327346574
+	suicide prevention: 0.9327020002
+	financial crisis: 0.932238704
+	immune response: 0.9321940067
+	scoping review: 0.9318579741
+	drug discovery: 0.9315060253
+	psychological distress: 0.9313874317
+	standard precautions: 0.9313313317
+	antimicrobial resistance: 0.9296222797
+	intensive care: 0.9290638677
+	ion channels: 0.9285641861
+	immune responses: 0.9284647876
+	prone positioning: 0.9278611482
+	infectious bronchitis: 0.9274492741
+	human rights: 0.9274240535
+	tobacco smoking: 0.9273310481
+	distance learning: 0.9267427205
+	medicinal plants: 0.9264397384
+	gene expression: 0.9255323875
+	neural network: 0.9245481287
+	climate change: 0.9236366125
+	mental health: 0.9225897673
+	young people's: 0.9220655534
+	herd immunity: 0.9211434808
+	nk cells: 0.920820548
+	fruit bats: 0.9207780396
+	relative humidity: 0.9191370095
+	psychological injury: 0.9189434253
+	myocardial injury: 0.9178043509
+	magnetic resonance: 0.9159362633
+	severe acute respiratory syndrome: 0.9155902904
+	systematic review: 0.9149886273
+	primary care: 0.9149056779
+	convolutional neural: 0.912419368
+	supply chains: 0.9120324076
+	pregnant women: 0.9114684181
+	social media: 0.9104491791
+	extreme events: 0.9094113545
+	literature review: 0.9089700991
+	factors influencing: 0.9087501373
+	health promotion: 0.9086388551
+	semi structured interviews: 0.9080854008
+	older adults: 0.9079224749
+	respiratory failure: 0.9073060757
+	food vacuole: 0.9068789015
+	public health: 0.9051324027
+	hand washing: 0.9047820284
+	early childhood educators: 0.9035279766
+	contact lens: 0.9028875223
+	university students: 0.9023187715
+	mortality rate: 0.9017253184
+	ecosystem services: 0.9015642751
+	health literacy: 0.9011720122
+	food literacy: 0.9004822317
+	higher education: 0.8991807302
+	word count: 0.8981121013
+	respiratory tract: 0.8980447344
+	power law: 0.8976455527
+	upper respiratory tract: 0.8971332585
+	online proctoring: 0.8960632044
+	air quality: 0.8951864898
+	matrix factorization: 0.8942138256
+	regional migration: 0.8934753446
+	science diplomacy: 0.8932352624
+	cell lines: 0.892496155
+	mood disorder: 0.8917374383
+	cohort study: 0.8897403874
+	contact tracing: 0.8882935076
+	cardiovascular disease: 0.8878812799
+	quaternary ammonium: 0.8875271567
+	trait ei: 0.8871441855
+	birth weight: 0.8869857841
+	visually impaired: 0.8861960077
+	early childhood: 0.8858731457
+	physically active: 0.8853621437
+	primary health care: 0.8852818307
+	influenza virus: 0.8850322025
+	gestational diabetes: 0.8844976681
+	drug repurposing: 0.8844548112
+	street performers: 0.8842814511
+	identity leadership: 0.8841100502
+	differential privacy: 0.884023153
+	natural disasters: 0.8833402735
+	young children: 0.8831506324
+	lung cancer: 0.8828953758
+	emotional exhaustion: 0.8828161879
+	service utilization: 0.8827977285
+	television viewing: 0.8826976119
+	physical distancing: 0.881820776
+	conceptual framework: 0.8804314719
+	open book assessment: 0.8772532332
+	medical imaging: 0.877175931
+	seasonal influenza: 0.8757531617
+	scientific names: 0.8731535847
+	mental health problems: 0.8717210757
+	experiential loyalty: 0.8715450789
+	dating apps: 0.8713890487
+	confirmed cases: 0.8710938011
+	social isolation: 0.8703670436
+	digital contact tracing: 0.8701161616
+	privacy preserving: 0.8699714233
+	written feedback: 0.8693981718
+	tourism industry: 0.8692781456
+	young adults: 0.8692160789
+	coping strategies: 0.8687290803
+	standard care: 0.8686697088
+	randomised controlled trial: 0.8684184849
+	physical activity: 0.8683565842
+	respiratory viruses: 0.8683231756
+	maternal immunisation: 0.8677530271
+	subjective memory: 0.8645411213
+	polymerase chain: 0.8625810476
+	sedentary behaviour: 0.8618692399
+	behaviour change: 0.861447412
+	face masks: 0.8614002741
+	career progression: 0.861025039
+	risk factor: 0.8601434139
+	drug delivery: 0.859292644
+	healthcare workers: 0.8588078111
+	airborne transmission: 0.857548833
+	local food: 0.8573452155
+	mask wearing: 0.856671313
+	rna viruses: 0.855049643
+	innate immune: 0.8547458115
+	social ecological: 0.8533300289
+	aquatic food: 0.8525607259
+	developing countries: 0.8509206114
+	chest x ray images: 0.8506097091
+	healthcare systems: 0.8499082188
+	plasma glucose: 0.8498817567
+	social support: 0.8487611877
+	critical care: 0.8477260356
+	energy consumption: 0.8476856825
+	severe symptoms: 0.8474397325
+	reproductive travel: 0.844720845
+	socio economic: 0.8444809666
+	network analysis: 0.8444184253
+	maternal morbidity: 0.8442573905
+	vaccination strategies: 0.8437393243
+	variety seeking: 0.8430632473
+	middle east respiratory syndrome: 0.8428420517
+	experimental results: 0.8417901436
+	respiratory distress syndrome: 0.8417130299
+	social policies: 0.8406847716
+	alcohol consumption: 0.8405810993
+	adaptive immune: 0.8405667994
+	hospitalized patients: 0.8369775882
+	health professionals: 0.8369153461
+	cardiovascular diseases: 0.8366565809
+	adverse events: 0.8365436053
+	infected person: 0.8364573049
+	health protective behavior: 0.8364563288
+	policy makers: 0.835288657
+	social distancing: 0.8351938179
+	qualitative study: 0.834910109
+	animal diseases: 0.8336281096
+	kidney disease: 0.8329684674
+	health care: 0.8318978822
+	pro inflammatory: 0.831153927
+	early stage: 0.8304930886
+	infectious disease: 0.8303242923
+	disaster management: 0.8301872902
+	vaccine efficacy: 0.8290271529
+	samples collected: 0.8289289407
+	immune cells: 0.8288579616
+	genome sequencing: 0.8281261941
+	sex biased: 0.8275237596
+	infectious diseases: 0.8265293895
+	data collection: 0.8262856392
+	health risk behaviors: 0.8260524896
+	travel restrictions: 0.8252114546
+	individual responsibility: 0.8248219828
+	growth centric: 0.8243757943
+	family members: 0.8239529606
+	hand hygiene: 0.8229587401
+	clinical trial: 0.8222554659
+	short term: 0.8221740384
+	image classification: 0.8208995352
+	chronic diseases: 0.8184834833
+	medicines lists: 0.8178784817
+	infectious disease outbreaks: 0.8175838752
+	ultrasound images: 0.8174950711
+	lower respiratory tract: 0.8171963615
+	viral vectors: 0.8161252079
+	case study: 0.8147913208
+	movement behaviors: 0.8146322848
+	community transmission: 0.8135654124
+	bat ecology: 0.8133396281
+	housing market: 0.8131502189
+	low prevalence: 0.8113972324
+	chronic respiratory: 0.8112098728
+	depressive symptoms: 0.8109887706
+	structural proteins: 0.8103862249
+	transmission dynamics: 0.8102218368
+	anxiety symptoms: 0.8096538972
+	health service: 0.8096203442
+	viral infections: 0.8083078075
+	decision making: 0.8081844359
+	disease severity: 0.8054532496
+	controlled trials: 0.8052146074
+	chronic disease: 0.8044555492
+	infected cells: 0.803999693
+	global health: 0.8032472874
+	respiratory illness: 0.8025408006
+	convolutional neural network: 0.800481549
+	indoor airflow: 0.8003186934
+	physical activity participation: 0.7979028435
+	care providers: 0.7966140772
+	clinical practice: 0.7963133294
+	viral rna: 0.7962851339
+	infection control: 0.7943021585
+	thematic analysis: 0.793434328
+	children aged: 0.7929697627
+	acute respiratory: 0.7928255646
+	hand hygiene and mask wearing: 0.7924201568
+	health authorities: 0.7919967144
+	cross sectional: 0.7908140381
+	containment measures: 0.7902026975
+	health care workers: 0.7895259011
+	standardized office: 0.7893756121
+	proposed method: 0.7892350164
+	physical health: 0.787750248
+	contact information: 0.7876506161
+	study protocol: 0.7868245149
+	mortality rates: 0.7865429841
+	research questions: 0.7863874055
+	risk factors: 0.7863677344
+	labor market: 0.7856721168
+	economic development: 0.7851215226
+	health services: 0.7841573586
+	ibd patients: 0.783724686
+	bat populations: 0.7828515829
+	proactive coping for technostress: 0.7824728025
+	social distancing measures: 0.7822521521
+	pandemic environments: 0.7821055791
+	healthcare rationing: 0.7817892737
+	zoonotic viruses: 0.781369137
+	type heartbeats: 0.780169592
+	high income countries: 0.7799082436
+	multi step: 0.779734282
+	excess mortality: 0.779143937
+	forestry sector: 0.7782576853
+	public health workforce: 0.7781527011
+	chronic conditions: 0.7779169671
+	host cell: 0.7768761969
+	middle income countries: 0.776127368
+	case fatality: 0.775313421
+	dengue cases: 0.7746638768
+	risk mitigation: 0.7740238501
+	wage subsidy: 0.7732511623
+	viral replication: 0.7725265238
+	health care professionals: 0.7703115769
+	high risk: 0.766529458
+	suspected cases: 0.7664163766
+	healthcare settings: 0.7654644544
+	proactive coping: 0.7653889694
+	pandemic preparedness: 0.7648413375
+	type 2 diabetes: 0.7644055663
+	adverse outcomes: 0.7640744384
+	bat species: 0.7622593576
+	data sets: 0.7622455801
+	pharmacy students: 0.7611511981
+	reverse transcription: 0.7574573173
+	real world: 0.7571198642
+	x ray: 0.7567587637
+	income countries: 0.75580857
+	healthcare professionals: 0.7537998563
+	data analysis: 0.7522411209
+	study design: 0.7514058606
+	health systems: 0.7504440885
+	mass vaccination: 0.7504386426
+	tract infections: 0.7462413119
+	palliative care services: 0.7458742546
+	life history: 0.7412517644
+	cohort studies: 0.7397288307
+	middle income: 0.7396807504
+	business as usual: 0.7375125668
+	respiratory disease: 0.7370451314
+	office bp: 0.7367160418
+	health behaviors: 0.7354743157
+	high quality: 0.734455439
+	severe acute respiratory syndrome coronavirus: 0.7336930815
+	semi structured: 0.7335979565
+	proposed framework: 0.730742901
+	social groups: 0.7298442633
+	growth factor: 0.7274667392
+	disease spread: 0.7273035706
+	obstructive pulmonary: 0.7257198287
+	case studies: 0.7256783007
+	vaccine development: 0.724738791
+	women of reproductive age: 0.7216243116
+	cnn model: 0.7195339246
+	home based: 0.7194098971
+	public health measures: 0.7172148685
+	positive sense: 0.7153832547
+	disease progression: 0.7147192454
+	physical activity and sedentary: 0.7129842474
+	health outcomes: 0.7123790951
+	communicable diseases: 0.7107674304
+	low risk: 0.7099282425
+	prevalence of anaemia: 0.7096171539
+	severe acute respiratory: 0.7082826891
+	data sources: 0.7076683437
+	infected individuals: 0.7044903479
+	work family conflict: 0.7038963093
+	transmission rate: 0.7033966662
+	risk behaviors: 0.7029823378
+	angiotensin converting: 0.7009935833
+	negative impacts: 0.6985629492
+	animal models: 0.6978374322
+	public health crisis: 0.6939752853
+	self efficacy: 0.6933704856
+	virus transmission: 0.6932301112
+	remote communities: 0.6926212187
+	severe disease: 0.6918960705
+	respiratory infections: 0.6898162612
+	food consumption: 0.6842250763
+	respiratory diseases: 0.680312604
+	health crisis: 0.6802307035
+	systematic review and meta analysis: 0.6795410126
+	low income: 0.6791349555
+	low and middle income countries: 0.678536886
+	health related: 0.6783207939
+	future research: 0.6763369704
+	95 confidence interval: 0.6760473509
+	community based: 0.6758096902
+	close contact: 0.67270444
+	performers: 0.6709673628
+	public health emergency of international concern: 0.6678696187
+	medium and long term: 0.6669798008
+	public healthcare: 0.6659457368
+	infection rate: 0.6645646502
+	acute respiratory syndrome: 0.6641109143
+	severe acute respiratory syndrome coronavirus 2: 0.6599055543
+	health workforce: 0.6584740435
+	rural and remote communities: 0.6542272867
+	non communicable diseases: 0.6541331838
+	anxiety and depression: 0.6541062776
+	protective equipment: 0.6536268904
+	disease outbreaks: 0.6529906366
+	wage: 0.6524806338
+	acute respiratory syndrome coronavirus 2: 0.6510486617
+	personal protective: 0.6507043894
+	tourism: 0.6499794523
+	water and energy: 0.6491861199
+	health and wellbeing: 0.6477685072
+	public health interventions: 0.6468608914
+	person to person: 0.6468512779
+	protein as01: 0.6466734972
+	chest x ray: 0.6431648558
+	rural and remote: 0.6427175435
+	patients with ncds: 0.6405314523
+	cost effective: 0.6393821531
+	name strings: 0.6380661695
+	health care systems: 0.6379633182
+	confirmed and recovered: 0.6370181767
+	distancing measures: 0.636775166
+	viral infection: 0.6311802662
+	direct and indirect: 0.6249780846
+	local community: 0.6247699944
+	pharmaceutical interventions: 0.6224485924
+	hcws: 0.6128673798
+	infection rates: 0.6085038635
+	viral transmission: 0.6068974951
+	confirmed covid 19 cases: 0.6068049976
+	prevention measures: 0.6065336896
+	controlled trial: 0.6055213663
+	quality of life: 0.5993249317
+	biosecurity: 0.5975410921
+	face to face: 0.5969349721
+	early life: 0.5952658535
+	clinical outcomes: 0.5944223877
+	low and middle income: 0.5915211181
+	clinical care: 0.5898203528
+	increased risk: 0.5889529294
+	physiotherapists: 0.5874009531
+	funerals: 0.5873831871
+	preparedness and response: 0.5868539364
+	morbidity and mortality: 0.5819306918
+	non pharmaceutical interventions: 0.576021507
+	learning based: 0.5759923289
+	vitamin d: 0.5710475269
+	number of confirmed cases: 0.5699704317
+	point of care: 0.5647844796
+	respiratory distress: 0.5634932404
+	review and meta analysis: 0.558527365
+	systematic literature: 0.5567098232
+	health information: 0.5562346792
+	department of health: 0.5553156871
+	central nervous system: 0.5531176802
+	depersonalization: 0.5528575059
+	sneezing: 0.5525059157
+	family conflict: 0.5524118047
+	gloves: 0.5515625841
+	year olds: 0.549222819
+	interpreters: 0.5491562365
+	health emergency: 0.5459109888
+	mentor: 0.5447430763
+	human health: 0.5412431168
+	preschoolers: 0.5406240977
+	viral respiratory: 0.5387611375
+	global public health: 0.5362634207
+	government's: 0.533499814
+	x ray images: 0.5306081199
+	disinfecting: 0.5305855584
+	pedagogical: 0.526086967
+	control and prevention: 0.5250171008
+	time series prediction: 0.523439685
+	mortalities: 0.5221859703
+	prevention and control: 0.5211371686
+	social and economic: 0.5199719872
+	years of age: 0.5181158968
+	virus infection: 0.5162735062
+	model of care: 0.5136426793
+	risk of death: 0.5130929525
+	handwashing: 0.5055846927
+	seafood: 0.5055846927
+	sex bias in: 0.5034599993
+	patients with chronic: 0.4977603064
+	human to human: 0.4946390775
+	protective behavior: 0.4853514941
+	health risks: 0.4831336905
+	tourists: 0.4724605166
+	fatalities: 0.4722046277
+	proposed model: 0.4683410802
+	patients with severe: 0.4677408389
+	study conducted: 0.466402946
+	risk of developing: 0.4659467054
+	infected patients: 0.4602950596
+	disease transmission: 0.4545672294
+	time series: 0.4377672647
+	visitors: 0.4328436778
+	tobacco smoking use: 0.4327964601
+	policymakers: 0.4189508544
+	respiratory infection: 0.4174958341
+	critically ill: 0.416787493
+	for disease control and prevention: 0.4075893821
+	close contact with: 0.4047154678
+	first nations: 0.4009838473
+	early stages: 0.4001607321
+	risk of severe: 0.3948525095
+	health problems: 0.3785237297
+	time consuming: 0.3750996501
+	infected with sars cov 2: 0.3735895519
+	risk of infection: 0.3728182046
+	screen time: 0.3686796515
+	public health emergency: 0.3668139791
+	health conditions: 0.3643439021
+	population based: 0.3583627753
+
+Cluster 2:
+	august: 0.7162255444
+	july: 0.7075984133
+	september: 0.6929878456
+	april: 0.6711641369
+	june: 0.6558397627
+	january: 0.652567226
+	december: 0.6438588416
+	march: 0.6423615728
+	october: 0.5669805403
+	november: 0.5509703168
+	february: 0.5389471815
+
+Cluster 3:
+	hours: 0.5608239709
+	k: 0.553323044
+	d: 0.5404442305
+	c: 0.5231836381
+	l: 0.5208694865
+	h: 0.518239271
+	j: 0.5182144461
+	x: 0.5149696207
+	f: 0.5111157365
+	b: 0.5053838518
+	t: 0.5051711146
+	w: 0.5024271828
+	r: 0.5009072477
+	s: 0.4992705473
+	n: 0.4989147923
+	o: 0.4958247235
+	u: 0.4897090021
+	q: 0.4858384614
+	e: 0.4776527877
+	p: 0.4659084595
+	z: 0.4291596473
+	min: 0.4110242891
+	v: 0.4012992133
+	i: 0.4006211771
+	m: 0.3997569772
+	g: 0.3875279211
+	y: 0.3866771892
+
+Cluster 4:
+	iv: 0.6700474022
+	ii: 0.6608801666
+	3c: 0.6309233388
+	iii: 0.5162804464
+	43: 0.4301362806
+	44: 0.4158268851
+	04: 0.4154467497
+	32: 0.4138157573
+	33: 0.4123532846
+	37: 0.4116858948
+	34: 0.4045383903
+	2: 0.4038367268
+	29: 0.4032962861
+	35: 0.40287783
+	31: 0.4010829922
+	28: 0.4009646005
+	3: 0.4005058527
+	4: 0.4004736152
+	65: 0.4004685189
+	36: 0.3997650412
+	22: 0.3989956393
+	7: 0.3974988178
+	21: 0.3949123059
+	11: 0.3947597358
+	13: 0.3940439535
+	5: 0.3939719847
+	1: 0.3930079558
+	8: 0.3912295269
+	20: 0.3907036033
+	16: 0.3903399669
+	26: 0.3902606027
+	10: 0.3896141423
+	6: 0.3893118791
+	24: 0.389224305
+	17: 0.3890975083
+	15: 0.3889057736
+	30: 0.3880243024
+	23: 0.3863772482
+	12: 0.3863659566
+	9: 0.3863328195
+	18: 0.3837790422
+	14: 0.3831100001
+	27: 0.3818895323
+	113: 0.3803199196
+	25: 0.3722162826
+	1991: 0.3678831806
+	19: 0.3656788812
+	1987: 0.3645167837
+	95: 0.3621464004
+	90: 0.3609229417
+	38: 0.3588353092
+
+Cluster 5:
+	south korea: 0.9795141988
+	hubei province: 0.9758268407
+	south africa: 0.9716029641
+	middle east: 0.9680807507
+	united kingdom: 0.9671578618
+	nsw government: 0.9584678988
+	southeast asia: 0.9551722356
+	united nations: 0.954975969
+	hong kong: 0.9547206625
+	torres strait: 0.9539080184
+	french polynesia: 0.9525431106
+	united states: 0.9501442758
+	amino acid: 0.9462988357
+	dark matter: 0.9458032538
+	nucleic acid: 0.9437812884
+	australian government: 0.9411345402
+	traffic sign: 0.9409197694
+	nucleic acids: 0.9399454437
+	mobile phones: 0.9385077567
+	world health organization: 0.9364673566
+	rt pcr: 0.934584154
+	open access: 0.9330985333
+	granted medrxiv: 0.9290854572
+	east asia: 0.9258923969
+	meta analyses: 0.9207440461
+	neutron star: 0.9187993502
+	world health organisation: 0.9180785397
+	press conference: 0.9167274436
+	neutron stars: 0.9130678301
+	peer reviewed: 0.9098979076
+	pacific sids: 0.9097281499
+	medrxiv preprint: 0.9094755893
+	european researchers: 0.906713922
+	predictive maintenance: 0.9054904789
+	peer review: 0.905092239
+	pacific island: 0.9050626571
+	early warning: 0.9050194384
+	3c pro: 0.9005042837
+	meta analysis: 0.898834884
+	press conferences: 0.8960236163
+	meta transcriptomics: 0.891114012
+	nature inspired: 0.8892771832
+	rights reserved: 0.8871050794
+	south east: 0.884470496
+	zika virus: 0.8830008999
+	ad hd: 0.8826800671
+	mers cov: 0.8817766569
+	convalescent plasma: 0.8815223276
+	stranded rna: 0.8811157491
+	nanoporous materials: 0.8799717287
+	point process: 0.8708786729
+	dc sign: 0.8699131827
+	sars cov: 0.8698269193
+	pl pro: 0.8694720722
+	viewport pose: 0.8652634419
+	follow ups: 0.8651769576
+	asia pacific: 0.8640854752
+	hybrid pipp: 0.8603609139
+	decision support: 0.8587835344
+	frail nh: 0.8557238185
+	significantly higher: 0.8552740107
+	digital technology: 0.8535994886
+	ebola virus: 0.8516285554
+	ebov gp: 0.8498205141
+	life cycle: 0.8497640568
+	big data: 0.8496408671
+	south west: 0.8495500292
+	pr55 gag: 0.8485899022
+	digital technologies: 0.8478597531
+	heteroclinic network: 0.8463798657
+	online teaching: 0.8415167903
+	nipah virus: 0.8406473636
+	australian bureau of statistics: 0.8397238238
+	online open book: 0.8391498642
+	statistically significant: 0.8388603043
+	recent advances: 0.8382857521
+	spatio temporal: 0.837670352
+	digital play: 0.8369470084
+	mhc ii: 0.8368468826
+	hdc sign: 0.8320628212
+	hrv qpm: 0.8307260313
+	inclusion criteria: 0.8281826724
+	plasma derived: 0.8253982297
+	dhn melanin: 0.8243552919
+	csa visualizations: 0.8206538882
+	author funder: 0.8165345903
+	journal pre proof: 0.8158548309
+	million deaths: 0.8157300839
+	mdc sign: 0.8142257841
+	spike protein: 0.8136127901
+	sub saharan africa: 0.8106285605
+	publisher full text: 0.8090779383
+	agile project: 0.8085778593
+	pubmed abstract | publisher full text: 0.8079839863
+	calibration error: 0.8052359521
+	phid cv: 0.8011864426
+	delta variant: 0.7984253531
+	pre existing: 0.7973390169
+	long covid: 0.7967483251
+	ace2 binding: 0.7934344379
+	digital society: 0.7930810644
+	journal pre: 0.7880085989
+	lower respiratory: 0.7854995745
+	vr frames: 0.7844512796
+	people's republic of china: 0.783719875
+	large scale: 0.7802441303
+	online learning: 0.778207611
+	closely related: 0.7749427472
+	long term: 0.7710929332
+	fiji: 0.7694207887
+	il 6: 0.769377865
+	high redshift: 0.7673019851
+	cc by nc: 0.7648786189
+	essential services: 0.760152643
+	longer term: 0.7598265694
+	single stranded: 0.7594993971
+	confidence interval: 0.7591268827
+	coronavirus disease: 0.7585617962
+	lockdown restrictions: 0.7535960277
+	nsw department of health: 0.7502900794
+	previous studies: 0.7485211776
+	indians: 0.7464266791
+	ncds: 0.7461627945
+	flying: 0.7441218003
+	nc nd license: 0.7436107859
+	international air: 0.7435626212
+	legionella: 0.7421505708
+	graph data: 0.7398290243
+	new south wales: 0.7394070618
+	webb: 0.7388700408
+	end of semester: 0.7385541552
+	boswellia: 0.7381116926
+	vanilla: 0.7360123055
+	boolean: 0.7358308977
+	nipah: 0.7356172145
+	fairfield: 0.7342740181
+	npis: 0.7334176088
+	mco: 0.7294479779
+	pneumocystis: 0.7275618583
+	ml solutions: 0.7236124915
+	ace2: 0.7235141054
+	adherence to sp: 0.7229211546
+	lhs: 0.7225004576
+	agile: 0.7223266325
+	refugee: 0.7192014738
+	fijian: 0.7154134469
+	high throughput: 0.7152893449
+	visualizations: 0.7138434867
+	analysis showed: 0.711754354
+	immunisation: 0.7100989634
+	digital work connectivity: 0.7076656424
+	racism: 0.7055794494
+	nsw: 0.7021029169
+	airport: 0.7007508564
+	accretion: 0.6997225363
+	proctoring: 0.6996078386
+	heteroclinic: 0.6977649422
+	cuba: 0.6976192701
+	technostress: 0.6975517604
+	pa and sb: 0.6954099834
+	encephalomyelitis: 0.6952251927
+	antarctic: 0.6942351511
+	hospitality: 0.6933603162
+	key stakeholders: 0.6914201996
+	overseas: 0.6912389039
+	east and southeast: 0.6909884303
+	aotearoa: 0.6903047191
+	maxillofacial: 0.6901152361
+	pareto: 0.6900776553
+	viewport: 0.6897576342
+	diplomacy: 0.6881928623
+	repurposing: 0.6879273418
+	shopping: 0.6854603443
+	analytics: 0.6846847614
+	anglo: 0.6842156198
+	east respiratory syndrome coronavirus: 0.68349644
+	hapln1: 0.6823092347
+	gravitational: 0.6815938979
+	sars coronavirus: 0.6786610092
+	after hours palliative care services: 0.6781259186
+	fiscal: 0.6773570946
+	asset: 0.6773030887
+	dhn: 0.6755625856
+	loyalty: 0.6748498845
+	polynesia: 0.6730463632
+	transcriptomics: 0.6729303046
+	nexus: 0.671978035
+	findings suggest: 0.6700312675
+	heartbeats: 0.6687165352
+	minion: 0.6682351568
+	forestry: 0.6678114285
+	hubei: 0.6655015748
+	teique: 0.6635503222
+	stay at home: 0.6633787899
+	significant role: 0.6632321008
+	online survey: 0.6622212154
+	rationing: 0.6603719823
+	strings: 0.6595758762
+	enterprises: 0.6547049504
+	messaging: 0.6506916719
+	centric: 0.6491387855
+	nanoporous: 0.6491121472
+	semester: 0.6490328565
+	recent studies: 0.6488392304
+	bvdv: 0.6483721842
+	subsidy: 0.6482998287
+	global pandemic: 0.6478424945
+	wuhan: 0.6466598974
+	syncytial virus: 0.6457977288
+	trading: 0.6441403295
+	convalescent: 0.64395502
+	sars cov 2 pl pro: 0.6388067074
+	user's: 0.6381685886
+	results showed: 0.6368969915
+	w e f nexus: 0.6366871392
+	protein as01 b: 0.6362347455
+	ffm: 0.635965853
+	hku1: 0.6354890301
+	co creation: 0.6354759337
+	sids: 0.6335739579
+	4.0 international license: 0.6275428558
+	broad range: 0.6274089002
+	phid: 0.6263118095
+	clinical management: 0.6258238375
+	pre covid: 0.6257482587
+	previous research: 0.6237763762
+	china's: 0.6234013552
+	as01: 0.6218652075
+	hrvs: 0.621345971
+	turnaround: 0.6212265102
+	sdd: 0.6207499544
+	ibv: 0.620469774
+	madagascar: 0.6202913584
+	crises: 0.6202488957
+	pipp: 0.6197063793
+	redshift: 0.6193089693
+	interpretability: 0.6191488108
+	higher mortality: 0.6188056436
+	n95: 0.6180020024
+	mackenzie: 0.6172906204
+	theprisa: 0.6172906204
+	hcov: 0.6172166957
+	cumming: 0.6171248236
+	kdigo: 0.617104727
+	xception: 0.6169576518
+	isg15: 0.6155451902
+	experiential: 0.6155080881
+	philippines: 0.6151887875
+	npi: 0.6151532348
+	convolutional: 0.6151305259
+	lstm: 0.6147614515
+	preprint: 0.6138138049
+	alri: 0.6135860861
+	oecd: 0.6135214071
+	million confirmed: 0.6134925299
+	relu: 0.6118265662
+	ipbes: 0.6113642911
+	americas: 0.6113464066
+	pocts: 0.6113047578
+	global population: 0.6106608233
+	pteropus: 0.6106331289
+	astrazeneca: 0.6106331289
+	lga: 0.6102720478
+	contagious: 0.6089872928
+	nsp9: 0.6077311906
+	pfcrt: 0.6070844705
+	covid19: 0.6005222299
+	victorian: 0.6003628431
+	peoples: 0.5985369572
+	henipavirus: 0.5964383967
+	hendra: 0.5957589213
+	disasters: 0.5956936777
+	berberine: 0.5944411487
+	covs: 0.5936639016
+	co design: 0.5933478683
+	covid: 0.5914795526
+	territorial: 0.5903310557
+	children's: 0.5896706304
+	newcomers: 0.5891067306
+	summarization: 0.5882021394
+	copyright holder for: 0.5881654274
+	lensing: 0.5876242854
+	hypericin: 0.5874715253
+	microneedle: 0.5872089998
+	romance: 0.5872089998
+	nanopore: 0.5865363608
+	tourist: 0.5859689146
+	cd38 + mhc ii +: 0.5857190341
+	vanillin: 0.5855889226
+	full text: 0.5845266419
+	conferences: 0.5838694081
+	breathlessness: 0.5811483127
+	onboarding: 0.5805725774
+	people's: 0.5805714064
+	brooks: 0.5799134555
+	airports: 0.5798319978
+	rrv: 0.5795311825
+	heartbeat: 0.5793734621
+	fomite: 0.5790408993
+	coronavirus: 0.5789543846
+	adem: 0.5784551603
+	paloma: 0.5782370426
+	grv: 0.5781559831
+	cd8 + t cells: 0.5779391568
+	sars cov 2 variants: 0.5778250497
+	betacoronavirus: 0.5776645996
+	foodservices: 0.5775177722
+	paradoxes: 0.5775177722
+	australia's: 0.5774276774
+	sbt: 0.5772896955
+	cfl: 0.5772896955
+	twitter: 0.577109414
+	australians: 0.5770443728
+	rhabdoviruses: 0.5769281719
+	epiphytic: 0.5769281719
+	bcd: 0.5768043032
+	covio: 0.5764654713
+	pics: 0.5764654713
+	coronaviridae: 0.5755392028
+	nft: 0.574924581
+	pubmed abstract | publisher full: 0.5748424645
+	women's: 0.5746843197
+	hkia's: 0.5745831723
+	patterson: 0.5745831723
+	hpbs: 0.5742066347
+	suds: 0.5742066347
+	lgas: 0.5741729769
+	par4: 0.57412576
+	alris: 0.57412576
+	plcas: 0.57412576
+	significant impact: 0.5733532094
+	ntds: 0.5732683801
+	important role: 0.5731402252
+	catg: 0.5731266239
+	cald: 0.5731187385
+	dtcgt: 0.5731187385
+	yhv: 0.5731187385
+	hdp: 0.5729868539
+	cyphp: 0.5728805974
+	pfrh5: 0.572635137
+	constitutional: 0.5726303844
+	wfps: 0.5724302864
+	ugc: 0.5724164682
+	tweets: 0.5723296978
+	bigru: 0.5715748991
+	dts: 0.5715748991
+	metapopulation: 0.5715194301
+	bbr: 0.5707895464
+	dftd: 0.5707895464
+	tef: 0.570513933
+	twf: 0.570513933
+	hkia: 0.570513933
+	subgenotype: 0.569962661
+	ferret: 0.5696601593
+	ncov: 0.5695124878
+	coronavirus disease 2019: 0.5691410369
+	paki: 0.5681868407
+	auslan: 0.5681868407
+	higher risk: 0.5678487155
+	fmea: 0.56753015
+	melbourne: 0.5651979709
+	world's: 0.564289246
+	sars cov 2: 0.5640715346
+	million cases: 0.5631106906
+	palbociclib: 0.5606935948
+	tilted: 0.5606935948
+	adherence to standard: 0.5600986486
+	algebras: 0.5589387755
+	swift: 0.5577942018
+	p67c: 0.557681358
+	sacra: 0.557681358
+	provisioning: 0.5574955353
+	ctfh: 0.5569776016
+	subspace: 0.5561431926
+	situational: 0.5559721808
+	placements: 0.5550124039
+	cynomolgi: 0.5548865171
+	suis: 0.5548865171
+	epiphytes: 0.553559491
+	sampler: 0.5528575059
+	containment: 0.5524938487
+	fishery: 0.5522082542
+	facades: 0.5522082542
+	monodon: 0.551791761
+	biomimetic: 0.5512761216
+	blockchain: 0.5512388021
+	scholarships: 0.5509222484
+	orchitis: 0.5505610588
+	not certified by peer review: 0.5495989495
+	ehealth: 0.5494870211
+	suicides: 0.5490148551
+	pacific region: 0.5488390215
+	pre proof: 0.5472370726
+	sharks: 0.5467383729
+	marneffei: 0.5460578173
+	equilibria: 0.5460578173
+	bvdv 1: 0.5458930078
+	biomimicry: 0.545772446
+	recursive: 0.5448792916
+	aspergillosis: 0.5437865368
+	observatories: 0.5437088778
+	cc by nc nd: 0.5433850218
+	tocilizumab: 0.5429664906
+	pla 2: 0.5429597967
+	lectures: 0.5425895623
+	conceptualisation: 0.5425895623
+	hardstyle: 0.5406362094
+	myths: 0.5403685806
+	rollout: 0.5401663065
+	cheating: 0.5395405434
+	estimate: 0.5391042712
+	rhinovirus: 0.5375264588
+	lockdown: 0.5372726733
+	normalcy: 0.5372447215
+	digital health: 0.5357831416
+	solidarity: 0.5341556079
+	national and international: 0.5341538902
+	industry 4.0: 0.5331079806
+	nc nd 4.0: 0.5309416771
+	worries: 0.5305855584
+	spillovers: 0.5293708725
+	filoviruses: 0.5293708725
+	equities: 0.5293708725
+	rppe: 0.5292415926
+	pcv 13: 0.5286107366
+	blame: 0.5272692314
+	subgenotypes: 0.5271432075
+	elasmobranchs: 0.5271249665
+	masterplot: 0.5267524674
+	3m3f: 0.5267524674
+	new zealand: 0.5265187138
+	sdmrs: 0.5263723901
+	student's: 0.5261984455
+	subtropical: 0.5261984455
+	smoother: 0.5250188548
+	udder: 0.5250188548
+	hfc: 0.5250188548
+	scholarly: 0.524316014
+	gp90: 0.5239916669
+	kettlebell: 0.5225486292
+	creativity: 0.5215065008
+	façade: 0.5214944783
+	volatility: 0.5208332648
+	scoping: 0.5208027585
+	medrxiv: 0.5203097328
+	after hours palliative: 0.5181034786
+	destinations: 0.5158633647
+	rhetoric: 0.5118153516
+	geography: 0.5098818102
+	2019 ncov: 0.5093954417
+	autoregressive: 0.5085107492
+	coughing: 0.5070608678
+	2021b: 0.5064716954
+	1,000: 0.5055846927
+	travellers: 0.503669335
+	transnational: 0.503669335
+	polyprotein: 0.503669335
+	remotely: 0.5031355793
+	near miss: 0.5020310162
+	2021a: 0.501968214
+	emergencies: 0.5013062206
+	w e f: 0.4919366462
+	de novo: 0.4913647643
+	telehealth: 0.4886081226
+	wang et al: 0.4874713562
+	second wave: 0.4872509137
+	forecast: 0.4864210712
+	mandates: 0.4843546227
+	firms: 0.4840322998
+	spillover: 0.483684976
+	post covid: 0.4812343347
+	per capita: 0.4807591281
+	tgf b: 0.4770427533
+	forecasting: 0.4758828955
+	contagion: 0.4744586241
+	95 ci: 0.4736539909
+	× 10: 0.4723197211
+	patient's: 0.4722606696
+	hospitalisations: 0.4722422924
+	debates: 0.4722422924
+	rhinoviruses: 0.4722422924
+	misinformation: 0.4717351992
+	li et al: 0.4687968118
+	professions: 0.4672791453
+	child's: 0.4672791453
+	paramyxoviruses: 0.4669797002
+	2020b: 0.4667537463
+	sars cov 2 infection: 0.4666893342
+	inequities: 0.4663742461
+	hospitalised: 0.4638980923
+	growing body of: 0.462672695
+	coronaviruses: 0.4623300206
+	reuse: 0.4595936057
+	sars cov 2 rna: 0.4573619474
+	0.05: 0.4567168406
+	travelers: 0.4562520408
+	covid 19: 0.4559985937
+	pandemics: 0.4519306273
+	aerosols: 0.4514375109
+	plos one: 0.4511907611
+	frontline: 0.4502507181
+	0.001: 0.4491984889
+	mandated: 0.4491410407
+	announced: 0.4487632508
+	country's: 0.4473573126
+	2020a: 0.4452540905
+	distancing: 0.4430717644
+	transmissibility: 0.4419670118
+	pm +: 0.4418531115
+	one's: 0.4417392974
+	closures: 0.4415298293
+	deadly: 0.4404947201
+	an online survey: 0.438523057
+	navigate: 0.4378729369
+	continents: 0.4366945982
+	enveloped: 0.4366945982
+	shortages: 0.4365661148
+	person's: 0.4364880608
+	4.0: 0.4360321748
+	global covid 19 pandemic: 0.4357880652
+	p 0.001: 0.4344744312
+	important to understand: 0.4339568163
+	logistics: 0.4330714559
+	° c: 0.4328660251
+	posted: 0.4310554606
+	jurisdictions: 0.4305606949
+	100,000: 0.4295177063
+	licenses: 0.4279544774
+	economies: 0.4267743687
+	follow up: 0.4248463457
+	new york: 0.4234223867
+	gatherings: 0.4222217725
+	businesses: 0.421170044
+	current covid: 0.420051361
+	sub saharan: 0.4186628007
+	the general public: 0.4164586338
+	lockdowns: 0.4158954138
+	quarantine: 0.4104842171
+	mhc ii +: 0.4100882967
+	concludes: 0.4089365825
+	the world health organization: 0.4088918869
+	it's: 0.4072565545
+	high income: 0.4072282109
+	measured: 0.4055690162
+	liu et al: 0.4023708281
+	limitations: 0.4009692063
+	doi.org: 0.398368149
+	co design approach: 0.3949130004
+	zhang et al: 0.3948019497
+	i.e: 0.3919021985
+	e.g: 0.3874228717
+	smith et al: 0.3868333595
+	august 2021: 0.3867050753
+	covid 19 pandemic: 0.3841424524
+	2020: 0.383019735
+	the author funder: 0.3802168408
+	real time: 0.3797779659
+	large proportion of: 0.3770866422
+	the world health organisation: 0.3769874445
+	2021: 0.3760614287
+	highest number of: 0.3751834144
+	covid 19 vaccine: 0.374659625
+	current covid 19 pandemic: 0.3742945709
+	publicly available: 0.37404123
+	3 ′: 0.3738591893
+	a systematic review: 0.3728204915
+	world health: 0.3698290556
+	december 2019: 0.3651473415
+	p 0.05: 0.3627749064
+	35 36 37: 0.3626990444
+	whole genome: 0.3616769475
+	as01 b: 0.3588173175
+	march 2020: 0.3572947219
+	0.2: 0.3570327753
+
+Cluster 6:
+	introduction: 0.6216358854
+	purpose: 0.6192403354
+	goals: 0.5954099774
+	goal: 0.5946168648
+	hypothesis: 0.5859187089
+	aim: 0.5611127564
+	study aims: 0.5417488205
+	motivations: 0.5157230677
+	backgrounds: 0.5043509343
+	aims: 0.5034769461
+	context: 0.4996020188
+	background: 0.4916483008
+	motivation: 0.4886711227
+	objective: 0.4788923479
+	objectives: 0.4718973608
+	object: 0.4419670118
+	purposes: 0.3989212975
+
+Cluster 7:
+	alert level: 0.8237844337
+	randomised controlled: 0.8032361039
+	evidence based: 0.8018478608
+	control measures: 0.7859719797
+	dr: 0.766723674
+	randomized controlled: 0.7642358641
+	london: 0.763330785
+	sydney: 0.7519568113
+	france: 0.7512115852
+	malaysia: 0.7511515382
+	gag: 0.751053223
+	a2: 0.7504748404
+	indian: 0.7461752269
+	spanish: 0.7457135634
+	aspergillus: 0.7428174493
+	robot: 0.7403479115
+	evidence base: 0.7398612935
+	israel: 0.7388566081
+	chile: 0.7384277841
+	bayesian: 0.7373443649
+	vietnam: 0.7344721907
+	deaf: 0.7343946261
+	informatics: 0.7337940055
+	indonesia: 0.7332721907
+	pa: 0.7327565941
+	asian: 0.7314717339
+	bp: 0.7307623343
+	arrhythmias: 0.7300905027
+	cns: 0.7280929106
+	lmics: 0.7278404536
+	hrv: 0.7271726156
+	gradient: 0.7270570547
+	aquatic: 0.7270218324
+	mathematics: 0.7266514762
+	mri: 0.7266370861
+	vr: 0.7264092026
+	pubmed: 0.7256196334
+	district: 0.7246205092
+	queensland: 0.724023129
+	ckd: 0.7234656688
+	ultrasound: 0.7216697631
+	river: 0.7215306361
+	ad: 0.7213120155
+	programming: 0.7211395047
+	conditioning: 0.7211395047
+	japan: 0.720354538
+	feline: 0.7196802615
+	pneumophila: 0.7196372482
+	disposal: 0.7193138083
+	platelet: 0.7192599992
+	ocean: 0.7176601421
+	graph: 0.7168084574
+	ct: 0.7158185451
+	seq: 0.7157619459
+	smith: 0.7155206191
+	ai: 0.7126284838
+	african: 0.7117967693
+	segmentation: 0.7110842651
+	ibd: 0.7070562071
+	indigenous: 0.7069374008
+	zhang: 0.7068540167
+	hormones: 0.706815328
+	hybrid: 0.7066318674
+	hormone: 0.706151811
+	methylation: 0.7058196191
+	zika: 0.7054525689
+	radiology: 0.7049273468
+	fertility: 0.7046233671
+	french: 0.7043208188
+	division: 0.7042840813
+	acetate: 0.7038760286
+	computing: 0.7034189152
+	fisheries: 0.7032332258
+	communications: 0.7031640399
+	thyroid: 0.702790871
+	green: 0.702765193
+	english: 0.7018341533
+	liu: 0.7008758291
+	continent: 0.7008049761
+	crime: 0.7008049761
+	charge: 0.700664642
+	hiv: 0.7006160978
+	google: 0.6996308074
+	sensor: 0.6991299996
+	infertility: 0.6987206758
+	heat: 0.6982199128
+	dna: 0.6981946262
+	calcium: 0.6975982137
+	bangladesh: 0.6975687853
+	saturation: 0.6974942401
+	white: 0.6965977837
+	pm: 0.6963957753
+	usa: 0.6952936971
+	vascular: 0.6952100252
+	committee: 0.6949315039
+	lenses: 0.6944361457
+	dc: 0.6931286675
+	eating: 0.692563635
+	continuity: 0.6914883588
+	withdrawal: 0.6913536844
+	sewage: 0.6911794785
+	emissions: 0.6909586547
+	suicide: 0.690843729
+	medicinal: 0.6904795868
+	consent: 0.690353272
+	equations: 0.6903122432
+	il: 0.6902426199
+	melanin: 0.6902282332
+	cyber: 0.6901270564
+	myelin: 0.6899129943
+	extracellular: 0.6895977776
+	catalytic: 0.6889350093
+	library: 0.6882126677
+	office: 0.6876802025
+	eastern: 0.6876468521
+	college: 0.6875837308
+	throat: 0.687482705
+	scholar: 0.6869850142
+	federal: 0.686675753
+	engineering: 0.6866696988
+	humoral: 0.6864523181
+	neglect: 0.6862743396
+	institute: 0.686216331
+	korea: 0.6859595857
+	dengue: 0.6857348933
+	agency: 0.6853604661
+	genetics: 0.6848750168
+	occupational: 0.6847108593
+	airflow: 0.6846768118
+	manufacturing: 0.6845889869
+	pcr: 0.6845062822
+	star: 0.6837197621
+	crc: 0.6834121458
+	mining: 0.682995936
+	locus: 0.68287911
+	block: 0.6822258191
+	li: 0.6821312415
+	swine: 0.6820258851
+	code: 0.6817906477
+	american: 0.6817372847
+	interfaces: 0.6816328815
+	metal: 0.6813430447
+	encephalitis: 0.6812647262
+	nation: 0.6809136037
+	aids: 0.6805790954
+	positioning: 0.6803313529
+	visualization: 0.6801933348
+	csa: 0.6800778042
+	chinese: 0.6797546138
+	news: 0.6793545869
+	immunotherapy: 0.6790592295
+	ammonium: 0.6788671748
+	fishing: 0.6783722176
+	european: 0.6783318208
+	stimulus: 0.678007731
+	cd8: 0.6778772754
+	europe: 0.6769004424
+	trait: 0.676845922
+	emission: 0.6765791394
+	descriptive: 0.6765384063
+	italy: 0.6764512897
+	agriculture: 0.6757390288
+	art: 0.6757236248
+	india: 0.6752426507
+	manual: 0.6748692326
+	nh: 0.6748686915
+	york: 0.6745283589
+	precautions: 0.6740394905
+	thermal: 0.6739911557
+	creative: 0.6733904022
+	phone: 0.6731912492
+	wang: 0.6723866102
+	intubation: 0.671568131
+	civil: 0.6711759715
+	pacific: 0.6708732339
+	disaster: 0.6702653277
+	surgery: 0.6702375126
+	renal: 0.669973026
+	cardiac: 0.6696075293
+	peptides: 0.6695997484
+	detector: 0.6687386408
+	welfare: 0.6686571351
+	delta: 0.6686287255
+	black: 0.6682455806
+	abuse: 0.6680966602
+	labor: 0.667961952
+	medicines: 0.667479725
+	department: 0.6673220684
+	law: 0.6672105521
+	electronic: 0.6669709522
+	equilibrium: 0.6665269142
+	plos: 0.666431765
+	antibiotic: 0.6663009368
+	metabolic: 0.6656734327
+	load: 0.6654528872
+	package: 0.6652684469
+	centers: 0.6649770567
+	choice: 0.6645030473
+	internet: 0.6644738455
+	wales: 0.6640984316
+	ethics: 0.6635265868
+	violence: 0.6634149902
+	rna: 0.6632309496
+	teaching: 0.663073563
+	uk: 0.6628355426
+	drinking: 0.6624790642
+	substance: 0.6620007058
+	tumor: 0.6616140496
+	pharmacy: 0.6615567134
+	splicing: 0.661467155
+	lipid: 0.6610322659
+	interstitial: 0.6605072476
+	conflict: 0.6604065058
+	attacks: 0.6600900397
+	inspired: 0.6599070349
+	interpretation: 0.6597582651
+	sensing: 0.6596785568
+	steady: 0.6596785568
+	conference: 0.6595619917
+	animal human: 0.6594618129
+	palm: 0.658900939
+	indoor: 0.658798275
+	plants: 0.658740882
+	unemployment: 0.658694648
+	architecture: 0.658208549
+	passive: 0.6582010958
+	foundation: 0.6576050181
+	neonatal: 0.6573434702
+	sciences: 0.6570564977
+	undergraduate: 0.6568699959
+	waste: 0.6566469189
+	edge: 0.6565564848
+	forensic: 0.6564731335
+	index: 0.6564121473
+	web: 0.6563788729
+	connectivity: 0.6563627442
+	tree: 0.6562503543
+	television: 0.6561097445
+	imaging: 0.6556592588
+	fluid: 0.6553436899
+	α: 0.6552880068
+	project: 0.6552051313
+	muscle: 0.6547644326
+	randomized: 0.6530674873
+	exhaustion: 0.6530639671
+	bat: 0.6526960728
+	grey: 0.6524502027
+	child: 0.6520675844
+	stochastic: 0.6520217367
+	ecology: 0.6516654043
+	sexual: 0.6516133496
+	africa: 0.6515639838
+	australian: 0.6515223104
+	temperature: 0.6508975186
+	diabetes: 0.6508112427
+	organisation: 0.6505714514
+	conservation: 0.6505302395
+	pairs: 0.6502391295
+	transplant: 0.6497050357
+	china: 0.6495625128
+	mutation: 0.6494144307
+	urban: 0.6493337144
+	mobile: 0.6491838767
+	asia: 0.6491055261
+	rural: 0.6490129616
+	leadership: 0.6487304454
+	poverty: 0.6486502167
+	vulnerability: 0.6482906377
+	kong: 0.6480501929
+	smart: 0.647767655
+	energy: 0.6476245172
+	business: 0.6475894237
+	science: 0.6475255057
+	peripheral: 0.6475235448
+	alcohol: 0.6468718539
+	nutritional: 0.6465707345
+	array: 0.6465497472
+	pathway: 0.6463650234
+	plant: 0.6461731065
+	medium: 0.6461231356
+	nucleotide: 0.6460145263
+	oral: 0.6458282418
+	humidity: 0.6452976157
+	marketing: 0.6452558994
+	algorithm: 0.6451022169
+	antimicrobial: 0.6450374195
+	facial: 0.6449830697
+	medicine: 0.6448386145
+	video: 0.6444110404
+	infant: 0.6443475647
+	prediction: 0.6441682688
+	governance: 0.6440444157
+	tolerance: 0.6440006288
+	materials: 0.643820416
+	statistical: 0.6436170584
+	nuclear: 0.6429705642
+	housing: 0.6427917012
+	poultry: 0.6419960716
+	migration: 0.6418776305
+	disability: 0.6418012668
+	impairment: 0.6415211864
+	temporal: 0.6414082932
+	fitness: 0.6412040525
+	personality: 0.6411331351
+	doctors: 0.6411233115
+	record: 0.6411233115
+	psychology: 0.6410638025
+	productivity: 0.6410244487
+	protocol: 0.6408778638
+	autoimmune: 0.6407259686
+	school: 0.6403474734
+	adaptive: 0.6399713254
+	harm: 0.6399557978
+	storage: 0.6399190597
+	abundance: 0.6398499137
+	reality: 0.6396232742
+	tropical: 0.6393448227
+	act: 0.6391725543
+	city: 0.6386761529
+	random: 0.6386667759
+	zoonotic: 0.6386220298
+	tobacco: 0.6386040304
+	bats: 0.6385963212
+	territory: 0.6385871003
+	building: 0.6383485723
+	snps: 0.6382934469
+	room: 0.6379593036
+	disseminated: 0.6379593036
+	apps: 0.6376464906
+	transplantation: 0.6376165597
+	tuberculosis: 0.6375939737
+	transport: 0.6374645415
+	developmental: 0.6373636982
+	brain: 0.6372519713
+	nucleus: 0.6368448033
+	moving: 0.6368321906
+	ahead: 0.6364842184
+	receptor: 0.6363882605
+	processing: 0.6362667012
+	reading: 0.6360782445
+	spending: 0.6357949276
+	glucose: 0.6357237271
+	considerations: 0.6355224984
+	error: 0.6354033637
+	australia: 0.63526949
+	awareness: 0.6347841724
+	red: 0.6345585914
+	stock: 0.6345164539
+	migrant: 0.6344195236
+	concrete: 0.6341552808
+	vacuole: 0.6335814611
+	ar: 0.633389478
+	aboriginal: 0.633291734
+	evolutionary: 0.6329648181
+	stroke: 0.632901814
+	bone: 0.6326452121
+	eye: 0.6326092802
+	agricultural: 0.6325994442
+	cleavage: 0.6325203731
+	schistosomiasis: 0.6324246617
+	comparative: 0.6322893056
+	forest: 0.6320463661
+	predictor: 0.6317896683
+	assembly: 0.6315132587
+	vsv: 0.6315052806
+	pd: 0.6315035831
+	society: 0.6312113695
+	rct: 0.6311368752
+	industry: 0.6309857984
+	house: 0.6309270597
+	images: 0.6308382704
+	rnas: 0.6306220717
+	cancer: 0.6305231644
+	envelope: 0.6298116717
+	sequencing: 0.6293719517
+	industrial: 0.629308625
+	noise: 0.628698464
+	wildlife: 0.6284394091
+	mood: 0.6283843591
+	allocation: 0.6281425293
+	sars: 0.6279961014
+	user: 0.6279629392
+	trial: 0.6278694047
+	endothelial: 0.6278655027
+	presentation: 0.6278099701
+	scientific: 0.6276627616
+	np: 0.6275959202
+	university: 0.6275625944
+	variants: 0.6275140427
+	compound: 0.6273126662
+	surveillance: 0.6272211254
+	pregnancy: 0.6271361719
+	survey: 0.6270072953
+	falciparum: 0.6269252846
+	skin: 0.6268974467
+	regional: 0.6268847139
+	crispr: 0.62658185
+	genetic: 0.626466931
+	nepal: 0.6262138162
+	taiwan: 0.6261851275
+	l2: 0.626164311
+	boundary: 0.6260434262
+	cpap: 0.6258520191
+	sex: 0.6257776919
+	deposition: 0.6255977775
+	feedback: 0.6254524867
+	intervals: 0.6253483915
+	automatic: 0.6253297521
+	distance: 0.6252628892
+	gfp: 0.6250501655
+	stability: 0.6249140626
+	antigen: 0.6248580062
+	province: 0.6247710696
+	field: 0.6247316579
+	perspectives: 0.6247164325
+	police: 0.6246251083
+	integration: 0.6246207946
+	stage: 0.6246138327
+	examination: 0.6245306445
+	recognition: 0.6244677158
+	nigeria: 0.6243810939
+	stratified: 0.6243309443
+	emotional: 0.624300885
+	output: 0.6242964632
+	cluster: 0.624164377
+	transfer: 0.6240576609
+	mt: 0.6238539062
+	observational: 0.6238177043
+	mouth: 0.6236931537
+	technologies: 0.6236669948
+	iran: 0.6233166241
+	cov: 0.6230476151
+	sir: 0.6230383807
+	carbon: 0.6229297965
+	oxidative: 0.6225505537
+	learn: 0.6224979554
+	experimental: 0.6224609459
+	ethnic: 0.6223592818
+	filter: 0.6222837588
+	modes: 0.6222033038
+	mathematical: 0.6221691076
+	island: 0.6219689871
+	norway: 0.6219125796
+	book: 0.6214840766
+	security: 0.6214404476
+	ab: 0.6213559862
+	domestic: 0.621327462
+	therapy: 0.6211354598
+	animal: 0.6210218567
+	service: 0.6208298756
+	recommendations: 0.6207350948
+	rr: 0.6204545409
+	denv: 0.6204092031
+	composition: 0.62038028
+	material: 0.6202664844
+	cl: 0.6202087167
+	panel: 0.6201832597
+	movement: 0.6200523074
+	device: 0.6199980361
+	software: 0.6199622888
+	inhibitor: 0.6198598854
+	pakistan: 0.6198098195
+	utr: 0.6197794289
+	organic: 0.6196922141
+	cultural: 0.6195225658
+	culture: 0.6192069076
+	computational: 0.6191825623
+	rh: 0.6190439181
+	niv: 0.6189459831
+	molecular: 0.6187687757
+	sampling: 0.6187423661
+	interface: 0.6185423133
+	frames: 0.6185144246
+	zikv: 0.6184602283
+	weight: 0.6183778096
+	perspective: 0.6183449671
+	practitioner: 0.618267781
+	tb: 0.6182200689
+	inr: 0.6182200689
+	pr: 0.6181848265
+	table: 0.6181388898
+	ib: 0.6179813919
+	trade: 0.6179804653
+	class: 0.6179093444
+	expression: 0.6178407642
+	ranges: 0.6178074334
+	sweden: 0.6177779867
+	particle: 0.617416336
+	insurance: 0.6173987865
+	dt: 0.6173461023
+	influenza: 0.6172638803
+	rbd: 0.6170200192
+	amr: 0.6169976515
+	cdc: 0.6169837737
+	telephone: 0.6169786251
+	bcg: 0.6169113933
+	interpersonal: 0.616906374
+	biology: 0.6168714164
+	behaviors: 0.6164717115
+	determination: 0.6162927037
+	governmental: 0.6161609236
+	measure: 0.6160920268
+	childhood: 0.6160298943
+	hev: 0.6157481103
+	synthesis: 0.6156337732
+	ecg: 0.6155066924
+	ph: 0.6154913759
+	rnai: 0.615482451
+	bmi: 0.6152563119
+	gdm: 0.615164627
+	t2dm: 0.6151616943
+	af: 0.6151347792
+	depression: 0.615122219
+	mi: 0.6150795278
+	gene: 0.6147900154
+	step: 0.6147714693
+	copd: 0.6146547117
+	crs: 0.6144975066
+	utilization: 0.6144334914
+	physicians: 0.614126129
+	ecm: 0.6139803747
+	rf: 0.6139803747
+	region: 0.6138702023
+	ms: 0.6136720615
+	chemical: 0.613559869
+	liver: 0.6135409687
+	regression: 0.613515947
+	statistics: 0.6134609979
+	prevention: 0.6132716976
+	translation: 0.6132690962
+	cd4: 0.6132345605
+	abi: 0.6132030807
+	binding: 0.6128981527
+	visually: 0.6127954263
+	phones: 0.6127746563
+	elisa: 0.6126763583
+	language: 0.6126488263
+	exponential: 0.6125135979
+	meeting: 0.6124812497
+	qualitative: 0.6123577313
+	consumer: 0.6121389761
+	equity: 0.6115940841
+	environmental: 0.6112667186
+	mixture: 0.610489339
+	section: 0.6104756715
+	women: 0.6104598504
+	ed: 0.6102565338
+	hs: 0.6100529546
+	samples: 0.610036015
+	drug: 0.6099978803
+	biological: 0.6098194517
+	circulation: 0.6095110646
+	optimization: 0.6093076721
+	mosquito: 0.6093076721
+	ild: 0.6091004293
+	kidney: 0.6089633588
+	tool: 0.6088205915
+	document: 0.6087468193
+	vis: 0.6085991281
+	tfh: 0.6084755608
+	signaling: 0.6083518092
+	iav: 0.6082153829
+	peptide: 0.6079550676
+	search: 0.6078307854
+	report: 0.6078011804
+	throughput: 0.6077884577
+	na: 0.6077128955
+	antibodies: 0.607590004
+	mechanical: 0.6074715492
+	educators: 0.6073964435
+	theory: 0.6073841653
+	disorder: 0.6071343042
+	depressive: 0.6070764087
+	integral: 0.6067005938
+	dietary: 0.6066759416
+	government: 0.6064476731
+	functional: 0.6063671729
+	mice: 0.6061300918
+	companies: 0.6061181913
+	infants: 0.6055253872
+	male: 0.6054617578
+	theories: 0.605290638
+	rev: 0.6050754947
+	household: 0.6050380681
+	network: 0.6049725004
+	problem: 0.6044886675
+	environments: 0.604456679
+	concentration: 0.6042988075
+	nurses: 0.6041371856
+	interactions: 0.6039426889
+	definition: 0.6039145296
+	production: 0.6038695464
+	commercial: 0.6037551782
+	palliative: 0.6035550835
+	cold: 0.6035427294
+	speed: 0.6034862477
+	hall: 0.6033695607
+	sustainability: 0.6033670715
+	specimens: 0.6032393068
+	degradation: 0.6031041037
+	competition: 0.6029171968
+	subjective: 0.6025347005
+	inclusion: 0.6024569969
+	antiviral: 0.6023989809
+	anti: 0.6022344354
+	oxygen: 0.6020526878
+	gastrointestinal: 0.6019128939
+	tissue: 0.6018834896
+	pulmonary: 0.6016845377
+	selection: 0.6013405333
+	sleep: 0.6011835137
+	sources: 0.6011622036
+	predict: 0.6011522399
+	bacteria: 0.6009961331
+	restriction: 0.6008736168
+	adjusted: 0.6008043024
+	membrane: 0.6007217756
+	vaccination: 0.6006301571
+	resistance: 0.6005914559
+	air: 0.6004535884
+	pfizer: 0.6003628431
+	stakeholders: 0.599724987
+	group: 0.5993535855
+	cardiovascular: 0.5993320271
+	image: 0.5993177667
+	issue: 0.5992431705
+	industries: 0.5984537308
+	surface: 0.5984530772
+	extraction: 0.5984209906
+	lens: 0.5979505998
+	lung: 0.5977890544
+	domain: 0.5977094709
+	ion: 0.5971034289
+	interviews: 0.5970512195
+	unit: 0.596920273
+	adults: 0.5969081074
+	gender: 0.5966650151
+	fibrosis: 0.5965649054
+	constant: 0.5963981164
+	fever: 0.5963480607
+	physically: 0.5961892889
+	post: 0.5961584763
+	agent: 0.5960724103
+	networks: 0.5960297897
+	international: 0.5959908369
+	exchange: 0.5959484374
+	vitamin: 0.5959023657
+	autism: 0.5958423818
+	structural: 0.595833435
+	average: 0.5958130863
+	students: 0.5957574328
+	privacy: 0.5955320589
+	s1: 0.5953276201
+	dynamics: 0.5952709898
+	cognitive: 0.5949720939
+	vectors: 0.5949692425
+	length: 0.5949456405
+	safety: 0.5949297281
+	ecosystem: 0.5948482604
+	classification: 0.5948342789
+	input: 0.5945924175
+	developments: 0.5944090761
+	preparedness: 0.5943575976
+	rcts: 0.5942652715
+	prone: 0.5942040583
+	lines: 0.5940636096
+	blood: 0.5940269573
+	physiotherapy: 0.5938891981
+	private: 0.5936316168
+	practice: 0.5935472645
+	intention: 0.5935053081
+	avian: 0.5932476855
+	park: 0.5930163205
+	practitioners: 0.5929708369
+	molecule: 0.5928868432
+	deep: 0.5927400068
+	literacy: 0.592676289
+	pathways: 0.5926375008
+	ventilation: 0.5924927485
+	lifestyle: 0.5923375985
+	collective: 0.5923236126
+	registered: 0.5921349142
+	mammals: 0.5912813984
+	heart: 0.5911710933
+	reservoir: 0.5909810058
+	empirical: 0.5909436597
+	version: 0.5908395797
+	epidemic: 0.5908139596
+	perception: 0.5907915613
+	coaching: 0.5907776159
+	products: 0.5906545571
+	algorithms: 0.5906011408
+	chitosan: 0.5905975811
+	socioeconomic: 0.5904531318
+	replication: 0.5902680099
+	fields: 0.5900936052
+	progression: 0.5899493293
+	behavioral: 0.5897503091
+	rights: 0.589698218
+	career: 0.5896712852
+	acceptability: 0.5896665501
+	antibody: 0.5894953037
+	assessment: 0.5894618491
+	summer: 0.5894322862
+	electrostatic: 0.5893672868
+	jones: 0.5892791467
+	washing: 0.5891719138
+	interests: 0.5889907754
+	differentiation: 0.5889018456
+	media: 0.5887999015
+	quantification: 0.5886968109
+	insecurity: 0.588678563
+	research: 0.5883589196
+	chloroquine: 0.5881688316
+	hospital: 0.5881002277
+	participation: 0.5880651406
+	perceptions: 0.5879176728
+	midwives: 0.5877444835
+	frailty: 0.5877194655
+	nanostructures: 0.5877166512
+	gas: 0.5876788148
+	policies: 0.5876557465
+	inhibitors: 0.5875698429
+	enzyme: 0.5873997918
+	conidia: 0.5872089998
+	feeding: 0.587023741
+	viable: 0.5869193618
+	inhibition: 0.586717466
+	buildings: 0.5862386569
+	national: 0.5858811033
+	regulation: 0.5856640383
+	systems: 0.5855036927
+	evaluation: 0.5854845584
+	event: 0.5850899392
+	association: 0.5850162487
+	plan: 0.5849925937
+	policy: 0.5848289743
+	spain: 0.584762281
+	extract: 0.5845293737
+	light: 0.5843969932
+	journal: 0.5839167377
+	behaviour: 0.5838789474
+	design: 0.5838583621
+	financial: 0.5838092307
+	findings: 0.5837584809
+	release: 0.5835128667
+	product: 0.5835008913
+	publishing: 0.5833774429
+	justice: 0.5832051816
+	ubiquitin: 0.5829085186
+	dark: 0.5826587363
+	singapore: 0.5823957598
+	responses: 0.5823770174
+	ards: 0.5823479694
+	technology: 0.58221979
+	protein: 0.582176015
+	reviews: 0.5819858332
+	vector: 0.5819707311
+	framework: 0.5818530158
+	stress: 0.5817917577
+	injury: 0.5817844248
+	analyses: 0.5817007293
+	risks: 0.581545409
+	data: 0.5814654868
+	metropolitan: 0.5813679104
+	pneumonia: 0.5812664255
+	threat: 0.581232523
+	cells: 0.5810727561
+	intranasal: 0.5809634655
+	troponin: 0.5809583378
+	overview: 0.5809443378
+	test: 0.5809128089
+	control: 0.5808510761
+	machine: 0.5806530407
+	infection: 0.5805096279
+	thailand: 0.580398617
+	lee: 0.5802923731
+	behavior: 0.5801245536
+	accumulation: 0.5798934567
+	beer: 0.5798048466
+	solutions: 0.5797495618
+	delivery: 0.5796256982
+	surgical: 0.5795886523
+	opportunities: 0.5795255923
+	folding: 0.5793734621
+	medline: 0.579363503
+	method: 0.5791757579
+	procedure: 0.5791529989
+	tcr: 0.5790613863
+	earth: 0.5790492232
+	al: 0.5789272047
+	action: 0.5788976852
+	zinc: 0.5788702286
+	academic: 0.5788276625
+	turnover: 0.5787671974
+	yang: 0.5787222374
+	water: 0.5786412591
+	children: 0.5784363891
+	vaccine: 0.5784115893
+	psychological: 0.5782792954
+	cohort: 0.5780340102
+	masks: 0.5778063975
+	pressure: 0.5777001872
+	adherence: 0.5774657416
+	component: 0.5774411225
+	cd: 0.577424581
+	vitality: 0.5772798492
+	reports: 0.5770037604
+	pain: 0.576679049
+	model: 0.5765957074
+	life: 0.576263186
+	consideration: 0.576224682
+	emergency: 0.5761008497
+	states: 0.5760545083
+	annotation: 0.5760123812
+	resistant: 0.5758185742
+	brazil: 0.5758110394
+	smoking: 0.5755384212
+	nec: 0.5755174777
+	sequence: 0.5751924681
+	sedentary: 0.5748205402
+	toll: 0.574818369
+	country: 0.5747847703
+	organ: 0.5746477136
+	birth: 0.5746310226
+	isolation: 0.5740031367
+	chen: 0.5739468716
+	cloth: 0.5739403252
+	huang: 0.573727475
+	seasonal: 0.5736933856
+	wu: 0.5735613435
+	text: 0.5735329562
+	sd: 0.5734667543
+	matrix: 0.5734452486
+	scale: 0.5731232822
+	gerd: 0.5731187385
+	lecture: 0.5730842863
+	nbs: 0.5729868539
+	economy: 0.5729270004
+	hrqol: 0.572635137
+	dispersion: 0.5726303844
+	copper: 0.5726303844
+	chest: 0.5725732953
+	sera: 0.5725417569
+	continuous: 0.5723354355
+	attention: 0.5720015829
+	summaries: 0.5718529295
+	structure: 0.5718040432
+	relations: 0.5716599349
+	interventions: 0.5716217426
+	maternal: 0.5714305178
+	benefits: 0.5713492847
+	outbreaks: 0.5710003148
+	communication: 0.5708847396
+	learning: 0.5708762783
+	records: 0.570811818
+	cct: 0.5707354361
+	administration: 0.5706761471
+	chikv: 0.570513933
+	headache: 0.5705074954
+	predictors: 0.5703603882
+	publication: 0.5701896422
+	implications: 0.5701813115
+	discovery: 0.5700757265
+	systemic: 0.5700717345
+	cooking: 0.5699598391
+	simulation: 0.5698613769
+	consumption: 0.5694462264
+	functions: 0.5693760302
+	satisfaction: 0.5690391211
+	gain: 0.568662196
+	transcription: 0.5686212949
+	icu: 0.5683654468
+	markers: 0.5680323238
+	copyright: 0.567746785
+	flavivirus: 0.5676395654
+	exacerbations: 0.5675812653
+	preschool: 0.5675812653
+	validity: 0.5674287701
+	no2: 0.5673955376
+	characterization: 0.5673945745
+	canada: 0.5673663954
+	coping: 0.5671218465
+	thrombin: 0.5669956839
+	family: 0.5669897397
+	quantitative: 0.5668792378
+	diversity: 0.5668474208
+	days: 0.5665901938
+	relationships: 0.5664069721
+	nanoparticles: 0.5663008354
+	vaccines: 0.5662673093
+	manipulation: 0.5661085072
+	testing: 0.566053758
+	proteins: 0.5659889961
+	medical: 0.5659855303
+	health: 0.5657622718
+	dementia: 0.5656693997
+	base: 0.5655571983
+	associations: 0.5655230293
+	implementation: 0.5655218212
+	concerns: 0.5654256962
+	viruses: 0.5653279169
+	innate: 0.5651096643
+	linear: 0.5649816507
+	significance: 0.5649371631
+	density: 0.5644590392
+	clinical: 0.5644544231
+	traits: 0.5640182639
+	epithelial: 0.5639732033
+	information: 0.5639054829
+	formulations: 0.5638118228
+	memory: 0.5637467256
+	cell: 0.5636929539
+	state: 0.5635878272
+	protease: 0.5635100251
+	education: 0.5634223443
+	history: 0.5631411494
+	canopy: 0.5630459331
+	primates: 0.5630459331
+	review: 0.5629652127
+	area: 0.5628534486
+	food: 0.5626125396
+	press: 0.5625318042
+	regulatory: 0.5623948354
+	volume: 0.5623314679
+	hyperglycaemia: 0.5622229543
+	kingdom: 0.5620432761
+	graphs: 0.5620217089
+	transformations: 0.5618272965
+	global: 0.5616327607
+	patients: 0.561497337
+	boundaries: 0.5614945135
+	detection: 0.5614020669
+	woman: 0.5613343794
+	researchers: 0.5612684541
+	walls: 0.5606245276
+	arrhythmia: 0.5604920996
+	cytokine: 0.5601991471
+	pollution: 0.5601952933
+	home: 0.5601109129
+	pharmacists: 0.5600947527
+	fixed: 0.5600944896
+	houses: 0.5597958054
+	workforce: 0.5596024214
+	studies: 0.5595702366
+	decade: 0.5594213967
+	comparison: 0.5593682418
+	mouse: 0.5593567893
+	reason: 0.5593243808
+	classes: 0.559256283
+	anticancer: 0.5592303919
+	intensity: 0.5590111012
+	exercise: 0.5585500892
+	program: 0.5583677161
+	anxiety: 0.5583498936
+	power: 0.5582369933
+	online: 0.5581240164
+	world: 0.5580804454
+	proliferation: 0.5580025693
+	predictive: 0.5579995963
+	services: 0.5579697523
+	neuroticism: 0.557910658
+	major: 0.5578219925
+	estimators: 0.557681358
+	schizophrenia: 0.5574955353
+	drivers: 0.5574200214
+	victoria: 0.5573160057
+	pathogenic: 0.5572396956
+	fruit: 0.5571018468
+	growth: 0.5570692921
+	problems: 0.5566761387
+	professional: 0.5565416552
+	filters: 0.556274548
+	incubation: 0.5557966509
+	mindfulness: 0.5557325414
+	closure: 0.5556308989
+	yellow: 0.5553053372
+	difference: 0.5552726589
+	settings: 0.5551513363
+	viral: 0.5550789339
+	immunity: 0.5550099418
+	exponent: 0.5548865171
+	plates: 0.5548865171
+	level: 0.5546177953
+	license: 0.5545949678
+	haemoglobin: 0.5544423488
+	transcriptome: 0.5544423488
+	refugees: 0.5544423488
+	disorders: 0.5542862292
+	digital: 0.5540519946
+	trends: 0.5540123679
+	nutrients: 0.5536075144
+	meta: 0.5534131673
+	engagement: 0.5532415384
+	personal: 0.5530204039
+	criteria: 0.5529333051
+	anatomy: 0.5528575059
+	collagen: 0.5528575059
+	nanomaterials: 0.5528575059
+	coating: 0.5528575059
+	randomised: 0.5528351389
+	nature: 0.5528068941
+	normal: 0.552629091
+	symptoms: 0.5525317264
+	trauma: 0.5525059157
+	redundancy: 0.5525059157
+	line: 0.5524773671
+	mode: 0.5522918972
+	transmitted: 0.5522573173
+	patterns: 0.5520489697
+	genome: 0.5518536517
+	study: 0.5516913072
+	airborne: 0.5516288801
+	human: 0.5516132421
+	molecules: 0.5514989112
+	management: 0.5513993124
+	authorities: 0.5512017447
+	sets: 0.5511466928
+	mutations: 0.5505768806
+	exosomes: 0.550491054
+	murine: 0.5503324711
+	ratio: 0.5497498199
+	compliance: 0.549680618
+	cost: 0.5496429555
+	hygiene: 0.549611935
+	pathogenesis: 0.5494323796
+	weeks: 0.5493448577
+	recovery: 0.5492654435
+	countries: 0.5492636503
+	lncrnas: 0.5492004886
+	mesh: 0.5491562365
+	treatment: 0.5490103621
+	onset: 0.5487828859
+	thousands: 0.5487644746
+	climate: 0.5480120308
+	knowledge: 0.5478389408
+	pathology: 0.5477899526
+	box: 0.5477774035
+	activity: 0.547652733
+	alleles: 0.5476408535
+	efficiency: 0.5474276324
+	body: 0.5473390399
+	scheme: 0.5470444359
+	evolution: 0.5468477216
+	transcripts: 0.5467111071
+	ecological: 0.5466351845
+	registry: 0.5466263599
+	moderate: 0.5465611378
+	evidence: 0.5463747286
+	providers: 0.5460639068
+	formation: 0.5460424758
+	sector: 0.5457423338
+	members: 0.5456592804
+	statistically: 0.5456069665
+	outcomes: 0.5454592699
+	magnetic: 0.5451759465
+	economic: 0.5451550562
+	environment: 0.5450910371
+	payment: 0.5446187586
+	institutional: 0.5442077294
+	accounts: 0.5441741417
+	fear: 0.5441246203
+	prophylaxis: 0.544011988
+	function: 0.5439998406
+	nervous: 0.5439416989
+	publicly: 0.5435095429
+	bias: 0.5434970383
+	node: 0.5432850214
+	love: 0.5431380739
+	monocytes: 0.5431063336
+	strategy: 0.5426028785
+	fibres: 0.5425895623
+	assay: 0.5425386541
+	infectious: 0.5421506343
+	partners: 0.5419554753
+	fasting: 0.5418887595
+	planning: 0.5417787342
+	healthcare: 0.5414822568
+	host: 0.5413924084
+	expansion: 0.5413826675
+	significant: 0.5411924282
+	virus: 0.5409774595
+	population: 0.5409556704
+	community: 0.540895904
+	epitope: 0.5408073783
+	fetal: 0.5406837726
+	diarrhea: 0.5405405505
+	sputum: 0.5405405505
+	total: 0.5404368441
+	variations: 0.5400368558
+	mental: 0.5399758237
+	market: 0.5399318631
+	vivo: 0.539865959
+	death: 0.5397374421
+	price: 0.5396820756
+	reproductive: 0.5395792875
+	antihypertensive: 0.5395405434
+	premises: 0.5395405434
+	maltreatment: 0.5395405434
+	analysis: 0.5393931623
+	debate: 0.5393175245
+	care: 0.5391429062
+	sensitivity: 0.5391120733
+	groups: 0.5390776806
+	smokers: 0.5390676494
+	individual: 0.5389471975
+	returns: 0.5389132809
+	occurrence: 0.538762567
+	aged: 0.5386438066
+	communities: 0.5386317034
+	operations: 0.5385358345
+	supplementary: 0.5384264888
+	markets: 0.5384060226
+	drugs: 0.5382177048
+	coated: 0.5381910971
+	salt: 0.5381910971
+	seroprevalence: 0.5377155036
+	chains: 0.5377101915
+	race: 0.5375723663
+	fraction: 0.5374144022
+	ε: 0.5372447215
+	elderly: 0.5372409803
+	benefit: 0.5372214765
+	adversity: 0.537210692
+	survivors: 0.5370374085
+	process: 0.5368903793
+	mothers: 0.5368487064
+	development: 0.5364966115
+	measures: 0.5364266002
+	frequency: 0.536305251
+	sense: 0.5361716458
+	transmission: 0.5358675997
+	strength: 0.5352827272
+	equipment: 0.5352482857
+	description: 0.5347674929
+	manuscript: 0.534698932
+	inhalation: 0.5344637217
+	areas: 0.5344610832
+	restrictions: 0.534318278
+	capacity: 0.5341718785
+	political: 0.5341549932
+	components: 0.5340590657
+	populations: 0.5340576131
+	species: 0.5339587361
+	periods: 0.5338235944
+	interpretable: 0.5338232736
+	winter: 0.5338232736
+	quarter: 0.5338232736
+	pipeline: 0.5338232736
+	pharmacological: 0.5338232736
+	models: 0.533795814
+	agree: 0.5337399513
+	veterinary: 0.533499814
+	distress: 0.5334828102
+	oncology: 0.5334647269
+	interval: 0.5333932453
+	neck: 0.5333481
+	bronchoscopy: 0.5333481
+	§: 0.5333481
+	hypoxia: 0.5333481
+	identification: 0.5332001279
+	hub: 0.5331071799
+	kit: 0.5331071799
+	reads: 0.5331071799
+	toddlers: 0.5331071799
+	exacerbation: 0.5331071799
+	workshop: 0.5330593202
+	core: 0.5328513525
+	adoption: 0.5328337966
+	positive: 0.5324075209
+	coverage: 0.5317640308
+	reaction: 0.5317567163
+	racial: 0.5317409608
+	illness: 0.5315604813
+	addition: 0.5310202408
+	bio: 0.5308176891
+	serotypes: 0.5307336191
+	change: 0.5307178047
+	preclinical: 0.5305855584
+	buffer: 0.5305855584
+	smartphone: 0.5305855584
+	measurement: 0.5303028777
+	age: 0.5302092229
+	β: 0.5300722554
+	nucleotides: 0.5299737696
+	social: 0.5297823028
+	susceptible: 0.5296952622
+	schooling: 0.5293708725
+	catch: 0.5293708725
+	germline: 0.5293708725
+	centrality: 0.5288818406
+	raw: 0.5287766168
+	composite: 0.5287766168
+	wearable: 0.5287766168
+	immunization: 0.5287766168
+	endocrine: 0.5287766168
+	linkage: 0.5287766168
+	scaling: 0.5287766168
+	mortality: 0.5283651612
+	bovine: 0.528322811
+	existence: 0.5282510392
+	fish: 0.5275892454
+	microbiome: 0.5275018495
+	triage: 0.5275018495
+	competence: 0.5275018495
+	prognosis: 0.5275018495
+	quality: 0.5274798524
+	rules: 0.5272314122
+	sharing: 0.5272122981
+	ward: 0.526872717
+	risk: 0.5268531309
+	million: 0.526821228
+	contigs: 0.5267524674
+	nodules: 0.5267524674
+	size: 0.5262451398
+	depressed: 0.5261984455
+	macrophage: 0.5261984455
+	µl: 0.5261984455
+	diagnosis: 0.526147801
+	exam: 0.5261277506
+	confinement: 0.526086967
+	guideline: 0.525828038
+	kernel: 0.5258279619
+	complexity: 0.5258164288
+	cats: 0.5256290767
+	living: 0.5251874534
+	reasons: 0.524874361
+	respiratory: 0.524841535
+	pharmaceutical: 0.5247955344
+	multidisciplinary: 0.5247572643
+	neural: 0.5245781056
+	readers: 0.524316014
+	scope: 0.5241984995
+	sirna: 0.5238437025
+	chronic: 0.5234780334
+	treat: 0.5231988846
+	page: 0.5231619035
+	trials: 0.5230678974
+	negative: 0.5228965893
+	today: 0.522507413
+	radio: 0.522291151
+	approach: 0.52226083
+	clearance: 0.5221859703
+	assemblies: 0.5219684309
+	facility: 0.5219684309
+	minor: 0.5219684309
+	sociodemographic: 0.5219684309
+	pregnancies: 0.5219184071
+	recreational: 0.5219184071
+	years: 0.52178895
+	utility: 0.5214210267
+	workflow: 0.5212564172
+	livestock: 0.5208379033
+	teacher: 0.5208206015
+	passenger: 0.5205997527
+	makers: 0.5201390148
+	distribution: 0.5199703077
+	failure: 0.5198703714
+	literature: 0.519655969
+	sensors: 0.5195491704
+	neutralization: 0.5180955485
+	interaction: 0.5178892532
+	protective: 0.5177794919
+	millions: 0.517701601
+	burden: 0.5176705165
+	months: 0.5175916144
+	emotions: 0.517458091
+	experience: 0.5174105902
+	probes: 0.5173056144
+	elective: 0.5173056144
+	significantly: 0.5172153008
+	pregnant: 0.516978229
+	conditions: 0.5168668139
+	lesions: 0.5165264434
+	autonomous: 0.5164348311
+	sales: 0.5163544335
+	assist: 0.5160998884
+	joint: 0.5160915983
+	facilitators: 0.5160906203
+	stakeholder: 0.5159467064
+	cattle: 0.5158633647
+	presentations: 0.5158025786
+	schools: 0.5157623421
+	contact: 0.515453128
+	keywords: 0.5153100992
+	crisis: 0.5152824199
+	supply: 0.5146758185
+	intracellular: 0.514605873
+	sport: 0.5144174329
+	citation: 0.5142753697
+	update: 0.5140471629
+	discipline: 0.5136956906
+	diseases: 0.513674804
+	properties: 0.5132237032
+	events: 0.5126080034
+	matter: 0.5123685455
+	support: 0.5122475668
+	figures: 0.5120401919
+	person: 0.5120071677
+	gestation: 0.5118153516
+	mix: 0.5118153516
+	run: 0.5115078195
+	toxicity: 0.5114820342
+	feasibility: 0.5113765416
+	interact: 0.5109105019
+	synthetic: 0.510423109
+	cellular: 0.5104223433
+	maintenance: 0.5103446262
+	factors: 0.5101193739
+	adaptations: 0.5100190675
+	progressive: 0.5098818102
+	religious: 0.5098818102
+	disadvantage: 0.5098818102
+	inspiration: 0.5098818102
+	perinatal: 0.5098818102
+	washed: 0.5098818102
+	capsid: 0.5098818102
+	devices: 0.5093039715
+	inflammatory: 0.5091822737
+	residues: 0.508986728
+	advances: 0.5089854423
+	survival: 0.5089338677
+	migrants: 0.508843056
+	foods: 0.5087928018
+	deaths: 0.5086061308
+	correlation: 0.5085996782
+	minutes: 0.5083920054
+	metabolites: 0.5083920054
+	donors: 0.5077957964
+	screening: 0.5073459972
+	parent: 0.5071237805
+	roles: 0.5066788003
+	loci: 0.5064716954
+	profession: 0.5064716954
+	interview: 0.5063710808
+	commentary: 0.5063710808
+	workers: 0.5063666186
+	lead: 0.5063453846
+	users: 0.5062952685
+	variables: 0.5060380709
+	steps: 0.5058159078
+	focus: 0.5056378291
+	automatically: 0.5055846927
+	plastic: 0.5055846927
+	constructs: 0.5055846927
+	adjuvant: 0.5055846927
+	schemes: 0.5052796715
+	set: 0.504458288
+	labour: 0.5043509343
+	intervention: 0.5043218254
+	syndrome: 0.5040106334
+	experiment: 0.5037696373
+	recruitment: 0.5035623753
+	center: 0.5032410553
+	deliver: 0.5030384826
+	period: 0.5029451618
+	ecosystems: 0.5023254815
+	adenovirus: 0.501968214
+	senior: 0.5018665895
+	clinic: 0.5014092709
+	doi: 0.501138033
+	corticosteroids: 0.500724303
+	relative: 0.5002983831
+	vision: 0.5002038906
+	disease: 0.499946975
+	responding: 0.4997450195
+	secure: 0.4997450195
+	supported: 0.4995505134
+	questionnaire: 0.4994905603
+	vaccinations: 0.4988399224
+	motif: 0.4987660424
+	mature: 0.4987660424
+	elevation: 0.4987660424
+	theoretically: 0.4985911331
+	performance: 0.4983365001
+	infected: 0.4982874186
+	strategies: 0.4982723405
+	parts: 0.4978826786
+	variation: 0.4974046651
+	infections: 0.4972658833
+	nations: 0.4967611199
+	force: 0.4967333975
+	dissemination: 0.4965757996
+	depth: 0.4965046466
+	invasion: 0.4962972705
+	sparse: 0.4962972705
+	pediatric: 0.4962289663
+	1c: 0.4961868092
+	nutrition: 0.4961234856
+	origin: 0.4961129649
+	conclusion: 0.4960791174
+	amplification: 0.496024653
+	items: 0.496024653
+	antibacterial: 0.496024653
+	cases: 0.4954040342
+	forces: 0.4953095142
+	desire: 0.4953095142
+	multivariate: 0.4953095142
+	solid: 0.4953095142
+	intelligence: 0.4949991936
+	bioinformatics: 0.4948110208
+	ligand: 0.4948110208
+	cooperation: 0.4948110208
+	biomarkers: 0.4947427785
+	relation: 0.494540178
+	efficacy: 0.4942660895
+	effects: 0.4941046003
+	deployment: 0.4939573892
+	public: 0.4938590514
+	households: 0.4938169919
+	nursing: 0.4938123725
+	exposure: 0.4937113587
+	hypertension: 0.4935572763
+	asthma: 0.493410378
+	codes: 0.4931876684
+	parasites: 0.493074778
+	estimation: 0.4926697649
+	spatial: 0.4926120084
+	territories: 0.492606554
+	landscape: 0.4923498116
+	condition: 0.4923186148
+	conclusions: 0.4922372744
+	workplace: 0.4917890025
+	mixing: 0.4916468323
+	claims: 0.4916468323
+	workshops: 0.4916468323
+	supplementation: 0.4916468323
+	foci: 0.4916468323
+	burnout: 0.4912023993
+	pigs: 0.4910668115
+	malaria: 0.4903982466
+	leisure: 0.4902527441
+	metrics: 0.4899503026
+	interactive: 0.4895464813
+	stages: 0.4894217707
+	resources: 0.4891035728
+	teachers: 0.4886763148
+	consultations: 0.4886571463
+	pattern: 0.4886360489
+	exploratory: 0.4885834441
+	contrast: 0.4885157417
+	summary: 0.4884199722
+	trees: 0.488174053
+	observed: 0.4881229762
+	breathing: 0.4881051936
+	handling: 0.4881051936
+	name: 0.4879957367
+	regulations: 0.4875391077
+	prevalence: 0.4874932182
+	destination: 0.4867691226
+	application: 0.4865725557
+	recombinant: 0.4864287847
+	transportation: 0.4864210712
+	template: 0.4864210712
+	nationally: 0.4864210712
+	impacts: 0.4861804763
+	therapeutic: 0.486050905
+	infancy: 0.4849751492
+	subgroups: 0.4849751492
+	conjugated: 0.4849751492
+	glass: 0.4849751492
+	absence: 0.4849214235
+	peer: 0.4849214235
+	parents: 0.4847015867
+	resident: 0.4843546227
+	adolescents: 0.4842383287
+	applications: 0.4840734826
+	reported: 0.4839699781
+	filtering: 0.4838784193
+	supervision: 0.4838784193
+	revision: 0.4838784193
+	websites: 0.4838653497
+	rest: 0.4837016945
+	sections: 0.4836860491
+	diameter: 0.483504394
+	bioactive: 0.483504394
+	3d: 0.4833598911
+	worker: 0.4830963537
+	statement: 0.4830250092
+	element: 0.482640663
+	participant: 0.482640663
+	automated: 0.4819265718
+	maternity: 0.4814796559
+	caregivers: 0.4813093424
+	strengths: 0.4812218763
+	placement: 0.481127458
+	daily: 0.4808450691
+	orientation: 0.480790892
+	regime: 0.4804189559
+	peaks: 0.4804189559
+	streams: 0.4804189559
+	weighted: 0.4804189559
+	shocks: 0.4803280494
+	prescription: 0.4802948844
+	universities: 0.4801888005
+	participants: 0.4797464464
+	face: 0.4794900122
+	maps: 0.4790051901
+	languages: 0.4789874077
+	hierarchy: 0.4789874077
+	morbidity: 0.4789803249
+	sessions: 0.4787987227
+	acid: 0.4787016945
+	females: 0.4786041483
+	youth: 0.4785451566
+	inform: 0.4782378312
+	1b: 0.4781787014
+	extracts: 0.4779509473
+	availability: 0.4778682501
+	database: 0.4776204962
+	activated: 0.4772675454
+	centre: 0.477208321
+	methods: 0.4771315388
+	engaging: 0.4771284348
+	provider: 0.4769323129
+	sepsis: 0.476273129
+	aspects: 0.4760141262
+	architectures: 0.4759967275
+	principles: 0.4757771065
+	exploration: 0.4754827249
+	scholars: 0.4754827249
+	proof: 0.4752574211
+	encoding: 0.4748649966
+	bacterial: 0.4745813156
+	nodes: 0.4745543738
+	incidence: 0.4740629017
+	heterogeneity: 0.4739484273
+	modeling: 0.4737418806
+	outputs: 0.473688049
+	man: 0.473688049
+	cycles: 0.4734124717
+	construction: 0.4726726129
+	examples: 0.4725343496
+	healthy: 0.4723216624
+	provinces: 0.4722422924
+	clients: 0.4722422924
+	assume: 0.4722422924
+	arrangements: 0.4722422924
+	researcher: 0.4722422924
+	exploitation: 0.4722422924
+	leaf: 0.4721292706
+	combination: 0.4711711808
+	acceptance: 0.4711617718
+	van: 0.4705231357
+	obesity: 0.4703823977
+	annual: 0.4702881407
+	annually: 0.4702304405
+	co: 0.4700764336
+	vaccinated: 0.469945282
+	enzymes: 0.4698628841
+	immunological: 0.4695830905
+	doses: 0.4695471398
+	range: 0.4694893455
+	united: 0.4693117308
+	terms: 0.4692996883
+	intentions: 0.4692096499
+	admissions: 0.4692096499
+	immune: 0.4689195729
+	adaptation: 0.4686746397
+	supporting: 0.4686311862
+	comparisons: 0.4683548151
+	homes: 0.4681467495
+	interferon: 0.4679361721
+	therapeutics: 0.4679361721
+	delay: 0.4679361721
+	departments: 0.4679361721
+	nationwide: 0.4679361721
+	nm: 0.4679224621
+	genomic: 0.4676932524
+	legislation: 0.4676378359
+	macrophages: 0.4676378359
+	jobs: 0.4676378359
+	regimes: 0.4672791453
+	diet: 0.4672791453
+	dying: 0.4672631349
+	examinations: 0.4669797002
+	positions: 0.4669797002
+	disadvantages: 0.4669797002
+	continuously: 0.4669797002
+	sum: 0.4669797002
+	indices: 0.4669797002
+	porcine: 0.4669797002
+	microbial: 0.4666192645
+	surfaces: 0.4664167537
+	modifications: 0.4662056897
+	droplet: 0.4661723385
+	repeated: 0.4656600497
+	retrospective: 0.4656600497
+	access: 0.4656469537
+	funding: 0.4655850916
+	mechanism: 0.4653357618
+	rates: 0.4653114058
+	paediatric: 0.4650093631
+	discover: 0.4648892066
+	missing: 0.4648892066
+	hope: 0.4648892066
+	biodiversity: 0.4648327334
+	internationally: 0.4647466854
+	validation: 0.4646692137
+	impact: 0.4645426528
+	actors: 0.4643297338
+	she: 0.464231126
+	hospitalization: 0.4640232621
+	preferences: 0.4638980923
+	attainment: 0.4638980923
+	official: 0.4638980923
+	societies: 0.4633089719
+	antibiotics: 0.4632301727
+	modalities: 0.462781475
+	genotypes: 0.462689319
+	fungi: 0.4621770576
+	directions: 0.4620559563
+	date: 0.4616628278
+	compounds: 0.4614864236
+	route: 0.4614263435
+	airways: 0.4614263435
+	uncertainties: 0.4614263435
+	microorganisms: 0.4614009863
+	regimen: 0.4614009863
+	serum: 0.4610204388
+	approaches: 0.4609986727
+	loss: 0.4609944152
+	clustering: 0.4608847705
+	functioning: 0.4604782987
+	shortage: 0.4604782987
+	hospitalisation: 0.4604598688
+	centres: 0.4603117378
+	guidelines: 0.4602371966
+	physical: 0.4599724083
+	attitude: 0.4597525209
+	innovation: 0.4592040939
+	professionals: 0.4591075552
+	note: 0.4587972671
+	persistent: 0.458781536
+	clusters: 0.4583861866
+	member: 0.4583161289
+	approval: 0.4583161289
+	discussions: 0.4583161289
+	median: 0.4582373643
+	subject: 0.4573286029
+	discharge: 0.4566123231
+	attitudes: 0.4563472772
+	respondents: 0.4561913167
+	cities: 0.45612331
+	effectiveness: 0.4558909972
+	lives: 0.4556499286
+	discrimination: 0.4555251542
+	audience: 0.4555251542
+	glycoprotein: 0.4555251542
+	inhibitory: 0.4555251542
+	hand: 0.4554650222
+	isolates: 0.4552421555
+	concentrations: 0.4552071959
+	medication: 0.455204655
+	analytical: 0.4550748067
+	slow: 0.4550748067
+	variance: 0.4550069328
+	carers: 0.4550069328
+	courses: 0.4550069328
+	hospitalizations: 0.4548149089
+	income: 0.4547761333
+	platform: 0.4543483941
+	combinations: 0.4541974256
+	intake: 0.4540330321
+	beliefs: 0.4539549371
+	numbers: 0.4537732737
+	baseline: 0.4535673528
+	system: 0.4533106039
+	land: 0.4532874591
+	fungal: 0.4532149436
+	patient: 0.4531234747
+	variety: 0.4529436642
+	direction: 0.4529234016
+	worldwide: 0.4528636487
+	task: 0.4528584262
+	similarity: 0.4521682661
+	trajectories: 0.4521059453
+	distributions: 0.4513864577
+	spaces: 0.4513125141
+	suppression: 0.4513006995
+	quantities: 0.4512143371
+	correlations: 0.4505813954
+	diagnostics: 0.4505813954
+	flexible: 0.4505813954
+	legal: 0.450466308
+	demographic: 0.450299882
+	aerosol: 0.4498267619
+	themes: 0.4497111993
+	epidemiology: 0.4496929061
+	relationship: 0.4494495374
+	objects: 0.4494032625
+	dates: 0.4493227448
+	ages: 0.4493227448
+	leaders: 0.4493227448
+	retention: 0.4493227448
+	interacting: 0.4493227448
+	swabs: 0.4490632695
+	quantity: 0.4490407785
+	soluble: 0.4490407785
+	relatives: 0.4490407785
+	emergent: 0.4490407785
+	volumes: 0.4490407785
+	attachment: 0.4490407785
+	organs: 0.4490407785
+	scientists: 0.4489736113
+	prospective: 0.4489736113
+	hospitals: 0.4488398463
+	eyes: 0.4487632508
+	secretion: 0.4487632508
+	invasive: 0.4484800548
+	units: 0.4482147867
+	investment: 0.448170686
+	works: 0.4480516735
+	organisations: 0.4478719207
+	observation: 0.4477995028
+	preparation: 0.4477995028
+	mean: 0.4476747154
+	birds: 0.4476230529
+	recipients: 0.4476230529
+	ubiquitous: 0.4476230529
+	contaminated: 0.4476230529
+	transparency: 0.4476230529
+	stressors: 0.4476230529
+	formulation: 0.4473573126
+	cultures: 0.4473573126
+	sitting: 0.4473573126
+	phenomena: 0.4473573126
+	distances: 0.4473573126
+	leaves: 0.4473573126
+	declines: 0.4473573126
+	kinetics: 0.4473573126
+	pool: 0.4473573126
+	designs: 0.4461362923
+	phenotype: 0.4461362923
+	serological: 0.4461362923
+	lungs: 0.4461362923
+	recommendation: 0.4449036204
+	droplets: 0.4447759518
+	expected: 0.4446683827
+	female: 0.4446308478
+	assumptions: 0.4445956443
+	reporting: 0.4442807772
+	interdisciplinary: 0.4441672036
+	mixed: 0.4441145426
+	persons: 0.4440402737
+	advantages: 0.443826259
+	illnesses: 0.443826259
+	pooled: 0.443826259
+	definitions: 0.4437535214
+	reactions: 0.4437535214
+	challenges: 0.4436854005
+	friends: 0.4432458244
+	employees: 0.443016367
+	signals: 0.4429839916
+	reproduction: 0.4428124911
+	medications: 0.4428124911
+	globally: 0.4426341956
+	investigations: 0.4425811174
+	generation: 0.4420411066
+	progress: 0.4420345471
+	simulations: 0.4419316804
+	reservoirs: 0.4417392974
+	pathological: 0.4417392974
+	expenditure: 0.4417392974
+	usefulness: 0.4417392974
+	solution: 0.4415936983
+	1a: 0.4415298293
+	routes: 0.4415298293
+	psychosocial: 0.4415298293
+	movements: 0.4415104604
+	documents: 0.4415104604
+	clinician: 0.4415104604
+	timing: 0.4415104604
+	viability: 0.4415104604
+	culturally: 0.4415104604
+	surveys: 0.4412314088
+	clinicians: 0.4409271597
+	inequalities: 0.4407809599
+	choices: 0.4407427112
+	persistence: 0.4407427112
+	experiences: 0.4404993962
+	dysfunction: 0.4404947201
+	urine: 0.4404947201
+	faces: 0.4404947201
+	expensive: 0.4404947201
+	disparities: 0.4404947201
+	managers: 0.4404947201
+	uncertainty: 0.4404220103
+	accessibility: 0.4401923717
+	modern: 0.4398944603
+	virulence: 0.4391947472
+	inter: 0.4388024823
+	processes: 0.4385231521
+	phenomenon: 0.438405765
+	challenge: 0.4382904236
+	pressures: 0.4378729369
+	theme: 0.4378729369
+	season: 0.4378729369
+	temperatures: 0.4378729369
+	inhibited: 0.4378729369
+	statements: 0.4378729369
+	kb: 0.4378729369
+	topics: 0.4378729369
+	driver: 0.4378729369
+	publications: 0.4378060376
+	messages: 0.4375027233
+	infrastructure: 0.4374893693
+	contacts: 0.4374797702
+	agents: 0.4374455556
+	cytokines: 0.4373141691
+	highlights: 0.437291
+	predictions: 0.4372733758
+	experiments: 0.436859199
+	subjects: 0.43674871
+	delays: 0.4366945982
+	feelings: 0.4366945982
+	flexibility: 0.4366945982
+	abilities: 0.4366945982
+	transformation: 0.436655599
+	communicate: 0.4365661148
+	laws: 0.4365661148
+	yield: 0.4365661148
+	barrier: 0.4364880608
+	cancers: 0.4364880608
+	personnel: 0.4364880608
+	institutions: 0.436394767
+	men: 0.4359995301
+	measurements: 0.4359753379
+	expectations: 0.435961592
+	achievement: 0.435961592
+	supplemented: 0.435961592
+	plans: 0.435961592
+	consumers: 0.4359459598
+	operation: 0.4359351176
+	live: 0.4355722585
+	complications: 0.4354048794
+	governments: 0.4352031592
+	admission: 0.4346192602
+	geographical: 0.4343506881
+	clinically: 0.434139978
+	segments: 0.4336773178
+	layer: 0.4336773178
+	scenarios: 0.4336773178
+	resilience: 0.4336168203
+	links: 0.4334170932
+	mid: 0.4330723243
+	robustness: 0.4330714559
+	randomly: 0.4330714559
+	hour: 0.4330714559
+	routinely: 0.4330714559
+	mediators: 0.4330714559
+	functionality: 0.4330714559
+	transmissible: 0.4330714559
+	appearance: 0.4330714559
+	issues: 0.433013233
+	segment: 0.4328436778
+	reliability: 0.4328436778
+	add: 0.4328436778
+	addresses: 0.4328436778
+	avoidance: 0.4328436778
+	perceived: 0.4324865131
+	year: 0.4319471298
+	nd: 0.4319100096
+	promise: 0.4315871637
+	supplies: 0.4315871637
+	training: 0.4312974138
+	behaviours: 0.4310704898
+	sensitive: 0.4310321661
+	delayed: 0.4305606949
+	controls: 0.4303103355
+	borne: 0.4302337014
+	organisms: 0.4302337014
+	billion: 0.4301925012
+	genomes: 0.4297203074
+	attributes: 0.4296962012
+	hypotheses: 0.4295177063
+	inflammation: 0.4291548764
+	setting: 0.429077932
+	threats: 0.4289854526
+	therapies: 0.428673187
+	met: 0.4286544279
+	people: 0.4284935731
+	programs: 0.4281023335
+	limitation: 0.4279544774
+	lot: 0.4279544774
+	percent: 0.4279544774
+	good: 0.4278970955
+	dataset: 0.4278833565
+	parameter: 0.427824557
+	databases: 0.4275970277
+	physiological: 0.4273823741
+	animals: 0.4273623848
+	genes: 0.4273203367
+	receptors: 0.4268502494
+	mapping: 0.4268502494
+	proteases: 0.4268502494
+	activities: 0.426355061
+	mrna: 0.4258654964
+	papers: 0.4256810089
+	assessments: 0.4256739585
+	decades: 0.4253891888
+	losses: 0.4249038593
+	experts: 0.4246958149
+	threshold: 0.4245790528
+	died: 0.4245790528
+	number: 0.4245361466
+	hepatitis: 0.42442188
+	practical: 0.424169101
+	tasks: 0.4238119476
+	difficulty: 0.4237058849
+	fatigue: 0.4235093176
+	employment: 0.423140174
+	manifestations: 0.4229504203
+	educational: 0.4224920048
+	strains: 0.422316104
+	hands: 0.421170044
+	methodological: 0.4201414584
+	express: 0.4200369284
+	barriers: 0.4195845023
+	mobility: 0.4194656342
+	demands: 0.419351968
+	frameworks: 0.419351968
+	residents: 0.4193196468
+	accuracy: 0.4193191881
+	particles: 0.4192799735
+	clinics: 0.4192562095
+	males: 0.4190454204
+	uptake: 0.4188661702
+	sectors: 0.4188060819
+	concepts: 0.4186126949
+	scenario: 0.4185082959
+	datasets: 0.4184422303
+	practices: 0.4182224468
+	rich: 0.4178170085
+	activation: 0.4177337376
+	visits: 0.4176668495
+	infect: 0.4176668495
+	pathogen: 0.4172724823
+	observations: 0.4172370454
+	signs: 0.4172370454
+	hold: 0.4172116671
+	origins: 0.4172116671
+	initiatives: 0.4171817595
+	tests: 0.4168566356
+	outcome: 0.4166245466
+	errors: 0.4163727021
+	adult: 0.4161980406
+	symptom: 0.416137503
+	circumstances: 0.4160822373
+	hosts: 0.4159636589
+	funded: 0.4158864279
+	accessible: 0.4157818979
+	work: 0.4156311437
+	sample: 0.4154716827
+	laboratories: 0.4148111106
+	organizations: 0.4145388286
+	dimensions: 0.4142710992
+	methodologies: 0.4142710992
+	laboratory: 0.4140914636
+	estimates: 0.4139103291
+	self: 0.4136951236
+	balance: 0.4134906775
+	features: 0.4134858595
+	sequences: 0.4132217141
+	dominant: 0.4128377658
+	value: 0.412775535
+	driving: 0.4127334464
+	behavioural: 0.4124469043
+	http: 0.4122982073
+	agencies: 0.4122982073
+	pathogens: 0.4117147081
+	relevance: 0.411698384
+	cough: 0.411103687
+	dose: 0.4109072766
+	costs: 0.4107703536
+	indicators: 0.4102112736
+	meaning: 0.4098608278
+	fold: 0.409631229
+	assays: 0.4093270388
+	techniques: 0.4093151471
+	closed: 0.4088224387
+	staff: 0.4083151471
+	day: 0.408191626
+	technique: 0.4081425398
+	place: 0.4078441464
+	platforms: 0.4069475596
+	disciplines: 0.4067097122
+	start: 0.4067097122
+	constraints: 0.4066957363
+	contexts: 0.4066585984
+	contributions: 0.4064046656
+	skills: 0.405940586
+	treatments: 0.4058636139
+	tissues: 0.4058007108
+	computer: 0.4057621957
+	situation: 0.4056206917
+	week: 0.4049409417
+	variability: 0.4049066819
+	antigens: 0.4049066819
+	citizens: 0.4049066819
+	values: 0.4047998911
+	decisions: 0.4044952061
+	mammalian: 0.4044541779
+	actions: 0.4038528766
+	structures: 0.4036141862
+	families: 0.4035039567
+	scales: 0.4032247541
+	parameters: 0.4025665029
+	specificity: 0.4019459417
+	topic: 0.401931706
+	published: 0.4015988754
+	advance: 0.4012906681
+	domains: 0.4004588818
+	procedures: 0.4004460102
+	his: 0.4003390089
+	routine: 0.3999567536
+	susceptibility: 0.3998937861
+	interest: 0.3996896641
+	locations: 0.3996163161
+	difficulties: 0.3995620884
+	elements: 0.3995620884
+	characteristics: 0.3992555209
+	categories: 0.3991152369
+	places: 0.3991152369
+	authors: 0.3990415451
+	situations: 0.398368149
+	epidemiological: 0.3983258399
+	tools: 0.3975030253
+	fatal: 0.3974329547
+	fit: 0.3967545304
+	trend: 0.3965651187
+	controlling: 0.3965651187
+	late: 0.396460923
+	challenging: 0.3963371561
+	affect: 0.3962840287
+	regions: 0.3959301803
+	comorbidities: 0.3958829251
+	geographic: 0.3957545304
+	success: 0.3956438457
+	epidemics: 0.3956362268
+	location: 0.395589877
+	methodology: 0.395550368
+	humans: 0.3954346028
+	describe: 0.3949738894
+	treated: 0.3948829251
+	means: 0.3947266799
+	sites: 0.3946318495
+	societal: 0.3946210711
+	facilities: 0.3945920304
+	theoretical: 0.3943865165
+	transition: 0.3943476893
+	mechanisms: 0.3933162176
+	popular: 0.3932084742
+	times: 0.3928986218
+	amount: 0.390785288
+	protocols: 0.3902502014
+	declared: 0.3901736421
+	basis: 0.3891931509
+	month: 0.3890835347
+	available: 0.3872349118
+	time: 0.3870840156
+	details: 0.3848849946
+	find: 0.3828767353
+	2019: 0.3790232585
+	course: 0.3789480824
+	her: 0.3774382185
+	part: 0.3770819229
+

@@ -1,0 +1,5016 @@
+Cluster 0:
+	magnetic resonance imaging: 0.9717014274
+	monoclonal antibody: 0.9687867965
+	rheumatoid arthritis: 0.967929357
+	carbon nanotubes: 0.9640707608
+	erythrocyte sedimentation rate: 0.963312069
+	vesicular stomatitis virus: 0.9621788267
+	molecular docking: 0.9608940571
+	janus kinase: 0.9602344861
+	endothelial dysfunction: 0.960137821
+	plasmodium falciparum: 0.9599456555
+	diabetic retinopathy: 0.9592821544
+	diabetes mellitus: 0.9588745115
+	monoclonal antibodies: 0.9585758569
+	programmed cell death: 0.9571664919
+	convalescent plasma: 0.9551273706
+	nlrp3 inflammasome: 0.9548832088
+	differentially expressed: 0.9548680372
+	signal transduction: 0.954719975
+	electron microscopy: 0.954585627
+	clustered regularly interspaced short palindromic repeats: 0.9545735206
+	tyrosine kinase: 0.9540498164
+	septic shock: 0.9540345796
+	single nucleotide polymorphisms: 0.9536442633
+	vitamin b6: 0.9535418912
+	mass spectrometry: 0.9532625297
+	body mass index: 0.9523244155
+	herbal medicines: 0.9521658272
+	mesenchymal stem cells: 0.9517340056
+	oxygen saturation: 0.951667475
+	bone marrow: 0.9516582984
+	cytokine storm: 0.9511544156
+	oxidative stress: 0.9511288267
+	adipose tissue: 0.9506421389
+	inflammatory bowel disease: 0.9505484936
+	natural killer: 0.9498474706
+	single nucleotide polymorphism: 0.9497714278
+	hydrogen bonding: 0.949684115
+	gene ontology: 0.9496379307
+	multidrug resistance: 0.9496331636
+	idiopathic pulmonary fibrosis: 0.9495360707
+	hematopoietic stem cell transplantation: 0.9492694767
+	antibiotic resistance: 0.9491832977
+	drug discovery: 0.9491658483
+	staphylococcus aureus: 0.9489700128
+	neuropathic pain: 0.9487704875
+	dromedary camels: 0.9485924689
+	lopinavir ritonavir: 0.9485880288
+	quantum dots: 0.9483804658
+	hydrogen bonds: 0.9482052277
+	tumor necrosis factor: 0.9482028562
+	olive oil: 0.9480691519
+	blood pressure: 0.9477226636
+	wound healing: 0.9476430897
+	polymerase chain reaction: 0.9476349981
+	nitrogen dioxide: 0.9471852132
+	medicinal plants: 0.9469401738
+	angiotensin converting enzyme: 0.9468038027
+	mycobacterium tuberculosis: 0.9467777831
+	reactive oxygen species: 0.9465636401
+	graphene oxide: 0.9464548282
+	inflammatory mediators: 0.9458609862
+	acute kidney injury: 0.945700462
+	cysteine proteases: 0.9455273305
+	live attenuated: 0.9453607622
+	systemic lupus erythematosus: 0.9452292473
+	phenolic compounds: 0.9451546031
+	spinal cord: 0.9450702411
+	proteolytic cleavage: 0.9446061858
+	neutralizing antibody: 0.944511112
+	lymphocyte count: 0.944507039
+	carbon monoxide: 0.9443377461
+	fatty acid: 0.9442884141
+	proinflammatory cytokines: 0.9441756013
+	major histocompatibility complex: 0.9438032407
+	cystic fibrosis: 0.943610581
+	volatile organic compounds: 0.943387737
+	density functional theory: 0.9432561453
+	swine flu: 0.9431551294
+	streptococcus pneumoniae: 0.9425547913
+	avian influenza: 0.942523691
+	lymph node: 0.9425032413
+	innate immunity: 0.9424868565
+	translation initiation: 0.9424213249
+	secondary metabolites: 0.942242087
+	flow cytometry: 0.9421381768
+	ng ml: 0.9418681092
+	dendritic cells: 0.941808357
+	innate immune: 0.9417406333
+	open reading frames: 0.9416929136
+	coli o157: 0.9414909636
+	antimicrobial resistance: 0.9409837378
+	creatine kinase: 0.9409698735
+	extracellular vesicles: 0.9407212654
+	cysteine protease: 0.940631817
+	hiv aids: 0.9406067798
+	signaling pathway: 0.9404731727
+	ion channels: 0.9400815569
+	seasonal influenza: 0.9400695909
+	epithelial cells: 0.9400561002
+	mitogen activated protein kinase: 0.9400323449
+	neutralizing antibodies: 0.939996339
+	fda approved: 0.9399040424
+	hydrogen peroxide: 0.9396682315
+	waist circumference: 0.9396023084
+	symptom onset: 0.9394898429
+	molecular dynamics simulations: 0.9394507755
+	subfamily coronavirinae: 0.9394386431
+	convalescent sera: 0.9389229579
+	human leukocyte antigen: 0.9387258046
+	stem cell: 0.9386228118
+	ribonucleic acid: 0.9384029297
+	solid tumors: 0.937675764
+	cytokine storms: 0.9375457403
+	hemorrhagic fever: 0.9375081919
+	post traumatic stress disorder: 0.9373529022
+	drug repurposing: 0.9371274472
+	ischemic stroke: 0.9371228079
+	drug delivery: 0.9370285899
+	zika virus: 0.9368171866
+	antibody titers: 0.9368036977
+	parkinson's disease: 0.9367830984
+	codon usage bias: 0.936682822
+	nitric oxide synthase: 0.9366345732
+	pseudomonas aeruginosa: 0.9364459973
+	nns rna viruses: 0.9364237915
+	klebsiella pneumoniae: 0.9360769342
+	lactate dehydrogenase: 0.9360083084
+	ion channel: 0.9357178709
+	enveloped viruses: 0.935655243
+	herpes simplex: 0.9354650402
+	phylogenetic tree: 0.9352475507
+	free radical: 0.9351904052
+	ionic liquid: 0.9350857418
+	fusion peptide: 0.9347656304
+	disseminated intravascular coagulation: 0.9346293527
+	aseptic meningitis: 0.9345796311
+	pi3k akt: 0.9344950846
+	inflammatory markers: 0.934246351
+	interferon gamma: 0.934079463
+	fatty acids: 0.9340745365
+	cfrp parts: 0.9340268252
+	escherichia coli: 0.933913382
+	xpert mtb rif: 0.9336573782
+	gene expression omnibus: 0.9335066016
+	neurological complications: 0.933428231
+	insulin resistance: 0.9332071729
+	loop mediated isothermal amplification: 0.9330930217
+	signaling pathways: 0.9327438519
+	transcriptional regulation: 0.9324973898
+	recombinase polymerase amplification: 0.9324221537
+	contact tracing: 0.9323556887
+	hematological malignancy: 0.9320560054
+	lipid peroxidation: 0.9316137537
+	magnetic nanoparticles: 0.9313869285
+	protease inhibitors: 0.9313832407
+	ischemia reperfusion: 0.930949563
+	carbon dioxide: 0.9307756542
+	medicinal plant: 0.9305752114
+	gas exchange: 0.9302372097
+	liquid chromatography: 0.9302168542
+	mg kg: 0.9301781969
+	serine protease: 0.9301268468
+	enzyme linked immunosorbent assay: 0.9300783079
+	nitric oxide: 0.9300608732
+	stem cells: 0.930000331
+	codon usage: 0.9299070781
+	sialic acid: 0.9298922181
+	polycyclic aromatic hydrocarbons: 0.9298756017
+	open reading frame: 0.9295107336
+	ant colony: 0.9294970072
+	neurological manifestations: 0.9291828064
+	extracellular matrix: 0.9291267863
+	phage display: 0.9290016022
+	multiorgan failure: 0.9288953302
+	cellular senescence: 0.928859067
+	gel electrophoresis: 0.9286278366
+	metal ions: 0.9285342237
+	vaccine rollout: 0.9284475674
+	spike glycoprotein: 0.9283495901
+	16s rrna: 0.9283419395
+	high performance liquid chromatography: 0.9283343447
+	molecular dynamics simulation: 0.9281862362
+	medication adherence: 0.9281711304
+	endothelial glycocalyx: 0.9281479858
+	percutaneous coronary intervention: 0.9280944898
+	antiviral agents: 0.928092261
+	intrinsically disordered: 0.9276382948
+	canine parvovirus: 0.9276139224
+	green fluorescent protein: 0.9276122943
+	delta variant: 0.9275584325
+	essential oils: 0.9274932448
+	helicobacter pylori: 0.9274824661
+	raman spectroscopy: 0.9273687703
+	corona virus: 0.9273539522
+	antigenic determinants: 0.9272384676
+	surface plasmon resonance: 0.9271398381
+	dry eye: 0.9268130196
+	oxygen therapy: 0.9266739078
+	listeria monocytogenes: 0.9265625933
+	nucleic acids: 0.9265155927
+	endoplasmic reticulum: 0.9264510925
+	antimicrobial stewardship: 0.9264347767
+	innate immune response: 0.9261775341
+	intravenous immunoglobulin: 0.9259396067
+	acei arb: 0.925875283
+	isothermal amplification: 0.9257072815
+	herpes simplex virus: 0.9257072406
+	cell cycle arrest: 0.9252365675
+	sequential organ failure assessment: 0.9252344703
+	genetic diversity: 0.9250519793
+	acute pancreatitis: 0.9250507984
+	feline infectious peritonitis: 0.9249776571
+	antibody dependent enhancement: 0.9245915015
+	cytopathic effect: 0.9243274213
+	blood glucose: 0.9243162224
+	rabbit hemorrhagic disease: 0.9241799305
+	human immunodeficiency virus: 0.9240790022
+	amino acid residues: 0.9240638939
+	antibiotic resistant: 0.9240636024
+	angiotensin ii: 0.9239572605
+	cell cycle: 0.923821212
+	zinc finger: 0.923709327
+	transcription factor: 0.9236808034
+	sulfur dioxide: 0.9235706878
+	incubation period: 0.9235333282
+	genome sequencing: 0.923489045
+	antimicrobial agents: 0.9233606747
+	immune checkpoint: 0.9232482163
+	cycle threshold: 0.9232370886
+	vaccine candidates: 0.9231343197
+	angiotensin receptor blockers: 0.923039933
+	subgenus sarbecovirus: 0.9230292599
+	nucleic acid: 0.9229342101
+	binding site: 0.9227847996
+	spike protein: 0.9224592597
+	arachidonic acid: 0.9224056166
+	immune escape: 0.9223696222
+	platelet count: 0.9223635386
+	cancer genome atlas: 0.9219105608
+	infectious bronchitis virus: 0.9218881948
+	metabolic syndrome: 0.9217450936
+	plasminogen activator: 0.9216011705
+	binding affinity: 0.9213297156
+	base pair: 0.9212874894
+	inflammatory cytokines: 0.9212172192
+	3cl protease: 0.921085415
+	3cl pro: 0.9210594794
+	multidrug resistant: 0.920646893
+	blood vessels: 0.920576633
+	pluripotent stem cells: 0.9204741659
+	gene expression: 0.9199682272
+	immune evasion: 0.919943126
+	accessory proteins: 0.9196120372
+	acquired immunodeficiency syndrome: 0.919486068
+	drug repositioning: 0.9193934763
+	primary cilia: 0.9192554336
+	breakthrough infections: 0.9191492952
+	proinflammatory cytokine: 0.9188828244
+	bnt162b2 vaccine: 0.9188662679
+	iron oxide: 0.9188342563
+	acute lung injury: 0.9187454056
+	medicinal herbs: 0.9184556565
+	dengue fever: 0.9183238348
+	japanese encephalitis: 0.9182550646
+	glycyrrhizic acid: 0.9182545706
+	humoral immunity: 0.9181615277
+	atopic dermatitis: 0.9181011705
+	varicella zoster virus: 0.9180416358
+	osteogenic differentiation: 0.9179286235
+	chloroquine phosphate: 0.9178517835
+	bat species: 0.9178230913
+	binding affinities: 0.917725735
+	electrochemical biosensor: 0.917528396
+	sudden cardiac death: 0.9174449685
+	nonstructural proteins: 0.9174268086
+	nuclear translocation: 0.9171427631
+	peripheral blood mononuclear cells: 0.9170945892
+	free radicals: 0.9170591955
+	endothelial cells: 0.9170433997
+	polyethylene glycol: 0.9168523104
+	vaccination coverage: 0.9168074223
+	receptor binding domain: 0.9166687697
+	bioactive compounds: 0.9166312359
+	crispr cas: 0.9165015591
+	hydrogen bond: 0.9164409238
+	membrane fusion: 0.9161706555
+	skeletal muscle: 0.9161123521
+	molecular dynamics: 0.9160195974
+	receptor binding motif: 0.9159037323
+	inflammatory response: 0.9153869173
+	endosomal compartments: 0.915341269
+	glycosylation sites: 0.9153277139
+	amino acid: 0.9153002521
+	jak stat: 0.91476822
+	sodium hypochlorite: 0.9147468
+	chemical constituents: 0.9146953129
+	febrile illness: 0.9145021529
+	autoimmune encephalitis: 0.9144478363
+	delta theta ratio: 0.9142496165
+	streptococcus pyogenes: 0.9140553882
+	vaccination drive: 0.9139617403
+	rna seq: 0.9139600121
+	pl pro: 0.9139419498
+	viral load: 0.9136103124
+	bariatric surgery: 0.9136056365
+	ground glass: 0.913412982
+	d614g mutation: 0.9134076064
+	diabetic nephropathy: 0.9133072393
+	pathogenic microbes: 0.9132544984
+	ursolic acid: 0.9130015151
+	protein kinase: 0.9129911309
+	rna silencing: 0.9129764783
+	nucleocapsid protein: 0.9128584589
+	order nidovirales: 0.9128146276
+	h1n1 influenza: 0.9127426364
+	sars cov2: 0.9125529917
+	thiol disulphide: 0.9124815709
+	weight gain: 0.9120466185
+	μg ml: 0.9119629365
+	mesenchymal stem cell: 0.9118055239
+	human papillomavirus: 0.9116916523
+	mhc class: 0.911657189
+	genome sequences: 0.9115163979
+	infectious bursal disease: 0.9113119475
+	crispr cas9: 0.9112688283
+	cell proliferation: 0.9111048932
+	jak inhibitors: 0.9110752523
+	acinetobacter baumannii: 0.9108920253
+	lipid bilayer: 0.9108716436
+	mycoplasma pneumoniae: 0.9108702616
+	viral replication: 0.9107465606
+	susceptible infected recovered: 0.9103837957
+	vaccine hesitancy: 0.9103605701
+	lymphocyte subsets: 0.910109501
+	gene silencing: 0.9100780408
+	vital signs: 0.9099733231
+	autoimmune diseases: 0.9099093407
+	organic frameworks: 0.9097473589
+	dna polymerase: 0.9096079689
+	cryo em: 0.9095246391
+	16s rrna amplicon sequencing: 0.9094750638
+	multisystem inflammatory syndrome: 0.9094718605
+	tumor suppressor: 0.9093240876
+	aedes aegypti: 0.9093130415
+	white matter: 0.9092930804
+	sequence alignment: 0.9091628736
+	tandem mass spectrometry: 0.9091344943
+	immune checkpoint inhibitors: 0.9089141899
+	alkaline phosphatase: 0.9086362851
+	drug resistance: 0.9086143489
+	cleavage site: 0.9085041427
+	arterial hypertension: 0.9083990815
+	rnadependent rna polymerase: 0.9081130352
+	interstitial pneumonia: 0.9079566751
+	cell adhesion: 0.9079347809
+	acute myeloid leukemia: 0.9077881442
+	lc ms ms: 0.9077846468
+	tick borne: 0.90768026
+	physicochemical properties: 0.9074695385
+	weight loss: 0.9074025285
+	pattern recognition receptors: 0.9073467626
+	tumor microenvironment: 0.9073342005
+	cell lines: 0.9072992624
+	human beings: 0.9069059626
+	dna methylation: 0.9068910535
+	seed germination: 0.9060608437
+	amino acids: 0.9059233886
+	crispr cas12a: 0.9058340682
+	triterpene saponins: 0.9058153117
+	transmembrane domain: 0.9055398143
+	white blood cell count: 0.9054748108
+	silver nanoparticles: 0.9052807997
+	active ingredients: 0.9050664921
+	yellow fever: 0.9050060498
+	multiorgan dysfunction: 0.904945848
+	polyunsaturated fatty: 0.9049327561
+	electrochemical biosensors: 0.9048855347
+	differentially expressed genes: 0.9047614192
+	macrophage polarization: 0.9045000582
+	glycyrrhiza glabra: 0.9044718683
+	e3 ubiquitin ligase: 0.9043818179
+	immune response: 0.9041606918
+	ns3 4a: 0.9039029834
+	bacterial infections: 0.903867992
+	hypoxemic respiratory failure: 0.903866825
+	tof ms: 0.9038602223
+	inclusion bodies: 0.903805374
+	viral shedding: 0.9037217217
+	carbon emissions: 0.9035243929
+	igg antibodies: 0.9034547896
+	scorpion venom: 0.9028932232
+	interferon stimulated: 0.9027910352
+	tidal volume: 0.9027611176
+	cell wall: 0.9025714583
+	copies ml: 0.9022168152
+	porcine epidemic diarrhea: 0.9021548393
+	cell fusion: 0.9020097425
+	catalytic dyad: 0.9018730631
+	bioactive molecules: 0.9018234909
+	3c pro: 0.9016985503
+	vascular permeability: 0.9016354982
+	genetic algorithm: 0.9015528459
+	matrix metalloproteinase: 0.9015422466
+	cell line: 0.9014746381
+	chain reaction: 0.9013608645
+	nk cell: 0.9012331648
+	soft tissue: 0.9012286824
+	md simulations: 0.9010854881
+	genetic variants: 0.9008810746
+	np hard: 0.9007685506
+	reperfusion injury: 0.9006356116
+	plasmon resonance: 0.9004634177
+	trace elements: 0.900321116
+	sialic acids: 0.9002027685
+	ejection fraction: 0.9001177383
+	parainfluenza virus: 0.9000801658
+	allergic reactions: 0.9000312791
+	proteolytic enzymes: 0.8999343489
+	conformational epitopes: 0.8995214024
+	heptad repeat: 0.8993918556
+	lpv rtv: 0.899338556
+	anti inflammatory: 0.8992433816
+	cerebral palsy: 0.8989950895
+	cell culture: 0.8988934301
+	vero e6 cells: 0.8984600545
+	receptor blocker: 0.8983977975
+	krill oil: 0.8983079615
+	radiation therapy: 0.8983030043
+	body fluids: 0.8982720109
+	human bocavirus: 0.8982271817
+	kcal mol: 0.898094945
+	kawasaki disease: 0.8980545024
+	newcastle disease virus: 0.8979188217
+	gm csf: 0.8976072212
+	vascular endothelial growth factor: 0.8975822149
+	xbj injection: 0.897417884
+	coronaviridae family: 0.8971622289
+	transmembrane serine protease: 0.8970162289
+	humoral immune response: 0.896940354
+	innate immune responses: 0.8969392437
+	bioactive compound: 0.8968404167
+	cytoplasmic tail: 0.896839809
+	ebola virus: 0.8968210288
+	antiviral activity: 0.8967729088
+	rhus chinensis: 0.8966241512
+	stimulus organism response: 0.896534731
+	qt interval: 0.8964742508
+	ctl epitopes: 0.8963635644
+	human metapneumovirus: 0.8961794146
+	aceis arbs: 0.8960029992
+	dengue virus: 0.895927949
+	igg igm: 0.8959016259
+	antihypertensive drugs: 0.8957886133
+	metabolic pathways: 0.89577528
+	receptor antagonist: 0.8957010115
+	copy number: 0.895693155
+	au ncs: 0.8956917155
+	corticosteroid therapy: 0.8956155696
+	neurodegenerative diseases: 0.8955650471
+	pluripotent stem cell: 0.8953382409
+	red blood cell: 0.8953074031
+	nlp libraries: 0.8952581213
+	sinus thrombosis: 0.8952268479
+	mast cells: 0.8951132106
+	antiviral drugs: 0.8949063148
+	sequence similarity: 0.8947389473
+	structural proteins: 0.8946009812
+	biofilm formation: 0.8945249653
+	adenoviral vector: 0.8945012024
+	chemical compositions: 0.8942324718
+	ant colony optimization: 0.8941761403
+	binding sites: 0.8940926929
+	ifn γ: 0.8940712494
+	cysteine residues: 0.8939793053
+	raw materials: 0.893959075
+	tumor necrosis factor alpha: 0.893763594
+	chlorogenic acid: 0.8935603138
+	platelet counts: 0.8935145719
+	stem cell transplantation: 0.8933648433
+	rna dependent rna polymerase: 0.8932676419
+	white blood cells: 0.8932501034
+	drug delivery systems: 0.8932225389
+	vaccination campaign: 0.8931674193
+	p38 mapk: 0.8929989485
+	acute coronary syndrome: 0.8929653695
+	rabies virus: 0.8923262445
+	nf kb: 0.8922833668
+	cleavage sites: 0.8922784034
+	antibody responses: 0.8922626484
+	drug candidates: 0.8922256677
+	molecular biology: 0.8921548848
+	natriuretic peptide: 0.8921442628
+	µg ml: 0.8921125953
+	connective tissue: 0.8919489059
+	mosquito borne: 0.8919469443
+	nucleic acid amplification: 0.8919337381
+	nitrogen oxide: 0.8919076452
+	acute myocardial infarction: 0.8917870279
+	lactic acid bacteria: 0.8917515932
+	tissue tropism: 0.8916998529
+	transmission routes: 0.891580329
+	antigen presenting cells: 0.891548837
+	binding free energy: 0.8914098787
+	somatic mutations: 0.8911109344
+	antiviral therapies: 0.8910663126
+	humoral response: 0.8910601091
+	bacterial pneumonia: 0.8910416729
+	mouse hepatitis virus: 0.8909130055
+	antigen tests: 0.8908584245
+	post translational modifications: 0.8908395536
+	serum albumin: 0.8907934805
+	ionic liquids: 0.890762386
+	camel's milk: 0.8906045826
+	immunochromatographic assay: 0.8905672032
+	ang ii: 0.8903931204
+	myeloid differentiation: 0.890375376
+	noncoding rnas: 0.8902998052
+	immune responses: 0.8902837549
+	monocytes macrophages: 0.8901626135
+	scrna seq: 0.8898991811
+	epstein barr virus: 0.8896311259
+	protective clothing: 0.8895532788
+	horseshoe bat: 0.8894993955
+	serine proteases: 0.889383983
+	pd l1: 0.8893149485
+	tnf α: 0.8892353566
+	cpass svnt: 0.8892111554
+	antibody titer: 0.8892069554
+	viral loads: 0.8891025488
+	oxidative damage: 0.8890534335
+	neutralizing antibody titers: 0.8889812751
+	neutralization test: 0.8885968805
+	ulcerative colitis: 0.8884146925
+	fenton reaction: 0.8883519643
+	nuclear magnetic resonance: 0.888090341
+	porcine epidemic diarrhea virus: 0.8880552834
+	antioxidant activity: 0.8879263893
+	methicillin resistant staphylococcus aureus: 0.8878960487
+	fragility fractures: 0.8878548782
+	candida albicans: 0.8878247978
+	envelope protein: 0.8876786511
+	nk cells: 0.8875722823
+	pro inflammatory: 0.8875284448
+	body weight: 0.8873803613
+	immunodominant epitopes: 0.8872209979
+	guillain barré syndrome: 0.8872002525
+	crispr cas12: 0.8871739224
+	serum creatinine: 0.8871189696
+	endothelial injury: 0.8870819826
+	messenger rna: 0.8869895512
+	bird flu: 0.8868523945
+	bat ecology: 0.8866958943
+	lipid nanoparticles: 0.886630151
+	nuclear factor: 0.8865113323
+	organic acids: 0.8864957836
+	metabolic reprogramming: 0.8864263762
+	pg ml: 0.8862410742
+	subunit vaccine: 0.886194178
+	mg dl: 0.8859888003
+	adp ribose: 0.8859301841
+	dna sequence: 0.8859119039
+	hiv protease inhibitors: 0.8857260424
+	blood transfusion: 0.8856860729
+	platelet nlrp3: 0.8854916804
+	p2p accommodation: 0.8853895138
+	cell death: 0.885376946
+	transmissible gastroenteritis: 0.8853740517
+	gram negative: 0.8852054293
+	brain waves: 0.8851770558
+	vaccine candidate: 0.8851759758
+	spike proteins: 0.8851645178
+	fabry disease: 0.8851493196
+	viral rna: 0.885146249
+	vaccination campaigns: 0.885086733
+	envelope glycoproteins: 0.8850661825
+	immune dysregulation: 0.8848766729
+	systemic corticosteroids: 0.8846950777
+	mm pbsa: 0.8846551268
+	sequence identity: 0.8845549944
+	pdgfrα positive cells: 0.884538488
+	antimicrobial peptides: 0.8845252489
+	electron microscope: 0.8844815086
+	hcov nl63: 0.8844103275
+	hcov oc43: 0.8843117359
+	subcellular localization: 0.8842856102
+	ace inhibitors: 0.884264212
+	rs fmri: 0.8842396898
+	coiled coil: 0.8841824605
+	autoimmune disorders: 0.8838959952
+	transmissible gastroenteritis virus: 0.88386986
+	vaccine coverage: 0.8836838412
+	recombination events: 0.8835920635
+	canine adenovirus: 0.8835902518
+	cell types: 0.8835765878
+	interferon beta: 0.8835028214
+	proinflammatory mediators: 0.8833997532
+	gnec mask: 0.8833723095
+	hbv dna: 0.8833063747
+	viral entry: 0.8832838418
+	nlp library: 0.8832506085
+	mast cell degranulation: 0.883069609
+	noncommunicable diseases: 0.8830363696
+	electrical conductivity: 0.8828462364
+	md simulation: 0.8827578869
+	heat stroke: 0.8826645322
+	chain fatty acids: 0.8825211973
+	mitochondrial dysfunction: 0.8823872734
+	plaque reduction: 0.8822881672
+	inflammatory responses: 0.8822331617
+	susceptible exposed infectious recovered: 0.8822273505
+	n95 mask: 0.8821098623
+	infectious diseases: 0.8821073084
+	plant extracts: 0.8820242564
+	gram negative bacteria: 0.8819190946
+	point mutations: 0.8818877455
+	crude oil: 0.8816777199
+	igm igg: 0.8816180266
+	murine hepatitis virus: 0.8815844835
+	viral rna shedding: 0.8815366951
+	mammalian species: 0.8815066726
+	fruit bats: 0.8814067341
+	se nps: 0.8813622269
+	ecl biosensor: 0.8813253709
+	methylprednisolone pulse therapy: 0.8811857221
+	hematopoietic stem cell: 0.8810250305
+	membrane protein: 0.8808901672
+	immune modulation: 0.8807741596
+	crohn's disease: 0.8807159288
+	serological assays: 0.8807058298
+	ev a71: 0.8806980215
+	nigella sativa: 0.8806188291
+	adaptive immunity: 0.8805739602
+	furin cleavage site: 0.8804869238
+	animal husbandry: 0.8803733291
+	binding energies: 0.8803721137
+	tissue engineering: 0.8803319048
+	fda approved drugs: 0.8802708009
+	intermediate hosts: 0.8800963147
+	gene editing: 0.8800743932
+	graphene nanosheets: 0.8799270702
+	serological tests: 0.8798729837
+	multiple sequence alignment: 0.8797887397
+	induced lung injury: 0.8797247897
+	lymphocyte counts: 0.879682571
+	pulse rate: 0.8794637946
+	influenza virus: 0.879412734
+	iron status: 0.8794111941
+	nipah virus: 0.8789446562
+	macrophage activation syndrome: 0.8785997812
+	hp h7n9: 0.8784973172
+	platelet aggregation: 0.8784902996
+	amino acid sequence: 0.8783779941
+	untranslated region: 0.8783524285
+	chicken flocks: 0.8782447641
+	inflammatory cascade: 0.8781672497
+	partial thromboplastin: 0.8778127136
+	hcov hku1: 0.8777160094
+	neutralization assay: 0.877677026
+	covalent inhibitors: 0.8776149925
+	transforming growth factor: 0.8775110365
+	complete genome sequence: 0.877446522
+	binding pocket: 0.8774202916
+	tissue regeneration: 0.8773682535
+	neutrophil count: 0.8773124483
+	fever clinics: 0.8773057098
+	mm gbsa: 0.8771563374
+	qt prolongation: 0.8770119752
+	lmw pahs: 0.876947885
+	porcine deltacoronavirus: 0.8769443877
+	rna viruses: 0.8769406354
+	communicable diseases: 0.8768863588
+	nonalcoholic fatty liver disease: 0.8767124992
+	blood brain barrier: 0.8764179318
+	dtc genetic: 0.8763677447
+	bat origin: 0.8762484046
+	tumor size: 0.8762458461
+	linked glycosylation: 0.8761909115
+	antigenic drift: 0.8761848181
+	exosomal cd63: 0.8759578853
+	protective behaviors: 0.8756904528
+	plant derived: 0.8756560773
+	deduced amino acid: 0.8756420192
+	nf κb: 0.8756360705
+	mast cell: 0.8756053378
+	endothelial cell: 0.8755584095
+	g0 g1 phase: 0.8754434583
+	rna helicases: 0.8753922503
+	double bond: 0.8753271885
+	small airway dysfunction: 0.8751441888
+	potassium channel: 0.8750740228
+	gram positive: 0.8750559335
+	brain fog: 0.8748824408
+	acute respiratory distress syndrome: 0.8748161551
+	duplex dna: 0.874743314
+	genomic sequences: 0.8746548807
+	core fucose: 0.8742175563
+	tnf alpha: 0.8741293713
+	canine distemper: 0.8739532978
+	organizing pneumonia: 0.8739078184
+	dendritic cell: 0.873823309
+	embryonic development: 0.8737921859
+	body temperature: 0.8737893786
+	rna pseudoknot: 0.8737763865
+	japanese encephalitis virus: 0.8736549096
+	pro inflammatory cytokines: 0.8736296029
+	lipid metabolism: 0.8735601493
+	immune cell infiltration: 0.8735600108
+	mers cov: 0.8735064328
+	antibody response: 0.8730991308
+	white blood cell: 0.8730557048
+	hmw pahs: 0.8728366812
+	ns5 mtase: 0.8726816272
+	mg ml: 0.8725872953
+	surface area: 0.8724779579
+	structural biology: 0.8723263577
+	expression profiling: 0.8720036699
+	proteolytic processing: 0.871986159
+	ag nps: 0.8719672059
+	nicotinamide adenine dinucleotide: 0.8719327731
+	receptor binding: 0.871825907
+	cytokine secretion: 0.8716505157
+	glycyrrhetic acid: 0.8714503441
+	tgf β: 0.8712870695
+	entry inhibitors: 0.8712203893
+	crispr dx: 0.8711473373
+	tinospora cordifolia: 0.8711079536
+	fusion pore: 0.8709797775
+	inflammatory diseases: 0.8709367663
+	mm hg: 0.8706380144
+	aspiration pneumonia: 0.8705753604
+	nir light: 0.8705242641
+	multiple organ failure: 0.8704701015
+	pedv strains: 0.870365904
+	nkt cd160: 0.8701677973
+	iu ml: 0.8700890907
+	forming units: 0.8699147588
+	art resistance: 0.8698422217
+	radiographic findings: 0.8694974302
+	family paramyxoviridae: 0.8693663444
+	magnetic resonance: 0.8692987754
+	ischaemic stroke: 0.8692772847
+	solid phase extraction: 0.8692175113
+	bone mineral density: 0.8690742182
+	inactivated vaccines: 0.8690434784
+	mrna vaccines: 0.8688759708
+	ad hd: 0.8688712972
+	maldi tof ms: 0.8684511501
+	rna extraction: 0.8683555981
+	drug design: 0.8681668368
+	amino acid substitutions: 0.868119038
+	inflammatory storm: 0.868110301
+	nano zno: 0.867992445
+	vector borne: 0.8679028275
+	resistant strains: 0.8678542781
+	il 1β: 0.8677911758
+	ab initio: 0.8677790345
+	delta variants: 0.867552775
+	hla class: 0.8675316456
+	neutralising antibodies: 0.8673915829
+	fusion inhibitors: 0.8673799859
+	abo blood group: 0.8673791911
+	antibacterial properties: 0.8673651685
+	myeloid leukemia: 0.8671996601
+	resistant bacteria: 0.8671894359
+	betacoronavirus genus: 0.8671320239
+	injection site: 0.86709346
+	maldi ms: 0.867062635
+	transition metal: 0.8668292295
+	spinal cord injury: 0.8664935621
+	beta coronaviruses: 0.8664784619
+	hcov 229e: 0.8663822388
+	small molecules: 0.8663446896
+	anti diabetic: 0.8662603759
+	muscle strength: 0.8662461113
+	swine fever: 0.8662273208
+	plant species: 0.866154263
+	human coronavirus nl63: 0.8661145705
+	porcine circovirus: 0.8660475532
+	pharmacological properties: 0.8658916387
+	tissue classification algorithm: 0.8655796294
+	ace2 receptor: 0.865293119
+	transcription factors: 0.8652668972
+	organic matter: 0.8651640893
+	sg formation: 0.8651636719
+	ck ch: 0.8651442739
+	drug likeness: 0.8651193671
+	metal oxides: 0.8650106655
+	antibacterial activity: 0.8648769125
+	bbibp corv: 0.8645472323
+	contact angle: 0.8644911701
+	chlorine dioxide: 0.8643609764
+	epimedium koreanum nakai: 0.8642929556
+	cytokines storm: 0.8641935905
+	conformational change: 0.8638858235
+	active site: 0.8638810594
+	serum calcium: 0.8638581224
+	positron emission tomography: 0.8638469384
+	thermophilic proteins: 0.8638377581
+	vaccine skepticism: 0.8636928275
+	complete genome sequences: 0.8636228336
+	infectious disease: 0.8635594619
+	hz incidence: 0.8635182949
+	heterocyclic compounds: 0.8634321042
+	induced peripheral neuropathy: 0.8632847593
+	invading pathogens: 0.8632827926
+	genotype vii ndv: 0.8632028256
+	biological activities: 0.8630682567
+	vo 2max: 0.8630016076
+	receptor blockers: 0.8628876291
+	life cycle: 0.8625487888
+	calf diarrhea: 0.8623057516
+	surface glycoprotein: 0.8622726974
+	blood purification: 0.8622455485
+	glial cells: 0.862198833
+	rna sequencing: 0.8620525989
+	zoonotic diseases: 0.8619658002
+	epidermal growth factor receptor: 0.8619327858
+	ppe kits: 0.8618543122
+	andrographolide sulfonate: 0.8616374332
+	detection reagents: 0.8613090444
+	host defense: 0.8612643167
+	houttuynia cordata: 0.8612262453
+	igg antibody: 0.8611667569
+	serological testing: 0.8611447035
+	antioxidant defense: 0.8611347044
+	plant capacity concepts: 0.8611202612
+	genomic epidemiology: 0.8610899156
+	flaviviridae family: 0.8609107816
+	genetic variation: 0.8607666424
+	genome encodes: 0.8605402826
+	veroe6 tmprss2 cells: 0.8603085141
+	scrub typhus: 0.8601303921
+	bcg vaccination: 0.8600789542
+	smooth muscle: 0.85997122
+	viral particles: 0.8599323172
+	booster vaccination: 0.85992864
+	antimicrobial properties: 0.8599184306
+	mycorrhizal traits: 0.8598703299
+	major depressive disorder: 0.8596975883
+	molecular weight: 0.8596802795
+	ms ms: 0.8595840724
+	cfu ml: 0.8595723307
+	dhn melanin: 0.8595511695
+	bnt162b2 mrna vaccine: 0.8591362629
+	α4 integrin: 0.8591158607
+	envelope glycoprotein: 0.859082303
+	family coronaviridae: 0.858975041
+	bloodstream infections: 0.8589629798
+	retinoic acid inducible gene: 0.858913777
+	unexplained pneumonia: 0.8587421034
+	alg ngps: 0.8585326674
+	gas chromatography: 0.8585272521
+	primer probe: 0.8583715866
+	vaccination hesitancy: 0.8582428984
+	lymphocyte ratio: 0.8581891853
+	od tests: 0.8581841392
+	k13 mutations: 0.8580462785
+	structure based virtual screening: 0.8578657718
+	neutralizing activity: 0.8578008919
+	rna helicase: 0.8576585002
+	cell membranes: 0.8575696233
+	pro environmental behavior: 0.8575187934
+	␣ enolase: 0.8574137018
+	abo blood types: 0.8572984232
+	nt probnp: 0.8570534206
+	fungal infections: 0.8568435338
+	herg channel: 0.8568296289
+	fatty liver: 0.8568229533
+	neutralization assays: 0.8567268756
+	peg ifn: 0.8565522705
+	interleukin 1β: 0.8564470955
+	joint pain: 0.8563490528
+	inactivated vaccine: 0.8562042118
+	double stranded: 0.8561456082
+	immune function: 0.8560966128
+	progenitor cells: 0.8559591999
+	swine origin: 0.8556070999
+	drug resistant: 0.8551254834
+	carbon labeled: 0.8550658107
+	hfnc therapy: 0.8548882881
+	protease tmprss2: 0.8548516387
+	lupus erythematosus: 0.8547568591
+	vaccinia virus: 0.8547255202
+	human mobility: 0.8546872958
+	fungal coinfections: 0.8542937339
+	susceptible infectious recovered: 0.8542190855
+	avian influenza virus: 0.8541967555
+	capsid protein: 0.8541539796
+	epidermal growth factor: 0.8537759812
+	lavage fluid: 0.8536842399
+	genomic sequence: 0.8535191109
+	post translational modification: 0.8532246031
+	primer set: 0.8532049732
+	targeted therapy: 0.8531570781
+	antioxidant activities: 0.8531479262
+	sds page: 0.8530245864
+	cell entry: 0.8529164683
+	immune modulatory: 0.8527323522
+	cell growth: 0.8526425552
+	zikv natal rgn: 0.8525640949
+	viral pathogens: 0.8524685389
+	adenovirus vector: 0.8522801571
+	protease inhibitor: 0.8522218343
+	tumor growth: 0.8520842941
+	regulatory networks: 0.8520445121
+	nab ptx: 0.851760364
+	cytokine release: 0.8517348165
+	inflammatory biomarkers: 0.8516890997
+	immunomodulatory effects: 0.8516612114
+	mri reconstruction: 0.8516391409
+	mrna cap: 0.8515926643
+	lymph node metastasis: 0.8515533467
+	ipec j2: 0.8515356328
+	drug development: 0.851445636
+	humoral immune responses: 0.8514124858
+	vaccine development: 0.8510581387
+	ifn ␤: 0.8510556955
+	mutant strains: 0.8510251997
+	rapid antigen test: 0.8510189229
+	viral pneumonia: 0.8510131055
+	antibody assays: 0.8508953236
+	ali ards: 0.8508576599
+	lps induced: 0.8508430553
+	candida species: 0.8507977696
+	muscle pain: 0.850737142
+	inhibitory concentration: 0.8506544436
+	vero e6: 0.850471634
+	disseminated intravascular: 0.8503841724
+	nab responses: 0.8503638794
+	prv gd: 0.8503436935
+	metabolic diseases: 0.850333891
+	force fields: 0.8503330772
+	ubiquitin ligase: 0.8503169293
+	knockout mice: 0.8502364217
+	severe acute respiratory syndrome: 0.8501344234
+	ifn α β: 0.8500872415
+	tissue damage: 0.8500746485
+	protective immunity: 0.8500626889
+	pharmacological activities: 0.8498753132
+	scanning electron: 0.8498097671
+	anti oxidant: 0.8496730271
+	cho dhfr − cells: 0.8496114068
+	mgl cd301: 0.8495493073
+	infect humans: 0.8493067382
+	hyperinflammatory state: 0.8491923567
+	vaccine allocations: 0.8490820567
+	chromatography mass spectrometry: 0.8490728861
+	infected persons: 0.8489830134
+	electrochemical sensor: 0.8487916141
+	ifn stimulated genes: 0.8486565039
+	glioma segmentation: 0.8485941873
+	fut8 − −: 0.8484093875
+	neutralizing epitopes: 0.8483799786
+	pathway enrichment: 0.8477819629
+	gold nanoparticles: 0.8476973011
+	gene polymorphisms: 0.8475810236
+	metallic solids: 0.8475143537
+	pathogenic microorganisms: 0.847498326
+	genetic code: 0.8474445692
+	overexpression lines: 0.8474384116
+	volume fraction: 0.847425411
+	gc ms: 0.8473210521
+	pichia pastoris: 0.8471898492
+	carbon cap: 0.8471290556
+	chemical composition: 0.8471243871
+	antibody levels: 0.8470519487
+	ds affinity: 0.8469264338
+	cpg odn: 0.8468104138
+	trim proteins: 0.8466270325
+	replacement therapy: 0.8466230353
+	nucleotide sequences: 0.8465755769
+	body size: 0.8465139438
+	pathogenic viruses: 0.8462700819
+	vero cells: 0.846202951
+	cpg dna: 0.846002356
+	erythrocyte sedimentation: 0.8458934627
+	adaptive immune response: 0.8458483955
+	γ pga: 0.8456334051
+	virus replication: 0.8455234619
+	abo blood groups: 0.8455142117
+	ag particles: 0.8454753328
+	cpg odns: 0.84542299
+	membrane permeability: 0.8453637724
+	surface charge: 0.8453276185
+	alpha variant: 0.8452654896
+	complementary dna: 0.8450397688
+	intrinsic capacity: 0.8449204562
+	subunit vaccines: 0.8447870601
+	infected person: 0.8446703574
+	drug target: 0.8446659518
+	susceptible infected removed: 0.844621702
+	vaccine acceptance: 0.844514985
+	mdr tb: 0.8445121218
+	genomic rna: 0.8444207411
+	active layer: 0.8443955392
+	net formation: 0.8442583689
+	tumor progression: 0.8441922657
+	thromboembolic events: 0.844083154
+	active substances: 0.843897361
+	defense mechanism: 0.843895709
+	infectious agents: 0.8435717352
+	replication competent: 0.8433691967
+	nucleotide sequence: 0.8432872959
+	hypoxia inducible: 0.8432746962
+	ptp meg2: 0.84322506
+	catalytic activity: 0.8431298035
+	metabolic disorders: 0.8429959042
+	elevation myocardial infarction: 0.8428008293
+	small intestine: 0.8427720135
+	processing exports: 0.8426879204
+	platelet aggregates: 0.8426497886
+	tumor necrosis factor α: 0.8426449706
+	nucleic acid sensing tlrs: 0.8426165538
+	host cell: 0.8426148236
+	laser desorption ionization: 0.8424530644
+	dna sequences: 0.8423883241
+	disease severity: 0.8423862298
+	infect mammals: 0.8423087594
+	poultry industry: 0.8422042442
+	red blood cells: 0.8419361571
+	epitope prediction: 0.8417277975
+	blood sugar: 0.8415684604
+	active compounds: 0.8415384106
+	platelet activation: 0.8415212907
+	double membrane vesicles: 0.8411685433
+	hendra virus: 0.8410599627
+	cl −: 0.8409274549
+	herbal products: 0.8408411367
+	measles virus: 0.8407224123
+	lamp bart: 0.8406774816
+	neutralizing epitope: 0.8406221879
+	small interfering rna: 0.8406101864
+	cytoreduction surgery: 0.8404654417
+	nerve fibers: 0.8403776687
+	cytokine release syndrome: 0.8403096506
+	mutant strain: 0.8403048316
+	aba signaling: 0.8401091504
+	membrane proteins: 0.8396691532
+	genetic material: 0.8396286441
+	cell surface: 0.8394794262
+	white blood cell counts: 0.8393853772
+	immune cells: 0.8388379235
+	avian infectious bronchitis virus: 0.8388259304
+	infectious bronchitis: 0.8383189066
+	live attenuated vaccines: 0.8382888683
+	laboratory tests: 0.8382686433
+	cytokine storm syndrome: 0.8382208697
+	beta covs: 0.8381697119
+	fecal oral: 0.8381446954
+	bovine coronavirus: 0.8381151242
+	antiviral drug: 0.8381012326
+	gene edited: 0.8380582098
+	huanan seafood: 0.8379799697
+	serine protease tmprss2: 0.8379115514
+	mir 92a: 0.8378361604
+	reading frames: 0.8375450131
+	neutralization antibody: 0.8375343316
+	blood flow: 0.8372203556
+	imaging findings: 0.8369882456
+	human rhinovirus: 0.8369795564
+	expression profiles: 0.8367633375
+	nucleic acid amplification tests: 0.8367165609
+	transition state: 0.8366869627
+	rapid diagnostic tests: 0.8366767855
+	mtb rif: 0.8365718879
+	bat cov: 0.8365428336
+	nucleic acid detection: 0.8365012719
+	µg kg: 0.836439945
+	pathogenic bacteria: 0.8363235764
+	inflammatory cytokine: 0.8360699294
+	illness severity: 0.8360668668
+	heart rate: 0.8359799941
+	viral infections: 0.8356644426
+	zoonotic origin: 0.8356564109
+	antiviral therapy: 0.8355462802
+	anticancer drugs: 0.8354107439
+	cp therapy: 0.8352912242
+	sdl ability: 0.8352901147
+	lactic acid: 0.8351758939
+	lbrd standard: 0.8347940087
+	vaccine uptake: 0.8342653973
+	interferon alpha: 0.8342487982
+	anti viral: 0.8342252234
+	multi organ failure: 0.8342243073
+	structural similarity: 0.8340670591
+	fc variants: 0.8340134026
+	deficient mice: 0.8339551165
+	fgf10 pos: 0.8339540547
+	keap1 nrf2: 0.8338353548
+	composition profiles: 0.8336874208
+	host cells: 0.8335985506
+	magnetic field: 0.8335802685
+	colony stimulating factor: 0.8334136439
+	h9n2 g1: 0.8333266414
+	host cell membranes: 0.8331418673
+	catalytic center: 0.8330609287
+	gut microbial: 0.8328932982
+	radiological findings: 0.8328621679
+	genetically modified: 0.8327490024
+	laboratory examinations: 0.8327408087
+	anti mda5 ab: 0.8327049076
+	vaccination programmes: 0.8323548403
+	infectious complications: 0.8323467585
+	free energy: 0.8323258185
+	bat coronavirus: 0.8322759381
+	sars cov1: 0.8322169333
+	nonstructural protein: 0.8321777187
+	ace2 expression: 0.832030335
+	chemokine ligand: 0.8319829937
+	immune signatures: 0.8319042408
+	chikungunya virus: 0.8318581837
+	antigen test: 0.8316140446
+	rna copies: 0.8314843637
+	hcw infections: 0.8314138434
+	angiotensin converting enzyme inhibitors: 0.8314114682
+	blood transcriptome: 0.8309418228
+	plant growth: 0.8299416298
+	mosquito vector: 0.8298445913
+	inhibitory activity: 0.8298089887
+	crc screening: 0.8297857641
+	maldi tof: 0.8295340846
+	genome sequence: 0.8292857868
+	joint contractures: 0.8292537682
+	alpha particles: 0.8290479484
+	vesicular stomatitis: 0.8288840193
+	adenine dinucleotide: 0.8288827342
+	febrile neutropenia: 0.8285741647
+	eukaryotic expression: 0.8284635341
+	tissue repair: 0.8283229491
+	binding energy: 0.8280704659
+	hif 1α: 0.828060768
+	transmembrane serine: 0.8277913739
+	g0 g1: 0.8277025848
+	influenza viruses: 0.8276824807
+	protein protein interaction: 0.8276729642
+	serum iron: 0.8276098554
+	bacterial pathogens: 0.8274608946
+	adaptive evolution: 0.8272933437
+	feline infectious peritonitis virus: 0.8272795239
+	sti prevalence: 0.8272503717
+	glycyrrhiza: 0.826867629
+	disease progression: 0.8266848902
+	dna extraction: 0.8266313186
+	antibody library: 0.8266141147
+	knee pain: 0.8265813389
+	beas 2b: 0.8264817346
+	encoded proteins: 0.8263996418
+	embryonic stem: 0.8262255375
+	spike glycoproteins: 0.8261071342
+	hcho columns: 0.8260531438
+	hyper inflammation: 0.8259370986
+	vascular endothelial cells: 0.8257953037
+	serum samples: 0.8256913801
+	blood circulation: 0.8256766059
+	fluid volume: 0.8255547473
+	immunosorbent assay: 0.8254063867
+	antigenic sites: 0.8253500852
+	cas12: 0.8251226259
+	16s rrna gene: 0.8250901241
+	phid cv: 0.8250029922
+	ibv strains: 0.8246961515
+	defensin genes: 0.8246044982
+	genus betacoronavirus: 0.8245860329
+	ped outbreaks: 0.8245351108
+	enzyme linked immunosorbent: 0.82442166
+	rna polymerase: 0.8243535996
+	sp selectin: 0.8242825457
+	adaptive immune responses: 0.8241254984
+	cancer care: 0.8240886516
+	coding region: 0.8239616965
+	antigen detection: 0.8239263758
+	transmembrane protease serine: 0.8238701979
+	virulence factor: 0.8238682962
+	cell viability: 0.8238056844
+	immunocompromised status: 0.8237125171
+	mice immunized: 0.8235387965
+	intravenous thrombolysis: 0.8234432264
+	a1111111111 a1111111111 a1111111111 a1111111111: 0.8233414679
+	blood samples: 0.8231877502
+	rna interference: 0.8225961085
+	immunocompromised individuals: 0.8223820732
+	fusion protein: 0.8223069137
+	blood culture: 0.8221725427
+	orf5 protein: 0.8220787093
+	metal ion: 0.8218355168
+	structure activity relationship: 0.8217622261
+	mirna mrna: 0.8217443055
+	th17 cells: 0.8215263341
+	aromatic hydrocarbons: 0.8213527262
+	orf5: 0.8212914128
+	sequence homology: 0.8211695795
+	anti apoptotic: 0.8208863443
+	host proteases: 0.8205721116
+	genes encoding: 0.8205533747
+	genetic engineering: 0.8205056612
+	cell apoptosis: 0.8201375024
+	beta coronavirus: 0.8200864121
+	resistant mutations: 0.8200621779
+	catalytic site: 0.8198367003
+	multidrug resistant bacteria: 0.8198227803
+	mhc ii: 0.819734681
+	pmn mdscs: 0.8194682123
+	water solubility: 0.8193977817
+	sarbecovirus: 0.8193187358
+	test kits: 0.819174373
+	parainfluenza viruses: 0.8191548747
+	human milk: 0.8189213752
+	rna synthesis: 0.8188250097
+	binding modes: 0.8187134433
+	acquired immunity: 0.8186761948
+	molecular epidemiology: 0.8186181115
+	α hbdh: 0.8184969005
+	variola virus: 0.8183909073
+	au nps: 0.8183727053
+	zno nps: 0.8181179497
+	h9n2: 0.8181091925
+	schistosoma: 0.8176016473
+	granulocyte macrophage: 0.8174488213
+	cell mediated immunity: 0.8172990927
+	egg yolk: 0.8172600911
+	muscle mass: 0.8171858322
+	bactrian: 0.8168783875
+	bz nab: 0.8168074239
+	antiviral properties: 0.8164845604
+	active components: 0.8164648803
+	h5n1 virus: 0.8163795808
+	rna editing: 0.8162194258
+	hek 293t cells: 0.816208799
+	hsa mir: 0.8162037347
+	reading frame: 0.8160975656
+	vaccine effectiveness: 0.8158062278
+	coronavirinae: 0.8156922492
+	communicable disease: 0.815542061
+	igg titers: 0.8154269643
+	cell cycle progression: 0.8153318432
+	rna polymerases: 0.8150181674
+	tgf β1: 0.8148389764
+	pifn γ: 0.8148340027
+	muscle relaxation: 0.8147890675
+	mait cells: 0.8146195438
+	papain like protease: 0.8145967719
+	hyper inflammatory: 0.8145775598
+	antiviral agent: 0.8145287778
+	deltacoronavirus: 0.8145233354
+	lc ms: 0.8144900522
+	testing kits: 0.8144599001
+	antibiotic therapy: 0.8143996322
+	ifn α: 0.8143247263
+	andrographolide: 0.8143207654
+	tissue culture: 0.8143010945
+	graft versus host: 0.8142736884
+	consensus sequences: 0.814143939
+	quantitative pcr: 0.8140946416
+	bullous pemphigoid: 0.8140745365
+	codon usage pattern: 0.8140387066
+	host switching: 0.8138551058
+	delta strain: 0.8135514878
+	convalescent individuals: 0.813535261
+	nucleic acid based: 0.8135004458
+	systemic inflammation: 0.8130614086
+	nab response: 0.8128446961
+	convalescent plasma therapy: 0.8127952954
+	db db: 0.8126885218
+	crrna tracrrna: 0.8126815008
+	infectious disease outbreaks: 0.812645113
+	small rnas: 0.812625012
+	glycyrrhizae radix: 0.8125568283
+	3cl pro inhibitors: 0.812536201
+	viral vector: 0.812246258
+	vaccination program: 0.8118438203
+	human serum albumin: 0.8117557682
+	myelitis: 0.8115936734
+	endosomal nucleic acid sensing tlrs: 0.8115707539
+	advanced materials: 0.8115532302
+	ccp donation: 0.8112136679
+	antibody detection: 0.8111400161
+	ns5: 0.8110981095
+	chikungunya: 0.8107780417
+	legionella: 0.8106620115
+	parvovirus: 0.81065201
+	mapk signaling: 0.810513719
+	shock syndrome: 0.8104618127
+	innate immune cells: 0.8102885898
+	enzymatic activity: 0.8102404031
+	lsh8 mutant: 0.8101333067
+	ifnl4: 0.8100338042
+	vgg16: 0.8098592466
+	symptom severity: 0.8096858437
+	anti tumor: 0.8095467183
+	inhibitory activities: 0.8095070728
+	paramyxoviridae: 0.8092607312
+	enveloped rna viruses: 0.8089176746
+	chadox1 ncov: 0.8088510153
+	mycoplasma pneumoniae pneumonia: 0.8087240315
+	adhesion molecules: 0.8086485652
+	chemokine receptor: 0.8085944415
+	infected individuals: 0.8082916496
+	icariin: 0.8082245169
+	vaccination programs: 0.8080913999
+	susceptible individuals: 0.8080752278
+	cryptosporidium: 0.8080448496
+	g6pd deficient: 0.8080132941
+	rna genome: 0.8079594947
+	biological processes: 0.8079322175
+	dna damage: 0.8078714791
+	inflammatory bowel: 0.8076413404
+	oligonucleotide probes: 0.8074024877
+	vascular endothelial: 0.8071876288
+	cas12a: 0.8071631282
+	inflammatory reactions: 0.8069253892
+	transcriptome analysis: 0.8066116186
+	epithelial cell: 0.8065315352
+	cell cultures: 0.8063849177
+	anti gbm: 0.8062882237
+	mutation sites: 0.8062761363
+	molecular transitions: 0.8061827891
+	protein ␣: 0.8056830427
+	mda5: 0.8056445156
+	cells expressing: 0.8055961382
+	positivity rate: 0.8055869915
+	ifnl4 ss469415590: 0.8055169593
+	pseudovirus neutralization: 0.8053742652
+	tumor segmentation: 0.8053545244
+	opportunistic infections: 0.8052718324
+	neutralizing monoclonal: 0.8052593719
+	graft versus host disease: 0.8051927515
+	myricetin: 0.8051287977
+	animal species: 0.8050931541
+	veroe6: 0.8048497047
+	genotype vii: 0.8047994458
+	drug targets: 0.8047910505
+	liposome complex: 0.8046927854
+	ebola outbreak: 0.8043693885
+	sinws fet sensors: 0.8043197567
+	drug therapy: 0.8042797106
+	type i ifn: 0.8042676315
+	sca1 pos: 0.8042557271
+	mir 200c 3p: 0.8041347099
+	binding interface: 0.8041188626
+	viral titers: 0.8039651135
+	atpase activity: 0.8036899003
+	animal health: 0.8036127504
+	prime boost: 0.8035928609
+	oximetry: 0.803568006
+	mitogen activated protein: 0.8034358934
+	severe acute respiratory syndrome coronavirus: 0.8032620101
+	anti epidemic bonds: 0.8031820617
+	orf1b: 0.8031332545
+	acute respiratory syndrome: 0.8030509549
+	defensin: 0.8025421751
+	replicase complex: 0.8024423863
+	cancer pain: 0.8023230517
+	angiotensin converting enzyme ii: 0.802266616
+	p38mapk: 0.802128356
+	viral pathogenesis: 0.8020887994
+	quantitative polymerase chain reaction: 0.8018803174
+	hek 293t: 0.8018056127
+	differential expression: 0.801719925
+	hbv life cycle: 0.8016263782
+	immunization strategy: 0.8015282816
+	disease free equilibrium: 0.8014497966
+	cytokine production: 0.8013490278
+	human coronavirus 229e: 0.8011584022
+	pneumocystis: 0.8010905862
+	rbd igg: 0.8009984957
+	chadox1: 0.800899668
+	protein coding genes: 0.800827289
+	immune cell: 0.800751902
+	blood type: 0.8004221736
+	bm mscs: 0.8003419317
+	a1111111111 a1111111111: 0.8002814779
+	cancer therapy: 0.7997508856
+	antimicrobial activity: 0.7995003688
+	bat coronaviruses: 0.7994037464
+	ped virus: 0.7993802581
+	point mutation: 0.7993779966
+	feline tnf alpha: 0.7993097208
+	corona viruses: 0.799278561
+	receptor recognition: 0.7992473319
+	toll like receptor: 0.798955801
+	serologic testing: 0.7989359326
+	cellular receptors: 0.7987395739
+	cell carcinoma: 0.798643538
+	protein ligand: 0.7986419302
+	neutrophil to lymphocyte ratio: 0.7985114641
+	cell differentiation: 0.7982755897
+	genomic sequencing: 0.79815431
+	isolation wards: 0.7980254056
+	vaccine efficacy: 0.7979282447
+	bat sl: 0.797907861
+	laboratory findings: 0.7975480568
+	ligand binding: 0.7973010379
+	mechanical properties: 0.7970865348
+	hdct auto sct: 0.7970706661
+	tumor cells: 0.7969229199
+	cell membrane: 0.796920709
+	cytoreduction: 0.7967371586
+	retinoic acid: 0.7965115977
+	viral clearance: 0.7962093127
+	pseudotyped virus: 0.7960507046
+	transmembrane protease: 0.7959671532
+	sars cov: 0.7957589167
+	binding mode: 0.795589571
+	borna disease virus: 0.7954946874
+	initiation factor: 0.7950109478
+	antibiotic residues: 0.7948736603
+	bcl xl: 0.7947834208
+	signal peptide: 0.794779801
+	illness onset: 0.7945203579
+	scorpion: 0.7942334417
+	interferon γ: 0.7941462854
+	viral infectivity: 0.793748981
+	gram positive bacteria: 0.7935562865
+	gl alg: 0.7934389218
+	bcg vaccine: 0.793118365
+	death toll: 0.7929984444
+	bnt162b2: 0.7929858225
+	ebola virus disease: 0.7929141041
+	vaccinated individuals: 0.7926293621
+	dna viruses: 0.7925768511
+	nucleic acid testing: 0.7925017986
+	ai enabled: 0.7924583715
+	protein ligand complexes: 0.7923415115
+	mosaic virus: 0.7921417528
+	isg15: 0.791556654
+	aptamer based: 0.7913736362
+	gene regulation: 0.7908924105
+	feline coronavirus: 0.7908903348
+	viral genomes: 0.7905468513
+	bocavirus: 0.7905285745
+	neutralizing antibody responses: 0.7904878356
+	genetic variability: 0.7902713229
+	metal nanoparticles: 0.7902166215
+	binding protein: 0.7902111986
+	ifn λ4: 0.7899044292
+	substrate binding: 0.789708143
+	viral capsid: 0.7895871701
+	tumor formation: 0.7895561199
+	peptide vaccine: 0.7894490308
+	antibacterial agents: 0.7894099593
+	vaccine preventable: 0.7893686031
+	gumbel type ii distribution: 0.789263357
+	solid organ: 0.7892560106
+	antibody production: 0.7891652779
+	immunodominant: 0.7888213322
+	15min clc: 0.788603482
+	graphene based: 0.7884544189
+	mtase: 0.7882141479
+	fdg pet ct: 0.7880690537
+	host cell receptor: 0.7878125227
+	orf1a: 0.7877146738
+	marneffei infection: 0.7876021956
+	inactivated virus: 0.7875822531
+	stem cell therapy: 0.78757169
+	nonalcoholic fatty liver: 0.7875130974
+	nanoparticle based: 0.7874619777
+	susceptible class: 0.7873020868
+	hydrogen oxygen: 0.7869725686
+	neurological symptoms: 0.7869255038
+	spla2 iia: 0.7868190861
+	d614g: 0.7866687898
+	β cov: 0.7863354634
+	membrane bound: 0.786329574
+	chymotrypsin like cysteine protease: 0.7862786058
+	spike receptor binding domain: 0.7861736967
+	anti hcv: 0.7859405923
+	angiotensin converting: 0.7858341631
+	bat sars: 0.7855170724
+	live attenuated vaccine: 0.7852574985
+	coinfections: 0.7852059192
+	receptor binding domains: 0.7851036154
+	myeloid cells: 0.785031594
+	fc eeg signals: 0.7849087525
+	viral attachment: 0.7847503711
+	oleandrin: 0.7846313586
+	genetic susceptibility: 0.784479444
+	bioactive components: 0.7841719106
+	immunochromatographic: 0.7840127438
+	split gfp: 0.7836705434
+	atypical pneumonia: 0.7834911881
+	rmc sca1 pos fgf10 pos: 0.7834412216
+	ace2 receptors: 0.7834236115
+	host factors: 0.7832087987
+	vitamin d supplementation: 0.783173661
+	acei arb therapy: 0.7830945812
+	immune memory: 0.7828047854
+	mucositis: 0.7823609715
+	herpes simplex virus type: 0.7821066862
+	protective equipment: 0.7820282732
+	energy metabolism: 0.7819237015
+	synonymous codon: 0.7816979751
+	metapneumovirus: 0.7814390824
+	office bp: 0.7812149734
+	pro inflammatory cytokine: 0.7811659157
+	nibv infection: 0.7811544545
+	recombinant protein: 0.7810245519
+	plant capacity: 0.7809416298
+	human coronaviruses: 0.7809378434
+	defense mechanisms: 0.7805816369
+	pseudoknot: 0.7804506867
+	germination rate: 0.7803787712
+	chemical components: 0.7802521109
+	genomic surveillance: 0.7797317389
+	pyroptosis: 0.7795711283
+	stromal cells: 0.7793319836
+	rmv e1e2: 0.7793071425
+	influenza vaccine: 0.7792639039
+	structural basis: 0.779152378
+	immunological responses: 0.7790665843
+	crispr based: 0.7789456279
+	replication transcription: 0.7788253481
+	enteric viruses: 0.7786002506
+	pharmacological effects: 0.7784918969
+	gallate: 0.7783590473
+	a1111111111 a1111111111 a1111111111: 0.7782536584
+	abo blood: 0.7782023247
+	hbov: 0.7781356127
+	arbs: 0.7781221409
+	coding regions: 0.7780128685
+	ifn β: 0.7779228093
+	physiological functions: 0.7774825794
+	g6pd activity: 0.7774560244
+	hmd based ar: 0.777232686
+	mumps: 0.7770946459
+	receptor ace2: 0.7770569353
+	viral proteins: 0.7769546321
+	antiviral peptides: 0.7768343122
+	blood group: 0.7764466838
+	protective immune responses: 0.7763719831
+	insect cells: 0.7762858724
+	autonomic nervous: 0.7760540928
+	active compound: 0.7759114323
+	secondary structures: 0.7758966321
+	mucormycosis: 0.7758683084
+	rhinovirus: 0.7755702943
+	nuclear factor kappa: 0.7753848861
+	host cell entry: 0.7753153118
+	nf kb signaling: 0.7752506396
+	antiviral effects: 0.7752200602
+
+Cluster 1:
+	amazon: 0.8376356519
+	euclidean: 0.8371384025
+	acinetobacter: 0.8354656325
+	highlights : 0.8335995332
+	congo: 0.8329687271
+	jia: 0.8320789915
+	coa: 0.8314715135
+	german: 0.8310950839
+	california: 0.8310909976
+	federation: 0.8300273235
+	anderson: 0.8300117816
+	americans: 0.8296246206
+	williams: 0.8289255581
+	microsoft: 0.8288678812
+	peng: 0.828348149
+	british: 0.8282321181
+	ns3: 0.8275919688
+	egypt: 0.8272214721
+	b6: 0.8271107511
+	tehran: 0.8259204321
+	uganda: 0.8251557506
+	greek: 0.825078161
+	costa: 0.8248571465
+	wei: 0.8244734283
+	postgraduate: 0.8243549269
+	e3: 0.8243432064
+	oxford: 0.8236242904
+	pearson: 0.8231506818
+	multinational: 0.822961562
+	london: 0.8229103176
+	acrylic: 0.822670227
+	deng: 0.8224610834
+	arabidopsis: 0.822323173
+	autistic: 0.8220654409
+	radiograph: 0.8207226276
+	credit risk: 0.8206302036
+	drosophila: 0.8205129396
+	pepper: 0.8205115309
+	rosa: 0.8204972158
+	lewis: 0.8204524681
+	raman: 0.8204268058
+	cd3: 0.8203148232
+	routing: 0.8201493879
+	zno: 0.8200422572
+	asians: 0.8197155201
+	cas9: 0.8194890943
+	james: 0.8194522509
+	reynolds: 0.8194230514
+	san: 0.8193862675
+	atpase: 0.8193745724
+	cohen: 0.818599796
+	mart: 0.8185813136
+	chlamydia: 0.818579733
+	roche: 0.8184773116
+	boltzmann: 0.8181692971
+	o157: 0.8181532488
+	texas: 0.8179482826
+	mori: 0.8178787373
+	arts: 0.8178281368
+	e6: 0.8176527493
+	jun: 0.8175769101
+	misuse: 0.8173208716
+	england: 0.8170722111
+	enterococcus: 0.8169941966
+	aerial: 0.8168170851
+	acetate: 0.8167072244
+	canal: 0.8165955668
+	algae: 0.8163867445
+	laminar: 0.8163867445
+	nitrate: 0.8161940096
+	gulf: 0.8159004388
+	identifier: 0.8158309052
+	leishmaniasis: 0.8153979729
+	michael: 0.8152525946
+	niger: 0.8152174917
+	sliding: 0.8150396354
+	gu: 0.8150260141
+	nigeria: 0.8150241059
+	clock: 0.8149366906
+	facilitators: 0.8149177449
+	federal: 0.8148209505
+	forum: 0.8147185134
+	r2: 0.814601818
+	alert level: 0.8144654791
+	bay: 0.8140348723
+	battery: 0.8139227231
+	ala: 0.8138887953
+	zhejiang: 0.8136226137
+	aedes: 0.8134157645
+	tensile: 0.8132567052
+	watch: 0.8131036693
+	engine: 0.8130692977
+	australian: 0.8129583782
+	fund: 0.8129087891
+	gray: 0.8127796822
+	bipolar: 0.8127251768
+	aspergillus: 0.8126949303
+	southwest: 0.8126542049
+	tong: 0.8124440657
+	freeze: 0.8122871883
+	hill: 0.8121821357
+	sudan: 0.8120741519
+	cardiology: 0.8120725587
+	yin: 0.811968037
+	hospice: 0.8118450837
+	cesarean: 0.8118408692
+	adenoviral: 0.8117975038
+	clotting: 0.811560588
+	retina: 0.8115219533
+	gates: 0.8112997244
+	baker: 0.8111779635
+	arithmetic: 0.811163893
+	golgi: 0.8110759715
+	knee: 0.8109939714
+	apple: 0.8109905444
+	co2: 0.810899875
+	dimethyl: 0.8108562552
+	infantile: 0.8107966471
+	thai: 0.8107857407
+	pristine: 0.8106646476
+	tel: 0.8105945856
+	mycoplasma: 0.8105287402
+	cyclin: 0.8103612208
+	qi: 0.8102641606
+	lei: 0.8097324299
+	rubber: 0.8096933251
+	gaussian: 0.8095728842
+	reflux: 0.8092335739
+	tu: 0.8091051753
+	neutropenia: 0.8090409554
+	apical: 0.808941867
+	hela: 0.8089010119
+	leishmania: 0.8086872866
+	ul: 0.8083211133
+	appendicitis: 0.8081741752
+	methacrylate: 0.8081127623
+	occult: 0.8080301915
+	citrus: 0.8079137642
+	command: 0.8077405806
+	petroleum: 0.8077120902
+	sec: 0.807668998
+	shah: 0.8076462127
+	spark: 0.8076405085
+	aneurysm: 0.8076342459
+	awake: 0.8075845913
+	grating: 0.8074839485
+	excellence: 0.8074714096
+	bird: 0.807439476
+	seoul: 0.8069509089
+	greece: 0.8068569289
+	bacillus: 0.806822353
+	guinea: 0.8068081875
+	spine: 0.8066105467
+	kyoto: 0.8065273209
+	guangzhou: 0.8063236607
+	hispanic: 0.8062033842
+	corn: 0.8060801372
+	notch: 0.8057667729
+	isopropyl: 0.8057593517
+	steel: 0.8055272251
+	th17: 0.8054540261
+	chung: 0.8054023835
+	northwest: 0.8052378525
+	sphere: 0.8050460987
+	lie: 0.8048963311
+	chronological: 0.8047542532
+	missense: 0.804630774
+	cigarette: 0.8045808864
+	prenatal: 0.8045344938
+	shear: 0.8043837464
+	triad: 0.8043602594
+	manganese: 0.8042893739
+	c57bl: 0.8042248542
+	alternating: 0.8042194714
+	g0: 0.804049614
+	choi: 0.8039910831
+	bar: 0.803944742
+	von: 0.8039141486
+	tone: 0.8037926577
+	wong: 0.803627303
+	hematology: 0.8035050204
+	bcl: 0.8034398405
+	george: 0.8034154098
+	gaseous: 0.8033924849
+	equine: 0.803160328
+	feng: 0.8030924493
+	kenya: 0.803035681
+	jones: 0.8028584512
+	giant: 0.8027268007
+	wolf: 0.8026754122
+	coma: 0.8026468476
+	johnson: 0.8025441358
+	pediatrics: 0.8025254031
+	cd38: 0.802505034
+	fisher: 0.8024721987
+	plasmodium: 0.8023668523
+	osmotic: 0.8023433704
+	ag: 0.8023151417
+	mao: 0.8023088645
+	ross: 0.8021871865
+	lim: 0.8021372034
+	estrogen: 0.8020479811
+	retardation: 0.8020475367
+	sigma: 0.8020469511
+	gynecologic: 0.8018226865
+	intrauterine: 0.8017976073
+	island: 0.8017400549
+	glioblastoma: 0.801694583
+	ligase: 0.8014636368
+	dysphagia: 0.8011623277
+	stokes: 0.8010984967
+	remediation: 0.8010550845
+	candida: 0.8009854505
+	chief: 0.8008561856
+	drawback: 0.8008441845
+	bench: 0.8006432949
+	potentiation: 0.8005617892
+	jan: 0.8005246931
+	blank: 0.8003191574
+	sphingosine: 0.8000240467
+	selectin: 0.7998380777
+	kang: 0.7997436665
+	cannabis: 0.799723889
+	hair: 0.7996304204
+	john: 0.7994023835
+	cessation: 0.7993974992
+	ji: 0.7993198821
+	plateau: 0.7992787502
+	advisory: 0.7992084688
+	specialization: 0.7991263715
+	phospholipase: 0.7989909547
+	ischaemic: 0.7989523784
+	wan: 0.7987860424
+	phillips: 0.7986982251
+	cloth: 0.7986890865
+	g2: 0.7985826288
+	ireland: 0.7985684983
+	ankle: 0.7985195334
+	tap: 0.7984709441
+	somatosensory: 0.7984437888
+	steatosis: 0.7983279435
+	swiss: 0.7983129204
+	helicases: 0.7982649634
+	miller: 0.7982317132
+	jaw: 0.7981878731
+	exosomal: 0.7981680375
+	klebsiella: 0.7981083318
+	clostridium: 0.7981083318
+	stakeholder: 0.7980060666
+	gall: 0.7979332656
+	sixth: 0.7978755698
+	palliative: 0.7978247752
+	g1: 0.7977566013
+	joining: 0.7976702334
+	mn: 0.7975067925
+	xia: 0.797208432
+	corporation: 0.797197622
+	dsm: 0.7971101144
+	thorax: 0.7970452968
+	love: 0.7970261459
+	abbott: 0.7969519842
+	poisson: 0.7969079255
+	assurance: 0.7966071178
+	chu: 0.7965396144
+	pharmacologically: 0.7964477006
+	p38: 0.7964355628
+	gcc: 0.7963753206
+	impulse: 0.7963618712
+	excel: 0.796342251
+	aorta: 0.7962041112
+	david: 0.7961667811
+	laparoscopic: 0.7959539842
+	ck: 0.7958536647
+	foster: 0.7958239949
+	atlas: 0.795338531
+	internally: 0.7953141129
+	ni: 0.7953063937
+	seroprevalence: 0.7952236721
+	normalization: 0.7951614022
+	iu: 0.795139309
+	salmonella: 0.7951096922
+	hb: 0.7950445722
+	jiang: 0.7949120777
+	nepal: 0.7946775008
+	mediastinal: 0.7944733216
+	orthopedic: 0.7944630795
+	diamond: 0.7942402709
+	disclosure: 0.7942164358
+	nkt: 0.7940916675
+	captive: 0.7937766257
+	nir: 0.7937479126
+	adam: 0.793713547
+	apache: 0.7936712197
+	cyber: 0.793573841
+	bm: 0.793501418
+	convergent: 0.7934442356
+	lake: 0.7933886818
+	credibility: 0.7933764975
+	turkish: 0.7931489125
+	guard: 0.7931289969
+	director: 0.7931017602
+	nanjing: 0.7929481807
+	pie: 0.7926224494
+	rs: 0.7925832825
+	buffalo: 0.7925485695
+	hif: 0.7924392809
+	river: 0.7924016366
+	jin: 0.792384116
+	qr: 0.7922259435
+	ads: 0.7921255356
+	equality: 0.7920450493
+	crash: 0.7919817685
+	cards: 0.7919590861
+	snow: 0.7919040254
+	shortly: 0.7916396394
+	ban: 0.7915950353
+	wi: 0.791531056
+	squared: 0.7915168559
+	neuropsychological: 0.7915048534
+	king: 0.7915018656
+	ho: 0.791428483
+	fourier: 0.7913402665
+	theta: 0.7912533994
+	publishing: 0.7912167511
+	serotonin: 0.7912028312
+	herpesvirus: 0.7911772115
+	valley: 0.7911581424
+	sal: 0.7911181255
+	aryl: 0.7911130351
+	robot: 0.7911092846
+	para: 0.7910349264
+	marks: 0.7910265531
+	cxcr3: 0.7909210908
+	idiopathic: 0.7908507614
+	midgut: 0.7908140575
+	grounded: 0.7907444502
+	prison: 0.7907225509
+	card: 0.790706388
+	pakistan: 0.7907046943
+	justice: 0.7904790538
+	optimism: 0.7904733987
+	xie: 0.7904619205
+	civil: 0.7904268715
+	angina: 0.7904078861
+	lactobacillus: 0.7903195636
+	crime: 0.7903163223
+	french: 0.7902699743
+	dividing: 0.7901836809
+	iia: 0.7900937339
+	das: 0.7899887231
+	lam: 0.7899800677
+	cu: 0.7897767478
+	hp: 0.7897121187
+	southeastern: 0.7896137909
+	psychometric: 0.7894993519
+	l1: 0.7892673517
+	acidosis: 0.7892644994
+	police: 0.7892452943
+	mesh: 0.7889330438
+	tank: 0.7889065145
+	fog: 0.7888664552
+	shanghai: 0.788852386
+	allergies: 0.788776949
+	suppressor: 0.7887517633
+	tea: 0.7887257475
+	quadruplex: 0.7887107457
+	sen: 0.7886951073
+	approximation: 0.7886644051
+	anal: 0.7886512172
+	integrin: 0.7886269207
+	theorem: 0.7886221178
+	cai: 0.7885437404
+	sl: 0.7885083431
+	omega: 0.7884220846
+	autonomic: 0.7883064725
+	alliance: 0.7882619374
+	singh: 0.7878133502
+	drawing: 0.7877535498
+	gluten: 0.7875677928
+	ulcer: 0.7874049477
+	cords: 0.7873589931
+	agar: 0.7873511087
+	sickle: 0.7873419761
+	sweet: 0.7873245447
+	ball: 0.7871875678
+	associates: 0.7871780817
+	sti: 0.7871730802
+	chapter: 0.7871547446
+	hippocampus: 0.7871239053
+	ascending: 0.7869506565
+	markov: 0.7868735999
+	candidiasis: 0.7867736366
+	degenerative: 0.7867299634
+	usability: 0.7867121675
+	liang: 0.7866047776
+	cpg: 0.7864389167
+	cri: 0.7863680445
+	dominance: 0.7862500061
+	au: 0.7860377563
+	dissection: 0.786020445
+	mediterranean: 0.7859234925
+	lai: 0.7858132139
+	pylori: 0.7857822622
+	veterinary: 0.7856810685
+	iranian: 0.7856347767
+	a2: 0.785571284
+	xi: 0.7854938997
+	kaplan: 0.7854799386
+	hel: 0.7854798398
+	fault: 0.7854772506
+	neuropathy: 0.7854727977
+	ui: 0.785470379
+	vii: 0.7853204748
+	laryngeal: 0.7853063498
+	palsy: 0.7852534599
+	hematoma: 0.7851551425
+	cpc: 0.7851331047
+	photodynamic: 0.7849693236
+	cfu: 0.7848785501
+	convex: 0.7846851782
+	ding: 0.7846012872
+	grey: 0.7844370161
+	african: 0.7844222434
+	bangladesh: 0.7843641216
+	tuning: 0.7843233975
+	jordan: 0.7843121397
+	osa: 0.7843012813
+	hq: 0.784296812
+	aip: 0.78417696
+	plain: 0.7841189796
+	endovascular: 0.784023271
+	silicone: 0.7839986245
+	luo: 0.7839514455
+	glaucoma: 0.7839169101
+	beijing: 0.7836406644
+	le: 0.7834726454
+	pancreatitis: 0.7833442357
+	cochrane: 0.7833365876
+	hsa: 0.7833328468
+	fc: 0.7832411906
+	assistant: 0.7832198081
+	pursue: 0.7831734442
+	affiliations: 0.7830762685
+	adhd: 0.783057169
+	mounted: 0.7830099698
+	positioning: 0.7829938153
+	thrombolysis: 0.7828993389
+	listening: 0.7828753175
+	ang: 0.7828726856
+	ctl: 0.7827960914
+	nh: 0.7827665783
+	allergy: 0.7827548543
+	wavelet: 0.7827087128
+	liquids: 0.7827014123
+	radius: 0.7826755924
+	attach: 0.7826734442
+	games: 0.7826723893
+	ophthalmology: 0.7826469194
+	senescence: 0.782487376
+	magnesium: 0.7824755001
+	periodontal: 0.7824163374
+	bai: 0.7823941265
+	municipal: 0.78238697
+	dai: 0.782356468
+	hcp: 0.7823340986
+	answering: 0.7823250069
+	silva: 0.7822322596
+	adenine: 0.7822072166
+	forensic: 0.7820897572
+	banks: 0.7820713584
+	itch: 0.782016173
+	lactic: 0.7820026931
+	mer: 0.7819770057
+	histone: 0.7819404204
+	rif: 0.7819063237
+	nod: 0.7818941308
+	adjunctive: 0.7818853003
+	troponin: 0.7818394439
+	longevity: 0.7817503877
+	lap: 0.7817159235
+	steep: 0.7817086456
+	ren: 0.7816214443
+	court: 0.7815993718
+	russian: 0.7815662938
+	executive: 0.7814707571
+	jiangsu: 0.7814071576
+	urea: 0.7813803905
+	coast: 0.7813733805
+	amine: 0.78131489
+	nrf2: 0.7812407004
+	electrophoresis: 0.7811632693
+	affiliated: 0.780989315
+	multilayer: 0.7808842183
+	stalk: 0.7807753777
+	nadph: 0.780759752
+	resection: 0.7807431996
+	vietnam: 0.7807404435
+	smith: 0.7806857318
+	nps: 0.7806488759
+	swarm: 0.7806076397
+	mmr: 0.7805848481
+	pooling: 0.7805555514
+	rem: 0.7804785358
+	turkey: 0.7803131738
+	multinomial: 0.7803076199
+	aspartic: 0.7803076199
+	vaginal: 0.7800624277
+	homo: 0.780051493
+	mo: 0.7798613954
+	thematic: 0.7798441608
+	disc: 0.7798080132
+	hip: 0.7797864568
+	nlrp3: 0.7797850003
+	ups: 0.7796537171
+	fe: 0.7795904786
+	tg: 0.7794738357
+	amyloid: 0.7794403091
+	pdr: 0.7793980664
+	ibm: 0.7793557887
+	resuscitation: 0.7792798891
+	shen: 0.7791535793
+	ev: 0.7789468689
+	syndromic: 0.7789215388
+	bcr: 0.778897388
+	taiwan: 0.7787779886
+	spin: 0.7787219737
+	rhesus: 0.7786218851
+	angiography: 0.7785918735
+	graft: 0.7785512014
+	diffraction: 0.7785218959
+	serologic: 0.7782811111
+	peritoneal: 0.7782034864
+	niche: 0.7781524119
+	toxin: 0.778105865
+	exploiting: 0.7780406466
+	lymphadenopathy: 0.7780177377
+	xxxx: 0.7779755898
+	beef: 0.7778994959
+	gbm: 0.7778738605
+	ant: 0.7778384713
+	d1: 0.7777471484
+	ncs: 0.7777065297
+	smear: 0.7777061966
+	max: 0.7776368605
+	xx: 0.777527983
+	foxp3: 0.7775029757
+	indigenous: 0.7774662093
+	cav: 0.777444298
+	mark: 0.7774369336
+	ecl: 0.777331438
+	streptococcus: 0.7773095199
+	comment: 0.777183052
+	thailand: 0.7771385969
+	multimodal: 0.7770824896
+	decipher: 0.7768879223
+	lan: 0.7768638103
+	virtue: 0.7768565729
+	cart: 0.7768063993
+	pill: 0.7766434104
+	mets: 0.7766243018
+	mmp: 0.7766174792
+	shot: 0.7766022028
+	natal: 0.7765325327
+	electricity: 0.7765146807
+	isotope: 0.7763973696
+	cv: 0.7763769825
+	fi: 0.77621884
+	posterior: 0.7762137813
+	vibration: 0.7761991471
+	sybr: 0.7761611261
+	undertake: 0.7761373281
+	ccm: 0.7761362025
+	mounting: 0.7761354733
+	mindfulness: 0.7760256783
+	egg: 0.7758794147
+	newcastle: 0.7757483915
+	treg: 0.7756275605
+	gd: 0.7754939171
+	france: 0.7754769864
+	chd: 0.775407654
+	council: 0.7753193806
+	singapore: 0.7752987631
+
+Cluster 2:
+	convolutional neural networks: 0.9691558275
+	obstructive sleep apnea: 0.9663719867
+	natural language processing: 0.9653806088
+	artificial intelligence: 0.9649921857
+	convolutional neural network: 0.9637487478
+	gross domestic product: 0.9634075168
+	randomized controlled trials: 0.9632530082
+	school closure: 0.9626306405
+	swarm intelligence: 0.9622819042
+	computational fluid dynamics: 0.9619050106
+	logistic regression: 0.9618417982
+	random forest: 0.9616300434
+	structural equation modeling: 0.961449879
+	autoregressive integrated moving average: 0.9612405087
+	running title: 0.9611649611
+	differential equations: 0.9608811854
+	creative commons attribution: 0.9593924227
+	mobile phone: 0.9584227115
+	randomized controlled trial: 0.9582039327
+	neural networks: 0.9580210426
+	google scholar: 0.958010457
+	early warning: 0.9577795329
+	corporate social responsibility: 0.9575631978
+	migrant workers: 0.9569295189
+	alzheimer's disease: 0.9569247513
+	mechanical ventilation: 0.9562391714
+	informed consent: 0.9562369169
+	cruise ship: 0.9558190048
+	machine learning: 0.9555952515
+	lateral flow: 0.9555090567
+	particle swarm optimization: 0.9552345787
+	virtual reality: 0.9548349117
+	receiver operating characteristic: 0.9543257377
+	feature selection: 0.9542785744
+	multiple sclerosis: 0.9536424913
+	operating room: 0.9533112824
+	propensity score matching: 0.9531951859
+	spring festival: 0.9529980075
+	deep neural networks: 0.9526848205
+	odds ratio: 0.9524774754
+	climate change: 0.952159391
+	graphical abstract: 0.9517674172
+	customer satisfaction: 0.9516903418
+	suicidal ideation: 0.9514591231
+	mendelian randomization: 0.9514432747
+	support vector machine: 0.951385221
+	hot spot: 0.9507609421
+	big data analytics: 0.9506819327
+	network pharmacology: 0.9505706635
+	text mining: 0.9503666532
+	intensive care unit: 0.950309923
+	personal protective equipment: 0.9498645265
+	institutional review board: 0.9498209787
+	chronic obstructive pulmonary disease: 0.9497930042
+	sustainable development: 0.9492304389
+	emotion regulation: 0.9490899381
+	elsevier b.v: 0.9489779971
+	cochrane library: 0.9488372436
+	wavelet transform: 0.9486997769
+	emotional exhaustion: 0.9484911823
+	physical fitness: 0.9483597857
+	preventive behaviors: 0.9483380879
+	resource allocation: 0.948124959
+	umbilical cord: 0.9480465579
+	deep neural network: 0.9476844916
+	scoping review: 0.9470163345
+	herbal medicine: 0.9469769443
+	word count: 0.9468984943
+	cox proportional: 0.9464747093
+	surgical masks: 0.9458045702
+	relative humidity: 0.9457875792
+	psychological distress: 0.9455082855
+	positive psychology: 0.9453985556
+	case series: 0.9453557682
+	neural network: 0.945229602
+	intensive care: 0.9451470886
+	sleep quality: 0.9451198677
+	worth noting: 0.9448711952
+	deep cnn: 0.944850484
+	hand hygiene: 0.9447213243
+	stock returns: 0.9446881681
+	depressive symptoms: 0.9444316288
+	generative adversarial: 0.944396324
+	correlation coefficient: 0.9438904683
+	decision tree: 0.9434633917
+	supportive care: 0.943379766
+	convolution neural network: 0.9433601851
+	electronic health records: 0.9433069919
+	ethnic groups: 0.9432706342
+	particulate matter: 0.9432458997
+	educational institutions: 0.9432408586
+	web server: 0.9431122602
+	action plan: 0.9430823771
+	systematic review: 0.9429930062
+	mask wearing: 0.9429487855
+	life satisfaction: 0.9428777158
+	information overload: 0.9427578425
+	nationally representative: 0.9425764271
+	rural areas: 0.9424896147
+	job satisfaction: 0.9424863136
+	socioeconomic status: 0.94242518
+	food insecurity: 0.9423822251
+	carbon emission: 0.9423736775
+	principal component analysis: 0.9423405328
+	matrix factorization: 0.942315572
+	cloud computing: 0.9420489354
+	big data: 0.9419870686
+	young adults: 0.9419634411
+	natural products: 0.9417732748
+	peer review: 0.9410309433
+	hand washing: 0.9407828453
+	competitive advantage: 0.9405751714
+	air pollution: 0.9394049416
+	conceptual framework: 0.9393945373
+	spanish flu: 0.9391852259
+	gradient boosting: 0.9391795905
+	transfer learning: 0.9391522578
+	wearable devices: 0.9387301523
+	runny nose: 0.9384567412
+	palliative care: 0.9384157192
+	supplementary material: 0.9383515037
+	naturally occurring: 0.9383337214
+	highly pathogenic avian influenza: 0.9382847455
+	university students: 0.9381225682
+	sustainable development goals: 0.9380934842
+	healthcare professionals: 0.9378847765
+	dietary supplements: 0.9378277219
+	worth mentioning: 0.9374733973
+	cox regression: 0.9374216875
+	deep learning: 0.9371998235
+	false news: 0.9371104075
+	income inequality: 0.9370094322
+	mini review: 0.936767683
+	systematic reviews: 0.936551129
+	healthcare providers: 0.9361623275
+	open access: 0.9361552346
+	hazard ratio: 0.936059041
+	icu admission: 0.9360406422
+	named entity recognition: 0.9357769671
+	family members: 0.9356693391
+	herd immunity: 0.9355718921
+	task force: 0.9355669364
+	face masks: 0.9355207511
+	interquartile range: 0.9354634313
+	serial mediation: 0.9353296904
+	concluding remarks: 0.9353023257
+	anomaly detection: 0.9352301415
+	coping strategies: 0.9351249658
+	image processing: 0.9350008246
+	title page: 0.9349163153
+	graphical representation: 0.9348272478
+	electronic medical records: 0.9347316198
+	google trends: 0.9346219493
+	cognitive impairment: 0.9345429244
+	community pharmacists: 0.9343218224
+	small molecule: 0.9342897305
+	remote sensing: 0.9341780318
+	authors declare: 0.9341464868
+	flipped classroom: 0.9341320073
+	mental illness: 0.9340706899
+	face mask: 0.9340170166
+	numerical simulations: 0.9338331937
+	densely populated: 0.933811546
+	f1 score: 0.9337268979
+	job crafting: 0.9332279709
+	risk stratification: 0.9331998701
+	double blind: 0.9330077685
+	moving average: 0.9328857993
+	monte carlo: 0.9327755159
+	physical distancing: 0.9327342492
+	ethics committee: 0.9327229611
+	feature extraction: 0.9326888122
+	optic nerve: 0.9326688279
+	weakly supervised: 0.9326085025
+	adverse reactions: 0.9322575483
+	hot spots: 0.9320573076
+	school closures: 0.9319723128
+	sentiment analysis: 0.9316818019
+	critical illness: 0.9313839617
+	metropolitan city: 0.9313073596
+	creative commons: 0.9312015421
+	fuel consumption: 0.9311681078
+	glycemic control: 0.9310977384
+	breast milk: 0.9307952769
+	high fat diet: 0.9305443488
+	power law: 0.9304390231
+	educational institutes: 0.9304352264
+	containment measures: 0.9303964572
+	undergraduate students: 0.9303554582
+	minimally invasive: 0.9303044188
+	linear regression: 0.9302768757
+	disaster risk reduction: 0.930187187
+	virtual screening: 0.9301043652
+	healthcare workers: 0.9299624789
+	interpersonal relationships: 0.9298868404
+	supplementary table: 0.9297791466
+	adverse events: 0.9297419826
+	edge computing: 0.9296050734
+	older adults: 0.9295907238
+	frail older adults: 0.9295665306
+	mood disorders: 0.9295370981
+	natural disasters: 0.9293906885
+	emergency departments: 0.9293901308
+	particle size: 0.9293373499
+	environmentally friendly: 0.9291427667
+	wind speed: 0.9290197796
+	particle image velocimetry: 0.9290187075
+	policy makers: 0.9288965536
+	biologically active: 0.9286602287
+	nursing homes: 0.9285916915
+	family hardiness: 0.9285119264
+	aircraft cabin: 0.9283412427
+	crowded places: 0.9283034691
+	decision making: 0.9282541135
+	invasive mechanical ventilation: 0.9282204809
+	stock market: 0.9282101144
+	salt reduction: 0.9280611233
+	social media platforms: 0.9279832179
+	posttraumatic stress disorder: 0.9279037991
+	healthcare worker: 0.9278953834
+	chronic kidney disease: 0.9278196717
+	adjunctive therapy: 0.9278000579
+	job insecurity: 0.9277159902
+	reproduction number: 0.9273994927
+	industrial revolution: 0.9273631366
+	chansu injection: 0.9271645356
+	college students: 0.926874283
+	movement control order: 0.9267049427
+	stance detection: 0.9266905337
+	extracorporeal membrane oxygenation: 0.9265715019
+	animal welfare: 0.9263302637
+	distance learning: 0.9262313791
+	stock markets: 0.9257913264
+	social participation: 0.9257020829
+	travel bans: 0.9255829434
+	fully vaccinated: 0.9255655898
+	air pollutants: 0.9255610432
+	heat transfer: 0.9254839448
+	protection motivation theory: 0.9254541788
+	main protease: 0.92538084
+	psychiatric disorders: 0.9253558604
+	panic buying: 0.9251552581
+	clinical trial: 0.9251395165
+	medical staff: 0.9251342434
+	suicidal thoughts: 0.9250941598
+	optical coherence tomography: 0.9249622505
+	marital status: 0.9249125401
+	metropolitan area: 0.9248882113
+	mental distress: 0.9248670663
+	long short term memory: 0.9247846563
+	rural residents: 0.9247346603
+	mobile apps: 0.9246615943
+	medrxiv preprint: 0.924659646
+	false positives: 0.9245837201
+	filtration efficiency: 0.9245166259
+	odds ratios: 0.9245037732
+	correlation coefficients: 0.9244753551
+	supply chain: 0.9242669554
+	job demands: 0.9242288362
+	prime minister: 0.9240952824
+	nursing students: 0.9240121972
+	creative commons attribution noncommercial: 0.9239963492
+	watery diarrhea: 0.9238793054
+	mobile app: 0.9238357079
+	air quality: 0.9237018945
+	exponential growth: 0.9237016916
+	roc curve: 0.9237010502
+	personality traits: 0.9236962513
+	descriptive statistics: 0.9236333539
+	social distancing: 0.9236048841
+	artificial neural network: 0.9234054349
+	numerical simulation: 0.9233188723
+	maximum likelihood: 0.9230839385
+	investor sentiment: 0.923042921
+	educational inequality: 0.9229501388
+	emergency department: 0.9228795742
+	autism spectrum disorder: 0.9228293526
+	blended learning: 0.9228147296
+	supply chains: 0.9228135846
+	properly cited: 0.9227775136
+	sore throat: 0.9227159205
+	preterm birth: 0.9226715619
+	eating habits: 0.9225009236
+	washing hands: 0.9224492438
+	obsessive compulsive: 0.9224274116
+	visual impairment: 0.92240226
+	food security: 0.9223940507
+	purchase intention: 0.922386913
+	cognitive decline: 0.9221942379
+	machine learning algorithms: 0.9221569346
+	ground truth: 0.9221449285
+	mobile phone addiction: 0.9221084176
+	s2 subunit: 0.9220773332
+	digital transformation: 0.9220373741
+	social capital: 0.9219550321
+	learning passion: 0.9219111915
+	ivyspring international publisher: 0.9218797632
+	socio demographic: 0.9218510927
+	reverse genetics: 0.9216558109
+	hand sanitizer: 0.9216522823
+	migrant worker: 0.9216044874
+	police officers: 0.9215827393
+	adjusted odds ratio: 0.921540961
+	life expectancy: 0.9214186303
+	outpatient clinic: 0.9213872472
+	healthy controls: 0.9213849465
+	publisher's note springer nature remains: 0.9213378777
+	stainless steel: 0.9212697712
+	mental disorders: 0.9212106458
+	wild animals: 0.9211749587
+	clinical trials: 0.9209533514
+	coping styles: 0.9209075592
+	drinking water: 0.9208972631
+	s1 subunit: 0.920886613
+	dietary habits: 0.9208801946
+	placebo controlled: 0.9207108843
+	empirical evidence: 0.9204238267
+	attack rate: 0.9203886476
+	multivariable logistic regression: 0.9202110774
+	fake news: 0.9202065853
+	internet slang: 0.9201344838
+	personal accomplishment: 0.9201267462
+	phylogenetic analysis: 0.9200981164
+	traumatic stress: 0.9200426259
+	western blot: 0.9198052167
+	binary logistic regression: 0.9198042306
+	mobile phones: 0.9196853878
+	relational mobility: 0.9196834868
+	convolutional layers: 0.9196177895
+	surgical mask: 0.9192309265
+	physical activity: 0.9192092904
+	neurological disorders: 0.9191913194
+	prone positioning: 0.9190286966
+	living organisms: 0.9190097439
+	financial markets: 0.918963294
+	contaminated surfaces: 0.9189012695
+	preventive measures: 0.9187005054
+	internal consistency: 0.9186935506
+	fuzzy set: 0.9186204384
+	poorly understood: 0.9186088087
+	ethnic minorities: 0.9185795573
+	negative affective states: 0.9184023037
+	granted medrxiv: 0.9183847115
+	population density: 0.9182472853
+	negative emotions: 0.9180794315
+	fossil fuel: 0.9180131772
+	home confinement: 0.9178458234
+	air conditioning: 0.9178144262
+	officially named: 0.91769797
+	western blotting: 0.9176578102
+	armed conflict: 0.9174092976
+	standard deviation: 0.9173589226
+	machine vision: 0.9172886414
+	frontline nurses: 0.917247867
+	mechanically ventilated: 0.9172077232
+	child maltreatment: 0.9171568587
+	close contact: 0.9171101253
+	distilled water: 0.9170720531
+	revisit intention: 0.9169341255
+	case fatality rate: 0.9167090377
+	psychological resilience: 0.9166648314
+	personal hygiene: 0.9165356661
+	pregnant woman: 0.9164928314
+	question answering: 0.9164724048
+	asymptomatic carriers: 0.9164035502
+	nosocomial infections: 0.9161337008
+	original article: 0.915908214
+	credit financing: 0.9158135319
+	risk perception: 0.9158129751
+	global warming: 0.915698747
+	open label: 0.9156932288
+	internet addiction: 0.9155583989
+	pearson correlation: 0.9155267708
+	malignant tumors: 0.9153026984
+	narrative review: 0.9152898396
+	ambient temperature: 0.9151966527
+	cost effectiveness: 0.9148857288
+	poisson regression: 0.9147323629
+	seafood market: 0.914700525
+	false negatives: 0.9146979819
+	financial crises: 0.9146880879
+	airborne transmission: 0.9146263506
+	risk assessment: 0.9145726601
+	academic performance: 0.9143826367
+	physical inactivity: 0.9143507308
+	crowd workers: 0.9142152787
+	precision medicine: 0.9140619305
+	kaplan meier: 0.9140385792
+	diamond princess: 0.914017814
+	ordinary differential equations: 0.9140058021
+	knowledge hiding: 0.913950065
+	physically inactive: 0.913896246
+	wearing masks: 0.9138209535
+	face shields: 0.9137518935
+	visual acuity: 0.9136999062
+	environmental sustainability: 0.9135923099
+	management earnings guidance: 0.913580005
+	aerosol optical depth: 0.9134312063
+	social norms: 0.91341596
+	multivariate logistic regression: 0.9130817839
+	trans cleavage: 0.9130728436
+	wild type: 0.9129312023
+	negatively charged: 0.912917894
+	precautionary measures: 0.9128837658
+	thermal comfort: 0.9128292443
+	facial masks: 0.9128144817
+	written informed consent: 0.912709854
+	wind energy: 0.9126659824
+	long lasting: 0.9125980018
+	elementary school: 0.9125113817
+	close contacts: 0.912490535
+	salt intake: 0.9124335234
+	utmost importance: 0.912428479
+	ethnic minority: 0.9123259251
+	generalized anxiety disorder: 0.9121611202
+	tertiary hospitals: 0.9121243489
+	executive functioning: 0.9119748336
+	career success: 0.9119159113
+	giant pandas: 0.9118164593
+	offshore wind power: 0.9117929214
+	electronic devices: 0.9117487555
+	mathematical models: 0.9117357537
+	senior citizens: 0.911562704
+	cross sectional: 0.9115037687
+	mobile broadband: 0.9114305695
+	oil price: 0.9113337805
+	coping style: 0.9112951679
+	dry cough: 0.9112151486
+	civet cats: 0.9110633004
+	influencing factors: 0.9109620083
+	sleep disturbance: 0.9108928142
+	author funder: 0.9106086707
+	dispositional optimism: 0.910572905
+	social media: 0.910222141
+	mathematical modeling: 0.9100858106
+	pharmaceutical companies: 0.9100420149
+	puts forward: 0.9100185929
+	exclusion criteria: 0.9098752734
+	peer reviewed: 0.9097740729
+	energy consumption: 0.9097647704
+	renewable energy: 0.9097473753
+	eeg signals: 0.9094955307
+	traumatic brain injury: 0.90948553
+	type ii: 0.9094786459
+	poverty alleviation: 0.9094754562
+	broad spectrum: 0.9092440352
+	travel ban: 0.9090895468
+	psychological entitlement: 0.9090209611
+	artificial neural networks: 0.9089507207
+	newly emerged: 0.9089131388
+	leisure satisfaction: 0.9088969951
+	urban areas: 0.9088881858
+	national health insurance: 0.9088674637
+	fine tuning: 0.9086637841
+	magnetic abrasive finishing: 0.9086229387
+	endemic equilibrium: 0.9085580602
+	indoor air quality: 0.9084840516
+	differential equation: 0.9084164167
+	negatively impacted: 0.9084139043
+	apache spark: 0.9083488134
+	social support: 0.9082863169
+	outpatient clinics: 0.9082655458
+	community acquired pneumonia: 0.9080645946
+	factory workers: 0.9080383466
+	gustatory dysfunction: 0.9079309083
+	electrolyzed water: 0.907625066
+	cognitive function: 0.9074906838
+	real estate: 0.9074737073
+	intensive care units: 0.9074018806
+	leader narcissism: 0.9073795593
+	air quality index: 0.9071872699
+	chi square: 0.907169559
+	online courses: 0.9071394041
+	job stress: 0.9071167984
+	label free: 0.9069512374
+	driving force: 0.9068320906
+	note springer nature remains: 0.9067523466
+	rating scale: 0.906743823
+	lessons learned: 0.9067434344
+	driving forces: 0.9066789686
+	travel restrictions: 0.9066742782
+	pregnant women: 0.9066394241
+	resource constrained: 0.9065203162
+	circadian rhythm: 0.9064757606
+	fractional derivative: 0.9063395725
+	varying degrees: 0.9062340148
+	future directions: 0.9062029089
+	statistical package: 0.9062024764
+	eligibility criteria: 0.9061560938
+	food safety: 0.9061223264
+	droplet nuclei: 0.9061128286
+	absolute quantification: 0.9061126461
+	mathematical model: 0.9059161372
+	ehealth literacy: 0.9059108069
+	tourism industry: 0.9058439394
+	multiplex pcr: 0.9055844677
+	lesser extent: 0.905562128
+	publicly funded: 0.9055349635
+	semi structured interviews: 0.9052285286
+	mechanical ventilator: 0.9051856866
+	healthy packaged food: 0.9051848387
+	scientific novelty: 0.9051816078
+	case reports: 0.9049878346
+	ab ′: 0.9049077739
+	aerosol transmission: 0.9047883651
+	user friendly: 0.9047855641
+	oil prices: 0.9046426754
+	interdiffusion coefficients: 0.9046310236
+	optimization algorithm: 0.9045785963
+	suicide ideation: 0.904524675
+	observational study: 0.9044219894
+	phobic anxiety: 0.90426376
+	unified theory: 0.9042118781
+	fossil fuels: 0.9041813061
+	socio economic: 0.9041644253
+	meteorological conditions: 0.9040791982
+	super spreading: 0.9039195382
+	rights reserved: 0.9038957398
+	trained personnel: 0.903819575
+	maternal immunisation: 0.9035870873
+	structural equation: 0.9033023643
+	primary care: 0.9032984832
+	figure 1b: 0.9031244203
+	meta analyses: 0.9028753747
+	eye movement: 0.9028190654
+	multi omics: 0.9026713396
+	urgently needed: 0.9025544101
+	search engines: 0.9025295008
+	granger causality: 0.9023535424
+	psychological capital: 0.9023135265
+	mental health: 0.9020317187
+	career adaptability: 0.9020233516
+	decision makers: 0.9019740051
+	behavioral intention: 0.9018146084
+	built environment: 0.901770031
+	problem solving: 0.901397785
+	medical students: 0.9013270704
+	figure 1a: 0.9011694027
+	4mc sites: 0.9010595087
+	online teaching: 0.9010056738
+	optimal control: 0.9010045982
+	social networks: 0.9010026135
+	physical restraints: 0.9008435371
+	randomly selected: 0.9007479083
+	experimental setup: 0.9005379091
+	mobile payment: 0.900529855
+	confirmatory factor analysis: 0.9005190102
+	till date: 0.9004801846
+	economic growth: 0.9004219549
+	fourier transform: 0.9004117889
+	economic downturn: 0.9003804354
+	high flow nasal cannula: 0.9002260441
+	blockchain technology: 0.9001821873
+	accumulating evidence: 0.9001719272
+	seeking behavior: 0.9001152512
+	linear discriminant analysis: 0.9000542916
+	acute appendicitis: 0.8998138458
+	live poultry: 0.8996022447
+	tobacco smoking: 0.8995515132
+	internet access: 0.899437535
+	singlestranded rna: 0.8994018986
+	emotion recognition: 0.8993876665
+	literature review: 0.8993754
+	chronic diseases: 0.8993481464
+	functional connectivity: 0.8993011088
+	elective surgeries: 0.8991984483
+	train rescheduling: 0.8991021559
+	aqueous solution: 0.8990894785
+	svm classifier: 0.8990594073
+	integer order: 0.8988683533
+	icu stay: 0.8988059859
+	medical expenses: 0.8987429451
+	meta analysis: 0.8987277434
+	blue light: 0.8986760893
+	digital contact tracing: 0.8986426702
+	supplementary fig: 0.8986050241
+	downward trend: 0.8984899104
+	daily routines: 0.8983195405
+	etiologic agent: 0.8983020818
+	rhesus macaques: 0.8983011095
+	male reproductive: 0.8981479974
+	free highway policy: 0.8980198266
+	medical supplies: 0.8979333594
+	regime switching: 0.8978071522
+	widely accepted: 0.8977077304
+	reference frame: 0.8976659017
+	reproductive number: 0.8976568292
+	aco algorithm: 0.8975000396
+	written feedback: 0.8974548156
+	markov chain: 0.8973382119
+	short term: 0.8972128874
+	heavy metals: 0.8971178104
+	web based: 0.8970798954
+	sleep disturbances: 0.8970728805
+	retrospectively reviewed: 0.8970267583
+	anthropogenic sources: 0.8968946877
+	mathematical modelling: 0.8967478754
+	clustering coefficient: 0.8966559711
+	stay home: 0.8966268992
+	trained immunity: 0.8965265817
+	nature inspired: 0.8965204712
+	repurposed drugs: 0.8965150387
+	dear editor: 0.8965046189
+	undergraduate medical students: 0.8964868104
+	omicron variant: 0.8964847995
+	safety specific transformational leadership: 0.8962954317
+	outlier knowledge: 0.8962538326
+	online shopping: 0.8962098186
+	search engine: 0.8960084462
+	healthy diet: 0.8959774141
+	personalized medicine: 0.8959151883
+	false negative: 0.8958905013
+	high school students: 0.8958696879
+	socio ecological: 0.8958313561
+	exploratory factor analysis: 0.8957700204
+	technology acceptance model: 0.8957345113
+	crazy paving pattern: 0.8956013545
+	hate speech: 0.8955522911
+	spiritual care: 0.8955211907
+	hand sanitizers: 0.8954480306
+	sleep habits: 0.8954423879
+	error prone: 0.8952176021
+	team members: 0.8950895271
+	working hours: 0.8950003983
+	indoor environments: 0.8949516741
+	indoor environment: 0.8948084637
+	image segmentation: 0.8947411779
+	social security: 0.8946988106
+	video conferencing: 0.8946335615
+	healthcare services: 0.8944829083
+	metacognitive strategies: 0.8942803912
+	exhaled droplets: 0.8942132311
+	phase separation: 0.8942013036
+	fractional order: 0.8940976014
+	figure 2b: 0.893807364
+	author contributions: 0.8936258457
+	fact checking: 0.8935851461
+	signal processing: 0.8933690886
+	inclusion criteria: 0.8933080118
+	environmental pollution: 0.8932974326
+	case report: 0.8930881485
+	orally administered: 0.8930597166
+	application prospects: 0.8930567968
+	housing price: 0.8928352654
+	prefrontal cortex: 0.8928131609
+	solar radiation: 0.8927259259
+	eco friendly: 0.8926071349
+	route planning: 0.8925712849
+	cruise lines: 0.8925639336
+	thermal radiation: 0.8925361969
+	figure 1c: 0.8925093539
+	step counts: 0.8924034288
+	outdoor sports: 0.8924019342
+	air pollutant: 0.8920434973
+	emerging variants: 0.8919157069
+	biomedical engineering: 0.8918767985
+	milk production: 0.8916603766
+	trial registration: 0.8914449262
+	online cyber counseling: 0.8914349017
+	hopkins university: 0.8910914256
+	sibling jealousy: 0.891046761
+	government agencies: 0.8909913624
+	supplementary figure: 0.8909391309
+	load forecasting: 0.8908758702
+	green finance: 0.8908294838
+	infantile cataracts: 0.8907819971
+	cross reactivity: 0.8906685484
+	online learning: 0.8904774393
+	nonpharmaceutical interventions: 0.8903945516
+	adversely affects: 0.8903426052
+	sedentary lifestyle: 0.890340099
+	false positive: 0.8902842156
+	posttraumatic stress: 0.890271233
+	causal relationships: 0.890249322
+	fine grained: 0.8901753461
+	occupational stress: 0.8901251024
+	continuous renal replacement: 0.8900783047
+	armed forces: 0.8900691503
+	critical thinking abilities: 0.8899156412
+	neurodevelopmental disorders: 0.8899009601
+	preterm infants: 0.8897878242
+	randomised controlled trials: 0.8897537874
+	turning point: 0.8894924347
+	etiologic agents: 0.8893070603
+	prototype strain: 0.8892272733
+	grayscale values: 0.8892006978
+	pattern mining: 0.8891360937
+	rationally designed: 0.8891329602
+	healthcare systems: 0.8891014589
+	syndromic surveillance: 0.8890844981
+	school counselors: 0.8889588226
+	authentic leadership: 0.8888682335
+	sample preparation: 0.8888146037
+	seismic vulnerability: 0.8887429924
+	personal protective: 0.8886784064
+	attention deficit hyperactivity disorder: 0.8885491937
+	theme parks: 0.8883251772
+	visual inspection: 0.888228647
+	dark matter: 0.8880958525
+	positive emotions: 0.8878706018
+	innovation ecosystem: 0.8878142071
+	phase iii: 0.8878006337
+	women entrepreneurs: 0.8876812768
+	postgraduate students: 0.8876000523
+	visual field: 0.8875392415
+	remains unclear: 0.8875227622
+	palm civets: 0.88750791
+	hospital admissions: 0.8874862279
+	horseshoe bats: 0.8873152664
+	explanatory variables: 0.8872694375
+	refractive index: 0.8870768795
+	raw material: 0.8870756884
+	computational approaches: 0.8869865849
+	labor intensive: 0.8867273119
+	technological advancements: 0.8866465157
+	service providers: 0.8866066855
+	save lives: 0.8864728668
+	behavioral intentions: 0.8863762143
+	starting point: 0.8862615028
+	object detection: 0.8862532848
+	stock prices: 0.8862458904
+	antenatal depression: 0.886150342
+	legacy identification: 0.8860767103
+	surgical resection: 0.8860595751
+	start ups: 0.8859001993
+	link prediction: 0.8857038437
+	fuzzy logic: 0.8856913598
+	upper limb: 0.8856258736
+	randomized controlled: 0.8855832054
+	highly contagious: 0.8855518391
+	medical personnel: 0.88554455
+	thio nad: 0.8854867501
+	march 11th: 0.8853827702
+	adversely affect: 0.8853663985
+	moderated mediation: 0.885323144
+	safe haven: 0.885215372
+	confirmation bias: 0.8851307321
+	household income: 0.8851240804
+	searched pubmed: 0.8850027594
+	neonatal sepsis: 0.884981822
+	expert consensus: 0.8849484728
+	demographic characteristics: 0.8849446564
+	super spreader: 0.8849231506
+	extended data fig: 0.8849157303
+	dairy cows: 0.884907571
+	terrorist attacks: 0.8848772054
+	publication bias: 0.8848295855
+	pre trained: 0.8847909358
+	spatio temporal: 0.8847660295
+	patients undergoing hemodialysis: 0.8847479265
+	director general: 0.8846498447
+	distance measure: 0.8846239154
+	short span: 0.8845703105
+	meta transcriptomics: 0.8845655519
+	wearing msm: 0.8845169024
+	biomedical applications: 0.8845152679
+	reservoir hosts: 0.8844305208
+	flaky tests: 0.8842323747
+	image classification: 0.8842212351
+	adversely affected: 0.8841576788
+	domestic violence: 0.8841178208
+	invasive ventilation: 0.8840713073
+	strongly correlated: 0.8840222313
+	cross reactive: 0.8839534657
+	fatality rate: 0.8839431991
+	face recognition: 0.8839081961
+	temperature inversion: 0.8838133229
+	fog computing: 0.8837689422
+	fractional calculus: 0.8837656698
+	reconstruction algorithm: 0.8837451523
+	mesh terms: 0.8835660542
+	atmospheric pollutants: 0.883428873
+	upper respiratory: 0.8833607371
+	mass vaccination: 0.8832224378
+	psychological stress: 0.8831693874
+	facial expressions: 0.8830894067
+	data mining: 0.8830294143
+	community life circle: 0.8830215922
+	blank geometry: 0.8829878724
+	table s1: 0.8829186479
+	sarcopenic dysphagia: 0.8829062727
+	swarm algorithm: 0.8826710211
+	temporary integrated isolation: 0.8826252605
+	bioinformatics analysis: 0.8825244879
+	nursing staff: 0.8825018742
+	law enforcement: 0.8824644409
+	cold war: 0.8823485678
+	seafood wholesale market: 0.8822357177
+	recurrent neural network: 0.8822294934
+	deep learning models: 0.882211904
+	high throughput: 0.8819082101
+	early detection: 0.8817891642
+	senescent cells: 0.8816518259
+	sample size: 0.8815652257
+	early stage: 0.881557549
+	thermal cycling: 0.8814583025
+	differential diagnosis: 0.8812984898
+	medicines lists: 0.8811686007
+	fresh food: 0.8810868302
+	identity leadership: 0.8808770855
+	traffic congestion: 0.88074306
+	medical professionals: 0.8807317652
+	operating procedures: 0.8807213536
+	online counseling: 0.8807106873
+	prognostic factor: 0.8807025066
+	parent child: 0.8806385359
+	restrictive measures: 0.880615053
+	remote teaching: 0.8805688049
+	masked palm civets: 0.8805213994
+	vertical transmission: 0.8804933098
+	trajectory data mining: 0.880491912
+	raising awareness: 0.88047252
+	confined space: 0.8804105966
+	fine tuned: 0.8804000392
+	food consumption: 0.8803279405
+	privacy protection: 0.8802273828
+	mobile application: 0.8802006858
+	economic burden: 0.8801184979
+	monetary policy: 0.8797084938
+	local travel behaviour: 0.8796652509
+	healthcare facilities: 0.879626764
+	pharmacy services: 0.8794734945
+	sooting tendency: 0.8794595573
+	leisure facilitation: 0.8793890867
+	fully connected: 0.8793173877
+	aerosol generating procedures: 0.8792710604
+	positively charged: 0.8792598824
+	droplet evaporation: 0.8792536416
+	water vapor: 0.8792125401
+	particle diameter: 0.8792073491
+	ambient air: 0.8790592787
+	risk communication: 0.8789825437
+	section vi: 0.878883053
+	embodied energy: 0.8788644158
+	single cell: 0.8786660064
+	physical exercise: 0.8784672461
+	smartphone addiction: 0.8784139627
+	speech signal: 0.8782920933
+	radiation exposure: 0.8782694532
+	point likert: 0.8781843887
+	visible light: 0.8781769859
+	pooling layers: 0.878149221
+	prospect theory: 0.8780971784
+	ethical issues: 0.8780790053
+	reproduction numbers: 0.8780676619
+	writing original draft: 0.8780249639
+	armored rna: 0.8780189107
+	difficulty breathing: 0.8779739028
+	semi supervised: 0.8779423756
+	everyday life: 0.8779070054
+	mass gatherings: 0.8778299922
+	practical implications: 0.8777876208
+	seasonal flu: 0.8777744792
+	heavy workload: 0.8777477934
+	medical insurance: 0.8777185164
+	home care: 0.8776569695
+	tracer gas: 0.8775394252
+	job performance: 0.8774826465
+	animal models: 0.8774164101
+	critical care: 0.8773092874
+	fully elucidated: 0.8772495103
+	machine learning techniques: 0.8771949833
+	tongue coating: 0.8770674433
+	suicide mortality: 0.8770249679
+	droplet transmission: 0.8769964234
+	cross sectional study: 0.876976215
+	job losses: 0.8769668888
+	semi structured: 0.876937555
+	quasi experimental: 0.8768403023
+	visually impaired: 0.8767516307
+	mixed integer: 0.8767319612
+	food intake: 0.8766689588
+	leadership style: 0.876600448
+	hospital outdoor rest space: 0.8765871344
+	adverse event: 0.8765349293
+	internet users: 0.8765309429
+	premature death: 0.8764301528
+	confounding factors: 0.8764102192
+	lived experiences: 0.8763718998
+	founder management: 0.8763331305
+	upper airway: 0.8762511955
+	cold chain: 0.8762508453
+	dual trigger: 0.8760051589
+	diagnostic criteria: 0.8759994579
+	telemedicine services: 0.8759686154
+	ethical considerations: 0.8759418186
+	framed messaging: 0.8759230012
+	natural reservoirs: 0.8758761446
+	multimodal omics: 0.8757812298
+	media exposure: 0.8757267044
+	selection pressure: 0.8756356095
+	metaheuristic algorithms: 0.8756241734
+	hurst parameter: 0.8754820195
+	s1 s2: 0.8754224837
+	suspected cases: 0.8754098518
+	higher education institutions: 0.8753976386
+	boundary conditions: 0.8753372989
+	movement restrictions: 0.875303086
+	newly discovered: 0.8752844191
+	medical education: 0.8752715512
+	economic losses: 0.875253052
+	phase ii: 0.8752212174
+	pandemic era: 0.8751576182
+	social isolation: 0.8750830292
+	stock market volatility: 0.8750744896
+	disaster management: 0.8750364638
+	healthy volunteers: 0.8749572485
+	post mortem: 0.8749307301
+	ancient times: 0.8747045447
+	snowball sampling: 0.8746960037
+	digital technologies: 0.8746938956
+	life threatening: 0.874453157
+	derived exosomes: 0.874387053
+	pharmacy students: 0.874319195
+	older age: 0.87424048
+	vulnerable populations: 0.8742026874
+	sedentary behavior: 0.8741644723
+	scoring systems: 0.8740825895
+	prone ventilation: 0.8740222513
+	stressful situations: 0.8739671511
+	wind tunnel: 0.8738163348
+	beginning online instructors: 0.8736013466
+	food poisoning: 0.8735684848
+	virtual learning: 0.8734982678
+	para cancerous: 0.8734276456
+	regression analysis: 0.8734257321
+	semantic segmentation: 0.8733765378
+	risk factors: 0.8732550713
+	hospital beds: 0.873149395
+	organisational resilience: 0.8730512662
+	extensively studied: 0.8730185266
+	disaster risk management: 0.8728603891
+	food borne: 0.8728343861
+	neurological diseases: 0.8726388406
+	statistically significant: 0.8726168422
+	pharmacologically active: 0.8726053159
+	mass media: 0.8725447531
+	medical care: 0.8724271642
+	figure 2a: 0.8724090263
+	emotional demands: 0.8723938168
+	urban pest: 0.8723544143
+	crude oil price: 0.8722582866
+	rural tourism: 0.8722460844
+	sample sizes: 0.8722051678
+	outpatient visits: 0.8720416997
+	standard precautions: 0.8720339286
+	dental students: 0.8720140858
+	cutting edge: 0.8719764861
+	nursing care: 0.8719204424
+	wildlife trade: 0.8718890926
+	natural sources: 0.8718730316
+	cough sounds: 0.8716739981
+	counseling services: 0.8714158712
+	informal learning: 0.8713635739
+	mann whitney: 0.8713608388
+	prospective cohort: 0.8713116221
+	swot analysis: 0.8712321719
+	workplace ostracism: 0.8711739799
+	mental health problems: 0.8710965348
+	severely affected: 0.8710547678
+	vice versa: 0.8710088848
+	herding behaviour: 0.8709878014
+	disaster preparedness: 0.8709660393
+	single stranded: 0.8709254163
+	social workers: 0.8709196918
+	cross sectional survey: 0.8708692434
+	cnn architectures: 0.8707522164
+	stock market crash risk: 0.8706164809
+	large scale: 0.8705703294
+	at2 stem: 0.8705640626
+	statistical significance: 0.8704229922
+	molecular sciences: 0.8703064893
+	emotional distress: 0.8702748574
+	competitive advantages: 0.8701657207
+	workplace incivility: 0.8701556099
+	super spreaders: 0.8699723328
+	bioinformatics tools: 0.8699416368
+	data collection: 0.869926171
+	media coverage: 0.869902385
+	feature vectors: 0.8698170468
+	consumer behaviour: 0.8697258491
+	preventive health behaviors: 0.8695579953
+	stock market liquidity: 0.8694440254
+	clinical manifestations: 0.8693131146
+	frequent hand washing: 0.8692907389
+	www.worldometers.info coronavirus: 0.8692599493
+	mortality rates: 0.8692238437
+	therapeutic agents: 0.869209151
+	sleep disorders: 0.8690310646
+	smartphone usage: 0.8689174126
+	student satisfaction: 0.8688341539
+	firefly algorithm: 0.8686795818
+	multi faceted: 0.8686218564
+	mildly symptomatic: 0.8686179638
+	chronic heart failure: 0.8684993726
+	stock sectors: 0.8683131034
+	www.nature.com scientificreports: 0.8682970878
+	eigenvector centrality: 0.8682537307
+	binary classification: 0.8682026983
+	mask detector: 0.8681983634
+	cloth masks: 0.8681517834
+	rural youth: 0.8681405181
+	real world: 0.8681263473
+	energy efficiency: 0.8680808101
+	frontline healthcare workers: 0.8679649117
+	poor prognosis: 0.8678598427
+	healthcare personnel: 0.8678585892
+	genetic variations: 0.8677567342
+	valid questionnaires: 0.8676235759
+	assignment submission: 0.8676192774
+	recreational specialization: 0.8676156593
+	underdeveloped areas: 0.8676033227
+	environmental protection: 0.8675490632
+	multi disciplinary: 0.8675146735
+	fractional derivatives: 0.8675116875
+	unsupervised learning: 0.8674965383
+	vapour pressure: 0.8674466737
+	resource centre: 0.8672979555
+	masked faces: 0.867260943
+	long term: 0.8672286054
+	medical resources: 0.8672077912
+	negatively affect: 0.8671938235
+	psychometric properties: 0.8671496668
+	extreme events: 0.867092192
+	highly transmissible: 0.8670607997
+	water purification: 0.8670378676
+	ensemble learning: 0.8669768776
+	choquet integral: 0.8669288198
+	emotional behavioral problems: 0.866788231
+	particle deposition: 0.8667612935
+	diffuse alveolar: 0.866657722
+	observational studies: 0.8665478671
+	lateral flow immunoassay: 0.8665411966
+	risk score: 0.8664576384
+	psychological impacts: 0.8664204848
+	therapeutic targets: 0.8663986336
+	diagnostic tools: 0.8663503177
+	electronic databases: 0.8662706202
+	cognitive emotion regulation: 0.8661810226
+	financial crisis: 0.8661556231
+	thermal plume: 0.8660861295
+	adverse outcomes: 0.8659568349
+	asset pricing: 0.8659343988
+	salt content: 0.8658693651
+	fiscal stimulus: 0.8658358128
+	lockdown measures: 0.8657339762
+	covid deeppredictor: 0.8656672142
+	low dose: 0.8656532184
+	home isolation: 0.8656440261
+	emergency response: 0.8655780307
+	travel restriction: 0.8655280549
+	nursing education: 0.8653988136
+	daily life: 0.8652681641
+	patient safety: 0.865257244
+	seir model: 0.8652298857
+	panoramic image: 0.8652012411
+	section ii: 0.8651629288
+	emergency management: 0.8649664639
+	steady state: 0.8648748971
+	local governments: 0.8648392015
+	designated hospitals: 0.8647763361
+	max pooling: 0.8647341454
+	radiation doses: 0.8644905867
+	situational insomnia: 0.8644538961
+	zoonotic transmission: 0.8641303496
+	online rumor sharing: 0.8639829739
+	thermopile array: 0.8639019669
+	randomized trial: 0.8638422196
+	unknown etiology: 0.8638023462
+	supplementary pairing: 0.8637503881
+	sewage sludge: 0.8636232429
+	natural product: 0.8636224802
+	contextual factors: 0.8635907444
+	observational cohort: 0.8635827204
+	wild birds: 0.8634061103
+	crazy paving: 0.8633506346
+	hand sanitisers: 0.8633247875
+	experiential learning: 0.8633013179
+	scv hel: 0.8632769438
+	student learning: 0.8630643301
+	future research directions: 0.8628760512
+	cesarean section: 0.8628339326
+	transition period: 0.862786648
+	policy implications: 0.8626577629
+	semi quantitative: 0.8626577264
+	staff members: 0.8626543943
+	prospective observational study: 0.8626532114
+	remain unclear: 0.8625776539
+	mobile devices: 0.8625277393
+	indoor airflow: 0.862263195
+	live birth: 0.8620701742
+	double stranded dna: 0.8619174114
+	urban planning: 0.8618893087
+	case fatality rates: 0.8618817677
+	low income: 0.8618750917
+	mental state: 0.8613649663
+	causative agent: 0.8612262851
+	somatic symptoms: 0.8612220963
+	medical chart documentation: 0.8612178076
+	encoder decoder: 0.8610633783
+	nomogram model: 0.8609312573
+	great promise: 0.8608585928
+	social networking: 0.8607531556
+	key players: 0.8607248009
+	patient health questionnaire: 0.8606308998
+	vicarious traumatization: 0.8605783259
+	room temperature: 0.8605580605
+	censoring scheme: 0.8604613994
+	rural communities: 0.8604604281
+	confidence intervals: 0.8603486364
+	young children: 0.8603220175
+	air travel: 0.860157368
+	hybrid immunity: 0.8601429659
+	male sex: 0.8601151287
+	cultural differences: 0.8600755947
+	drought stress: 0.8599747103
+	amplitude death: 0.8599529552
+	older adult: 0.8599496109
+	exhaled airflow: 0.859863367
+	leisure activities: 0.859857447
+	sex education: 0.8598383687
+	purchase intentions: 0.8597012716
+	local search: 0.859664042
+	therapeutic approaches: 0.8596081427
+	material removal: 0.8594473012
+	section iii: 0.8594132425
+	journal pre proofs: 0.8592316085
+	economic recession: 0.8589508149
+	gratitude journaling: 0.8589416626
+	dairy products: 0.8586864518
+	effectively inhibit: 0.8585954494
+	distance similarity: 0.8585602025
+	spectrum disorder: 0.8585223022
+	fold cross validation: 0.8583556932
+	musk ketone: 0.8583349332
+	social distance: 0.8583346704
+	meteorological factors: 0.8582572396
+	intermediate host: 0.8581262105
+	bayesian estimation: 0.8580626031
+	job resources: 0.858036726
+	genecube ®: 0.8579477628
+	hospital stay: 0.8579419865
+	gold standard: 0.8579116235
+	retrospectively analyzed: 0.8578813347
+	dims lenses: 0.8578706709
+	case numbers: 0.8578222021
+	wastewater surveillance: 0.8576539621
+	highly conserved: 0.8575737421
+	sir model: 0.8574011812
+	emoji usage: 0.8573986842
+	soft hydrogel: 0.8572419846
+	ict competencies: 0.8571400457
+	science foresight: 0.8570617551
+	positively correlated: 0.8569563688
+	home quarantine: 0.856874286
+	environmental factors: 0.8567602609
+	guidelines recommend: 0.8566548382
+	worse prognosis: 0.8565896815
+	severe illness: 0.8564556513
+	moderating role: 0.8563299366
+	trade offs: 0.8562859613
+	lockdown period: 0.856262325
+	itch nrs: 0.8561884092
+	single center: 0.8561236255
+	hotel sector: 0.8560839584
+	scenic spots: 0.8559182843
+	wholesale market: 0.8558778459
+	mother child: 0.8556406255
+	suicide rate: 0.85558711
+	twisted wind: 0.855551602
+	final version: 0.8554748616
+	destination reputation: 0.8552763615
+	information sources: 0.8550307326
+	healthy donors: 0.8549741928
+	phylogenetic analyses: 0.8548384197
+	liquid liquid: 0.8548148544
+	fractal fractional: 0.854792122
+	chronological backtracking: 0.8547866712
+	online education: 0.8547713855
+	load decomposition: 0.8545898006
+	cohort study: 0.8545535374
+	mild symptoms: 0.8544727404
+	nationwide lockdown: 0.8544376828
+	questionnaire survey: 0.8544108373
+	gnec film: 0.8543446643
+	policy implementation: 0.8542570013
+	adverse drug reactions: 0.8542103061
+	wastewater treatment: 0.8541866476
+	panic buying behavior: 0.8541499483
+	black seed: 0.8541098969
+	emission sources: 0.8540215129
+	pristine mask: 0.8540211859
+	sedentary behaviour: 0.8539585338
+	urban residents: 0.8537079026
+	clustering algorithm: 0.853679021
+	natural resources: 0.8534692993
+	post resuscitation: 0.8534140535
+	knowledge base: 0.8533722727
+	room air: 0.8533631708
+	sustainable environment: 0.8533484397
+	digital platforms: 0.853228736
+	online learning satisfaction: 0.853210103
+	geographical locations: 0.8532084056
+	benchmark datasets: 0.8528884798
+	clinical practice: 0.8528352484
+	cis acting: 0.8528027088
+	psychological problems: 0.8527208197
+	high throughput sequencing: 0.8526526996
+	population densities: 0.8525138269
+	m2 polarization: 0.8525118216
+	obese children: 0.8524084788
+	theoretical framework: 0.8523664442
+	building blocks: 0.8522859818
+	multi dimensional: 0.8522332173
+	transmission dynamics: 0.8522137601
+	single stranded positive sense rna: 0.8521223382
+	embodied carbon trade: 0.8520603999
+	functional connectome: 0.8519281054
+	rumor spreading: 0.8518952973
+	patient satisfaction: 0.8517762221
+	optical clearing: 0.8516584155
+	21st century: 0.8515601734
+	recovering rate: 0.8514698026
+	easily accessible: 0.85145506
+	review ratings: 0.8514430334
+	ultimate goal: 0.8513771658
+	children aged: 0.8512857878
+	post hoc: 0.8511601298
+	healthy subjects: 0.851153403
+	chronic illnesses: 0.8510431911
+	suicide rates: 0.8510228187
+	masked palm: 0.8510093714
+	vr technology: 0.850855461
+	fresh air: 0.8508263701
+	total delay: 0.850793587
+	common cold: 0.8507892867
+	reinforcement learning: 0.8507678139
+	geographical location: 0.8507337775
+	causative agents: 0.8506264365
+	covid renet: 0.8505913781
+	incidence rates: 0.8505819648
+	decision support: 0.8505741504
+	stressful life events: 0.850557432
+	import dependency: 0.850332914
+	sexual function: 0.8501919006
+	celebrity endorsement: 0.8500244999
+	awake proning: 0.8500216965
+	critical thinking: 0.8500200077
+	service quality: 0.8499881355
+	base usage: 0.8499096326
+	mechanisms underlying: 0.8498734254
+	road network: 0.8498588891
+	heat stress: 0.8497494056
+	key words: 0.8497204838
+	aerosol generating: 0.8496869842
+	fomite transmission: 0.8495616263
+	benchmark dataset: 0.8495304782
+	basic reproduction number: 0.8495144593
+	diagnostic tool: 0.8494038372
+	age groups: 0.8493022628
+	selection bias: 0.8492325683
+	flying foxes: 0.8491914331
+	resting state: 0.8490999588
+	causal association: 0.8489058159
+	energy storage: 0.84890576
+	suicide prevention: 0.8487997185
+	tourism poverty alleviation: 0.8486215453
+	spatial priority: 0.8485259225
+	symptom management: 0.8484554058
+	crisis management: 0.8484546418
+	contaminated water: 0.848401524
+	spatiotemporal characteristics: 0.8482895868
+	biosafety level: 0.8481206565
+	water soluble: 0.8480301373
+	nuclear energy: 0.8479412905
+	potentially fatal: 0.8479123334
+	government policies: 0.8478791004
+	likert scale: 0.8478777922
+	disaster risks: 0.8477264781
+	systemic risk: 0.8476885703
+	fake news detection: 0.8476853718
+	ridesharing problem: 0.8476765758
+	early childhood: 0.8476467153
+	fixed mindsets: 0.8475806569
+	customized cosmetics: 0.8475702054
+	energy transfer: 0.8472984093
+	fundamental motive: 0.8471301922
+	sleep problems: 0.8470378204
+	multi epitope: 0.8469451172
+	pre existing: 0.8469201614
+	hot water: 0.8469095132
+	money market rate: 0.8467762615
+	rapid urbanization: 0.8467515559
+	underlying comorbidities: 0.8467193079
+	state trait anxiety: 0.8467053852
+	facial mask: 0.8466856527
+	lower jaw: 0.8465476455
+	family caregivers: 0.8465084544
+	preterm labor: 0.8464200175
+	predictive models: 0.8462960977
+	correlation analysis: 0.8462156153
+	designated hospital: 0.8461979159
+	speech recognition: 0.8461266435
+	online platforms: 0.8460618503
+	potential therapeutic targets: 0.8460614852
+	medical center: 0.8459373063
+	optimization algorithms: 0.8459106338
+	federated learning: 0.84589343
+	independent variables: 0.8458845471
+	main categories: 0.8458134136
+	parameter estimation: 0.8457457289
+	newly developed: 0.8454852621
+	temperature sensor: 0.8454695743
+	fermatean fuzzy: 0.8454131107
+	food delivery services: 0.8453972873
+	growth mindsets: 0.8453510176
+	humidity field: 0.8451744177
+	topic modeling: 0.8451189072
+	standardized office: 0.8450367771
+	social restrictions: 0.8450100017
+	intervention strategies: 0.8448393973
+	single nucleotide: 0.8447344855
+	social connections: 0.8445388647
+	natural ventilation: 0.8445237245
+	rewiring strategy: 0.844507596
+	retrospective cohort: 0.8444487587
+	rebuttal acceptance: 0.8444403413
+	epidemiological investigation: 0.8443324112
+	online reviews: 0.8442746558
+	wearable device: 0.8442550577
+	longitudinal study: 0.8442183883
+	candidate genes: 0.8441590865
+	clinical specimens: 0.8441318038
+	online classes: 0.8441277764
+	psychological wellbeing: 0.8440898689
+	diagnostic assays: 0.8439877242
+	huge economic losses: 0.8438930057
+	mobile applications: 0.8437885414
+	double stranded rna: 0.8436882503
+	sleep apnea: 0.8436745396
+	real life: 0.843641218
+	influential spreaders: 0.8436195805
+	preventive measure: 0.8435606023
+	medical practitioners: 0.8435431091
+	bidet toilets: 0.8434990747
+	controlled trials: 0.843494308
+	newly diagnosed: 0.8434914688
+	interpersonal curiosity: 0.8434906055
+	skill training: 0.8433116763
+	early gastric cancer: 0.843275248
+	shovel teeth: 0.8431102131
+	frontline workers: 0.8430309434
+	urban area: 0.8430001435
+	random sampling: 0.8429768498
+	officially declared: 0.8429703251
+	symptom assessment: 0.8429536709
+	residential areas: 0.8429185055
+	takes place: 0.8428402548
+	focus group: 0.8428165096
+	greenhouse gas: 0.8427345463
+	social sciences: 0.8426196622
+	therapeutic options: 0.8424728446
+	combination therapy: 0.8424472578
+	radiation dose: 0.8424414845
+	rumor sharing: 0.8423751396
+	post traumatic stress symptoms: 0.8423653923
+	short sale: 0.8421794257
+	retrospective observational: 0.8421653827
+	test sets: 0.8421294293
+	filial piety: 0.8419025579
+	behavioral problems: 0.8417348136
+	section iv: 0.8415616445
+	cognitive behavioral therapy: 0.8414349849
+	natural compounds: 0.8413772385
+	bioner models: 0.8413394236
+	naked eye: 0.8410915845
+	national parks: 0.841023715
+	pathophysiological mechanisms: 0.8409602464
+	delivery systems: 0.8408249027
+	missed nursing care: 0.8407616383
+	travel history: 0.8407163675
+	clinical features: 0.8407007336
+	biosafety materials: 0.8403903984
+	senior care facility: 0.8403453619
+	cyberbullying behaviors: 0.8402513972
+	medical imaging: 0.840195473
+	socio cultural: 0.8401917963
+	community health nursing: 0.8400880635
+	gradient descent: 0.8400689695
+	product innovation: 0.8400279736
+	hybrid methodology: 0.8399626179
+	increasingly recognized: 0.8398544067
+	journal pre proof: 0.8398238712
+	aerodynamic diameter: 0.8397687261
+	multiplex networks: 0.8397072872
+	epidemic spreading: 0.8396713047
+	electrochemical sensors: 0.839635122
+	diagnostic testing: 0.8396089231
+	standard care: 0.8395302505
+	energy saving: 0.8394628047
+	parameter values: 0.8393785526
+	intensive care unit admission: 0.8393777272
+	people's lives: 0.8393518508
+	enclosed environment: 0.8392150835
+	affiliated hospital: 0.8389939554
+	acute exacerbation: 0.8389813341
+	reference sequence: 0.8389747589
+	pubmed abstract | publisher: 0.8388643795
+	droplet dispersion: 0.8388088589
+	investment decisions: 0.838777097
+	urban vitality: 0.8387121214
+	deep feature: 0.8386900118
+	adverse effects: 0.8386880263
+	multivariate regression: 0.8386505909
+	collaborative innovation network: 0.8385792684
+	pharmacy practice: 0.8384503383
+	interval valued fuzzy soft: 0.8383970877
+	sample collection: 0.8383890402
+	airborne particles: 0.8383369203
+	newly synthesized: 0.8382499339
+	medical centers: 0.838208097
+	causal relation: 0.8381049321
+	gold cluster: 0.8378607096
+	household members: 0.8378405964
+	independent variable: 0.8376605331
+	psychological burden: 0.8376480894
+	feature fusion: 0.8375064943
+	attribution noncommercial: 0.8373955615
+	imaging modalities: 0.8373215719
+	stratum ventilation: 0.8372883116
+	language learning: 0.8371938435
+	evolutionary algorithms: 0.8371460024
+	easy access: 0.8371362174
+	wearing face masks: 0.83704115
+	tourism route planning: 0.83685579
+	confidence interval: 0.8367188655
+	bibliometric analysis: 0.8364332044
+	positive strand rna: 0.8364234174
+	energy expenditure: 0.8363609574
+	wear masks: 0.8363368323
+	proportional hazard: 0.8362482715
+	emission reduction: 0.8362089523
+	open source: 0.8361774802
+	million tons: 0.8361554389
+	high dose: 0.8359037936
+	evaporation rate: 0.8358823922
+	mounting evidence: 0.8358016193
+	poor sleep quality: 0.8357284015
+	boundary layer: 0.8357213841
+	rapidly evolving: 0.835702473
+	physical activities: 0.8355906326
+	convenience sampling: 0.8355495066
+	surgical smoke: 0.8355201368
+	retrospective study: 0.8355099764
+	economic activities: 0.8355024106
+	advanced cancer: 0.8354836929
+	systematically reviewed: 0.8351572531
+	bhk r2: 0.8351109515
+	service utilization: 0.8350228735
+	phylogenetic relationship: 0.8348141217
+	medium sized: 0.8347733495
+	chronic pain: 0.8347389882
+	commonsense knowledge: 0.8347358459
+	regular exercise: 0.8347065374
+	supervised learning: 0.8346912722
+	families living: 0.8346067428
+	literature search: 0.8345215677
+	exhaled air: 0.8344938637
+	alcohol consumption: 0.8344521777
+	image recognition: 0.8344358706
+	remains controversial: 0.8343179542
+	partially vaccinated: 0.834280559
+	deep learning architecture: 0.8340190451
+	data envelopment: 0.8340103138
+	early childhood caries: 0.8339699159
+	median survival: 0.8339306089
+	single stranded rna: 0.8337886513
+	home based: 0.8337872716
+	similarity measure: 0.8337124807
+	compulsory licensing: 0.8336183204
+	technological innovation performance: 0.8333978957
+	paradigm shift: 0.8333833945
+	adults aged: 0.8331491494
+	optimal solution: 0.833035565
+	daytime sleepiness: 0.8330343354
+	high resolution: 0.8330061714
+	pain management: 0.8329557975
+	negatively correlated: 0.832944744
+	feature vector: 0.8328933827
+	therapeutic option: 0.8328397361
+	traffic volume: 0.8327790965
+	community transmission: 0.8327668652
+	dependent manner: 0.8327318708
+	lyapunov: 0.8325205444
+	nonprobability sample: 0.8324027429
+	aerosol particles: 0.8323577203
+	input sequence: 0.832348306
+	vacuum packaging machine: 0.8322625617
+	output voltage: 0.8322591578
+	single cell rna sequencing: 0.8319550078
+	routing protocols: 0.8319032913
+	urgently required: 0.8317175229
+	peer communication: 0.8317110718
+	newly emerging: 0.8317096305
+	outgroup members: 0.8316987578
+	family member: 0.8316121308
+	speckle noise: 0.8315733585
+	case definition: 0.8315067885
+	million deaths: 0.8314824823
+	neighborhood environment: 0.8314418345
+	sinws fet: 0.8313480446
+	latently infected: 0.8312399408
+	clinical outcomes: 0.8311307035
+	healthcare staff: 0.8310997255
+	droplet digital: 0.8310556866
+	dialogue summarization: 0.8310396019
+	cross cultural adaption: 0.8310337622
+	aging population: 0.8310066893
+	diagnostic kits: 0.830835263
+	experimental autoimmune: 0.8307218545
+	raised concerns: 0.8306353127
+	context aware: 0.8306221663
+	candidate drugs: 0.8305314122
+	soft set: 0.8305140756
+	knowledge transfer: 0.8304844766
+	performance evaluation: 0.8304264379
+	sleep disorder: 0.8304015222
+	safety profile: 0.8303431157
+	thematic analysis: 0.8302767041
+	study protocol: 0.830232731
+	locally advanced: 0.8301597268
+	safe haven properties: 0.8301088864
+	positive sense: 0.8298633702
+	medical devices: 0.8298219632
+	aerosol droplets: 0.8297964567
+	wind power: 0.8296531371
+	higher education: 0.8296012117
+	closely related: 0.8295633452
+	sex biased: 0.8295156136
+	growth rate: 0.8292305204
+	acute cardiac injury: 0.8291393711
+	university hospital: 0.8290141054
+	ecosystem services: 0.8289892228
+	neglected tropical diseases: 0.8289062481
+	social distancing measures: 0.8288415047
+	indirect effect: 0.828822537
+	phase selection: 0.8287113403
+	female nurses: 0.8286793775
+	fully understood: 0.828579548
+	adverse impacts: 0.8285425579
+	pipe repair: 0.8285228045
+	dual attention: 0.8285148431
+	tourism infrastructure: 0.8285034387
+	earnings forecast: 0.8284899263
+	future prospects: 0.8284484855
+	mediating role: 0.8283120906
+	percolation transition: 0.8282563846
+	key points: 0.8282082079
+	diagnostic tests: 0.8281854801
+	cognitive functions: 0.8281446773
+	www.who.int emergencies diseases: 0.8281034364
+	natural disaster: 0.8280771037
+	low cost: 0.8280669767
+	closed loop: 0.8280321439
+	misalignment faults: 0.8279570776
+	spatial resolution: 0.8279303718
+	fatal outcomes: 0.8278493797
+	animal experiments: 0.8276582513
+	urban ventilation: 0.8276522015
+	professional identity: 0.8276147274
+	research questions: 0.8275721216
+	worse outcomes: 0.8275588502
+	personal protection: 0.8275390101
+	bibliometric: 0.8274167845
+	retrospective observational study: 0.8273680665
+	social interaction: 0.8272933478
+	vivo mo: 0.8272660614
+	selective pressure: 0.8272335195
+	prison officers: 0.8272167767
+	frequency domain: 0.8270962895
+	protective measures: 0.8270819589
+	treatment options: 0.8270263489
+	medical records: 0.8269749894
+	high quality interdiffusion coefficients: 0.8269240075
+	executive functions: 0.8268972208
+	evidence suggests: 0.8267232619
+	depressive disorder: 0.8267022294
+	fuzzy soft set: 0.826647449
+	cord blood: 0.8266362112
+	visual function: 0.8264871879
+	mortality rate: 0.8264551928
+	female gender: 0.8263336378
+	stock market crash: 0.8263140715
+	wearing mask: 0.8262124729
+	fiscal policy: 0.8261392443
+	medical staffs: 0.8258674155
+	younger age: 0.8253023791
+	safe haven asset: 0.825175477
+	bike sharing: 0.825064852
+	physically active: 0.8250598357
+	hospital discharge: 0.8249781877
+	feature engineering: 0.8247217069
+	long term care: 0.8246193083
+	psychological pressure: 0.8246171801
+	class ii: 0.8246100375
+	increasingly popular: 0.8243283913
+	− − mice: 0.8242642386
+	superior performance: 0.8242408236
+	feeding behavior patterns: 0.8242065443
+	malignant progression: 0.8241464989
+	ultrasensitive: 0.8239289991
+	financial contagion: 0.8237489418
+	late stage: 0.8236884854
+	socialism: 0.8236629945
+	publisher's note: 0.8236149197
+	rapid deterioration: 0.8235999272
+	traumatic events: 0.8235436473
+	remote areas: 0.8235033004
+	statistical analysis: 0.823346438
+	information processing: 0.8233052513
+	temporary immunity: 0.8232741164
+	main text: 0.8229451595
+	numerical inverse: 0.8225609759
+	water quality: 0.8225302225
+	deleterious effects: 0.8225159929
+	negatively affected: 0.8223399687
+	ozone gas: 0.8222739145
+	brownian: 0.8221575054
+	endemic areas: 0.8221204383
+	cost effective: 0.8220918112
+	closely linked: 0.8220536565
+	general practitioners: 0.8220240538
+	high throughput screening: 0.8219220654
+	emerging infectious diseases: 0.8218247164
+	long distances: 0.8217439579
+	financial market: 0.821668814
+	predisposing factors: 0.8216242232
+	trump: 0.8216080501
+	propensity score: 0.821522052
+	female sex: 0.82149766
+	privacy concerns: 0.821468946
+	nursing home: 0.821323671
+	technological innovation: 0.821297265
+	lead compounds: 0.8211660588
+	creativecommons.org licenses: 0.8210520616
+	multiple organ: 0.8209914791
+	multi component: 0.8209903362
+	team formation: 0.820945633
+	generally speaking: 0.820929007
+	online game based learning: 0.8209216189
+	end stage renal: 0.8209063564
+	systematic literature review: 0.8208753417
+	smart city: 0.8208599182
+	figure s1: 0.8208115535
+	phase saving: 0.8207679717
+	patient care: 0.8207133479
+	moderation: 0.8206560018
+	negatively impact: 0.8206228372
+	fixed point: 0.8206162833
+	birth weight: 0.8205140627
+	hybrid learning: 0.8204649749
+	nursing facilities: 0.8203891695
+	primary health care: 0.8202894723
+	land application: 0.8199591955
+	tourism routes: 0.8199083234
+	biomedical literature: 0.8197316077
+	baseline characteristics: 0.8195858864
+	preventative measures: 0.8195079739
+	tourism resources: 0.819398869
+	financial burden: 0.819393131
+	simva tmz: 0.819257639
+	activity recognition: 0.8192541876
+	life events: 0.8191754562
+	case fatality ratio: 0.8191535069
+	aged ≥: 0.8190281055
+	multivariable logistic: 0.8189340747
+	residual network: 0.8186626705
+	fatality rates: 0.8186201553
+	basic service facilities: 0.8186037735
+	neuropsychiatric symptoms: 0.8185866241
+	remote monitoring: 0.8185388471
+	validation dataset: 0.8184531289
+	multiple linear regression: 0.8184338897
+	broad spectrum antiviral: 0.8184099665
+	light sources: 0.8183783662
+	mandatory quarantine: 0.8182037874
+	survival rate: 0.8180027535
+	positive sense single stranded rna: 0.8179888309
+	medical services: 0.8178213735
+	plos neglected tropical diseases: 0.8176096473
+	academic institutions: 0.81750831
+	disposable income: 0.8174795382
+	logistic regression analysis: 0.8174717125
+	lifestyle behaviors: 0.8173610056
+	s1 ntd: 0.8173454365
+	tropospheric: 0.8173031836
+	future pandemics: 0.8172499014
+	potent inhibitors: 0.8172177478
+	household energy consumption: 0.8169574803
+	minimum cost: 0.8168609264
+	career anxiety: 0.8166359374
+	multimedia: 0.8165416161
+	channel attention: 0.8163237002
+	largely unknown: 0.8163166507
+	multi scale: 0.816222894
+	probability sample: 0.8161798253
+	selection criteria: 0.8161457902
+	media reporting: 0.8161138759
+	data set: 0.8159953425
+	ethical challenges: 0.8159750024
+	mindfulness based education program: 0.8159265388
+	randomised controlled: 0.8159124317
+	root mean square: 0.8156304407
+	multicenter study: 0.8156212751
+	pre training: 0.8154500237
+	multiple organ dysfunction: 0.81532801
+	service delivery: 0.8152886705
+	hand crafted: 0.8152406383
+	cnn models: 0.8151793955
+	mental disorder: 0.8151594945
+	immunisation: 0.8151040658
+	long covid: 0.8150698761
+	contact patterns: 0.8150408379
+	prospective cohort study: 0.815008453
+	sleep duration: 0.814875901
+	remedi dataset: 0.814658477
+	islam: 0.8145315539
+	emergency medical services: 0.8144858857
+	laden droplets: 0.8142027948
+	olympic: 0.8141593154
+	resource center: 0.8141225269
+	exhaled flow: 0.8139685107
+	factory: 0.8139282681
+	hybrid feature: 0.8139010581
+	adverse consequences: 0.8138960835
+	comparative analysis: 0.8138239753
+	bluetooth: 0.8138108094
+	sociodemographic characteristics: 0.8137595519
+	upper limit: 0.8136814527
+	input image: 0.8136808562
+	image retrieval: 0.8135751866
+	transformational leadership: 0.8134275662
+	input output: 0.8133861915
+	covid 19related: 0.8133629344
+	structurally similar: 0.8132937888
+	diagnostic test: 0.8131784231
+	premature deaths: 0.8131685974
+	feedback loop: 0.813167237
+	crisis communication: 0.8130342219
+	domestic animals: 0.813032627
+	social network: 0.8129963952
+	high intensity: 0.8129689677
+	single arm: 0.8129411723
+	pre service teachers: 0.8129288361
+	president: 0.8127349898
+	natural gas: 0.8127063736
+	highly pathogenic: 0.8126931441
+	s2 domain: 0.8126124398
+	oriented plant capacity: 0.8126005936
+	comorbid conditions: 0.8125611328
+	scitation.org journal phf: 0.8125601234
+	external validation: 0.8124712782
+	synthesized compounds: 0.8124410257
+	national lockdown: 0.8123328085
+	collaborative innovation: 0.8122173555
+	education sector: 0.8121985756
+	healthy adults: 0.8121521035
+	medical institutions: 0.8121263867
+	theoretic: 0.8119984943
+	early diagnosis: 0.8119041547
+	hospital admission: 0.8117834933
+	multi channel: 0.8117313617
+	outpatient care: 0.8116385433
+	chi squared: 0.8116309967
+	acoustics: 0.8115766804
+	research question: 0.8114870061
+	annual average: 0.8113583809
+	encoder: 0.8113324912
+	lateral flow assay: 0.8112584174
+	problematic smartphone: 0.8112354629
+	s1 and s2 subunits: 0.8107601532
+	synergistic effect: 0.81072957
+	case fatalities: 0.810675693
+	modern medicine: 0.8106510348
+	guillain: 0.8105903559
+	feb: 0.8105489453
+	clinical settings: 0.8104512038
+	multi objective: 0.8103294887
+	mild mpp: 0.8102831246
+	promising candidates: 0.8102415227
+	scientific evidence: 0.810238339
+	meteorological parameters: 0.8101036158
+	large quantities: 0.8100190454
+	premature mortality: 0.8098868459
+	s1 domain: 0.8097975219
+	deficit hyperactivity disorder: 0.8097311563
+	post traumatic: 0.8096062662
+	mediating effects: 0.8095919949
+	cabinet: 0.8094907982
+	cabin environment: 0.8094751404
+	corporations: 0.8093996915
+	epidemic dynamics: 0.8093432422
+	sensitivity analysis: 0.8093309738
+	tribal: 0.809304748
+	surgical procedures: 0.809259693
+	perceptron: 0.8092489929
+	lower lobes: 0.809188877
+	robust optimization: 0.8091075346
+	youtube: 0.8091051753
+	dependent variables: 0.8090894595
+	hubble: 0.8089347957
+	outdoor activities: 0.8088381977
+	thousand deaths: 0.8088158774
+	injurious information: 0.8087364444
+	research agenda: 0.8087178557
+	lstm networks: 0.8086239719
+	disinformation: 0.8086177522
+	transmission route: 0.8082200436
+	zeng: 0.8081779635
+	achieved remarkable: 0.808133159
+	aerosol optical: 0.8080756441
+	leadership styles: 0.8079510531
+	droplet size: 0.8079320385
+	highway: 0.807861873
+	prediction models: 0.8077544657
+	media reports: 0.8077377801
+	iot based: 0.8077347194
+	sooting tendencies: 0.8076126343
+	embodied carbon: 0.8075318622
+	classification accuracy: 0.8075219604
+	demographic factors: 0.8074065108
+	hospital acquired pneumonia: 0.8073442744
+	complex networks: 0.8072666019
+	geographical distribution: 0.8071451909
+	special issue: 0.8070546571
+	surveillance systems: 0.8070414334
+	prediction interval: 0.806804993
+	herbal formulae: 0.8067609881
+	action plans: 0.8067027498
+	clinical presentation: 0.8066378164
+	registration number: 0.8065515297
+	misalignment: 0.8065393237
+	gratitude: 0.8065361863
+	restructuring: 0.8064597752
+	mobility restrictions: 0.8064084591
+	curiosity: 0.8062911776
+	recovery rate: 0.8062853936
+	private sector: 0.8059946877
+	millennium: 0.8058801257
+	large intestine: 0.8057722937
+	deep learning techniques: 0.8057089868
+	emotional responses: 0.8055934811
+	pearson's: 0.8055727891
+	heat inactivated: 0.8054411776
+	abstract background: 0.8051808931
+	quarantined susceptible individuals: 0.8051735367
+	finishing process: 0.8051660395
+	alam: 0.8051083805
+	epidemiological studies: 0.8050572936
+	direct contact: 0.805012528
+	prediction model: 0.8049025174
+	wikipedia: 0.8048895955
+	light source: 0.8048099568
+	information acquisition: 0.8047743855
+	medical school: 0.8046951371
+	social gatherings: 0.8044887326
+	eddy: 0.8044837464
+	contagious diseases: 0.8044599769
+	subgroup analysis: 0.804441336
+	dm zno: 0.8042966226
+	soot formation: 0.80417336
+	medical workers: 0.804150576
+	success rate: 0.8040544688
+	beneficial effects: 0.8038933424
+	emotion regulation strategies: 0.8038652349
+	low grade: 0.80384222
+	long distance: 0.8037356441
+	technical efficiency: 0.8037004349
+	imaging sites: 0.8036375149
+	recreation: 0.8035582944
+	qualitative analysis: 0.8034854015
+	county level: 0.8033264579
+	accurately predict: 0.8032015831
+	remains poorly: 0.8031831927
+	policy recommendations: 0.8031147267
+	climatic conditions: 0.8030574206
+	stricter environmental regulation: 0.8030488203
+	resnet: 0.8030159429
+	statistically significant difference: 0.8028972632
+	newly diagnosed diabetes: 0.8028775779
+	clinical practice guidelines: 0.8028355241
+	supreme: 0.8027970615
+	strict quarantine: 0.8027943872
+	tremendous efforts: 0.802776039
+	pearl: 0.8026627115
+	government emergency management: 0.8025161106
+	passion: 0.8024581301
+	attention deficit hyperactivity: 0.802457024
+	strongly influenced: 0.802378943
+	anhydride: 0.802366062
+	interval valued fuzzy: 0.8023632873
+	xpert: 0.8023573063
+	end point: 0.8023478637
+	adverse effect: 0.8022720128
+	forestry: 0.8022644846
+	arima model: 0.8022519679
+	remain largely: 0.8020908876
+	whey: 0.8020376977
+	cognitive tasks: 0.8019722553
+	medical advice: 0.8019157012
+	inpatient care: 0.8017977766
+	spaced learning: 0.8015542433
+	acute coronary: 0.8014659128
+	mild illness: 0.8014409906
+	umbrella: 0.8013902027
+	border screening: 0.8013867589
+	care providers: 0.8013507643
+	mobile health: 0.8012360711
+	air velocity: 0.801063278
+	open access citation: 0.8009969949
+	seligman: 0.8008751483
+	bitcoin: 0.8008502541
+	biofortification: 0.8008355397
+	vgg: 0.8006742498
+	sendai: 0.800624588
+	male gender: 0.8005449073
+	published articles: 0.8005275086
+	dental emergency: 0.8003092765
+	severe acute respiratory: 0.8002433939
+	negative consequences: 0.8002293708
+	broadcasting: 0.8001146517
+	gravitational: 0.7999767497
+	psychological disorders: 0.799918844
+	usual care: 0.7998143117
+	extant literature: 0.7996572856
+	fully automated: 0.7996136456
+	review article: 0.7995389867
+	metabolic status: 0.7995164916
+	therapeutic interventions: 0.7994003294
+	medical device: 0.7993433602
+	machine learning approaches: 0.7993085713
+	short run: 0.7992247577
+	deep learning based: 0.7992032343
+	dockless bike sharing: 0.7991985607
+	data augmentation: 0.7991880642
+	cronbach's: 0.7991150925
+	contributing factor: 0.7990998062
+	hemodialysis patients: 0.7990394398
+	weather conditions: 0.7989352452
+	widely distributed: 0.7989066441
+	hospitalized children: 0.798771014
+	pyramid: 0.7987663837
+	recent developments: 0.7986889882
+	remain poorly: 0.7986380884
+	knowledge gaps: 0.7985635768
+	analysis reveals: 0.7985075703
+	urological: 0.7984351221
+	racism: 0.7983601907
+	chi square test: 0.7983456421
+	anecdotal: 0.7983438845
+	closed form: 0.798206367
+	predictive values: 0.7981479079
+	existing drugs: 0.7981225997
+	confirmed cases: 0.7981034606
+	practical significance: 0.798076622
+	positive correlations: 0.797959513
+	behavioral intention to reuse: 0.7979543455
+	medical schools: 0.7978953072
+	enhanced raman: 0.7978123492
+	market volatility: 0.7976154414
+	predictive power: 0.7975846293
+	outdoor environment: 0.7975647897
+	social responsibility: 0.7975541443
+	thriving: 0.7972642561
+	univariate analysis: 0.7972148476
+	fractional order differential equation: 0.7972064544
+	isolation ward: 0.797199881
+	hotel industry: 0.7971584535
+	diesel: 0.7971006511
+	autobiographical: 0.7970867774
+	qualitative research: 0.7970815757
+	play critical roles: 0.7970353236
+	computational methods: 0.7969810573
+	toilets: 0.7969504437
+	undetected cases: 0.7966990164
+	shields: 0.7966300974
+	long range: 0.7966173241
+	controlled trial: 0.796556481
+	reference point: 0.7965538906
+	ph values: 0.7965244874
+	algebra: 0.7963618712
+	key roles: 0.7963128266
+	thermopile: 0.7962921236
+	severity index: 0.7961472023
+	therapeutic effects: 0.7960984913
+	sensitivity analyses: 0.7960983181
+	medical university: 0.7960957189
+	science direct: 0.7960725029
+	patient matching: 0.7959909458
+	agile: 0.7959011026
+	s1 gene: 0.7956979254
+	mitigation measures: 0.7953026266
+	accurate diagnosis: 0.7952962959
+	findings suggest: 0.7952607528
+	cigarette sharing and gifting: 0.7952583178
+	community health nurses: 0.7952217086
+	sesamin: 0.7951736833
+	excess mortality: 0.795153949
+	decoder: 0.795125557
+	valuable insights: 0.7948398829
+	daily lives: 0.7948320121
+	powerful tools: 0.7947916355
+	life circle: 0.7946984591
+	thermal environment: 0.7946140843
+	wallet: 0.7945464096
+	generative: 0.794518902
+	low toxicity: 0.7945132379
+	polycyclic: 0.7944788273
+	boundary region: 0.7943596477
+	air conditioning innovation: 0.7942922876
+	functional groups: 0.7942179726
+	quality control: 0.7942071588
+	ecotourism: 0.7941427163
+	hand crafted features: 0.7940340609
+	network text data: 0.793927572
+	validation cohort: 0.7939206079
+	supply air: 0.7939141677
+	asymptomatic infections: 0.7938748313
+	multi step: 0.7937568347
+	circovirus: 0.7936018901
+	philosophy: 0.7935602555
+	crescent: 0.7934477857
+	scorecard: 0.7934089942
+	intelligent framework: 0.7933196611
+	supplementary information: 0.79329191
+	living conditions: 0.793255087
+	economic impacts: 0.7930270379
+	meta regression: 0.7928540107
+	psychological symptoms: 0.792827866
+	andersen: 0.792807781
+	refugee: 0.7928003233
+	nanosheets: 0.7926740789
+	hospital stays: 0.7926356327
+	feature selection methods: 0.7926050748
+	hotel stock: 0.7924793111
+	clinical presentations: 0.7924441842
+	cyberbullying: 0.7923386256
+	molecular mechanisms: 0.7923292049
+	false negative results: 0.792161278
+	long standing: 0.7918341827
+	based ceramics: 0.7918310564
+	nonalcoholic: 0.7917614151
+	urti: 0.7914809951
+	springer nature remains: 0.7913837305
+	retrospective cohort study: 0.7913820057
+	relevant articles: 0.7913724797
+	frontier: 0.7913238026
+	patient's condition: 0.7913108138
+	economic crisis: 0.7912354046
+	behavior intention: 0.7911375289
+	positive attitudes: 0.7911196917
+	alexithymia: 0.7911123167
+	cognitive ability: 0.7910790278
+	long incubation period: 0.7910576071
+	nexus: 0.7909185527
+	foresight: 0.7908505952
+	post vaccination: 0.7907709484
+	safeguard: 0.7907476346
+	screening tool: 0.7906912562
+	herding: 0.7906587923
+	socioeconomic factors: 0.7904582669
+	zou: 0.7904236096
+	previous researches: 0.7903955097
+	data sources: 0.790329153
+	critical care nurses: 0.7902897345
+	medical waste: 0.7900850601
+	border control: 0.7900517897
+	emergency room: 0.7898937664
+	unique properties: 0.7898698066
+	negative conversion: 0.7898606935
+	blended: 0.7897435856
+	care delivery: 0.7897053585
+	geography: 0.7896430621
+	economic loss: 0.7896049191
+	online mode: 0.7895496942
+	clinically relevant: 0.789548049
+	multivariate analysis: 0.7895151414
+	loop mediated isothermal: 0.7894973839
+	webinar: 0.789467272
+	epidemic waves: 0.78945097
+	basic research: 0.7894302014
+	resource limited settings: 0.7893199297
+	receiver operating characteristic curve: 0.7891525964
+	advanced stages: 0.7891478447
+	husbandry: 0.7889843373
+	central nervous: 0.7889070195
+	highly attenuated: 0.7888235145
+	rapidly spreading: 0.7887176302
+	scenic: 0.7885730515
+	statistical difference: 0.7885053833
+	bike: 0.7884912466
+	food products: 0.7884508094
+	reputation: 0.7884305297
+	multivariate logistic regression analysis: 0.7884240766
+	remains unknown: 0.7883730031
+	water bodies: 0.7881905323
+	job anxiety: 0.7881496866
+	close proximity: 0.7881290842
+	great concern: 0.7880677659
+	imported cases: 0.7880319823
+	blockchain: 0.7880319375
+	post discharge: 0.7879966983
+	environment friendly: 0.7879779404
+	cross border: 0.7879262723
+	degree distribution: 0.7878789968
+	predictive model: 0.787871051
+	drr: 0.7875941827
+	quantitative analysis: 0.7875787218
+	sided messages: 0.7875755045
+	cognitive dysfunction: 0.7875156226
+	insider: 0.7875049468
+	patients receiving: 0.7873551
+	nomogram: 0.7872343886
+	extreme learning: 0.7870949975
+	taking place: 0.787061843
+	astronomy: 0.7869870651
+	early onset: 0.7869020799
+	smartphone based: 0.7868209721
+	airport: 0.7868088577
+	authors contributed equally: 0.7866966137
+	image features: 0.7866053735
+	emergency use authorization: 0.786544446
+	empirical findings: 0.7862457736
+	air distribution: 0.7861839364
+	driving conditions: 0.7859038107
+	alignment free: 0.7858623232
+	mindfulness based: 0.7857922179
+	case fatality: 0.7857449665
+	minister: 0.7857398354
+	underlying mechanisms: 0.7856542205
+	experimental results: 0.785643992
+	community dwelling older adults: 0.7856037242
+	oecd: 0.7853983883
+	fuzzy number: 0.7853923725
+	control measures: 0.7853229624
+	armed: 0.7852079758
+	isatis: 0.7851781326
+	magnetic abrasive: 0.78498763
+	downturn: 0.7849669788
+	dynamical systems: 0.784955649
+	decision making process: 0.784816586
+	jealousy: 0.7846257983
+	cruise: 0.7846042088
+	enrichment analysis: 0.7845880405
+	user interface: 0.7844516178
+	exposure to armed conflict: 0.7844327823
+	indoor air: 0.784310567
+	risk factor: 0.7842881303
+	central line: 0.7842463058
+	tertiary care: 0.7842416903
+	spatial temporal: 0.7842203586
+	placebo group: 0.7841081284
+	poor outcomes: 0.7840887879
+	causal relationship: 0.7840671778
+	aerodynamic: 0.784038704
+	social ecological: 0.7839939744
+	stewardship: 0.7838367842
+	nursing management: 0.7837359862
+	cross species transmission: 0.7837281785
+	research topic: 0.7836588437
+	statistical analyses: 0.7836216347
+	reading struggle stories of role models: 0.7836096426
+	healthy individuals: 0.7834973831
+	case control study: 0.7834500883
+	digital health: 0.783371949
+	frequent occurrence: 0.7833089498
+	today's: 0.7831301324
+	community dwelling: 0.7830419542
+	natural reservoir: 0.7829905703
+	dispositional: 0.7829827417
+	healthy lifestyle: 0.7825314029
+	complete lockdown: 0.78252719
+	transformer: 0.7825013359
+	experimental animals: 0.7824534046
+	mental problems: 0.782427775
+	educational level: 0.7824167652
+	chronic conditions: 0.7823967212
+	skepticism: 0.7823309633
+	offshore wind: 0.782277163
+	nutritional status: 0.7822762179
+	epidemic trends: 0.7822411732
+	poorer outcomes: 0.7820938921
+	stay at home orders: 0.7820875978
+	sporadic cases: 0.7820641351
+	anxiety disorders: 0.7820563993
+	n95: 0.7819737108
+	median age: 0.7817661195
+	pattern recognition: 0.7816848243
+	information disclosure: 0.7816596992
+	articles published: 0.7815668127
+	economically important: 0.7815526126
+	banking: 0.7814512503
+	sdg: 0.7813929398
+	proposing: 0.7812066367
+	recent reports: 0.7811567806
+	computational cost: 0.781134595
+	censored data: 0.7810187522
+	festival: 0.7809420203
+	pdcov: 0.7809380709
+	hospitalized patients: 0.7808967061
+	online survey: 0.780795976
+	psychological impact: 0.7807950966
+	prediction accuracy: 0.7807170612
+	mobile health applications: 0.7806709405
+	reading struggle stories: 0.7806524451
+	celebrity: 0.7806405744
+	emotion focused coping: 0.7806218953
+	regression models: 0.780565656
+	toilet: 0.7805380743
+	accomplishment: 0.7804687643
+	analytics: 0.7804682425
+	risk perceptions: 0.7804484408
+	social stigma: 0.7804011179
+	urban population: 0.7803208208
+	special attention: 0.7801033994
+	highly correlated: 0.7799178107
+	compartment models: 0.7799053714
+	community structure: 0.7799036527
+	story group: 0.7797287465
+	election: 0.7796807399
+	compartmental model: 0.7796734482
+	wisdom: 0.779657343
+	drying: 0.7796042298
+	fisher's: 0.7795662938
+	normal tissues: 0.779379277
+	community detection: 0.7790352097
+	highly sensitive: 0.7789972658
+	mental health professionals: 0.7789264428
+	economic crises: 0.7787240247
+	mitigation strategies: 0.7787216502
+	multi task: 0.7787162791
+	cough recognition: 0.7786935688
+	hurst: 0.7786239055
+	autoregressive: 0.7785430638
+	quarantine adjusted incidence: 0.7784521771
+	positive sense rna genome: 0.7783619626
+	economic recovery: 0.7783398861
+	experiential: 0.7782795846
+	action planning: 0.7782544652
+	significantly shorter: 0.7782033145
+	demographic variables: 0.7781597038
+	based radiopharmaceuticals: 0.7781132951
+	simulation training systems: 0.7780256241
+	supply chain management: 0.7780116818
+	leveraging: 0.7779929665
+	advanced stage: 0.7779833025
+	coping mechanisms: 0.7779715359
+	medical facilities: 0.7779361197
+	extremely rare: 0.7778083662
+	vulnerable groups: 0.7776360228
+	bond market: 0.7775692904
+	optimization problem: 0.7775498319
+	doctor patient interaction: 0.7774047866
+	underlying molecular mechanisms: 0.7773937595
+	pipe: 0.7773453873
+	recent advances: 0.7771123867
+	high flow nasal: 0.7770455588
+	single stranded rna genome: 0.7769302986
+	twitter: 0.7767832348
+	information propagation: 0.7767320336
+	randomly assigned: 0.7766821574
+	small firms: 0.7766724483
+	negative pressure: 0.7765791125
+	smoking status: 0.7764843373
+	detection limit: 0.7764516512
+	contributing factors: 0.7763460433
+	dr tb: 0.7763180106
+	indirect effects: 0.7763156567
+	humanitarian: 0.7762665564
+	proteomic analysis: 0.7762110035
+	scv: 0.7756396939
+	epidemiological models: 0.7753667343
+	machine learning methods: 0.7753579967
+	daily routine: 0.77531608
+	encryption: 0.7753046385
+	extreme public health events: 0.7752276987
+	deadly disease: 0.7752033608
+
+Cluster 3:
+	hepatocellular carcinoma: 0.9695021452
+	myocardial infarction: 0.9633398381
+	atrial fibrillation: 0.9589784621
+	squamous cell carcinoma: 0.9582604911
+	venous thromboembolism: 0.9571261176
+	oropharyngeal swabs: 0.9570125296
+	cardiac arrest: 0.956761465
+	chest ct: 0.9563926778
+	bronchoalveolar lavage: 0.9562799086
+	colorectal cancer: 0.9560697639
+	chest computed tomography: 0.9557680622
+	pulmonary embolism: 0.9556788292
+	pulmonary edema: 0.9550439273
+	heart failure: 0.9542213336
+	nasopharyngeal swabs: 0.9529553479
+	chest ct scans: 0.9514488041
+	alanine aminotransferase: 0.9488533373
+	chest radiography: 0.9482177126
+	pleural effusion: 0.9450380082
+	prostate cancer: 0.9447987445
+	myocardial injury: 0.9440158349
+	lymph nodes: 0.9437419398
+	ground glass opacity: 0.9435846833
+	throat swabs: 0.9430478279
+	abdominal pain: 0.9419037718
+	breast cancer: 0.940515139
+	nasopharyngeal swab: 0.9402186585
+	transplant recipients: 0.9379891307
+	chest radiographs: 0.9360100447
+	liver fibrosis: 0.9346247803
+	colon cancer: 0.9339775696
+	alveolar macrophages: 0.9336810219
+	cerebrovascular disease: 0.9326190027
+	deep vein thrombosis: 0.9321432484
+	kidney transplant recipients: 0.9294736732
+	sputum suction: 0.9290639287
+	ventricular ejection fraction: 0.9284013078
+	alveolar epithelial: 0.9281723764
+	respiratory syncytial virus: 0.9280539456
+	pulmonary fibrosis: 0.9279751889
+	nasal swabs: 0.9265176894
+	liver cirrhosis: 0.925397689
+	lung injury: 0.9252180493
+	anal swabs: 0.9243986098
+	peritoneal dialysis: 0.9243968693
+	intraocular pressure: 0.923938356
+	cerebrospinal fluid: 0.9236835666
+	gut microbiota: 0.9230860842
+	nasal congestion: 0.9229064319
+	ground glass opacities: 0.9225586439
+	intracerebral hemorrhage: 0.9225215842
+	ovarian cancer: 0.9220176524
+	cardiac troponin: 0.9217719181
+	organ failure: 0.9205645438
+	lung cancer: 0.9191070439
+	renal failure: 0.9189568345
+	chest compression: 0.9187973647
+	cardiovascular diseases: 0.9181868135
+	esophageal cancer: 0.917542498
+	aspartate aminotransferase: 0.917081784
+	coronary heart disease: 0.9170394366
+	coronary artery: 0.9166158642
+	organ dysfunction: 0.9165849069
+	intestinal microbiota: 0.916518755
+	left ventricular: 0.9162626691
+	respiratory droplets: 0.9158595951
+	cardiopulmonary resuscitation: 0.915542487
+	throat swab: 0.914724267
+	lung adenocarcinoma: 0.9143695547
+	peripheral neuropathy: 0.9140067021
+	nasal mucosa: 0.9137766473
+	organ transplantation: 0.9136266272
+	liver injury: 0.9135470488
+	upper respiratory tract: 0.9130367345
+	pharyngeal swab: 0.9127913517
+	olfactory dysfunction: 0.9124193653
+	cardiac injury: 0.9121878284
+	gastric cancer: 0.9118157279
+	venous thrombosis: 0.911515013
+	bronchoalveolar lavage fluid: 0.9110886749
+	endotracheal intubation: 0.9105963619
+	gut microbiome: 0.9102393795
+	renal cell carcinoma: 0.9102037517
+	bowel preparation: 0.9092938771
+	cxr images: 0.9074580783
+	oral mucosa: 0.9069217449
+	respiratory tract: 0.9062293892
+	dental caries: 0.9050528689
+	coronary microvascular: 0.9046766806
+	ocular surface: 0.9039055791
+	cervical cancer: 0.9030658715
+	chest pain: 0.9026900936
+	cardiovascular disease: 0.902133283
+	coronary artery disease: 0.9016254887
+	respiratory distress: 0.9015632691
+	digestive tract: 0.9011419528
+	bronchial asthma: 0.9007885909
+	skin cancer: 0.8998547584
+	peritoneal mesothelioma: 0.8996223179
+	type ii pneumocytes: 0.8996011768
+	peripheral blood: 0.8990737547
+	lung ultrasound: 0.8986756362
+	nasal swab: 0.897224946
+	salivary glands: 0.8962864586
+	gastrointestinal tract: 0.8960132826
+	liver cancer: 0.895150315
+	skin rash: 0.8934833293
+	nerve injury: 0.8926331941
+	dental hygienists: 0.8923289355
+	chest ct images: 0.8919809296
+	cardiovascular events: 0.8918373442
+	oropharyngeal swab: 0.8910188897
+	hearing loss: 0.890469799
+	renal replacement therapy: 0.8900815662
+	cerebral venous: 0.8892131374
+	bronchial epithelial cells: 0.8891919551
+	kidney injury: 0.8890874546
+	sinus tachycardia: 0.8889591936
+	digestive endoscopy: 0.8888168073
+	bronchial epithelial: 0.887943169
+	lung lesions: 0.887133583
+	gastrointestinal symptoms: 0.8869886846
+	chest ct scan: 0.8862232334
+	respiratory gating: 0.8860098004
+	stool samples: 0.8858649454
+	cerebrovascular diseases: 0.8854622412
+	slit lamp: 0.8840496125
+	intestinal epithelial cells: 0.8837836675
+	kidney disease: 0.8829566923
+	pulmonary artery: 0.8823798735
+	enlarged mediastinal lymphadenopathy: 0.8803651638
+	pancreatic β: 0.8786291168
+	mucosal immunity: 0.8783814417
+	oral cavity: 0.8772549455
+	alveolar epithelial cells: 0.8770170557
+	urinary tract: 0.876899178
+	nasal spray: 0.8768287979
+	laryngeal cancer: 0.8767214523
+	oral mucositis: 0.8756512357
+	intestinal epithelial: 0.875534057
+	renal injury: 0.8752380325
+	ventilatory support: 0.8751480486
+	hepatic steatosis: 0.8747701574
+	myocardial damage: 0.8744718479
+	intestinal tract: 0.8735741874
+	aortic dissection: 0.8693221782
+	nasal breathing: 0.868039983
+	st segment elevation myocardial infarction: 0.8663323006
+	lung involvement: 0.8662913444
+	pulmonary function: 0.8656693615
+	pet ct: 0.865213443
+	cardiovascular complications: 0.8646901859
+	coronary angiography: 0.8646415529
+	respiratory failure: 0.8642025943
+	oral hygiene: 0.8610452102
+	lung ultrasound score: 0.8610385063
+	lung edema: 0.8601371679
+	pulmonary hemorrhage: 0.859705317
+	gynecologic cancer: 0.8581965802
+	myocardial ischemia: 0.8580036514
+	asthma exacerbations: 0.857385144
+	thyroid cancer: 0.8566799052
+	respiratory pathogens: 0.8557588732
+	respiratory droplet: 0.8539953265
+	intestinal absorption: 0.8535758288
+	oral care: 0.852851155
+	thorax ct findings: 0.8526561364
+	respiratory sounds: 0.8524928865
+	respiratory illness: 0.8519628973
+	nasal cannula: 0.8509289436
+	thyroid autoimmunity: 0.8504034909
+	saliva samples: 0.8497162829
+	pulmonary opacities: 0.8480826475
+	carotid atherosclerosis: 0.8471204473
+	kidney failure: 0.8471128852
+	macular degeneration: 0.8466401402
+	respiratory secretions: 0.8464695784
+	anal swab: 0.8451296454
+	urea nitrogen: 0.8450908295
+	nasopharyngeal samples: 0.8450408439
+	mediastinal lymphadenopathy: 0.8449677047
+	pulmonary lesions: 0.8438700186
+	lung tissues: 0.8436400124
+	bladder cancer: 0.8436066871
+	urinary tract infections: 0.8425128853
+	renal function: 0.840025143
+	lower urinary tract: 0.8379243613
+	lung tissue: 0.8377133199
+	bilateral lung: 0.8375331834
+	respiratory tracts: 0.836782263
+	interstitial lung disease: 0.8366532135
+	fecal samples: 0.835544382
+	lung transplantation: 0.8329017914
+	renal transplant: 0.8307665827
+	nasal epithelium: 0.8304258117
+	respiratory illnesses: 0.8302501052
+	ocular surface diseases: 0.8301906404
+	lung parenchyma: 0.8297506124
+	cervical spine: 0.8282655712
+	pulmonary rehabilitation: 0.8278922925
+	urine samples: 0.8278230539
+	chest imaging: 0.8269972184
+	nasal cavity: 0.8269231365
+	cardiovascular disorders: 0.8265630646
+	sputum production: 0.8240807262
+	oral microbiota: 0.8236349502
+	ventilator support: 0.8235271464
+	thrombotic events: 0.8225787557
+	lung epithelial cells: 0.8223073745
+	chest x ray images: 0.8195438347
+	urinary tract infection: 0.8189386944
+	kidney transplant: 0.8182177976
+	skin lesions: 0.8181885781
+	liver enzymes: 0.8178579401
+	respiratory specimens: 0.8178452891
+	urinary titin: 0.8171368321
+	airway inflammation: 0.8168246644
+	lung nodules: 0.816466852
+	saliva droplets: 0.8148243779
+	walk test: 0.8134165404
+	oral ulcerative lesions: 0.81311058
+	liver dysfunction: 0.8123148796
+	respiratory panel: 0.8122182807
+	sputum samples: 0.8104318489
+	chest x ray: 0.8092639335
+	pulmonary hypertension: 0.8077746729
+	lung surfactant: 0.807533961
+	mucosal immune responses: 0.8059224053
+	lower respiratory tract: 0.8042207471
+	upper respiratory tract infection: 0.8038466558
+	respiratory viruses: 0.8034833705
+	thyroid function: 0.8017256541
+	nasopharyngeal and oropharyngeal swabs: 0.8013397775
+	heart disease: 0.7980404482
+	kidney function: 0.7961196927
+	thorax ct: 0.7950945589
+	renal dysfunction: 0.7950493872
+	upper respiratory tract infections: 0.7946750336
+	brain injury: 0.7939187715
+	lung function: 0.7899131452
+	head and neck cancer: 0.7834843871
+	respiratory symptoms: 0.7825758949
+	oral delivery: 0.7821043462
+	cardiac damage: 0.7764894787
+	voice analysis: 0.775552504
+
+Cluster 4:
+	factors influencing: 0.9371815759
+	perceived stress: 0.9199956878
+	subjective norms: 0.9093567963
+	subjective norm: 0.9031668768
+	subjective cognitive impairment: 0.895209923
+	factors affecting: 0.8916024728
+	perceived academic stress: 0.8667410269
+	perceived risk: 0.8664380984
+	perceived usefulness: 0.8655183113
+	perceived susceptibility: 0.8625742914
+	perceived crowding: 0.8599703361
+	perceived threat: 0.8491614998
+	perceived benefits: 0.8356534239
+	perceived barriers: 0.8292779193
+	perceived behavioral control: 0.8142855402
+	perceived stigma: 0.8135427216
+
+Cluster 5:
+	south korea: 0.9706845242
+	southeast asia: 0.9670021494
+	hubei province: 0.9653104946
+	united arab emirates: 0.9624726815
+	western pacific: 0.9617999525
+	latin america: 0.9610155945
+	united kingdom: 0.9605115358
+	guangdong province: 0.9597985998
+	south africa: 0.9595877539
+	united nations: 0.9576464617
+	hong kong: 0.9570259416
+	north america: 0.9563122197
+	south america: 0.9556350204
+	yangtze river delta: 0.9550597934
+	van der: 0.9547435229
+	european union: 0.9544714555
+	saudi arabian: 0.9541101892
+	saudi arabia: 0.9540480618
+	henan province: 0.9516352136
+	united states: 0.9516001777
+	arabian peninsula: 0.9509779971
+	huanan seafood wholesale market: 0.949142357
+	south east asia: 0.9483374161
+	johns hopkins university: 0.947531443
+	south asian: 0.9437645904
+	middle east: 0.9427198016
+	world health organisation: 0.9425909099
+	world bank: 0.9397379405
+	south asia: 0.9385366733
+	mainland china: 0.9344238922
+	johns hopkins: 0.9312290068
+	west bengal: 0.9312135709
+	asia pacific: 0.9307470722
+	sina weibo: 0.930559784
+	southeast asian: 0.9305545074
+	huanan seafood market: 0.9303334916
+	traditional chinese medicine: 0.9302440251
+	van den: 0.9294782885
+	eastern mediterranean: 0.9291059623
+	pfizer biontech: 0.9289983558
+	national health commission: 0.9288231913
+	tamil nadu: 0.9257133268
+	north american: 0.9256908581
+	english language: 0.9250310371
+	sri lanka: 0.9243855756
+	biontech pfizer: 0.9223110247
+	arab countries: 0.9195663311
+	middle eastern: 0.9189816795
+	chinese medicine: 0.9188689991
+	dongting lake: 0.9186632083
+	east asian: 0.9177716904
+	foreign language: 0.916069262
+	hunan province: 0.9158851676
+	shexiang baoxin pill: 0.9156662628
+	jiangsu province: 0.9149663933
+	south korean: 0.9137051044
+	yunnan province: 0.9101385407
+	democratic republic: 0.905282966
+	yangtze river: 0.9042320898
+	middle east respiratory syndrome: 0.9037631884
+	west nile: 0.9034648098
+	karnataka state: 0.9019856523
+	eastern mediterranean region: 0.9017030786
+	traditional chinese medicines: 0.9016871631
+	middle aged: 0.9008094964
+	state council: 0.9005746363
+	traditional medicine: 0.8974478416
+	east asia: 0.8957432686
+	oxford astrazeneca: 0.8939860912
+	member states: 0.8933904111
+	covishield tm: 0.8930130664
+	asian countries: 0.8921827947
+	decades ago: 0.8907047356
+	eastern european: 0.8902141127
+	lebanese adolescents: 0.8893787312
+	european countries: 0.8888293979
+	king saud: 0.8887359344
+	sprague dawley: 0.8886800279
+	hong kongeshenzhen: 0.8878895262
+	south asians: 0.8860407201
+	west nile virus: 0.8849761155
+	international health regulations: 0.8835885787
+	boomerang intention: 0.8803842904
+	years ago: 0.8801348551
+	king abdulaziz: 0.8797676474
+	subtropical asian: 0.878585962
+	fangcang shelter hospitals: 0.8783197731
+	nation wide: 0.8769198684
+	atangana baleanu: 0.8757498934
+	middle east respiratory syndrome coronavirus: 0.8756504694
+	tongji hospital: 0.8749644525
+	asia pacific region: 0.8743468154
+	lin siegler: 0.8730504276
+	sendai framework: 0.8726550137
+	western medicine: 0.8722729905
+	lushunkou district: 0.8721373333
+	southern china: 0.8708625242
+	european stock markets: 0.8667888819
+	china's embodied: 0.8649271562
+	middle eastern countries: 0.8641824404
+	gcc countries: 0.8597766868
+	world health organization: 0.8597127586
+	chinese herbs: 0.8593840227
+	china's stock market: 0.8591054085
+	middle income: 0.8587664244
+	north india: 0.8578376963
+	international collaboration: 0.8576831767
+	wuhan city: 0.8568326311
+	chinese university students: 0.8561192768
+	central asian: 0.8543254699
+	xx xxxx: 0.8530784314
+	los pacientes: 0.8519557489
+	west africa: 0.8516944352
+	van der hoek: 0.8504491765
+	northeast china: 0.846644975
+	central asia: 0.8465589421
+	indian states: 0.8446760322
+	north africa: 0.8444510173
+	international trade: 0.8440519424
+	international borders: 0.8440477141
+	foreign residents: 0.8429202404
+	isatis tinctoria: 0.8418321367
+	international students: 0.8415179964
+	anhui: 0.8408904204
+	neglected tropical diseases | https: 0.8391057429
+	world war: 0.8388200549
+	developing countries: 0.8351882506
+	marburg: 0.8351820003
+	afghanistan: 0.834557745
+	weibo: 0.8341877924
+	tropical regions: 0.8338945685
+	beijing tianjin: 0.8338128219
+	kuwait: 0.8332338215
+	anso drr: 0.832849146
+	corowa kun: 0.8320186367
+	sichuan: 0.8314628808
+	karnataka: 0.8310089326
+	bahrain: 0.8306418193
+	middle eastern respiratory syndrome: 0.8293545421
+	ayurvedic: 0.8287714785
+	soviet: 0.8271729761
+	chou: 0.8269902321
+	kingdom of saudi arabia: 0.8262798848
+	international flights: 0.8252091202
+	central government: 0.8250784254
+	riyadh: 0.8239941988
+	shenzhen: 0.8239533697
+	fangcang: 0.8235863164
+	south east: 0.8235488262
+	pakistani: 0.82322972
+	hebei: 0.8232256729
+	hasan: 0.8229912301
+	fudan ccdc model: 0.82287809
+	jakarta: 0.8228588661
+	hunan: 0.8224078968
+	islamic: 0.8221575054
+	atangana: 0.8221569741
+	bali: 0.8218255227
+	arabs: 0.821437347
+	malaysian: 0.8213079493
+	euler: 0.8212945011
+	china.the: 0.8212420903
+	hsu: 0.8211200337
+	eastern region: 0.8209379832
+	pune: 0.8207494771
+	tianjin: 0.820566524
+	chinese college students: 0.8199109539
+	liao: 0.8198352223
+	persian: 0.8194522509
+	mongolia: 0.8185945331
+	indonesian: 0.816658095
+	shandong: 0.8166438432
+	nipah: 0.8164947596
+	global financial crisis: 0.8163632192
+	global health crisis: 0.816177183
+	chinese residents: 0.8160865195
+	israeli: 0.8159865879
+	iraq: 0.8154219335
+	philippine: 0.8147400681
+	mandarin: 0.813864941
+	chinese university: 0.813849621
+	xinjiang: 0.8137226537
+	syrian: 0.8136767699
+	arabic: 0.8129932855
+	xiang: 0.8123554472
+	rutin: 0.8122788717
+	kano: 0.8121469272
+	radix: 0.81129367
+	patel: 0.8110903559
+	henan: 0.8110172362
+	lebanon: 0.8104746658
+	jordanian: 0.8102409855
+	chinensis: 0.8098284202
+	wen: 0.8091794638
+	saharan africa: 0.8091405014
+	peiris: 0.8091106385
+	chennai: 0.8083855382
+	lau: 0.8082697451
+	gong: 0.8082177488
+	webster: 0.8079952395
+	karachi: 0.8079952395
+	xue: 0.8077429701
+	yokohama: 0.8077122472
+	nguyen: 0.8073990966
+	iraqi: 0.8072126775
+	duan: 0.8065734007
+	koreanum nakai: 0.806408535
+	rogers: 0.8062466848
+	kerala: 0.8062241755
+	sabah: 0.8058476701
+	daniel: 0.8055727891
+	vanilla: 0.8054028138
+	chongqing: 0.8052634078
+	pareto: 0.8051676656
+	meng: 0.8051596368
+	bengal: 0.8050156153
+	abdulaziz: 0.8048497047
+	world wide: 0.8047647035
+	earth's: 0.8046352212
+	shang: 0.8044588835
+	guangxi: 0.8040758283
+	global initiative: 0.8037973604
+	xiong: 0.8033298325
+	taipei: 0.8028836692
+	qiu: 0.8026397978
+	bluetongue: 0.8023592676
+	ahmad: 0.8020671921
+	ginger: 0.8019058294
+	arabic version: 0.8016368082
+	oecd countries: 0.7997293352
+	chinese herbal: 0.7991302491
+	sharma: 0.7988902493
+	tongji: 0.7978729477
+	hou: 0.7978041915
+	okinawa: 0.797655812
+	hefei: 0.7976044973
+	ahmed: 0.7975885483
+	yao: 0.7974103332
+	xiao: 0.7971580352
+	leung: 0.7964272955
+	yunnan: 0.7956617173
+	gupta: 0.7948031975
+	rhizoma: 0.7946987141
+	yadav: 0.7943729477
+	fukushima: 0.7941732196
+	metro: 0.7940319852
+	qin: 0.793811777
+	bosch: 0.7934327779
+	tokyo: 0.7925409139
+	astrazeneca: 0.7924354021
+	qatar: 0.7923801247
+	covishield: 0.7923724512
+	international tourism: 0.7921347049
+	kawasaki: 0.7919245447
+	rhus: 0.7906571618
+	rosenthal: 0.7891781326
+	fang: 0.7887526828
+	dhaka: 0.7885962278
+	universe: 0.788484688
+	aceis: 0.787521514
+	tropical countries: 0.7870823685
+	mena: 0.7866846648
+	omicron: 0.7864153303
+	delhi: 0.7864017628
+	asian cities: 0.7856606803
+	people's republic of china: 0.7846434178
+	northern china: 0.7844740946
+	western countries: 0.781988154
+	mumbai: 0.7815596654
+	african countries: 0.7803089806
+	jewish: 0.7800345667
+	garch: 0.7791317636
+	middle income countries: 0.7771162639
+	nakai: 0.7766420948
+	hendra: 0.7763324362
+	middle school: 0.7757208186
+
+Cluster 6:
+	health literacy: 0.951030969
+	health promotion: 0.935858845
+	health insurance: 0.921013241
+	health care professionals: 0.9014794226
+	health care workers: 0.9014286829
+	health belief model: 0.8870562504
+	health care providers: 0.886050181
+	health authorities: 0.8824241579
+	health edrm: 0.8764607889
+	health services: 0.8661586915
+	health education: 0.8568436086
+	health sciences: 0.8547189006
+	health crises: 0.8512981739
+	health professionals: 0.8381006658
+	health care: 0.8305176486
+	health behaviors: 0.8289515474
+	health workers: 0.8083481186
+	health commission: 0.8053100847
+	health disparities: 0.8024641068
+
+Cluster 7:
+	computed tomography: 0.9625943474
+	ct scans: 0.9584564221
+	reverse transcriptase: 0.9568475112
+	ct scan: 0.9561603828
+	reverse transcription polymerase chain reaction: 0.9540763867
+	computerized tomography: 0.950043359
+	reverse transcription: 0.939327959
+	sybr green: 0.935848323
+	reverse transcriptase polymerase chain reaction: 0.9332538415
+	ct images: 0.9192015149
+	rt pcr: 0.9118920183
+	rrt pcr: 0.8966864808
+	ct imaging: 0.8927135913
+	reverse transcription loop mediated isothermal amplification: 0.8919099699
+	computed tomographic: 0.8915482354
+	ct image: 0.8849032908
+	rt lamp: 0.8843668528
+	rt qpcr: 0.8690354877
+	ct p59: 0.8655172512
+	ct volumes: 0.857154316
+	rt rpa: 0.8532840567
+	ct scan images: 0.853048697
+	qrt pcr: 0.8298091037
+	ct features: 0.8259783844
+	ct scanning: 0.8229354362
+	rt pcr testing: 0.8222979192
+	rt pcr test: 0.8200519842
+	reverse transcription pcr: 0.812993996
+	reverse transcriptase pcr: 0.8117294815
+	radiologic findings: 0.8112969126
+	ct values: 0.8048918177
+	transcriptase polymerase chain reaction: 0.7938280219
+	rt rpa assay: 0.7909337833
+	ct score: 0.7844586157
+	rt dpcr: 0.7810990883
+	ct manifestations: 0.7805632919
+

@@ -1,0 +1,211 @@
+0.9718464985	respiratory tract
+0.9654329840	primary health care
+0.9627373630	fatty acids
+0.9603325363	immune responses
+0.9592152078	ct scan
+0.9591047223	rt pcr
+0.9500455096	immune response
+0.9498825921	hubei province
+0.9468575764	case report
+0.9449400482	world health organization
+0.9422925253	sewage sludge
+0.9330753086	small intestine
+0.9320850510	systematic review
+0.9302940460	angiotensin converting enzyme
+0.9292423947	ct scans
+0.9264023351	clinical trials
+0.9111034768	mortality rate
+0.8998733431	chest ct
+0.8977898585	public health
+0.8932999818	severe acute respiratory syndrome
+0.8908040296	community health nurses
+0.8822102007	community health nursing
+0.8794126864	sars cov2
+0.8792443299	land application
+0.8707332451	social distancing
+0.8595835407	preterm labor
+0.8410767734	fungal coinfections
+0.8133750766	mental health
+0.8133119045	health care
+0.8119804670	rt qpcr
+0.8102341685	sars cov
+0.8002674173	infectious diseases
+0.7885851184	journal pre proof
+0.7766020417	zika virus infection
+0.7675244527	intensive care
+0.7522864212	risk factors
+0.7436152720	cp therapy
+0.7274432961	severe acute respiratory syndrome coronavirus 2
+0.6764175187	journal pre
+0.6729644484	morbidity and mortality
+0.6372554236	zika virus
+0.6128115305	health services
+0.5915868079	coronavirus disease 2019
+0.5913536854	december 2019
+0.5912449156	confirmed cases
+0.5800105288	pre proof
+0.5718253256	mortality rates
+0.5500923916	converting enzyme 2
+0.5417801475	sars cov 2
+0.5067601817	respiratory symptoms
+0.5046017559	respiratory syndrome
+0.4975329924	present study
+0.4945197692	real time
+0.4451663602	covid 19
+0.4311097804	95 ci
+0.4278587431	most common
+0.4153581783	novel coronavirus
+0.4101097804	et al
+0.3990563926	study aimed to
+0.3898119303	referred to
+0.3780514121	o o f journal pre proof
+0.3669488049	p =
+0.3625638897	caused by
+0.3533535969	variety of
+0.3441822658	year old
+0.3384127398	severe acute respiratory
+0.3356322257	so far
+0.3350952636	lack of
+0.3339392461	a l p r
+0.3272050352	r o o f journal pre
+0.3265767461	j o u r n
+0.3219130339	acute respiratory syndrome coronavirus 2
+0.3193181924	other hand
+0.3191810438	sars cov 2 infection
+0.3166886353	coronavirus disease
+0.3155048117	infected cases
+0.3103613821	a l p
+0.2977082995	covid 19 pandemic
+0.2960093668	severe acute respiratory syndrome coronavirus
+0.2928762113	l p r e p r
+0.2928695884	more than
+0.2923428640	based on
+0.2848332995	covid 19 patients
+0.2833864282	acute respiratory syndrome coronavirus
+0.2802484336	e p r o o f
+0.2769052357	in addition
+0.2762897824	as well as
+0.2725328344	a systematic review
+0.2685780674	the spread of
+0.2656420428	lead to
+0.2634853901	o u r n
+0.2600203751	the use of
+0.2514266550	patients with covid 19
+0.2504853901	e p r o o
+0.2485672615	respiratory syndrome coronavirus
+0.2472628213	care unit
+0.2468275155	do not
+0.2456316627	such as
+0.2415131679	a l p r e p
+0.2404793731	respiratory diseases
+0.2358578376	r e
+0.2289698205	number of
+0.2177868292	followed by
+0.2173086546	according to
+0.2153519613	due to
+0.2122192223	acute respiratory
+0.2063631967	acute respiratory syndrome
+0.2036004217	associated with
+0.2001263712	million people
+0.1906851317	a systematic
+0.1784416799	patients with
+0.1775600003	m health
+0.1740511667	along with
+0.1708020053	community health
+0.1685227711	world health
+0.1568945359	compared with
+0.1552181469	in order to
+0.1551941508	application of
+0.1540420109	most important
+0.1495616550	of covid 19
+0.1392208503	covid 19 infection
+0.1284708503	covid 19 cases
+0.1215149388	in iran
+0.1090542774	risk of
+0.1086399388	the world
+0.1072515667	health organization
+0.0983026519	in covid 19 patients
+0.0944182333	virus infection
+0.0924078344	with sars cov
+0.0922330163	compared to
+0.0919316055	the disease
+0.0913328968	this study
+0.0909316055	the virus
+0.0900149388	in wuhan
+0.0862391055	role in
+0.0786581595	patient with
+0.0747129418	to investigate
+0.0741224452	response to
+0.0741129418	a wide
+0.0708381017	the presence of
+0.0662547683	the number of
+0.0657057786	aimed to
+0.0651526857	of sars cov
+0.0618100049	this review
+0.0593658794	the health system
+0.0583391119	history of
+0.0578307786	levels of
+0.0575526519	for covid 19
+0.0572985828	to prevent
+0.0568307786	effect of
+0.0559492128	with fever and
+0.0555891119	aspects of
+0.0543658794	the development of
+0.0541966202	disease 2019
+0.0539492128	in addition to
+0.0533658794	the role of
+0.0506158794	the prevalence of
+0.0495526519	of sars cov 2
+0.0491641119	identification of
+0.0486224452	related to
+0.0486158794	the lack of
+0.0483658794	the risk of
+0.0450069161	to develop
+0.0427408794	the treatment of
+0.0420057786	health system
+0.0417557786	sensitivity of
+0.0416319161	to assess
+0.0414569161	to improve
+0.0403865987	coronavirus 2
+0.0395474452	admitted to
+0.0395057786	order to
+0.0389557786	considered as
+0.0385235828	of evs
+0.0381235828	in china
+0.0381235828	to provide
+0.0372569161	to evaluate
+0.0349784770	need for
+0.0329557786	role of
+0.0323724452	level of
+0.0308915205	known as
+0.0306224452	increase in
+0.0302474452	development of
+0.0284699320	cov 2
+0.0271235828	with covid 19
+0.0265807786	prevalence of
+0.0264557786	characteristics of
+0.0249235828	in tehran
+0.0238724452	severity of
+0.0217474452	diagnosis of
+0.0209368103	especially in
+0.0207474452	management of
+0.0203735828	the severity
+0.0202474452	presence of
+0.0201735828	the host
+0.0200331595	case of
+0.0199368103	because of
+0.0197474452	detection of
+0.0191319161	against sars
+0.0171034770	up to
+0.0160331595	treatment of
+0.0143735828	the prevalence
+0.0141235828	a case
+0.0131034770	used to
+0.0118735828	of ace2
+0.0111034770	found in
+0.0106034770	as well
+0.0103735828	of sars
+0.0092069161	of covid
+0.0092069161	for covid
+0.0081034770	used in
+0.0073534770	a novel

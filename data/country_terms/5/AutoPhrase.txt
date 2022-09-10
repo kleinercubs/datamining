@@ -1,0 +1,6556 @@
+0.9832752201	são paulo
+0.9781569505	hubei province
+0.9764685394	latin american
+0.9759111086	sao paulo
+0.9759049079	united kingdom
+0.9757383982	south korea
+0.9734077383	cytokine storm
+0.9729931871	nucleic acid
+0.9728702468	buenos aires
+0.9727919621	latin america
+0.9722178658	minas gerais
+0.9716325963	south america
+0.9707642290	diabetes mellitus
+0.9695760871	computed tomography
+0.9691232768	artificial intelligence
+0.9686147496	polymerase chain reaction
+0.9683781776	machine learning
+0.9657685248	belo horizonte
+0.9646680683	south africa
+0.9645233763	heart failure
+0.9644608004	united nations
+0.9641819565	reverse transcriptase
+0.9630268630	personal protective equipment
+0.9614859291	virtual reality
+0.9600707367	united states
+0.9599467032	monoclonal antibodies
+0.9595823599	oxidative stress
+0.9590409309	intensive care unit
+0.9588758024	emergency department
+0.9587954975	breast cancer
+0.9586907724	wound healing
+0.9573764110	mechanical ventilation
+0.9570733604	blood donation
+0.9570533705	air pollution
+0.9552783242	systematic review
+0.9537271804	reverse transcription polymerase chain reaction
+0.9530792885	viral load
+0.9527712724	clinical trials
+0.9522429295	logistic regression
+0.9521241219	open access
+0.9516341013	extracellular matrix
+0.9514082748	yellow fever
+0.9513448657	mental health
+0.9485258956	food insecurity
+0.9484112953	risk perception
+0.9473080954	peer review
+0.9451538512	fatty acids
+0.9447409510	air quality
+0.9441461918	resource allocation
+0.9431009164	social networks
+0.9408577579	mass spectrometry
+0.9402336059	fatty acid
+0.9400447600	vero e6
+0.9399633316	social isolation
+0.9394709134	cervical cancer
+0.9384106096	amino acids
+0.9368404829	meta analysis
+0.9361750845	rheumatoid arthritis
+0.9358757928	particulate matter
+0.9355294839	contact tracing
+0.9354251937	essential oils
+0.9343525694	immune response
+0.9342041045	world health organization
+0.9334251235	differential equations
+0.9321663803	lung cancer
+0.9320929064	memory management
+0.9318013472	sore throat
+0.9316429044	medrxiv preprint
+0.9316054398	nasopharyngeal swabs
+0.9310511957	masspec pen
+0.9307757412	amino acid
+0.9292074909	extracellular vesicles
+0.9291232308	urinary incontinence
+0.9290775375	respiratory failure
+0.9290595598	insulin resistance
+0.9288174182	clinical trial
+0.9267089872	rt pcr
+0.9263867279	severe acute respiratory syndrome
+0.9251072483	skeletal muscle
+0.9251020144	oxygen saturation
+0.9249278298	angiotensin converting enzyme
+0.9244052351	intensive care
+0.9243946073	granted medrxiv
+0.9238248746	eating habits
+0.9232903593	running title
+0.9231664291	inflammatory response
+0.9228134659	fabry disease
+0.9205389866	oxygen therapy
+0.9204398868	respiratory tract
+0.9201160465	causative agent
+0.9189894005	stem cells
+0.9187150680	cutaneous manifestations
+0.9186560487	mental disorders
+0.9185002520	zika virus
+0.9184903542	intensive care units
+0.9180017090	social media
+0.9178843851	physical exercise
+0.9175262070	climate change
+0.9167009851	cell culture
+0.9160661194	observational study
+0.9159176255	pregnant women
+0.9156973616	case series
+0.9154961947	skin cancer
+0.9153165647	chagas disease
+0.9150955842	viral replication
+0.9150191924	anti inflammatory
+0.9136079611	endothelial cells
+0.9133960584	acute respiratory distress syndrome
+0.9118417089	genetic material
+0.9117211186	healthcare workers
+0.9115966080	rights reserved
+0.9100906367	food safety
+0.9100253540	cell lines
+0.9090072378	public health
+0.9089442815	literature review
+0.9088334758	physical activity
+0.9087499848	healthcare professionals
+0.9082850602	kcal mol
+0.9081914017	respiratory syncytial virus
+0.9080302071	drug discovery
+0.9079826758	p2x7 receptor
+0.9076981340	middle east
+0.9074190851	trained immunity
+0.9068560318	web server
+0.9067039298	sars cov2
+0.9067025142	stem cell
+0.9065952517	gold standard
+0.9064952920	epithelial cells
+0.9058622282	big data
+0.9038573735	genetic diversity
+0.9035487796	cognitive impairment
+0.9019247044	brand orientation
+0.9011544181	phenolic compounds
+0.9010829925	meta analyses
+0.8991688327	mathematical models
+0.8986295332	mini review
+0.8983833947	sustainable development
+0.8983509180	receptor binding domain
+0.8980044012	molecular docking
+0.8978002517	spike protein
+0.8969607150	mathematical model
+0.8968483491	functional decline
+0.8965276930	structural proteins
+0.8963734508	rural tourism
+0.8960380051	neurological complications
+0.8960167962	immune responses
+0.8957738410	genomic surveillance
+0.8954595783	tissue regeneration
+0.8953570677	international business
+0.8947962200	dry cough
+0.8947061706	main protease
+0.8945675674	mobility restrictions
+0.8944184223	health professionals
+0.8933837178	virtual screening
+0.8930305755	serological tests
+0.8926635659	depressive symptoms
+0.8923769183	spatial distribution
+0.8923433891	gene expression
+0.8914326902	social distancing rules
+0.8911819818	developing countries
+0.8906854014	infectious diseases
+0.8903949311	primer probe
+0.8895814167	decision makers
+0.8893275129	extreme events
+0.8887025558	physical distancing
+0.8884189352	perceived stress
+0.8883296096	psychological distress
+0.8875492278	common cold
+0.8874133590	genetic testing
+0.8873653460	case report
+0.8853872980	sleep quality
+0.8850893249	rna polymerase
+0.8839105896	reverse transcription
+0.8834819748	rna cap
+0.8832834119	adverse events
+0.8832017698	signaling pathways
+0.8823308292	small molecules
+0.8819369343	inflammatory cytokines
+0.8816368125	awake proning
+0.8815714636	implication functions
+0.8813673435	sybr green
+0.8811515811	middle east respiratory syndrome
+0.8803036916	energy consumption
+0.8794731670	older adults
+0.8783748328	typical hesitant
+0.8779356946	cognitive stress
+0.8774778819	mers cov
+0.8770097377	etiological agent
+0.8759696444	x ray
+0.8757998054	local credit
+0.8756885650	ng ml
+0.8756305829	brazilian amazon
+0.8756252055	highly contagious
+0.8755368466	large scale
+0.8753934667	social feelings
+0.8750886755	diagnostic tests
+0.8742124390	molecular dynamics
+0.8741747742	sir model
+0.8736926804	phylogenetic analysis
+0.8736368749	statistically significant
+0.8718371584	million inhabitants
+0.8716652143	il 6
+0.8709478789	angiotensin ii
+0.8704291207	subjective memory
+0.8702237979	hospital admissions
+0.8698784016	pet ct
+0.8692953732	family members
+0.8689670353	cross sectional
+0.8686877269	social distancing
+0.8682112072	communicable diseases
+0.8680894726	case fatality rate
+0.8673801655	vascular density
+0.8671983873	policy interventions
+0.8671011228	vaccine hesitancy
+0.8670189441	proinflammatory cytokines
+0.8661813887	therapeutic targets
+0.8659400277	neutralizing antibodies
+0.8655057391	socio economic
+0.8652931239	emotional exhaustion
+0.8650937194	decision making
+0.8638298937	hpc pfc
+0.8634843226	acute respiratory failure
+0.8627135637	close contact
+0.8626766525	sleep duration
+0.8623943693	pool testing
+0.8622618515	longitudinal study
+0.8622049312	psychological safety
+0.8620941668	d dimer
+0.8611276924	immune cells
+0.8607034604	ultra processed
+0.8604634268	tpp riboswitches
+0.8602171753	rna viruses
+0.8600950851	rna extraction
+0.8599936650	thousand deaths
+0.8593685859	lean principles
+0.8593007048	health care
+0.8592778408	closely related
+0.8590640207	poc eco
+0.8584439481	residuated lattices
+0.8583486715	emerging infectious diseases
+0.8581631977	perceived risk
+0.8575704273	lung injury
+0.8568604705	corona virus
+0.8563379960	il 18
+0.8562216800	invasive mechanical ventilation
+0.8559098761	food consumption
+0.8556851718	online survey
+0.8548787405	economic development
+0.8529978890	natural selection
+0.8527383731	life threatening
+0.8517917539	long term
+0.8517625411	cohort study
+0.8507980313	urban areas
+0.8506744976	early detection
+0.8505907296	mortality rate
+0.8491438078	3cl pro
+0.8475652088	latin american countries
+0.8471135349	innate immune
+0.8468713430	influenza virus
+0.8467893878	spatio temporal
+0.8461715718	chest ct
+0.8458720726	cardiovascular disease
+0.8456368565	hcov oc43
+0.8450956723	information systems
+0.8449411103	immunization programs
+0.8447263139	rt qpcr
+0.8445076342	hair cortisol
+0.8444944866	south south cooperation
+0.8442140877	upper respiratory tract
+0.8442024166	ace2 expression
+0.8440475252	vulnerable groups
+0.8434574001	young adults
+0.8429769948	short version
+0.8428376634	leishmune ®
+0.8427001826	false negative
+0.8420245925	event analysis
+0.8416127327	low cost
+0.8416082525	single stranded rna
+0.8410281474	cox 2
+0.8410277548	dietary guidelines
+0.8406920588	interleukin 6
+0.8395640030	emotional state
+0.8394568166	epidemiological surveillance
+0.8391672232	seed dormancy
+0.8374269760	dengue virus
+0.8374016507	il 10
+0.8369458337	la pandemia
+0.8363869614	ai mice
+0.8358561393	clinical software
+0.8336177562	hospital stay
+0.8335601324	leisure walking
+0.8333568980	asymptomatic individuals
+0.8319253038	endemic areas
+0.8313251765	choquet integral
+0.8303367895	food and drug administration
+0.8299753218	heart disease
+0.8292469660	stem nodules
+0.8289981660	high throughput
+0.8275801486	coronaviridae family
+0.8271108052	genome sequences
+0.8267788229	drug repurposing
+0.8259588774	en la
+0.8250333260	low income
+0.8245216354	community transmission
+0.8245074491	infectious disease
+0.8244629329	pro inflammatory
+0.8244521678	icu admission
+0.8240348572	vaccine efficacy
+0.8232226209	en los
+0.8227758036	prospective cohort
+0.8226375533	cm p5
+0.8224735921	therapeutic potential
+0.8211726475	million deaths
+0.8209124685	significant differences
+0.8203458473	en el
+0.8189713742	health care workers
+0.8156639367	social participation
+0.8151837334	negative effect
+0.8148488278	la salud
+0.8146176299	healthcare systems
+0.8117027225	starting point
+0.8112180578	pubmed abstract | publisher full text
+0.8110440695	controlled trials
+0.8105168784	chronic inflammatory
+0.8104260335	_ _ _ _ _ _
+0.8103454341	journal pre proof
+0.8076438027	pro inflammatory cytokines
+0.8076259119	em pacientes
+0.8073085765	confirmed cases
+0.8056451240	root nodules
+0.8053804230	economic crisis
+0.8050532416	containment measures
+0.8042859207	care services
+0.8014883280	respiratory distress syndrome
+0.8003303353	cell death
+0.7988152909	organ failure
+0.7984102091	lower respiratory tract
+0.7982597093	respiratory infections
+0.7978536251	viral loads
+0.7977505977	preventive measures
+0.7972964465	respiratory distress
+0.7968383922	food choice
+0.7960350979	respiratory disease
+0.7960070639	primary outcome
+0.7946148377	nelson algebras
+0.7944740475	publisher full text
+0.7941239400	regression models
+0.7939617857	mesenchymal stem
+0.7935916059	risk factor
+0.7930450091	sars cov
+0.7924965226	quasi nelson
+0.7913833701	ifn γ
+0.7899560002	a1111111111 a1111111111
+0.7886797532	single stranded
+0.7881685199	middle income
+0.7879627475	viral particles
+0.7876050398	pre existing
+0.7874878436	nc nd license
+0.7862785335	fatality rate
+0.7859987388	ecrs lac
+0.7841478745	stay at home
+0.7835925867	host cells
+0.7830271157	maternal fetal
+0.7805167219	chronic lung
+0.7803248629	brazilian states
+0.7797911148	quickly spread
+0.7796376651	type 2 diabetes
+0.7791294550	recent decades
+0.7776268230	health systems
+0.7773996290	adverse effects
+0.7764216349	early diagnosis
+0.7761291368	data processing
+0.7758756984	author funder
+0.7746608004	journal pre
+0.7737261077	e commerce
+0.7732691392	socio demographic
+0.7730861099	patient care
+0.7721933504	hospitalized patients
+0.7719431452	oral health
+0.7717420246	clinical manifestations
+0.7716974396	life cycle
+0.7714143476	severe pneumonia
+0.7711853560	n7 guanine
+0.7694443576	respiratory droplets
+0.7684578468	suspected cases
+0.7679882301	positive sense
+0.7660194771	middle income countries
+0.7659954893	short term
+0.7652254468	_ _ _ _ _
+0.7644771085	respiratory tract infections
+0.7643088659	animal models
+0.7639330389	rio de janeiro
+0.7635275264	mil 100
+0.7631676176	middle east respiratory syndrome coronavirus
+0.7624435851	real world
+0.7620461605	essential role
+0.7619510060	public policies
+0.7613035563	global health
+0.7611221822	taking into account
+0.7598235020	angiotensin converting enzyme 2
+0.7587906620	cardiovascular diseases
+0.7574128534	significantly higher
+0.7570507707	disease severity
+0.7560062768	million confirmed cases
+0.7552660281	control group
+0.7547413454	gsk 3
+0.7545774227	bandwidth reduction
+0.7541440306	il 12
+0.7536371418	risk groups
+0.7518894219	south south
+0.7512329742	real time pcr
+0.7509507584	recent years
+0.7505976246	economic activity
+0.7502484172	atacama
+0.7487790659	certified by peer review
+0.7479610383	therapeutic agents
+0.7479486240	clinical characteristics
+0.7470783889	protective equipment
+0.7463280792	risk factors
+0.7452182706	drug administration
+0.7448142181	health services
+0.7442892693	necrosis factor
+0.7432353318	acute respiratory
+0.7427837585	infected individuals
+0.7427678405	clinical presentation
+0.7422342696	aedes
+0.7417300115	peruvian
+0.7392881706	rna virus
+0.7385967639	costa
+0.7377463198	evidence based
+0.7374186660	cryptosporidium
+0.7369218708	san
+0.7368181184	cox 2 inhibitors
+0.7367857417	zikv infection
+0.7365034404	mortality rates
+0.7347001643	health crisis
+0.7346258169	point of view
+0.7344062343	mycobacterium
+0.7328677103	hla
+0.7316279005	transplant recipients
+0.7307466022	bacillus
+0.7302940934	renin angiotensin
+0.7302341066	atlantic
+0.7300291309	atp
+0.7299738317	venezuela
+0.7292842309	effective treatments
+0.7281974038	ebola
+0.7279714775	caribbean
+0.7278863656	institute
+0.7276828156	canada
+0.7276464081	sensitivity and specificity
+0.7274038433	ace
+0.7273200924	depression and anxiety
+0.7271953539	mexico
+0.7269633020	ventricular
+0.7263870412	neuroscience
+0.7260924829	web of science
+0.7257619056	capillary
+0.7247280721	disease progression
+0.7246239718	lmics
+0.7245898622	study conducted
+0.7240067094	japanese
+0.7239271681	coronavirus disease
+0.7235875468	feeding
+0.7233383300	pubmed
+0.7228521518	lean
+0.7224658083	leishmaniasis
+0.7224137004	portuguese
+0.7222215037	nmr
+0.7221191743	hcq
+0.7215429154	leprosy
+0.7211380876	uv
+0.7208198115	low income countries
+0.7206689319	fuzzy
+0.7201807282	trace
+0.7196104676	indigenous
+0.7194114155	google
+0.7191535872	social distancing measures
+0.7188762044	bcg
+0.7186125719	length of stay
+0.7184764781	children and adolescents
+0.7184293400	spanish
+0.7182889551	converting enzyme
+0.7177593433	hcov
+0.7176688425	case reports
+0.7173017569	pulmonary disease
+0.7172970052	pm
+0.7171863146	game
+0.7171726149	viral infection
+0.7171320184	learning to sense
+0.7171254197	ad
+0.7167657226	gaussian
+0.7167487875	milk
+0.7165062400	electrical
+0.7155600561	face to face
+0.7154627898	hiv
+0.7154489845	social interactions
+0.7148276664	college
+0.7144859088	corporate
+0.7143590027	dna
+0.7140715542	nacional
+0.7138401454	peru
+0.7136479792	europe
+0.7135977995	blue
+0.7135804493	nelson
+0.7126393874	health workers
+0.7126006102	lac
+0.7121698375	asia
+0.7119437520	vast majority
+0.7117306470	nf
+0.7115435618	d peptides
+0.7112365228	smart
+0.7112243018	ct
+0.7110376145	tnf
+0.7104421173	sect
+0.7103787934	zikv
+0.7101635979	tgf
+0.7098097668	case fatality
+0.7096545116	wastewater
+0.7093854352	acute respiratory distress
+0.7091967226	santa
+0.7089815595	kernel
+0.7085377078	lactose
+0.7082771636	citrus
+0.7077930515	october
+0.7077770894	drinking
+0.7077117121	arrhythmias
+0.7075880824	brd
+0.7075769391	surfactant
+0.7075381462	coronaviridae
+0.7075060855	mining
+0.7073917154	resin
+0.7073037038	oc43
+0.7072650496	grande
+0.7068984292	children's
+0.7067538989	pertussis
+0.7066672887	modern
+0.7065997244	reverse transcription polymerase chain
+0.7065701365	organic
+0.7063897097	tpp
+0.7062443708	sir
+0.7061202513	tuberculosis
+0.7058924870	velocity
+0.7058608608	cost effective
+0.7057825478	argentina
+0.7052168810	viral rna
+0.7052078372	credit
+0.7047811628	basal
+0.7045319813	ifn
+0.7041261660	african
+0.7040722559	azt
+0.7038264379	placental
+0.7036213732	spain
+0.7035380197	salivary
+0.7034218172	ai
+0.7031926188	music
+0.7031436432	plos
+0.7027757851	leave
+0.7023157086	three dimensional
+0.7020789827	island
+0.7018617160	psychology
+0.7018572527	false negative results
+0.7017438570	pan
+0.7016658505	northeast
+0.7008666430	alto
+0.7006850904	csf
+0.7005509881	ultra
+0.7003766015	walking
+0.7001766620	scans
+0.6999867140	simulator
+0.6997744004	internet
+0.6992613373	anxiety and depression
+0.6987197698	agency
+0.6986712765	bogotá
+0.6984747681	colombia
+0.6983509228	pet
+0.6983267940	ecrs
+0.6981241196	codon
+0.6980345255	white
+0.6980086899	negative impact
+0.6977736895	migration
+0.6976293054	chilean
+0.6973265067	traffic
+0.6972946891	peptide
+0.6972185161	cutaneous
+0.6970994728	cox
+0.6964062001	million confirmed
+0.6963858664	systematic review and meta analysis
+0.6961480667	cerebral
+0.6957417977	respiratory viruses
+0.6956625689	editor
+0.6955931472	high income countries
+0.6955645931	cap
+0.6954466361	gamma
+0.6952162537	suriname
+0.6952010150	april
+0.6951120487	virus replication
+0.6950758019	graph
+0.6945987375	vero
+0.6944312547	pds
+0.6941385288	pcr
+0.6940325638	surgery
+0.6939465107	afro
+0.6937836918	receptor binding
+0.6934305500	green
+0.6933763840	amazon
+0.6932387123	quasi
+0.6931358022	forest
+0.6931358022	marketing
+0.6931106349	black
+0.6929440092	maximum
+0.6929440092	layer
+0.6926595284	clinical practice
+0.6925830076	2019 ncov
+0.6925466434	emissions
+0.6924293480	chi
+0.6923339180	transforming
+0.6921386661	metropolitan
+0.6919804602	equation
+0.6917516188	july
+0.6913924327	integral
+0.6910075003	joint
+0.6909958424	zhang
+0.6908952311	june
+0.6906264803	implication
+0.6905265206	icu
+0.6900026535	chinese
+0.6899812592	raman
+0.6898466496	chile
+0.6896204440	antigen
+0.6894078601	las
+0.6894054799	envelope
+0.6893968901	self rated health
+0.6893738523	toll
+0.6893037322	informal
+0.6892246941	cm
+0.6890426129	abdominal
+0.6887088472	encephalitis
+0.6885633647	eastern
+0.6885235095	nodules
+0.6885092706	medicinal
+0.6885092706	kinase
+0.6884886733	saúde
+0.6884202195	agriculture
+0.6882950183	ace2
+0.6881993699	hesitant
+0.6879971814	androgen
+0.6879407037	oils
+0.6879353882	conceptual
+0.6878227047	control measures
+0.6876202448	foodborne
+0.6875618770	purification
+0.6874842353	age group
+0.6873960272	medicines
+0.6873241887	western
+0.6872962784	cancer patients
+0.6870867488	european
+0.6870367437	red
+0.6868603520	validity
+0.6868143717	insulin
+0.6867707988	gel
+0.6866320374	cavity
+0.6865213861	results obtained
+0.6864830704	title
+0.6863107922	hazard
+0.6862386382	september
+0.6859219493	choquet
+0.6858690130	organisation
+0.6856208307	sexual
+0.6856049851	architecture
+0.6853350023	pds 70
+0.6846040308	los
+0.6839939662	public health emergency of international concern
+0.6839865323	avian
+0.6839437014	zika
+0.6836662609	lipid
+0.6834720631	rapidly spread
+0.6834720631	spread rapidly
+0.6834580177	brazil
+0.6834171432	il
+0.6834049843	salud
+0.6832698865	university
+0.6831815841	aegypti
+0.6831091265	exercise
+0.6827885786	pm 2.5
+0.6824990646	il 4
+0.6824030326	labour
+0.6824030326	fruit
+0.6822671624	abstract
+0.6821505052	edge
+0.6816892001	creative
+0.6815761478	arms
+0.6815724111	unemployment
+0.6811398030	laser
+0.6809660123	interstitial
+0.6806493738	mild symptoms
+0.6806243973	falciparum
+0.6804171568	bone
+0.6802392201	logic
+0.6800977638	mutation
+0.6799346419	tourism
+0.6798635788	genetics
+0.6797694864	eco
+0.6797229675	west
+0.6796446264	adolescents
+0.6796023627	aids
+0.6795420334	governance
+0.6793773990	loop
+0.6793158969	numerical
+0.6792821923	wu
+0.6791536043	gsk
+0.6788329501	allergic
+0.6783372030	northern
+0.6783292383	qualitative
+0.6783285291	node
+0.6780621861	antimicrobial
+0.6776966811	empirical
+0.6776387476	protective effects
+0.6776252714	carbon
+0.6775411928	allele
+0.6775273333	neighborhood
+0.6774458432	swine
+0.6772731561	splicing
+0.6772731561	pairs
+0.6772598532	feelings
+0.6771864311	rna
+0.6771806343	alcohol
+0.6770101223	optimization
+0.6765056787	china
+0.6764956530	stochastic
+0.6764956530	foreign
+0.6764956530	simulated
+0.6764956530	disposal
+0.6764956530	bovis
+0.6764887989	efficacy and safety
+0.6762099526	randomized
+0.6761508090	sodium
+0.6758978268	oral
+0.6758814320	congenital
+0.6753483714	ocean
+0.6753005296	southern
+0.6752920989	marcescens
+0.6752419170	pregnancy
+0.6752009306	brazilian
+0.6748873569	el
+0.6748255529	pool
+0.6745496211	sciences
+0.6742995956	sp
+0.6742969946	multivariate
+0.6742891105	child
+0.6742185443	dengue
+0.6740762506	temperature
+0.6740023543	algebras
+0.6735835673	channels
+0.6733639230	providers
+0.6731492972	cut off
+0.6729944782	central nervous
+0.6729050178	malaria
+0.6725942399	beta
+0.6725348707	personality
+0.6724709311	february
+0.6724123508	sleep
+0.6722298402	generalized
+0.6721277170	multi
+0.6720520485	cohort studies
+0.6720329603	p2x7
+0.6712156074	spot
+0.6709787889	diet
+0.6707498290	polymorphisms
+0.6704459392	riboswitches
+0.6701393920	gastrointestinal
+0.6701366820	cortex
+0.6698272379	low and middle income countries
+0.6698226712	africa
+0.6697543990	transcriptional
+0.6697229675	kumar
+0.6697076087	composite
+0.6696520071	densities
+0.6695183802	sick
+0.6694594596	italy
+0.6694289459	dialysis
+0.6692131978	sustainable
+0.6686287346	95 confidence interval
+0.6684384533	federal
+0.6682190743	alpha
+0.6681144801	medicine
+0.6680550569	cortisol
+0.6679974441	ml
+0.6679567229	birth
+0.6677634686	biology
+0.6677528628	reproductive
+0.6677151365	bandwidth
+0.6677011578	scale
+0.6676586971	dietary
+0.6676353477	survey
+0.6675387172	theories
+0.6674673799	mobile
+0.6674179289	hair
+0.6670635539	attack
+0.6670148300	uv c
+0.6670131235	aiming
+0.6670034880	peritoneum
+0.6669233539	intermediate
+0.6668392102	cope
+0.6668009843	coefficient
+0.6666604697	lupus
+0.6665884608	digital
+0.6664974677	center
+0.6663785898	aeruginosa
+0.6663539699	mundo
+0.6662584320	awake
+0.6662394236	operations
+0.6660973299	dockthor vs
+0.6659944132	coli
+0.6659841104	electronic
+0.6658948169	insecurity
+0.6658619180	dormancy
+0.6658619180	seed
+0.6654104904	serological
+0.6653339014	nitrogen
+0.6652443455	doi.org 10.1101
+0.6652212443	oxygenation
+0.6648778195	p5
+0.6647896582	hormone
+0.6647582902	panel
+0.6647259679	corona
+0.6642914907	la
+0.6642560273	trends
+0.6641951911	statistics
+0.6640935924	violence
+0.6640708597	ecosystem
+0.6640456610	maternal
+0.6640365178	interferon
+0.6639832835	loads
+0.6638482357	mouth
+0.6637757627	korea
+0.6637130938	assist
+0.6636893052	cardiac
+0.6632866359	mers
+0.6631339157	variants of concern
+0.6626762328	humidity
+0.6626022995	job
+0.6624871657	ng
+0.6624830885	obstructive
+0.6623909905	sedentary
+0.6623205376	neonatal
+0.6621762732	cc
+0.6619123524	framework
+0.6618063678	diagnostic
+0.6616743073	viral infections
+0.6616568257	justice
+0.6615937642	compliance
+0.6615549693	noise
+0.6614809103	pollutants
+0.6614006273	severe acute respiratory syndrome coronavirus 2
+0.6612312104	li
+0.6612221671	aggregate
+0.6609559010	operator
+0.6609375996	aging
+0.6608730500	transfer
+0.6608471566	people's
+0.6607681377	hospital
+0.6607651657	data sources
+0.6606522810	cd8
+0.6605776164	necrosis
+0.6603988731	mol
+0.6603810548	free
+0.6601649651	depth
+0.6601022938	poverty
+0.6601022938	absorption
+0.6600660248	fraction
+0.6600660248	gas
+0.6600356671	immunization
+0.6600226654	women
+0.6600133144	cc by nc nd
+0.6598716819	humoral
+0.6596031063	journals
+0.6595884981	neural
+0.6594474807	oil
+0.6593967530	evolutionary
+0.6592560738	visceral
+0.6592560738	tree
+0.6589412000	text
+0.6586723678	cross sectional study
+0.6586367534	pandemia
+0.6586107245	emergency
+0.6585484924	incontinence
+0.6583983869	minas
+0.6580916899	recently
+0.6580181677	pjt
+0.6580099058	approximation
+0.6580063505	central
+0.6579672630	international
+0.6579213184	dynamical
+0.6579119995	tracing
+0.6578454548	algorithm
+0.6578002167	seroprevalence
+0.6577538657	descriptive
+0.6575750300	glucose
+0.6574077500	security
+0.6573974265	sao
+0.6573486140	cruzi
+0.6569191281	ii
+0.6567411805	repurposing
+0.6565857275	pen
+0.6565857275	e6
+0.6565603966	brand
+0.6561232733	reservoir
+0.6559896826	uso
+0.6559284047	tumor
+0.6558870892	genome
+0.6558475860	gain
+0.6558262168	engineering
+0.6557164183	mechanism of action
+0.6557146149	fish
+0.6554726349	screening
+0.6554692780	aimed to assess
+0.6553789443	march
+0.6553094384	examination
+0.6553094384	overload
+0.6551307010	department
+0.6549779317	action
+0.6547626695	vessels
+0.6547163205	image
+0.6546961176	transmembrane
+0.6543878319	exhaustion
+0.6543435474	prevalent
+0.6542638027	nutrition
+0.6542590521	signs and symptoms
+0.6542228139	plants
+0.6541754298	technology
+0.6541688846	neutralizing
+0.6539294876	building
+0.6538842215	traditional
+0.6538698962	fruits
+0.6538273188	resistant
+0.6537156176	wang
+0.6536797834	remodeling
+0.6535787630	pathophysiology
+0.6535593896	stem
+0.6535484756	investment
+0.6535283284	power
+0.6535198222	teaching
+0.6534637011	aquatic
+0.6534159979	modeling
+0.6533081072	recipients
+0.6532907314	radiation
+0.6532720843	donation
+0.6532456186	dockthor
+0.6531889398	state
+0.6531608308	synaptic
+0.6531477670	january
+0.6530709076	artery
+0.6530272473	plastic
+0.6529361337	sybr
+0.6529140930	significantly increased
+0.6527060157	urinary
+0.6524347420	cattle
+0.6524196499	index
+0.6523471151	banks
+0.6522922984	solving
+0.6522672056	stratified
+0.6522218176	reference
+0.6522065535	root
+0.6521941415	cooperation
+0.6521132848	municipality
+0.6520645884	tropical
+0.6520125306	influenza
+0.6519988375	regeneration
+0.6519662873	horizonte
+0.6519562685	collective
+0.6517777726	science
+0.6517762221	respiratory diseases
+0.6517017638	serine
+0.6516360823	wuhan
+0.6516001615	drug
+0.6515317025	en
+0.6514256982	impairment
+0.6513711247	atypical
+0.6513669760	ci
+0.6513647273	deep
+0.6512199185	willingness
+0.6511662714	plasma
+0.6510448946	million cases
+0.6510159733	multiple
+0.6509983434	urban
+0.6507379617	muscle
+0.6506136761	sequencing
+0.6505537377	·
+0.6505455533	rejection
+0.6503710308	objective
+0.6502608239	p value
+0.6502572876	rights
+0.6497717942	institution
+0.6497717942	repair
+0.6495802170	critically ill patients
+0.6495056116	chemical
+0.6494701984	toxicity
+0.6493297441	classify
+0.6493085636	simulation
+0.6492757004	north
+0.6492360916	home
+0.6491527708	expert
+0.6491499333	school
+0.6491368598	resolution
+0.6490317267	hubei
+0.6490286532	sea
+0.6489646418	resource
+0.6487691699	device
+0.6487519298	sars
+0.6486676809	server
+0.6485581247	rapid
+0.6485535495	secondary
+0.6484812229	december
+0.6484799325	tool
+0.6483495775	flu
+0.6480588768	satisfaction
+0.6477459262	fibrosis
+0.6477424464	age groups
+0.6477044135	food
+0.6475530930	chest
+0.6474880606	phylogenetic
+0.6473923197	zhu
+0.6473845615	american
+0.6472111905	prospective
+0.6470862552	determinants
+0.6470428932	surveillance
+0.6467906091	infant
+0.6466927837	peritoneal
+0.6464932234	renal
+0.6464414600	nutritional
+0.6464286199	genetic
+0.6461786047	vaccination
+0.6460787243	orientation
+0.6459399552	dairy
+0.6458668830	vaccinate
+0.6456166937	national
+0.6456067520	mass
+0.6454980873	society
+0.6452801826	prevention
+0.6452405179	probe
+0.6449761592	mesenchymal
+0.6448996197	coding
+0.6448967734	trial
+0.6447502757	south cooperation
+0.6446917659	resonance
+0.6444209746	cut
+0.6444041174	computational
+0.6442681210	bacterial
+0.6441844394	design
+0.6441783858	neurodegenerative
+0.6440724098	commerce
+0.6440360257	spike
+0.6438925530	renin angiotensin system
+0.6438893992	docking
+0.6438627922	key
+0.6437406578	variation
+0.6435576713	modulation
+0.6433123925	virtual
+0.6432573132	respiratory syncytial
+0.6431899863	insurance
+0.6430494168	additional
+0.6427210415	networks
+0.6426746365	personal
+0.6426414508	classical
+0.6426359785	anti
+0.6425913259	gondii
+0.6425372883	statistically
+0.6424398625	extreme
+0.6422970614	recognition
+0.6421082827	yang et al
+0.6418193428	pfc
+0.6416755408	create
+0.6416078651	city
+0.6414962549	anxiety symptoms
+0.6414491431	quantification
+0.6412258056	government
+0.6412235192	region
+0.6411814617	lds
+0.6411650798	emerging
+0.6410428349	table
+0.6410276240	waste
+0.6410090521	public and private
+0.6409955108	myocardial
+0.6409890917	centers
+0.6409677671	short
+0.6409648177	adhesion
+0.6409557988	performance
+0.6409299722	remote
+0.6408561411	recent
+0.6407876896	materials
+0.6406643231	antigenic
+0.6402100313	inequality
+0.6401174709	social inequalities
+0.6400218373	virulence
+0.6399940341	metabolic
+0.6399031220	alternative
+0.6398748237	wound
+0.6397112500	question
+0.6394952021	invasive
+0.6392073437	cardiovascular
+0.6391284639	discrimination
+0.6390470668	taking
+0.6390035580	non pharmaceutical interventions
+0.6388591339	previous
+0.6384935400	venezuelan
+0.6382192023	pain
+0.6382061113	median
+0.6381893398	severe acute respiratory
+0.6381071909	big
+0.6376285761	asymptomatic cases
+0.6374833808	hydrogen
+0.6374832862	post
+0.6373612006	type
+0.6373421012	vector
+0.6371392816	gene
+0.6370633542	business
+0.6364263118	ray
+0.6363248338	metabolism
+0.6362961863	gmres
+0.6361812275	nepal
+0.6360741574	report
+0.6359940217	genomes
+0.6359216296	modelling
+0.6358847385	septic
+0.6354028579	district
+0.6352715104	consistent
+0.6352347595	temporal
+0.6352177213	neurological
+0.6350463525	community
+0.6349066827	group
+0.6347349161	fluid
+0.6346218360	long
+0.6346108067	rural
+0.6344552684	immunodeficiency
+0.6343166679	shock
+0.6343148589	em
+0.6342309925	phenolic
+0.6342140156	retrospective
+0.6341890908	epidemiological
+0.6341692156	prior
+0.6340352900	iquitos
+0.6339768769	children and young
+0.6338849044	sci
+0.6337559904	low and middle income
+0.6336685318	ministry
+0.6335447338	spectrometry
+0.6335277784	adam17
+0.6334567207	gender
+0.6333411798	policy
+0.6332543236	therapeutic
+0.6331906306	article
+0.6331428852	service
+0.6331098712	resistance
+0.6331072790	vaccine coverage
+0.6330591020	leishmania
+0.6330124180	stroke
+0.6328640426	protease
+0.6328263480	patient
+0.6328186848	recommendations
+0.6328109283	covid
+0.6322105581	hrv
+0.6321712504	ns5a
+0.6320682589	world's
+0.6320599043	coronavirus
+0.6319815032	autoimmune
+0.6319614005	kind
+0.6318974524	kidney
+0.6318100809	trade
+0.6318014586	copyright holder for
+0.6317596093	acute respiratory syndrome
+0.6317181507	oxide
+0.6315794209	fabry
+0.6315031313	total
+0.6314629552	sector
+0.6313998691	pbmt
+0.6313357812	section
+0.6313009132	pathogenesis
+0.6311405858	network
+0.6311203576	nidovirales
+0.6310312638	women's
+0.6308666662	uruguay
+0.6308390156	infarction
+0.6308072923	working
+0.6307412292	brain
+0.6304453607	crs
+0.6302791622	isolation
+0.6302618575	primer
+0.6302335297	competitive
+0.6300435941	prediction
+0.6300418344	ddx3
+0.6299832019	nhs
+0.6299702961	snps
+0.6299590511	severe acute respiratory syndrome coronavirus
+0.6299113092	high quality
+0.6299103026	reviews
+0.6298071872	upper
+0.6297892654	viruses
+0.6296284327	igm
+0.6295055883	btov
+0.6294858847	algorithms
+0.6294759472	syncytial virus
+0.6293960721	this version posted
+0.6293585506	diabetes
+0.6293471011	mtase
+0.6290884516	equal
+0.6290884516	moving
+0.6290884516	intrinsic
+0.6290884516	premature
+0.6290195040	imaging
+0.6289715449	employment
+0.6289699885	hesitancy
+0.6289133780	introduction
+0.6288715795	records
+0.6287687312	stress
+0.6286770666	bcrp
+0.6286640268	th1
+0.6284930978	skin
+0.6283718653	chain reaction
+0.6283130386	giardia
+0.6282448647	operating
+0.6281917327	inhibitors
+0.6281420543	diseases
+0.6280793721	vocs
+0.6280789865	medical
+0.6280214842	ifitm3
+0.6280099161	race
+0.6280019295	emission
+0.6279383745	dependence
+0.6279383745	marker
+0.6279383745	intubation
+0.6278909806	ibd
+0.6278577785	rsv
+0.6278167049	children
+0.6278050164	ibuprofen
+0.6276890944	combined
+0.6271878157	solve
+0.6270844313	wb
+0.6270562681	high transmissibility
+0.6270289228	evaluation
+0.6270053082	healing
+0.6267181507	spectroscopy
+0.6266893022	trp
+0.6265431744	polymerase chain
+0.6264891619	mhv3
+0.6263914426	safety
+0.6263743558	mscs
+0.6263145122	art
+0.6262996372	lung
+0.6262853287	states
+0.6261636382	× 10
+0.6261470376	antibiotic
+0.6261470376	psychiatric
+0.6261470376	stimulation
+0.6259298987	villegas
+0.6257984214	omicron
+0.6257188511	induction
+0.6257046692	cov2
+0.6257030128	cervical
+0.6255073726	yfv
+0.6253785976	online
+0.6253724232	comprehensive
+0.6253131180	akt
+0.6252097028	ppe
+0.6251746181	influence
+0.6251484596	early
+0.6250827201	adequate
+0.6249194026	ebv
+0.6248696674	healthcare
+0.6248341444	mpro
+0.6248030120	evidence
+0.6247516737	growth
+0.6247393092	results
+0.6246577171	protein
+0.6246403543	anxiety
+0.6245840570	coronavac
+0.6244353556	inhibition
+0.6243325192	cerebrovascular
+0.6243103352	sewage
+0.6239147715	rt
+0.6237853366	skeletal
+0.6237723750	therapy
+0.6236898854	education
+0.6235915159	plant
+0.6234001916	principal
+0.6233807905	understanding
+0.6233575313	ipbes
+0.6233564854	cfr
+0.6233408091	interface
+0.6233169283	definition
+0.6233129010	closure
+0.6232860100	dimensional
+0.6231192462	organisms
+0.6230831319	np
+0.6230797049	gap
+0.6230584823	control
+0.6229754540	america
+0.6229525928	paraguay
+0.6228787246	pfizer
+0.6227738498	rbd
+0.6227561978	global
+0.6227485884	airway
+0.6227124122	zhu et al
+0.6226812832	picu
+0.6226789359	hcv
+0.6226157949	fragment
+0.6224940996	ras
+0.6224672405	fetal
+0.6224460234	a1111111111
+0.6221466379	ic
+0.6221108309	interval
+0.6220951406	interaction
+0.6218954966	hpc
+0.6218514748	nephrology
+0.6218514748	orf1a
+0.6217384286	members
+0.6217178096	bank
+0.6216520591	susceptible
+0.6216449224	volume
+0.6216153386	rdrp
+0.6215745279	magnetic
+0.6214870238	chikv
+0.6214798854	recovery
+0.6214745752	sb
+0.6211866107	starting
+0.6211141870	complex
+0.6210632469	lvad
+0.6210588728	bmi
+0.6210320058	local
+0.6210050632	arthritis
+0.6210014039	hypertension
+0.6209899338	success
+0.6209084916	medium
+0.6209053737	description
+0.6208760191	web
+0.6208205548	pd
+0.6206975089	ca
+0.6206955198	vwf
+0.6206919161	large
+0.6206721731	thrombosis
+0.6206721731	prophylaxis
+0.6206528791	matrix
+0.6204543735	smith
+0.6204543735	brazilians
+0.6204320720	tmprss2
+0.6203982222	cd
+0.6203877303	vitamin d
+0.6203320729	ms2
+0.6203305146	mongolia
+0.6203305146	cd4
+0.6203101196	quality of life
+0.6203005911	follow up
+0.6202497134	market
+0.6202387419	ncds
+0.6202317928	molecular
+0.6200954447	paraná
+0.6199688571	mdd
+0.6198816900	uplc
+0.6198508933	load
+0.6196648816	existing
+0.6195531574	analyses
+0.6195169462	pandemic period
+0.6194826836	eu
+0.6194575599	union
+0.6194575599	tendency
+0.6194474073	cr
+0.6194366975	npi
+0.6194343293	arbs
+0.6192136446	kap
+0.6191833850	outcome
+0.6191540478	lamp
+0.6191262067	carvalho
+0.6191172683	test
+0.6190373169	intestinal
+0.6189894125	disseminated
+0.6189284863	cu
+0.6188892424	importance
+0.6188693957	rr
+0.6188583416	raas
+0.6188583416	ckd
+0.6188063029	disparities
+0.6187830244	depression
+0.6186838666	analyzing
+0.6186838666	random
+0.6186706337	negative effects
+0.6184147701	benefit
+0.6184132231	current
+0.6184048044	md
+0.6183772830	questions
+0.6182964940	rated
+0.6182467663	rodríguez
+0.6182366470	fever
+0.6182195322	occupational
+0.6182195322	dominant
+0.6182195322	visual
+0.6181845569	plan
+0.6181554804	transplantation
+0.6181532599	voc
+0.6181473271	no2
+0.6180201418	γ
+0.6180050632	replaced
+0.6179667315	clinical
+0.6179560946	covs
+0.6178889868	method
+0.6178198854	private
+0.6177848357	fear
+0.6177291519	pr
+0.6177097301	tb
+0.6176874857	learning
+0.6176683842	rcts
+0.6176094499	single
+0.6174734038	ps
+0.6174465417	cbd
+0.6174465417	ari
+0.6174465417	ev
+0.6174086914	phase
+0.6173969687	eurythenes
+0.6173969687	mauritius
+0.6173939692	prevalence
+0.6172947254	detection
+0.6172898097	extracellular
+0.6172746226	figure
+0.6171486365	eua
+0.6170874477	covid19
+0.6169133940	mode
+0.6167604949	spark
+0.6166420093	hcws
+0.6166242960	observation
+0.6165950671	cov
+0.6165825559	scopus
+0.6164479838	liquid
+0.6163632622	ed
+0.6163588321	identity
+0.6162881333	alma
+0.6162648993	rv
+0.6162572155	longitudinal
+0.6162196643	amr
+0.6161857988	cytokines
+0.6160159488	force
+0.6160074762	coverage
+0.6159954857	icus
+0.6159459044	open
+0.6159133590	kim
+0.6159044747	considerable
+0.6158783281	based
+0.6158609025	pacientes
+0.6157902510	u.s
+0.6157235174	human coronavirus
+0.6156818042	agent
+0.6156393795	cp
+0.6156022168	ecuador
+0.6155445933	frequency
+0.6154454800	abs
+0.6153281318	level
+0.6152813014	pathway
+0.6152242227	culture
+0.6151403947	output
+0.6151403947	fitness
+0.6149773799	genomic
+0.6149771009	4.0 international license
+0.6149368340	health
+0.6149106684	npis
+0.6148766219	developed countries
+0.6148306369	doctors
+0.6148195257	vip
+0.6148135229	social
+0.6147140001	review
+0.6146861157	scientific
+0.6146664885	full text
+0.6146452277	derived
+0.6145897491	pakistan
+0.6145733634	event
+0.6145239392	change
+0.6144292070	production
+0.6143815100	next generation
+0.6142519268	rnas
+0.6141440764	respiratory syndrome
+0.6140961662	cvd
+0.6139533871	contact
+0.6138785308	dance
+0.6138124611	vesicles
+0.6138002218	labor
+0.6136474145	syndrome
+0.6136142421	interleukin
+0.6135006126	literature
+0.6133843730	virus
+0.6133435137	tobaniviridae
+0.6133249993	tgf b
+0.6132882197	filmarray
+0.6132543961	hr
+0.6132535257	sampling
+0.6132508263	south
+0.6131859286	psychological
+0.6131488552	informed
+0.6131488552	continent
+0.6131472074	infect
+0.6130952513	association
+0.6130278483	semg
+0.6130025348	pattern
+0.6128305563	development
+0.6128236617	replication
+0.6127530736	major
+0.6127337787	cohort
+0.6126868172	analyse
+0.6126552132	reis
+0.6126347788	dispersion
+0.6125767370	a1
+0.6125541234	mits
+0.6125197654	fda
+0.6124003747	mortality
+0.6123750787	latam
+0.6122012327	kidney disease
+0.6121753612	evs
+0.6121115230	ae
+0.6121003273	predict
+0.6120488102	research
+0.6120057690	source
+0.6119851492	impacts
+0.6119838400	young
+0.6119048823	aceis
+0.6118256665	preventive
+0.6117547614	reduction
+0.6117252474	denv
+0.6116792149	dissemination
+0.6116617537	general
+0.6115469247	stimulated
+0.6115319977	cycle
+0.6115298480	heart
+0.6115268212	admissions
+0.6114846704	family
+0.6114792408	cdc
+0.6114276540	°
+0.6113839740	size
+0.6113659948	participation
+0.6112673889	mb
+0.6111574794	survival
+0.6111300023	india
+0.6111124946	vl
+0.6111009012	proposed model
+0.6109633049	interactions
+0.6108353890	vitamin
+0.6106585624	diagnose
+0.6106585624	necessarily
+0.6106545472	dependent rna
+0.6105814916	cross
+0.6105512274	pm2.5
+0.6105049994	iqr
+0.6104652468	sd
+0.6103667673	carry
+0.6103291424	cns
+0.6103264054	leisure
+0.6102428106	inflammatory
+0.6101102953	applying
+0.6100856419	bodies
+0.6099601790	pe
+0.6098502720	exploratory
+0.6096799861	pulmonary
+0.6095153035	studies
+0.6094614431	continental
+0.6094614431	versus
+0.6093393156	jak
+0.6092371456	particulate
+0.6092322262	mediated
+0.6092138491	ratio
+0.6092002290	intervals
+0.6091888553	japan
+0.6091883065	antiviral
+0.6091297881	®
+0.6091099592	crp
+0.6090734520	blood
+0.6090190717	border
+0.6087873692	reviewed
+0.6087650995	support
+0.6087399564	pa
+0.6087164680	seir
+0.6086228752	severity
+0.6085439288	colombian
+0.6085430697	consisted
+0.6083601755	version
+0.6082987868	silva
+0.6082870856	pre
+0.6082744404	environment
+0.6082585861	area
+0.6082048477	variants
+0.6080630922	chronic diseases
+0.6080621589	vaccine
+0.6079837162	pollution
+0.6079608429	ms
+0.6078144357	nl63
+0.6077409386	developing
+0.6075403551	vaccines
+0.6073856979	wild
+0.6073471645	specificity
+0.6072590386	interpersonal
+0.6072506456	language
+0.6071991173	economic
+0.6068905234	application
+0.6068477429	behavior
+0.6067272682	units
+0.6066566403	human
+0.6066508944	oliveira
+0.6066508944	santos
+0.6066344537	regression
+0.6065918171	adherence
+0.6065393821	study
+0.6064717740	highly
+0.6063514809	viral
+0.6061533397	microcirculation
+0.6060627915	da
+0.6059350270	material
+0.6058352890	residuated
+0.6057209926	eating
+0.6056621108	case
+0.6055457736	surface
+0.6054954506	demographic
+0.6053451572	author
+0.6053392102	guillain
+0.6052592869	uk
+0.6052021042	relations
+0.6050051522	brasil
+0.6049929666	paulo
+0.6049407589	apelin
+0.6048773349	bnt162b2
+0.6046708256	expression
+0.6046569135	membrane
+0.6045672136	ros
+0.6044313977	n2
+0.6043111783	saturation
+0.6043089002	rofecoxib
+0.6043083332	coagulation
+0.6041448805	remdesivir
+0.6041243063	nuclear
+0.6040687600	letter
+0.6039249068	analysis
+0.6038848541	s2
+0.6038152090	built
+0.6037539689	stereotype
+0.6037240483	trained
+0.6037126426	management
+0.6036761075	ifn y
+0.6035903727	acute respiratory syndrome coronavirus 2
+0.6035168515	fat
+0.6034914457	climate
+0.6034847766	data
+0.6033047291	aa
+0.6032979665	sequences
+0.6031885166	corresponds
+0.6031464459	lee
+0.6031221160	factors
+0.6030713301	leptin
+0.6030492769	equations
+0.6029037627	n1
+0.6028754248	function
+0.6025074951	breast
+0.6024967422	small
+0.6024691570	visible
+0.6024681909	lead
+0.6024608527	severe
+0.6024159134	activity
+0.6023402008	face
+0.6022309089	animal
+0.6022205936	route
+0.6020444483	reading
+0.6019669664	clustering
+0.6018006587	relationship
+0.6017995765	appears
+0.6017789983	generation
+0.6017671681	referred
+0.6016094170	journal
+0.6014767781	similar
+0.6014539558	samples
+0.6014025768	chen
+0.6013835023	base
+0.6013691993	selective
+0.6013503060	implementation
+0.6013054952	hku1
+0.6011578233	moderate
+0.6011576233	americas
+0.6010897180	spatial
+0.6009291718	goals
+0.6006797666	swabs
+0.6005895572	news
+0.6005427751	interesting
+0.6004961927	susceptibility
+0.6004603640	arterial
+0.6003831418	ab
+0.6002875511	medrxiv
+0.6002554803	age
+0.6002031439	risk
+0.6001885166	kinds
+0.5999238324	incubation
+0.5998767748	challenge
+0.5998495867	ards
+0.5997806341	nh
+0.5997485395	associations
+0.5996540278	length
+0.5996225241	approach
+0.5996115935	monoclonal
+0.5995942624	distance
+0.5992464477	species
+0.5991644322	elisa
+0.5991197270	template
+0.5991193761	amazonian
+0.5991193761	fernández
+0.5990758532	supplementary
+0.5990596656	workers
+0.5990535831	huang
+0.5990535831	brazil's
+0.5990015202	reactive oxygen
+0.5989744690	financial
+0.5989019867	sars cov 2
+0.5988946062	systemic
+0.5987475122	trench
+0.5987022755	nasal
+0.5986562342	transplant
+0.5985840680	world
+0.5985770725	signal
+0.5985164758	high
+0.5984943724	scan
+0.5984274942	immunosensor
+0.5983723426	elderly
+0.5982997315	métodos
+0.5981183006	differentiation
+0.5981181948	presence
+0.5980974651	intergenic
+0.5980211922	odds
+0.5980078037	hospitalized
+0.5979907049	airport
+0.5978848532	allocation
+0.5978283200	page
+0.5977017987	liu
+0.5976132811	class
+0.5975207899	dynamic
+0.5974443108	strongly
+0.5973331485	adapted
+0.5972963380	yellow
+0.5972881211	purpose
+0.5972690698	heat
+0.5972474503	masks
+0.5971523398	connected
+0.5970937518	previous studies
+0.5970685941	poc
+0.5970260444	levels
+0.5968993523	intention
+0.5968896596	dias
+0.5968612377	0 0 0 0 0
+0.5966544357	infection
+0.5965188489	curve
+0.5965061396	differences
+0.5964825458	public health problem
+0.5964668350	conversely
+0.5964105103	acute
+0.5963703767	patients with cancer
+0.5963135681	logistic
+0.5962764581	heterogeneity
+0.5962538969	element
+0.5962495084	environmental
+0.5961785797	oxygen
+0.5961159001	tissue
+0.5960829928	peptides
+0.5960478896	reverse
+0.5960175607	implicated
+0.5959585144	mil
+0.5959315348	chronic
+0.5959029971	mice
+0.5958564264	overview
+0.5958173722	neglected
+0.5958155761	main
+0.5957939158	departments
+0.5956042195	al
+0.5955940519	fi
+0.5955867121	problem
+0.5955319455	smartphone
+0.5955182228	pge 2
+0.5954849601	natural
+0.5952921775	arginine
+0.5952880062	tonsils
+0.5952381994	peripheral
+0.5951199533	principles
+0.5950175607	rest
+0.5950131940	cell
+0.5949573723	breastfeeding
+0.5949486748	activated
+0.5946499054	propolis
+0.5945809279	infected
+0.5944933176	reach
+0.5944909358	august
+0.5944792768	information
+0.5944772290	peer
+0.5944685834	functional
+0.5944425039	decline
+0.5944019862	epitope
+0.5943577567	lattices
+0.5943539793	practice
+0.5943191202	cancer
+0.5942239996	domestic
+0.5941251947	motor
+0.5941250843	negative
+0.5940697494	start
+0.5939813796	exogenous
+0.5938825509	fatty
+0.5938773860	flavivirus
+0.5938524574	absolute
+0.5938448809	mathematical
+0.5937862331	zhou
+0.5937862331	france
+0.5936965629	transport
+0.5936822787	omics
+0.5936590801	social interaction
+0.5936462554	pasture
+0.5935877356	internal
+0.5935754518	quails
+0.5934430339	model
+0.5934327477	h1n1
+0.5932909776	coronary
+0.5932461393	cultural
+0.5931906836	technological
+0.5929763643	november
+0.5928959125	lectures
+0.5928644507	acquisition
+0.5927514709	shed light
+0.5927492855	feature
+0.5926806857	psychological symptoms
+0.5924594113	prion
+0.5924594113	crowding
+0.5924436557	igg
+0.5923805689	distributed
+0.5923657502	respiratory symptoms
+0.5923238652	hypolactasic
+0.5922893961	microvascular
+0.5922175706	physical
+0.5921816083	safe
+0.5921326188	significance
+0.5920460790	wood
+0.5919449721	cognitive
+0.5917269971	stakeholder
+0.5917057011	by nc nd 4.0
+0.5916877869	evolution
+0.5915283271	exclusion
+0.5915283271	ferritin
+0.5915173817	furin
+0.5914758873	subjected
+0.5914758873	causative
+0.5914262278	introduced
+0.5914154576	ar
+0.5913594831	mobility
+0.5913140441	cs
+0.5912562781	weight
+0.5912128620	reality
+0.5911841193	adult
+0.5911506747	subjective
+0.5911494556	forced
+0.5910898800	confidence
+0.5909925691	systematic
+0.5908307843	guidelines
+0.5907374495	controls
+0.5907275212	organ
+0.5906672087	medication
+0.5906451195	oncology
+0.5905878433	m pro
+0.5904149583	fasting
+0.5903280714	basis
+0.5901641164	tests
+0.5901367224	mental
+0.5901310588	multinational
+0.5901048995	nonetheless
+0.5899965905	aim
+0.5898968615	polyphenols
+0.5898968615	workshop
+0.5898924358	provision
+0.5898924358	computed
+0.5898638541	flow
+0.5898138042	latin
+0.5897813984	implicit
+0.5896862024	mild
+0.5896451016	inclusion
+0.5896319267	degradation
+0.5896213767	statistical
+0.5895778178	mediastinal
+0.5895778178	meetings
+0.5895778178	sensor
+0.5894694273	alterations
+0.5894229406	differential
+0.5891635223	hygiene
+0.5891438698	discovery
+0.5891334945	bacteria
+0.5890745340	población
+0.5890349349	australia
+0.5890308503	strength
+0.5890116804	likewise
+0.5888890515	outcomes
+0.5886697655	throughput
+0.5886148818	religions
+0.5886148818	crowdsourcing
+0.5885452194	life
+0.5882676834	sky
+0.5882109015	patients
+0.5881190720	pooling
+0.5881025767	interests
+0.5881025767	limb
+0.5879732924	detecting
+0.5879624333	year old
+0.5878377046	planning
+0.5877131641	reductions
+0.5876273289	−
+0.5875655794	territorial
+0.5875655794	stored
+0.5875396558	meta
+0.5874975287	accumulation
+0.5873426398	individuals
+0.5871641453	tourists
+0.5871551171	speed
+0.5870437744	pharmaceutical
+0.5869980233	agudo
+0.5869787128	spectral
+0.5869464155	relies
+0.5868680770	s1
+0.5868006419	perceived
+0.5867497581	sensitivity
+0.5866149644	connectivity
+0.5865796312	array
+0.5864821330	delta
+0.5863968556	household
+0.5863374382	signaling
+0.5863045346	diplomacy
+0.5862649673	dependent
+0.5860636719	schistosomiasis
+0.5859524393	etiological
+0.5859473437	gi
+0.5858992303	disease
+0.5858650074	prevention and treatment
+0.5858583310	transformations
+0.5858583310	villous
+0.5858519050	semantic
+0.5858025098	severe symptoms
+0.5857256389	intentions
+0.5857256389	cholesterol
+0.5857148874	choice
+0.5856079754	partial
+0.5854899890	rules
+0.5852982222	calls
+0.5850751115	restriction
+0.5850366095	×
+0.5850067189	hunger
+0.5848110946	convection
+0.5848110946	mortars
+0.5844355174	memory
+0.5844197124	testing
+0.5842470837	vaccination strategies
+0.5842331630	membership
+0.5841934838	commonly
+0.5841746695	bibliometric
+0.5841331954	angiotensin
+0.5841140885	paciente
+0.5840049531	central nervous system
+0.5839821297	intelligence
+0.5839611136	programs
+0.5838643508	typical
+0.5838343446	economy
+0.5837549616	software
+0.5837385797	lvef
+0.5837064371	discontent
+0.5837064371	literary
+0.5836750987	microbial
+0.5836750987	adolescence
+0.5836750987	dimension
+0.5836750987	mutants
+0.5836199218	water
+0.5834793331	caso
+0.5834671874	sex
+0.5834587032	terapia
+0.5834247634	emotional
+0.5833039324	energy
+0.5832798606	variable
+0.5831639594	optimal
+0.5831301220	fields
+0.5831185969	processed
+0.5830728619	turnover
+0.5830084748	prp
+0.5828782936	nationwide
+0.5826656679	systems
+0.5825994430	telemedicine
+0.5824825172	nucleotide
+0.5823895756	reason
+0.5823396154	redox
+0.5823307416	coronavirus disease 2019
+0.5822856934	months
+0.5822351214	makers
+0.5822135114	frailty
+0.5819887590	governmental
+0.5819226793	nonlinear
+0.5818829230	rtp
+0.5818735375	drop
+0.5816175688	share
+0.5815557319	attribution
+0.5815420457	balance
+0.5814530326	virology
+0.5814509536	settlements
+0.5814509536	diagnóstico
+0.5814509536	concrete
+0.5814509536	tocilizumab
+0.5813540303	toxins
+0.5813540303	teachers
+0.5813391677	parasite
+0.5813281914	adaptive
+0.5812558386	molecule
+0.5810736326	mf
+0.5810736326	ecmo
+0.5808818099	license
+0.5808248505	mas
+0.5808175755	galapagos
+0.5808175755	germain
+0.5806881893	kingdom
+0.5806869030	identification
+0.5806638306	services
+0.5806452466	westin
+0.5806164727	happiness
+0.5805986202	commercially
+0.5805803120	immune
+0.5805704977	disinfection
+0.5805190331	socioeconomic
+0.5805157575	azithromycin
+0.5804987598	originated
+0.5804962682	check
+0.5804919085	exposed
+0.5804482609	toxic
+0.5804357143	moderate to severe
+0.5804149115	habits
+0.5803844761	falls
+0.5803751604	electrochemical
+0.5803127339	law
+0.5802440216	turn
+0.5801823237	artificial
+0.5801736565	content
+0.5800864082	asymptomatic
+0.5800734220	hand
+0.5799279935	restarted
+0.5799243358	public
+0.5799032766	related deaths
+0.5798912882	modification
+0.5797297780	inhabitants
+0.5796008217	disk
+0.5796008217	lysosomal
+0.5794365250	hfmd
+0.5794258919	throat
+0.5794250242	shift
+0.5793794708	address
+0.5793635735	hfe
+0.5792814638	gut
+0.5792814638	native
+0.5791514562	response
+0.5791069272	feedback
+0.5789296798	perpetuity
+0.5789064023	geographic
+0.5788938121	epidemic
+0.5785168508	mm
+0.5785108099	term
+0.5784936332	effective treatment
+0.5784670012	lifestyle
+0.5784386486	political
+0.5783772733	smear
+0.5782700564	pharmacists
+0.5781864828	progression
+0.5781855668	depressive
+0.5781286572	nmdar
+0.5779541728	position
+0.5779518648	polymerase
+0.5779454099	media
+0.5777251964	participate
+0.5776561541	kyn
+0.5776558436	authorities
+0.5776340456	intensive
+0.5776220280	morphological
+0.5775010688	binds
+0.5774794708	frequent
+0.5774061540	precarious
+0.5773948054	older
+0.5773679179	attractive
+0.5773554960	oti
+0.5773552574	combination
+0.5771933120	organization
+0.5769219948	dslr
+0.5769016774	pandemic
+0.5768778357	standard
+0.5766324868	word
+0.5765532720	individual
+0.5764705434	ui
+0.5763468606	high risk
+0.5762644957	president
+0.5761459746	pública
+0.5761235060	public health emergency
+0.5760481193	linear
+0.5759863991	relative
+0.5759518648	possibility
+0.5757609379	sign
+0.5757594645	core
+0.5757384507	list
+0.5756381735	statement
+0.5756262521	primary
+0.5755777659	na
+0.5754879256	fight
+0.5754814998	neuroinflammation
+0.5754814998	sand
+0.5754814998	pharmacy
+0.5753265416	transmission
+0.5752854377	observational
+0.5752548543	disorders
+0.5752091064	belong
+0.5751302358	spectrum
+0.5751086441	chikungunya
+0.5749494654	point of care
+0.5749396975	characterization
+0.5749281603	past
+0.5749280254	availability
+0.5749210480	areas
+0.5748193422	racial
+0.5747763131	ifng
+0.5747363007	socio
+0.5744552046	assessment
+0.5744416344	population
+0.5744413933	minimum
+0.5743994957	ph
+0.5743826699	hps
+0.5743753888	microbiota
+0.5742319071	scaffolds
+0.5739520367	exchange
+0.5738035234	cytokine
+0.5737898198	industry
+0.5736981080	abstracts
+0.5736569460	fig
+0.5736532598	per capita
+0.5736513387	verify
+0.5736513387	scope
+0.5736271333	implement
+0.5736171331	restricted
+0.5735913345	ecosystems
+0.5735613358	leakage
+0.5735547893	emergence
+0.5735285670	srh
+0.5735158686	droplets
+0.5734206717	fml
+0.5734164467	requirements
+0.5734017306	hypothesis
+0.5732957986	regulation
+0.5732953575	presentation
+0.5732348700	item
+0.5732026737	field
+0.5730998798	endothelial
+0.5730764714	molecules
+0.5730073060	seeks
+0.5729784659	nd
+0.5729270986	rely
+0.5728840709	app
+0.5728503151	usa
+0.5728335724	mothers
+0.5728335724	lo
+0.5727887905	explained
+0.5727466618	treatments
+0.5727327743	press
+0.5727232689	significant
+0.5726763807	kda
+0.5726383631	middle
+0.5726035193	death
+0.5725872870	exonuclease
+0.5725536814	pao 2
+0.5725363970	responsible
+0.5725361400	approved
+0.5724535860	betacoronavirus
+0.5724302853	determined
+0.5724261648	unit
+0.5724149104	nasopharyngeal
+0.5723148766	promotion
+0.5723035069	extraction
+0.5722697457	phenomenon
+0.5721829167	altman
+0.5720851621	view
+0.5720256719	failure
+0.5719519063	aid
+0.5718845168	dynamics
+0.5718491245	coupled
+0.5718277111	interestingly
+0.5718014722	burnout
+0.5715980956	construction
+0.5713656368	career
+0.5712091064	certified
+0.5711664975	proteins
+0.5711549670	interventions
+0.5711438888	tio 2
+0.5710744384	sanitary
+0.5710550319	concerns
+0.5709486086	concern
+0.5709301682	markers
+0.5709073060	adoption
+0.5709073060	copyright
+0.5708915076	doença
+0.5708857354	late
+0.5706623622	consensus
+0.5706341746	síndrome
+0.5706341746	trophoblast
+0.5705436450	zikav
+0.5705436450	qmra
+0.5704231385	graphs
+0.5703298916	specific
+0.5703066697	dental
+0.5702514993	health authorities
+0.5701692701	care
+0.5701434454	infections
+0.5701263926	real
+0.5700781333	thousands
+0.5700781333	advantage
+0.5700781333	powerful
+0.5700618009	ha
+0.5700027169	es
+0.5699442916	improvement
+0.5698274366	stream
+0.5698274366	peels
+0.5698274366	uterine
+0.5698274366	hospitalisation
+0.5698274366	myometrium
+0.5697530042	dexamethasone
+0.5697530042	mucosal
+0.5696525708	nursing
+0.5696401490	α
+0.5696222648	prevention and control
+0.5696199163	met
+0.5695339876	estimated
+0.5695080599	institutional
+0.5694860154	proinflammatory
+0.5694701774	map
+0.5693860402	nos
+0.5693531003	domains
+0.5692842065	exposure
+0.5691495196	receive
+0.5691292060	potential
+0.5690486915	enzyme
+0.5689336543	poly
+0.5689321761	complexity
+0.5687266830	induced
+0.5685784953	rdt
+0.5685206021	cost
+0.5684961675	health status
+0.5683833983	winter
+0.5683605411	series
+0.5682572086	vascular
+0.5682430288	supply
+0.5682201936	committee
+0.5681495196	extracted
+0.5681191012	kit
+0.5680293980	phc
+0.5680293980	ltp
+0.5680216457	migrant
+0.5680216457	lysosomes
+0.5680216457	owned
+0.5680216457	climates
+0.5679987265	dead
+0.5678316810	broad
+0.5676447013	xxx
+0.5676447013	emergências
+0.5676447013	rodent
+0.5676314408	characteristic
+0.5675619043	communication
+0.5675173412	dataset
+0.5674479337	reports
+0.5674000211	initiative
+0.5673746973	hydroxychloroquine
+0.5672781241	sectional study
+0.5672713216	relationships
+0.5671596156	strategy
+0.5671398584	regulatory
+0.5671143378	technique
+0.5670930233	persons
+0.5670492549	mechanical
+0.5670070738	low
+0.5669385805	grade
+0.5669341516	outpatient
+0.5669341516	collectively
+0.5668177681	responses
+0.5667297421	translation
+0.5666393290	distress
+0.5666294892	awareness
+0.5666281040	point
+0.5665637349	chloroquine
+0.5665589882	epithelial
+0.5664321761	quantify
+0.5663939370	elective
+0.5663485623	os
+0.5663450442	accuracy
+0.5663403372	integration
+0.5662969654	closely
+0.5661017809	photosynthetic
+0.5660960973	search
+0.5660013556	meeting
+0.5659691972	cleavage
+0.5659444566	characteristics
+0.5658799480	pooled
+0.5658799480	interactive
+0.5658701028	types
+0.5658374263	authorization
+0.5658326278	primers
+0.5658326278	substitution
+0.5658326278	sepsis
+0.5657919625	diagnosis
+0.5657824708	onset
+0.5657648451	bovine
+0.5657033719	great
+0.5656610258	inform
+0.5656224674	declaration
+0.5655555170	balanced
+0.5655555170	exploration
+0.5655555170	hypothetical
+0.5655378727	average
+0.5654623396	mpf
+0.5652185183	incidence
+0.5651848349	fluids
+0.5651548106	running
+0.5651132058	hybridization
+0.5651132058	drafted
+0.5650460499	set
+0.5650327702	firm
+0.5650327702	staging
+0.5650327702	textual
+0.5650283453	protect
+0.5649362112	step
+0.5649318637	respiratory
+0.5648215664	operators
+0.5647880897	mismatches
+0.5647091624	sequence
+0.5647017803	exponential
+0.5646954256	dimer
+0.5646708327	elimination
+0.5646216069	matter
+0.5646185649	era
+0.5645879470	iv
+0.5643952759	paper
+0.5643635668	recruitment
+0.5642610477	remarkably
+0.5642595864	improve
+0.5642296037	commuting
+0.5642263774	alcohol use
+0.5642149852	st
+0.5641933700	oxidative
+0.5641797515	kansasii
+0.5641601038	neutralization
+0.5641601038	vertical
+0.5640780619	outbreak
+0.5640067661	capital
+0.5638634706	manifestations
+0.5637036706	peerj
+0.5636010421	isolated
+0.5635975643	sterilization
+0.5635975643	ketamine
+0.5635684950	collected
+0.5635046209	pss
+0.5635046209	ohrqol
+0.5634946685	limited
+0.5632845803	higher
+0.5631597848	pwd
+0.5631597848	scfas
+0.5631480011	bioinformatics
+0.5631095919	preschoolers
+0.5630474437	stickers
+0.5630474437	cameras
+0.5630474437	depths
+0.5630178749	produced
+0.5630020505	scenarios
+0.5629593553	antibodies
+0.5628793566	manuscript
+0.5628233124	productivity
+0.5627295242	investigate
+0.5627281210	dust
+0.5627104686	models
+0.5626889169	nosocomial
+0.5625842489	path
+0.5625842489	risco
+0.5625842489	esta
+0.5625523501	sem
+0.5624580997	submerged
+0.5624580997	rearrangement
+0.5624580997	microti
+0.5624580997	melanoma
+0.5624274141	cold
+0.5623651810	years
+0.5622600290	vi
+0.5622386406	aims
+0.5622111807	um
+0.5621549417	este
+0.5620502094	infectious
+0.5619276359	relaxation
+0.5619268923	citation
+0.5618321332	probability
+0.5617118653	complement
+0.5617095886	multidisciplinary
+0.5616580371	multiple organ
+0.5616259197	cells
+0.5615179466	administration
+0.5614292382	nowadays
+0.5613834900	critical
+0.5613761442	develop
+0.5613472433	structural
+0.5612514167	body
+0.5612410189	making
+0.5612302228	taste
+0.5612177552	stabilization
+0.5612162213	é
+0.5611690032	sars cov and mers cov
+0.5610610432	rheumatic
+0.5610067102	proteases
+0.5609115600	functions
+0.5608845031	damage
+0.5608160198	analyze
+0.5607781878	days
+0.5607170515	ward
+0.5607170515	calcium
+0.5606906477	attention
+0.5606621215	side effects
+0.5606325541	objetivo
+0.5605995639	external
+0.5605773196	depend
+0.5605566601	active
+0.5604668225	supported
+0.5604471340	obese
+0.5603950447	adults
+0.5603527923	receptor
+0.5603462940	particles
+0.5603201731	detected
+0.5603195391	antimalarial
+0.5602781072	meet
+0.5602435985	selection
+0.5601940368	population based
+0.5601433523	antioxidant
+0.5600719079	germination
+0.5600402394	inter
+0.5600014867	biodiversity
+0.5599280874	sublingual
+0.5598341938	amounts
+0.5598016621	importantly
+0.5597667471	rhinovirus
+0.5596996740	bikaverin
+0.5596440274	landscape
+0.5596440274	consuming
+0.5595793038	expand
+0.5595774521	ministry of health
+0.5595664732	comparison
+0.5595623861	income
+0.5595202070	mouse
+0.5595202070	uma
+0.5595202070	overweight
+0.5594999641	diffusion
+0.5592272415	endemic
+0.5591512918	estimation
+0.5590970931	generally
+0.5589382592	dementia
+0.5589382592	consumers
+0.5588681581	follow
+0.5588442157	characterize
+0.5588255365	resultados
+0.5588048953	seasonal
+0.5587601618	treatment
+0.5587213935	measure
+0.5586092383	products
+0.5585961654	su
+0.5584812672	vacunación
+0.5583556725	incidence and mortality
+0.5582990113	reactive
+0.5582295430	derivatives
+0.5582160924	experience
+0.5580866295	distribution
+0.5580632375	estimating
+0.5580405631	seafood
+0.5580127733	period
+0.5579991180	interact
+0.5579292093	mechanism
+0.5579054566	air
+0.5579043890	delivery
+0.5577839118	morbidity and mortality
+0.5577533840	axis
+0.5577437632	dogs
+0.5576564649	van
+0.5576402754	cases
+0.5575756202	defined
+0.5575489350	smf
+0.5574275823	hematologic
+0.5574275823	prognostic
+0.5574275823	mucus
+0.5574275823	weighted
+0.5574275823	mayor
+0.5574275823	box
+0.5574275823	genotyping
+0.5574121200	educational
+0.5574091823	compounds
+0.5573802853	false
+0.5573526246	hmpv
+0.5573455249	placebo
+0.5573249341	attributed
+0.5572289323	glycoprotein
+0.5572229653	utilization
+0.5572017048	liver
+0.5571977448	coronavírus
+0.5571890058	control and prevention
+0.5569975547	epidemiologic
+0.5569130972	nations
+0.5567200718	progress
+0.5566174298	today
+0.5564652364	agents
+0.5563990660	promising
+0.5563801953	exploring
+0.5563782428	reopening
+0.5563782428	antifungal
+0.5563782428	booster
+0.5563782428	dispensing
+0.5563473536	surgical
+0.5563066148	represented
+0.5562643379	cough
+0.5562433565	strategies
+0.5562403923	passive
+0.5562403923	artículo
+0.5561355312	demand
+0.5561272981	innovation
+0.5561272981	ser
+0.5561003666	status
+0.5560972560	spatiotemporal
+0.5560490017	began
+0.5558622285	impact
+0.5555860335	sus
+0.5554477822	summary
+0.5554059156	measures
+0.5553520840	impacto
+0.5553520840	convalescent
+0.5553520840	measurements
+0.5553520840	leaders
+0.5553520840	property
+0.5553520840	signatures
+0.5552382441	estudo
+0.5552382441	enteric
+0.5552382441	′
+0.5552382441	adsorption
+0.5552046741	sought
+0.5551550791	sources
+0.5550754747	magnitude
+0.5550749597	fungi
+0.5550749597	sequential
+0.5550749597	survivors
+0.5550069204	arboviral
+0.5550069204	suicide
+0.5550069204	deletion
+0.5550069204	ventilator
+0.5550069204	loneliness
+0.5550069204	1.1.7
+0.5549582583	consumption
+0.5549484798	situation
+0.5549271289	role
+0.5549136160	combat
+0.5547264711	perfused
+0.5547094612	aged
+0.5546020827	attitude
+0.5546020827	usage
+0.5546020827	nanoparticles
+0.5544743516	communicable
+0.5543861961	designed
+0.5543848687	protective
+0.5543596162	rapidly
+0.5543514766	comparisons
+0.5543514766	physiology
+0.5542836461	males
+0.5542818876	policies
+0.5542376058	provided
+0.5542342797	events
+0.5541410381	lower
+0.5541116254	processing
+0.5540701212	rare
+0.5538896183	inequalities
+0.5538741832	precisely
+0.5538678295	nucleocapsid
+0.5538333575	variability
+0.5538229595	asthma
+0.5538074394	innate
+0.5537657757	structure
+0.5534352133	pdm09
+0.5532876494	son
+0.5532872423	live
+0.5532853809	symptomatic
+0.5532369518	confirmed
+0.5531697562	scenario
+0.5530581456	machine
+0.5530502921	severe cases
+0.5529628993	foi
+0.5529623062	decades
+0.5527946370	professionals
+0.5527570270	additionally
+0.5526854674	¼
+0.5526297825	density
+0.5525686697	countries
+0.5525619164	reduce
+0.5525030567	uremic
+0.5524998777	kb
+0.5524998002	extracts
+0.5524872488	weeks
+0.5522143288	common
+0.5520900690	migrants
+0.5520276234	cluster
+0.5520011310	decrease
+0.5519883123	proved
+0.5517826983	lessons
+0.5517467158	range
+0.5517391083	minimize
+0.5516517021	lymphocytes
+0.5516517021	considerations
+0.5516248070	activation
+0.5514748258	monitor
+0.5514241347	explain
+0.5513934207	examine
+0.5513479200	unique
+0.5511796896	line
+0.5511515845	vivo
+0.5511456838	illness
+0.5510017361	∼
+0.5509839801	vast
+0.5508933293	pneumonia
+0.5508057212	classified
+0.5507514513	generated
+0.5507346141	crisis
+0.5507121650	define
+0.5506747585	prenatal
+0.5506287940	driven
+0.5505746971	pressure
+0.5505183299	discuss
+0.5504850851	pubmed abstract | publisher full
+0.5504537933	unlike
+0.5504177445	effective
+0.5502227735	light
+0.5501517234	lines
+0.5501175454	destination
+0.5500944033	groups
+0.5499063388	affected
+0.5498564321	fully
+0.5498137845	enhance
+0.5497671333	mrnas
+0.5497317293	β
+0.5497222766	composed
+0.5497195743	bat
+0.5497118142	important
+0.5496456845	pathways
+0.5496019083	obtained
+0.5495054882	healthy
+0.5494423010	doi.org
+0.5493593830	deaths
+0.5492877532	proposal
+0.5492473400	person
+0.5492398645	context
+0.5492241215	approximate
+0.5491562255	crucial
+0.5491541787	proportion
+0.5491269712	composition
+0.5490707586	notably
+0.5489883238	increasing
+0.5489766059	thousand
+0.5488772420	funder
+0.5488628163	ethnic
+0.5488628163	suppression
+0.5487904734	disorder
+0.5487839676	predictors
+0.5487810931	existence
+0.5485091712	added
+0.5484489270	injury
+0.5483854066	ventilation
+0.5482793186	cascade
+0.5482793186	fourth
+0.5482529210	diversity
+0.5482387431	figure 1
+0.5482298909	foods
+0.5481695607	matrices
+0.5480887075	países
+0.5480867369	opportunity
+0.5480806828	called
+0.5480412558	overcome
+0.5478777281	belonging
+0.5478639111	admission
+0.5478167990	religious
+0.5477728486	dry
+0.5477523023	binding
+0.5477132776	epitopes
+0.5477132776	night
+0.5477132776	donors
+0.5476450664	brief
+0.5476321777	heating
+0.5474699451	biological
+0.5474380338	removed
+0.5472249498	medidas
+0.5472249498	narratives
+0.5472249498	scaffold
+0.5472249498	platelet
+0.5472249498	woman
+0.5472185799	process
+0.5471955393	ethical
+0.5471866497	doi
+0.5470899724	provide
+0.5469725638	effect
+0.5469115694	tracking
+0.5469027084	combinations
+0.5468782245	increase
+0.5467778794	iii
+0.5467669826	release
+0.5467403563	recombinant
+0.5466828555	land
+0.5466828555	inactive
+0.5465317236	urine
+0.5465205853	gold
+0.5464282370	reaction
+0.5463671836	protection
+0.5463567380	care unit
+0.5463498278	fungal
+0.5463290955	firms
+0.5463103112	stability
+0.5462623688	nurses
+0.5462575460	diagnosed
+0.5462392096	broilers
+0.5462317598	attribute
+0.5462317598	organizational
+0.5462317598	mucosa
+0.5462034054	hypoxemia
+0.5459529791	host
+0.5458963083	site
+0.5457735478	suggest
+0.5457352931	operational
+0.5457352931	simultaneous
+0.5457352931	briefly
+0.5457352931	interpretation
+0.5456953683	factor
+0.5456650220	scientists
+0.5456590809	greater
+0.5456580034	resilience
+0.5455903538	vulnerable
+0.5455582122	significantly
+0.5454623852	theory
+0.5453954050	highest
+0.5453909169	ao
+0.5453909169	bilateral
+0.5453909169	manual
+0.5453037724	durante
+0.5452780368	enfermedad
+0.5452723670	como
+0.5451845602	guide
+0.5451306885	traditionally
+0.5451297075	rates
+0.5450348496	prevent
+0.5449132109	guided
+0.5448695068	efficacy
+0.5448547774	evaluated
+0.5448174508	similarly
+0.5447804820	query
+0.5447612847	means
+0.5447090853	populations
+0.5446793650	transmissibility
+0.5446452941	angiogenesis
+0.5446452941	residential
+0.5446452941	scheme
+0.5446452941	impairments
+0.5446452941	todo
+0.5446452941	lectin
+0.5446452941	window
+0.5446452941	aggregation
+0.5446452941	exercises
+0.5446452941	officials
+0.5446084818	barriers
+0.5445879407	c
+0.5445740899	propagation
+0.5444683775	containment
+0.5444315498	k
+0.5444207110	knowledge
+0.5443865524	employees
+0.5443767945	0 ·
+0.5443402905	apo
+0.5442679769	bad
+0.5442570243	triggered
+0.5441954191	behaviour
+0.5441247481	µm
+0.5441095719	spread
+0.5438815634	antibody
+0.5438555516	shortage
+0.5438555516	diagnosing
+0.5437967924	tons
+0.5435726537	thrombotic
+0.5434954666	° c
+0.5434635609	understand
+0.5434600414	occurring
+0.5432769953	una
+0.5432288471	pregnant
+0.5430887998	wide
+0.5430201045	appearance
+0.5429768537	representation
+0.5429607948	target
+0.5429111182	likelihood
+0.5428223789	contagious
+0.5427341608	nervous system
+0.5427225980	component
+0.5426268602	finally
+0.5426178995	signs
+0.5425855800	suspected
+0.5425347484	não
+0.5424450160	substitutions
+0.5424291364	country
+0.5424153813	à
+0.5422849409	2021a
+0.5421242068	strict
+0.5420713998	focusing
+0.5420058664	results suggest
+0.5419822990	ncov
+0.5419205853	consists
+0.5419205853	millions
+0.5418740276	care units
+0.5417596930	controlled
+0.5417509126	influenced
+0.5417338298	identify
+0.5416987496	immunity
+0.5416775421	correlation
+0.5416089701	domain
+0.5413549450	caused
+0.5413428571	capacity
+0.5413407297	measurement
+0.5413407297	consistently
+0.5411924207	insomnia
+0.5411519577	complications
+0.5410752910	solver
+0.5410752910	tempo
+0.5410580036	clinical outcomes
+0.5409133346	noteworthy
+0.5409133346	respondents
+0.5409133346	characterizing
+0.5408682167	borders
+0.5407265861	quality
+0.5405770904	physically
+0.5405770904	transformation
+0.5404881061	subgroup
+0.5404881061	sera
+0.5404881061	municipal
+0.5404881061	frameworks
+0.5404881061	indoor
+0.5403712670	proposed
+0.5403383423	prone
+0.5402876800	review and meta analysis
+0.5400804734	conservation
+0.5400272319	determine
+0.5399299352	expansion
+0.5398911356	imposed
+0.5398238658	regional
+0.5397561819	circulation
+0.5396375371	weather
+0.5396375371	anos
+0.5396174589	trust
+0.5394533856	privacy
+0.5392264714	biomarkers
+0.5392226144	social and economic
+0.5392007644	numerous
+0.5391343946	serve
+0.5391207878	ou
+0.5388931461	ensure
+0.5388717288	required
+0.5387140589	formulation
+0.5386879549	restrictions
+0.5386047025	end
+0.5385632829	symptoms
+0.5385128699	promote
+0.5385012646	f
+0.5383563995	rich
+0.5383425796	coping
+0.5383425796	agreement
+0.5382961063	implications
+0.5382913920	compare
+0.5381004957	forms
+0.5380214173	increased
+0.5379814648	treated
+0.5379397396	forces
+0.5379388325	pathogenic
+0.5379206114	traits
+0.5378866051	automated
+0.5378827609	urgent
+0.5378682680	conducted
+0.5377475001	developed
+0.5377128699	adverse
+0.5376997032	perception
+0.5376988940	economic and social
+0.5376399614	trials
+0.5376139196	note
+0.5376054125	characterized
+0.5374316339	variety
+0.5373992533	act
+0.5373802809	relevance
+0.5373759613	comparing
+0.5373550155	thinking
+0.5373550155	drivers
+0.5373550155	striking
+0.5373439419	d
+0.5373433699	pathology
+0.5372993450	positive
+0.5372111182	deal
+0.5371793973	vary
+0.5371376937	led
+0.5370753219	ligand
+0.5370658495	l
+0.5369817045	transmitted
+0.5369629790	notification
+0.5369060774	users
+0.5368991844	mg
+0.5368239129	precision
+0.5368239129	shifts
+0.5367838293	form
+0.5367735350	related
+0.5366782713	simultaneously
+0.5365205903	words
+0.5365205903	extra
+0.5365096498	guidance
+0.5364884287	contributions
+0.5364181623	explore
+0.5363662249	constant
+0.5363446549	saliva
+0.5362957435	granted
+0.5362500608	inactivated
+0.5362322197	access
+0.5362251969	complicated
+0.5362251969	adjusting
+0.5362173080	complication
+0.5362173080	engagement
+0.5360915324	essential
+0.5360833630	methods
+0.5360551798	manage
+0.5360491892	clusters
+0.5360176989	sense
+0.5359376228	produce
+0.5358874244	targets
+0.5358022076	weak
+0.5358022076	multicenter
+0.5357960631	order
+0.5356607068	reasons
+0.5356452325	birds
+0.5356452325	stakeholders
+0.5355441128	static
+0.5355208205	table 1
+0.5353962303	hybrid
+0.5353962303	obstacles
+0.5353962303	embedded
+0.5353962303	therapeutics
+0.5353962303	tratamento
+0.5352910859	present
+0.5352230035	infants
+0.5351918031	forecasting
+0.5351909583	million
+0.5351251598	screened
+0.5350541548	quickly
+0.5350321487	needed
+0.5348205880	equipment
+0.5346741150	inhibiting
+0.5346117576	subsequently
+0.5345575709	worldwide
+0.5344902269	emotions
+0.5344455338	removal
+0.5343867158	problems
+0.5343664953	funding
+0.5343264794	contributing
+0.5343062976	mapping
+0.5342810535	inspired
+0.5342035515	involved
+0.5341205893	house
+0.5340857329	morbidity
+0.5340585068	daily
+0.5339475336	performed
+0.5338770437	profile
+0.5337854420	attributes
+0.5337854420	entre
+0.5337520116	opinion
+0.5336351096	repercussions
+0.5336202103	psychosocial
+0.5335851714	representatives
+0.5335851714	preparedness
+0.5335851714	mixture
+0.5335851714	drastic
+0.5335851714	measuring
+0.5335851714	voluntary
+0.5335851714	epigenetic
+0.5335851714	locally
+0.5333092426	threat
+0.5332339172	players
+0.5331856377	rash
+0.5330506447	universal
+0.5329872677	substances
+0.5329872677	confirmation
+0.5329657298	attitudes
+0.5329634390	campaign
+0.5329492533	pro
+0.5329230671	actual
+0.5329079396	ranging
+0.5328747670	das
+0.5328328981	discovered
+0.5327504122	difference
+0.5325864324	obtain
+0.5325683104	serum
+0.5325430387	aimed to evaluate
+0.5325074645	putative
+0.5324409192	evaluate
+0.5323767606	stranded
+0.5323209093	acids
+0.5322992514	history
+0.5322938664	preparation
+0.5322106857	nervous
+0.5321837409	relevant
+0.5321382604	enable
+0.5321358337	divided
+0.5321248840	maintain
+0.5321168733	double
+0.5319120161	standardized
+0.5319120161	popular
+0.5318871761	indicator
+0.5318713674	limit
+0.5318251064	nucleic
+0.5315573908	correlated
+0.5315329648	pela
+0.5315329648	bodily
+0.5315329648	dysregulated
+0.5313976251	special
+0.5313494472	background
+0.5313232104	complexes
+0.5312198642	concept
+0.5312015387	plos one
+0.5310600170	goal
+0.5309582944	j
+0.5308878914	isolates
+0.5308627434	focus
+0.5307642923	highlights
+0.5307333947	rehabilitation
+0.5307333947	attached
+0.5307333947	µg
+0.5307333947	sequelae
+0.5306909192	leading
+0.5306661506	neutrophils
+0.5305416805	lipids
+0.5305338611	close
+0.5304242207	enhancing
+0.5304242207	motivation
+0.5304242207	consumer
+0.5302693814	not certified by peer review
+0.5301836021	pathogenicity
+0.5301658916	chain
+0.5300714153	publication
+0.5300525127	titers
+0.5300322080	refractory
+0.5299848043	aerosols
+0.5299120444	objectives
+0.5298161406	markets
+0.5297717530	fit
+0.5297516418	covering
+0.5297516418	treating
+0.5297397404	bronchitis
+0.5297397404	spontaneous
+0.5297397404	hazards
+0.5295800566	formation
+0.5295590358	hepatitis
+0.5293656024	contributes
+0.5292718900	epidemiology
+0.5291383380	investigating
+0.5291049859	universities
+0.5291049859	user
+0.5290481812	newly
+0.5290345838	critically
+0.5289542026	outdoor
+0.5288200339	initially
+0.5288173571	sets
+0.5286845346	insufficient
+0.5286591868	considered
+0.5286391142	adult patients
+0.5286316588	fio 2
+0.5286117005	perspectives
+0.5285872284	non communicable diseases
+0.5285569447	identified
+0.5285416507	years of age
+0.5285098125	kits
+0.5284982690	recent studies
+0.5283984124	conflicts
+0.5283916651	fecal
+0.5283916651	supplementation
+0.5283265665	perfusion
+0.5283265665	neuronal
+0.5283000318	observed
+0.5282392679	μg
+0.5280955850	platforms
+0.5280893248	contributed
+0.5280837678	man
+0.5280828408	basic
+0.5280688109	pediatric
+0.5280236465	methodological
+0.5280100399	covered
+0.5280100399	influences
+0.5280100399	count
+0.5279752276	stay
+0.5279060819	linked
+0.5277907460	cases and deaths
+0.5277741707	neuropsychiatric
+0.5275893248	suitable
+0.5275823599	monocytes
+0.5275482085	elicited
+0.5275482085	sido
+0.5275482085	μm
+0.5275482085	round
+0.5275482085	topics
+0.5275482085	fine
+0.5275482085	engineered
+0.5275482085	hot
+0.5275482085	desired
+0.5275482085	immunocompetent
+0.5275482085	aumento
+0.5275482085	organelles
+0.5274687466	storm
+0.5274582544	outpatients
+0.5274382248	task
+0.5274224249	uncertainty
+0.5272418175	showed
+0.5269675561	del
+0.5269491412	shedding
+0.5269028490	mask
+0.5268213293	loss
+0.5268078250	presenting
+0.5267261632	robust
+0.5267259559	citizens
+0.5266958516	preclinical
+0.5266958516	directed
+0.5266958516	anosmia
+0.5266772165	respect
+0.5264938657	physical and mental
+0.5264115722	widely
+0.5264099649	p 0.05
+0.5262566082	proven
+0.5262470542	reinfection
+0.5262216938	resources
+0.5260798665	transcription
+0.5260282695	comparative
+0.5259702855	m
+0.5259437055	date
+0.5259086182	historical
+0.5259086182	independently
+0.5258911880	program
+0.5258774452	implemented
+0.5258738865	result
+0.5258559503	shown
+0.5258225632	direct
+0.5256789556	number of deaths
+0.5256523013	establish
+0.5254268242	predicting
+0.5254268242	official
+0.5254268242	publicly
+0.5254268242	eligible
+0.5253937263	parts
+0.5252845838	achieve
+0.5252713545	mind
+0.5252713545	membranes
+0.5252713545	hope
+0.5252713545	layers
+0.5251881260	unprecedented
+0.5251692159	heuristic
+0.5251692159	flooded
+0.5251647085	applied
+0.5251568678	correlations
+0.5251568678	isolate
+0.5251568678	broadly
+0.5250034072	vs
+0.5249654402	riboswitch
+0.5248018952	decreases
+0.5246626431	complementary
+0.5245586487	scores
+0.5245221241	enveloped
+0.5245221241	potent
+0.5244861104	spillover
+0.5244834799	social groups
+0.5244248077	acts
+0.5243291846	biochemical
+0.5243149908	organized
+0.5243102410	lives
+0.5241788479	preprint
+0.5241070769	más
+0.5240923248	camera
+0.5240535985	reuse
+0.5237475969	human to human
+0.5237159545	strategic
+0.5236804575	contexto
+0.5236804575	shortages
+0.5236804575	norms
+0.5236804575	neighborhoods
+0.5236804575	bajo
+0.5236804575	diameter
+0.5236804575	km
+0.5236804575	spectra
+0.5236804575	hormones
+0.5236804575	deficiency
+0.5236804575	implantation
+0.5236012886	inhibit
+0.5235364760	assess
+0.5235350859	macrophage
+0.5234862685	space
+0.5233878610	peak
+0.5233409098	vital
+0.5233409098	validation
+0.5233170275	perform
+0.5232830329	display
+0.5232762579	left
+0.5232031304	mixed
+0.5231592234	continue
+0.5230625957	strong
+0.5230520033	national health
+0.5229129561	specifically
+0.5227618186	incorporating
+0.5225147813	formal
+0.5224918763	wang et al
+0.5224145174	degree
+0.5223245750	prompted
+0.5223245750	triggers
+0.5222745749	effectiveness
+0.5222043189	estimate
+0.5220167376	polyproteins
+0.5220167376	threshold
+0.5219638946	normal
+0.5219466067	resulting
+0.5219349371	desastres
+0.5219349371	musical
+0.5219349371	nodal
+0.5219349371	sueño
+0.5219035055	recovered
+0.5218345182	platform
+0.5218206572	mitigate
+0.5217849155	province
+0.5217677308	inhibits
+0.5217677308	sistema
+0.5216418580	travel
+0.5215945314	disturbances
+0.5215698188	instead
+0.5215512031	territory
+0.5215375352	generate
+0.5214098521	temperatures
+0.5213736209	societies
+0.5212376886	true
+0.5211571333	economically
+0.5211571333	separation
+0.5211571333	vectors
+0.5211571333	prices
+0.5211571333	routines
+0.5210495785	terms
+0.5210218700	aimed
+0.5210122607	included
+0.5208859504	duration
+0.5208775737	residents
+0.5207970390	�
+0.5207094426	occurred
+0.5206686369	detect
+0.5205904251	se
+0.5205022697	n
+0.5204855686	por
+0.5204168647	decision
+0.5203376444	biomedical
+0.5203376444	flexible
+0.5203376444	teams
+0.5203376444	temporary
+0.5203376444	specialists
+0.5203345689	questionnaire
+0.5202770397	beginning
+0.5202021611	functionality
+0.5202021611	emergencies
+0.5202021611	multiplex
+0.5201853511	improves
+0.5201853511	minimal
+0.5201853511	continued
+0.5200820307	databases
+0.5200755547	smoking
+0.5200755547	combining
+0.5200466206	lineage
+0.5200430200	depending
+0.5200327638	x
+0.5200146348	database
+0.5200128689	involutive
+0.5199559532	gaps
+0.5199559532	introduce
+0.5199239516	focused
+0.5198937591	administrative
+0.5198803378	pelo
+0.5198291846	immunocompromised
+0.5198039735	lung disease
+0.5197565881	macrophages
+0.5197542304	parents
+0.5196979361	lethality
+0.5195368350	admitted
+0.5194587536	mammalian
+0.5194587536	empathy
+0.5194587536	exclusive
+0.5194587536	instances
+0.5194587536	resident
+0.5194587536	telephone
+0.5194587536	sizes
+0.5194281330	positions
+0.5194281330	investments
+0.5194123935	lack
+0.5193437893	encouraged
+0.5193437893	plans
+0.5193437893	mediating
+0.5193437893	losses
+0.5193437893	block
+0.5193437893	determination
+0.5193437893	meaning
+0.5193437893	repeated
+0.5193437893	reinforce
+0.5193437893	raising
+0.5193437893	modulating
+0.5193437893	uncontrolled
+0.5193379689	designing
+0.5193063544	faced
+0.5192614374	dose
+0.5192195114	sharing
+0.5192195114	reveals
+0.5191145321	sections
+0.5190284143	stems
+0.5190284143	exploitation
+0.5190284143	clinicians
+0.5190011206	legal
+0.5190011206	persistence
+0.5190011206	abnormal
+0.5189649507	numbers
+0.5188982187	confinement
+0.5187857146	genotype
+0.5187614158	conclusion
+0.5187047592	sevs
+0.5186587873	rate
+0.5186126979	covid 19 pandemic
+0.5183574974	conclusions
+0.5183424149	avoid
+0.5183160234	relation
+0.5182032276	synonymous
+0.5182032276	wellbeing
+0.5181666259	located
+0.5180930571	amino
+0.5176483617	t
+0.5175564556	so called
+0.5175427388	excessive
+0.5175403546	expected
+0.5174874593	fatality
+0.5174261380	integrated
+0.5171887396	r
+0.5171060537	started
+0.5170581828	hematological
+0.5170581828	encoded
+0.5170581828	pipeline
+0.5170581828	inappropriate
+0.5170581828	uniform
+0.5170581828	localized
+0.5170581828	coupling
+0.5170251852	compared
+0.5168023951	proof
+0.5167529908	shared
+0.5166799313	candidate
+0.5164768666	viral genome
+0.5164361212	short and long
+0.5162133969	effort
+0.5161745030	concentration
+0.5160415678	digestive
+0.5158723427	driving
+0.5158723427	collaboration
+0.5158723427	contemporary
+0.5158723427	similarity
+0.5158723427	protecting
+0.5158646028	physicians
+0.5157638233	probes
+0.5156929141	living
+0.5156902590	treat
+0.5156357476	majority
+0.5156156065	log
+0.5155814292	methodologies
+0.5155814292	indirect
+0.5155085202	distancing
+0.5154992636	effects
+0.5154182489	percentage
+0.5152721335	tract
+0.5152318040	depends
+0.5151599091	phases
+0.5151236206	= −
+0.5149713211	examples
+0.5149225951	account
+0.5148666468	time series
+0.5147852927	covid 19
+0.5147280850	sociodemographic
+0.5146769050	s
+0.5146145321	updated
+0.5146054668	instance
+0.5144822789	facing
+0.5144119893	clinically
+0.5144100793	contrary
+0.5144100793	permanent
+0.5139178656	inequities
+0.5139178656	mitochondrial
+0.5139003041	transition
+0.5138714879	variant
+0.5138550808	observations
+0.5138046072	lockdowns
+0.5137412865	oxidation
+0.5137412865	housing
+0.5136895494	sensitive
+0.5135797945	currently
+0.5133963770	quantitative
+0.5132889663	são
+0.5132196541	errors
+0.5131562928	supporting
+0.5130972194	converting
+0.5130500895	number
+0.5129258585	assessing
+0.5129258585	decreasing
+0.5129237857	improvements
+0.5129136112	practical
+0.5128568941	emerged
+0.5128506493	studying
+0.5128506493	remained
+0.5128081056	females
+0.5127439085	aligned
+0.5127439085	forecast
+0.5125195201	yet
+0.5124863599	reported
+0.5124375312	nodes
+0.5124222092	health outcomes
+0.5123728803	solutions
+0.5123714642	opportunities
+0.5122984333	inhibitory
+0.5122984333	microorganisms
+0.5122984333	mother
+0.5122984333	placenta
+0.5122984333	emphasized
+0.5122984333	phenotype
+0.5122984333	persist
+0.5122984333	sanitation
+0.5122984333	adjust
+0.5122984333	elicit
+0.5122984333	ventilated
+0.5122739544	qpcr
+0.5122611246	annual
+0.5122137208	inadequate
+0.5122137208	disruption
+0.5121850728	east
+0.5120731562	mitigation
+0.5119978624	supplies
+0.5119978624	uncertainties
+0.5119978624	counterparts
+0.5119978624	segment
+0.5119978624	accessibility
+0.5119978624	transmissible
+0.5119978624	cover
+0.5119978624	unexpected
+0.5119978624	mitigating
+0.5119978624	edema
+0.5119978624	synthesized
+0.5119978624	introduces
+0.5119978624	catalytic
+0.5119978624	adaptations
+0.5119828677	papers
+0.5118256110	signals
+0.5116815265	middle east respiratory
+0.5113834254	difficult
+0.5113408364	then
+0.5111286973	amplification
+0.5110814292	managing
+0.5109819267	contribute
+0.5107641886	analytical
+0.5107495428	movement
+0.5107455033	acid
+0.5105253667	baseline
+0.5104641763	mammals
+0.5104641763	objects
+0.5104401792	i
+0.5103158039	targeted
+0.5102987982	determining
+0.5102458633	world population
+0.5101996416	vulnerability
+0.5101940489	experts
+0.5101399617	participants
+0.5101126667	insights
+0.5100784639	setting
+0.5100784639	regular
+0.5096896077	specimens
+0.5096079919	approximately
+0.5096003697	colleagues
+0.5096003697	courses
+0.5096003697	socially
+0.5096003697	nm
+0.5096003697	filter
+0.5096003697	assessments
+0.5096003697	suspension
+0.5096003697	resolved
+0.5096003697	irradiation
+0.5096003697	climatic
+0.5096003697	relate
+0.5096003697	stressful
+0.5096003697	regulated
+0.5096003697	cytotoxicity
+0.5096003697	workplace
+0.5096003697	calculations
+0.5096003697	reservoirs
+0.5096003697	permeability
+0.5095662891	capable
+0.5094583905	e
+0.5094098016	communities
+0.5093598293	waves
+0.5093550808	bias
+0.5093051267	maps
+0.5091341865	burden
+0.5089725219	physiological
+0.5087005811	preliminary
+0.5085476329	expressed
+0.5084037180	final
+0.5083841627	resulted
+0.5083809756	p
+0.5080144988	regarding
+0.5077993911	~
+0.5077993911	ligands
+0.5077993911	reagents
+0.5077611246	diagnostics
+0.5076466671	conventional
+0.5065998029	third
+0.5064053481	compound
+0.5063554494	conditions
+0.5062962074	minutes
+0.5062962074	screen
+0.5062640099	para
+0.5062566689	b
+0.5062387772	academic
+0.5061923762	regardless
+0.5061410690	metabolites
+0.5061028939	highlighting
+0.5059671685	surveys
+0.5059569257	contrast
+0.5059046150	routine
+0.5058417209	adaptation
+0.5057481442	≥
+0.5054444521	globally
+0.5054194261	o
+0.5052378741	caregivers
+0.5052119449	addition
+0.5051251552	simulations
+0.5050819393	dos
+0.5050147717	genotypes
+0.5049420444	contexts
+0.5049420444	obtaining
+0.5048144028	divided into
+0.5046323337	feeling
+0.5043749355	improving
+0.5043482159	points
+0.5040561029	subjects
+0.5039923474	classification
+0.5037376867	vaccinated
+0.5035622214	lesions
+0.5035573136	contribution
+0.5035504806	excellent
+0.5035423160	municipalities
+0.5034202256	critically ill
+0.5033541012	households
+0.5033482159	recognized
+0.5032899798	broad range
+0.5032081239	students
+0.5030407357	intensity
+0.5028627664	0 0 0 0 0 0
+0.5028176303	surfaces
+0.5027633132	project
+0.5026971073	coronaviruses
+0.5026312052	options
+0.5025919410	injuries
+0.5025919410	arbovirus
+0.5023303708	poor
+0.5023013400	involvement
+0.5022156107	residues
+0.5022156107	fold
+0.5020999526	images
+0.5019278110	beds
+0.5018983479	corresponding
+0.5018945589	whether
+0.5017832676	suffered
+0.5017567160	thermal
+0.5017567160	constituted
+0.5017567160	failures
+0.5017567160	independence
+0.5017567160	sustainability
+0.5017567160	writing
+0.5017567160	observing
+0.5017567160	incorporated
+0.5017567160	welfare
+0.5017567160	spatially
+0.5017567160	calibration
+0.5017567160	written
+0.5017567160	origins
+0.5017567160	worker
+0.5017567160	adapt
+0.5017567160	assumption
+0.5017567160	sensory
+0.5017567160	beings
+0.5017567160	recover
+0.5017567160	recommends
+0.5017567160	travelers
+0.5017567160	matched
+0.5016731225	collection
+0.5016730471	city of wuhan
+0.5016700149	earlier
+0.5016056230	mediators
+0.5015954387	obesity
+0.5013121384	adulthood
+0.5010604342	handling
+0.5010604342	serology
+0.5010604342	argue
+0.5010604342	blocks
+0.5010604342	organism
+0.5009254855	229e
+0.5007174981	wave
+0.5006288454	dimensions
+0.5006225796	pandemics
+0.5005948081	trend
+0.5002698074	2020b
+0.5001001751	identifying
+0.5000545880	sobre
+0.4998864772	chemokines
+0.4998864772	apoptosis
+0.4998864772	funded
+0.4998864772	bats
+0.4998838552	interviews
+0.4998838552	signature
+0.4998838552	acceptance
+0.4998838552	compartmental
+0.4998356719	mutations
+0.4997868956	case study
+0.4997699737	for bandwidth reduction
+0.4996417812	p 0.001
+0.4995480044	practices
+0.4992839425	topic
+0.4992262824	evaluating
+0.4992094905	immunomodulatory
+0.4992094905	conserved
+0.4990608738	score
+0.4989639788	stage
+0.4989634327	finding
+0.4989511649	companies
+0.4988880731	modified
+0.4988880731	demands
+0.4988397093	cumulative
+0.4987743353	yield
+0.4987743353	causal
+0.4987743353	consumed
+0.4987743353	entities
+0.4987743353	enabling
+0.4987743353	genetically
+0.4987743353	ranges
+0.4987743353	equivalent
+0.4987743353	restaurants
+0.4987743353	practitioners
+0.4987743353	adopt
+0.4986000953	routes
+0.4983898673	recurrent
+0.4983898673	tasks
+0.4983315340	aerosol
+0.4983142818	execution
+0.4982974509	mandatory
+0.4981369120	simple
+0.4978154475	progressive
+0.4978154475	regulate
+0.4976067450	hard
+0.4976067450	quantity
+0.4976067450	accessory
+0.4976067450	antibiotics
+0.4976067450	abnormalities
+0.4976067450	dominated
+0.4975580872	beneficial
+0.4974178200	applications
+0.4972060522	datasets
+0.4972060522	presentations
+0.4971972979	half
+0.4970495356	original
+0.4969896398	even
+0.4969743740	elevated
+0.4969506876	acquired
+0.4969132606	monitoring
+0.4965719926	first
+0.4962699699	oh
+0.4961263619	adjustment
+0.4961263619	facilitating
+0.4961263619	campaigns
+0.4961263619	autonomy
+0.4961263619	contextual
+0.4961263619	profiles
+0.4961263619	adopting
+0.4961263619	capabilities
+0.4961263619	inconclusive
+0.4961263619	oriented
+0.4961263619	stimulate
+0.4961263619	soluble
+0.4961263619	sequenced
+0.4961263619	extension
+0.4961263619	track
+0.4961263619	multicentre
+0.4961263619	attracted
+0.4961263619	reproduction
+0.4961263619	kidneys
+0.4961263619	yielded
+0.4961263619	keeping
+0.4961216692	second
+0.4960738525	after
+0.4959515673	perspective
+0.4959115197	targeting
+0.4955597466	families
+0.4954986651	publications
+0.4953099363	since
+0.4952884623	alveolar
+0.4952884623	parasites
+0.4950671123	synthesis
+0.4950118994	bind
+0.4947429438	governments
+0.4946798599	challenges
+0.4946127685	fatigue
+0.4945771049	next
+0.4945663157	reactions
+0.4945027582	95 ci
+0.4942991660	occurrence
+0.4942856009	invasion
+0.4941757575	1a
+0.4940698208	male
+0.4940068972	continuous
+0.4940068972	investigations
+0.4937785410	experiments
+0.4936825121	extensive
+0.4936652445	nature
+0.4935516969	such
+0.4935366867	consequence
+0.4931755357	circulating
+0.4931398297	industrial
+0.4931398297	closed
+0.4929492689	laboratory
+0.4928734003	spaces
+0.4928664820	secretion
+0.4927799611	adjusted
+0.4924625624	
+0.4924400226	this
+0.4920019591	independent
+0.4917616500	easily
+0.4917616500	maintenance
+0.4915324560	growing
+0.4913546991	genera
+0.4913546991	antigens
+0.4912443044	reporting
+0.4912443044	sustained
+0.4911730262	approaches
+0.4910681680	connections
+0.4910681680	behaviours
+0.4910371906	many
+0.4909882944	predicted
+0.4909640943	timely
+0.4909640943	express
+0.4908610952	one
+0.4907862280	quarantine
+0.4906072315	extent
+0.4905905000	ability
+0.4901235778	complete
+0.4900939438	sub
+0.4900410577	lineages
+0.4900051813	delays
+0.4899073776	read
+0.4897067341	agencies
+0.4897067341	constraints
+0.4897067341	modifications
+0.4897067341	places
+0.4897067341	promoted
+0.4896144867	discussion
+0.4893763492	dyspnea
+0.4893763492	controversial
+0.4891829565	behavioral
+0.4889823061	hypothesized
+0.4889823061	harmful
+0.4888753838	laboratories
+0.4888457297	initial
+0.4887926066	stages
+0.4887070115	activities
+0.4886839580	most
+0.4886035425	authors
+0.4884544946	protocol
+0.4884526869	kumar et al
+0.4883559624	ultimately
+0.4883559624	barrier
+0.4883559624	acquire
+0.4883559624	devices
+0.4883559624	opening
+0.4883559624	differentiate
+0.4883559624	copies
+0.4883548378	epidemics
+0.4883275151	threats
+0.4883275151	limits
+0.4883275151	items
+0.4883064964	positively
+0.4882957040	enrolled
+0.4882871730	among
+0.4882315593	ecological
+0.4881853708	findings
+0.4881344048	illnesses
+0.4881344048	proportional
+0.4881211876	frequencies
+0.4879850041	together
+0.4879420058	methodology
+0.4878663345	discussions
+0.4878663345	suffering
+0.4878663345	carefully
+0.4878663345	regulating
+0.4878663345	seeking
+0.4878663345	population's
+0.4878663345	possess
+0.4878663345	chosen
+0.4878663345	shaped
+0.4878663345	aspect
+0.4878663345	debate
+0.4878663345	regime
+0.4878663345	smaller
+0.4878663345	killed
+0.4878663345	slightly
+0.4878663345	precise
+0.4878663345	manifestation
+0.4878663345	abundant
+0.4878663345	coming
+0.4878663345	interfere
+0.4878663345	participated
+0.4878663345	epicenter
+0.4878409999	malignancies
+0.4877786893	u
+0.4877704391	team
+0.4877686548	actors
+0.4876397373	slow
+0.4875635146	transportation
+0.4875635146	spent
+0.4875588043	longer
+0.4874539344	visits
+0.4871867873	theoretical
+0.4870518255	1b
+0.4870247004	human populations
+0.4869250802	commercially available
+0.4868258590	perceptions
+0.4867587214	condition
+0.4864104667	escape
+0.4863199652	nd 4.0 international license
+0.4862421434	experimental
+0.4861531064	member
+0.4861531064	negatively
+0.4861531064	eventually
+0.4861531064	stated
+0.4861156851	concentrations
+0.4860896481	therapies
+0.4858824204	so
+0.4858035573	no
+0.4857387383	assay
+0.4855698635	abundance
+0.4855698635	posed
+0.4855698635	continues
+0.4855698635	preventable
+0.4855698635	smell
+0.4855698635	reflected
+0.4855698635	dangerous
+0.4855698635	multifactorial
+0.4855698635	21st
+0.4855698635	exact
+0.4855698635	permits
+0.4855698635	surge
+0.4855698635	urgency
+0.4855698635	semi
+0.4855698635	searched
+0.4855122677	enzymes
+0.4854820053	fall
+0.4854820053	encodes
+0.4854820053	disasters
+0.4854820053	constructed
+0.4854820053	subunit
+0.4854820053	borne
+0.4849619051	issues
+0.4848187348	distinct
+0.4847091747	product
+0.4845430159	possibly
+0.4845430159	details
+0.4845430159	fusion
+0.4845430159	diarrhea
+0.4845055058	december 2019
+0.4843753838	usual
+0.4842617364	cellular
+0.4842362604	procedures
+0.4841544212	scales
+0.4841489728	faster
+0.4841489728	producing
+0.4841489728	predictions
+0.4841413605	researchers
+0.4841318769	infrastructure
+0.4840510443	outbreaks
+0.4838837382	reactivity
+0.4838837382	parameter
+0.4838837382	100,000
+0.4837595374	promoting
+0.4835201712	exhibit
+0.4835201712	ideal
+0.4834623707	formed
+0.4834623707	fatal
+0.4834623707	delay
+0.4832200969	prolonged
+0.4831902469	ensuring
+0.4831902469	submitted
+0.4831902469	charge
+0.4831902469	interacting
+0.4831902469	curves
+0.4831902469	grouped
+0.4831902469	conducting
+0.4831902469	aggressive
+0.4831902469	identifies
+0.4831902469	storage
+0.4831902469	rising
+0.4831902469	lymphocyte
+0.4831902469	lowest
+0.4831902469	skills
+0.4831902469	monthly
+0.4831902469	emergent
+0.4831902469	creation
+0.4831902469	exhibiting
+0.4831902469	experiment
+0.4831902469	trajectories
+0.4831902469	correspond
+0.4831902469	mention
+0.4831902469	termed
+0.4831902469	disrupted
+0.4831902469	forming
+0.4831902469	survive
+0.4831902469	nonstructural
+0.4830982848	pacientes com
+0.4830816031	system
+0.4829987555	though
+0.4828227009	personal protective
+0.4827831175	comorbidities
+0.4826792404	hit
+0.4825555754	future
+0.4824947596	increases
+0.4822127546	synthetic
+0.4822127546	intake
+0.4822127546	min
+0.4821167876	mrna
+0.4820592482	terminal
+0.4820592482	evolved
+0.4820592482	limiting
+0.4820080013	spreads
+0.4820080013	initiatives
+0.4820080013	return
+0.4818933850	efforts
+0.4816533196	lung diseases
+0.4815208480	inhibitor
+0.4814710199	several
+0.4813363008	men
+0.4813279610	viable
+0.4811309530	comorbidity
+0.4811309530	locations
+0.4810785045	closures
+0.4810785045	stable
+0.4810785045	alternatives
+0.4810785045	acting
+0.4809212795	die
+0.4803557765	results showed
+0.4797962331	minor
+0.4797962331	proportions
+0.4797962331	specialized
+0.4797962331	consequent
+0.4797962331	pathophysiological
+0.4797962331	weekly
+0.4797962331	impacted
+0.4797962331	induces
+0.4797912292	indicators
+0.4797134003	shape
+0.4796988272	widespread
+0.4793789707	new
+0.4793483276	billion
+0.4792010383	poorly
+0.4792010383	defense
+0.4792010383	manner
+0.4792010383	exhibited
+0.4792010383	suffer
+0.4792010383	childhood
+0.4792010383	helps
+0.4792010383	hypothesize
+0.4791330483	fast
+0.4791330483	detailed
+0.4791215693	leads
+0.4790850497	balb c
+0.4790010230	as
+0.4789238509	larger
+0.4787916111	exist
+0.4787916111	effectively
+0.4787867244	try
+0.4787867244	shed
+0.4787475704	2020a
+0.4787388728	modulate
+0.4787388728	receiving
+0.4787388728	swab
+0.4787388728	evolve
+0.4787388728	worsening
+0.4787388728	addressing
+0.4787388728	intracellular
+0.4787388728	entire
+0.4787168176	sectors
+0.4787153013	directions
+0.4787153013	evolving
+0.4787153013	standards
+0.4787153013	recruited
+0.4787153013	correct
+0.4787153013	unequal
+0.4787153013	addresses
+0.4787153013	avoiding
+0.4787153013	ratios
+0.4787153013	begin
+0.4787153013	illustrate
+0.4787153013	predominant
+0.4785644805	intense
+0.4785644805	indicating
+0.4783392577	dramatic
+0.4783392577	rarely
+0.4783392577	requirement
+0.4783392577	definitions
+0.4783392577	uptake
+0.4783392577	capture
+0.4783392577	limitation
+0.4783392577	run
+0.4782991439	training
+0.4781704374	facilitate
+0.4781704374	contacts
+0.4781704374	immunological
+0.4781649754	1,2
+0.4781059414	indirectly
+0.4778560994	reliable
+0.4777084881	symptom
+0.4777084881	discussing
+0.4774838353	categories
+0.4774091357	times
+0.4773968485	staff
+0.4773545664	evident
+0.4773545664	activate
+0.4773545664	zoonotic
+0.4773545664	creating
+0.4773545664	link
+0.4773275033	into account
+0.4773120300	female
+0.4772579909	±
+0.4770392201	subsequent
+0.4768954808	differ
+0.4768954808	favorable
+0.4768954808	etiology
+0.4768954808	closing
+0.4768954808	devastating
+0.4768954808	immunosuppressive
+0.4768954808	sudden
+0.4768954808	excluded
+0.4768954808	economical
+0.4768954808	medications
+0.4768954808	stronger
+0.4768443003	contagion
+0.4768270813	arise
+0.4768270813	responsibility
+0.4768270813	bring
+0.4768270813	advances
+0.4768270813	comparable
+0.4768270813	completely
+0.4768270813	advance
+0.4768270813	circumstances
+0.4766796697	affinity
+0.4765783628	detrimental
+0.4765783628	accelerate
+0.4765783628	appeared
+0.4765783628	broader
+0.4765783628	maturation
+0.4765783628	breath
+0.4765783628	contaminated
+0.4765783628	accurately
+0.4765783628	≤
+0.4765783628	verified
+0.4765783628	carrying
+0.4765783628	playing
+0.4765783628	displayed
+0.4765783628	expectations
+0.4765783628	idea
+0.4763423522	concepts
+0.4762976197	brought
+0.4762976197	schools
+0.4762972061	evidenced
+0.4762972061	respective
+0.4762972061	decade
+0.4762972061	excess
+0.4762972061	build
+0.4762972061	experiencing
+0.4762972061	varied
+0.4762830646	improved
+0.4762165822	delivered
+0.4762165822	blocking
+0.4760072727	consequences
+0.4759952907	technical
+0.4759952907	involve
+0.4759732430	controlling
+0.4755121119	tissues
+0.4754589306	possibilities
+0.4754589306	fewer
+0.4754589306	offers
+0.4754589306	comprising
+0.4754589306	aware
+0.4754589306	optimize
+0.4754589306	surrounding
+0.4754589306	poses
+0.4754589306	deficits
+0.4754589306	expertise
+0.4754589306	acquiring
+0.4754589306	clearance
+0.4754589306	efficiently
+0.4754589306	undergoing
+0.4753749186	phenomena
+0.4752555762	physical health
+0.4751863224	cd8 + t
+0.4751836625	proper
+0.4751196152	hospital mortality
+0.4750503536	extract
+0.4749302195	helpful
+0.4749302195	timing
+0.4749302195	prominent
+0.4749302195	clinic
+0.4749302195	intended
+0.4749302195	focuses
+0.4749302195	systematically
+0.4749302195	forward
+0.4749302195	enormous
+0.4749302195	latest
+0.4749302195	determines
+0.4749302195	mimic
+0.4749302195	concludes
+0.4749302195	paid
+0.4749302195	etiologic
+0.4749302195	naturally
+0.4749302195	ago
+0.4749302195	hinder
+0.4749302195	deficient
+0.4749302195	managed
+0.4749302195	employ
+0.4749302195	rigorous
+0.4748296071	infectivity
+0.4747540051	did
+0.4746470143	degrees
+0.4744618250	hosts
+0.4743562173	over
+0.4742992455	less
+0.4742316310	under
+0.4741500131	self
+0.4739582777	compromise
+0.4739582777	collapse
+0.4739582777	purposes
+0.4739538190	without
+0.4738797876	geographical
+0.4738207877	estimates
+0.4738207877	describes
+0.4737044058	issued
+0.4737044058	thought
+0.4737044058	segments
+0.4737044058	pathological
+0.4737044058	planned
+0.4737044058	direction
+0.4737044058	worst
+0.4736641122	sample
+0.4736442010	settings
+0.4734483612	away
+0.4732753002	connection
+0.4732753002	varies
+0.4732753002	impaired
+0.4732753002	considerably
+0.4732753002	inside
+0.4732753002	extensively
+0.4732753002	inducing
+0.4732252508	administered
+0.4732252508	proliferation
+0.4729170690	predominantly
+0.4728315233	exists
+0.4728315233	imbalance
+0.4728315233	designated
+0.4728315233	similarities
+0.4728315233	solid
+0.4728315233	observe
+0.4728315233	pointed
+0.4728315233	takes
+0.4728315233	accumulated
+0.4727788497	delayed
+0.4727788497	discusses
+0.4727788497	closer
+0.4727788497	economies
+0.4727788497	raise
+0.4727788497	encourage
+0.4727788497	translated
+0.4727788497	leaving
+0.4727788497	hypotheses
+0.4727788497	achieving
+0.4727788497	participating
+0.4727788497	analyzes
+0.4727788497	residence
+0.4727788497	conclude
+0.4727788497	guarantee
+0.4727728053	individual's
+0.4727728053	http
+0.4727728053	spp
+0.4727728053	pathologies
+0.4727728053	underwent
+0.4727631237	enables
+0.4727631237	innovative
+0.4727631237	promotes
+0.4727631237	functioning
+0.4726594174	huge
+0.4726594174	summarize
+0.4726594174	generates
+0.4726594174	myalgia
+0.4726594174	diffuse
+0.4726594174	officially
+0.4726594174	answered
+0.4726594174	input
+0.4726594174	uncertain
+0.4726594174	constitute
+0.4726594174	paramount
+0.4726594174	profound
+0.4725722713	strain
+0.4724380192	emerge
+0.4724380192	typically
+0.4724380192	modify
+0.4724380192	territories
+0.4724380192	greatest
+0.4724380192	cultures
+0.4724380192	homes
+0.4724024787	procedure
+0.4723806590	difficulty
+0.4723806590	implies
+0.4723806590	suspended
+0.4723806590	released
+0.4719176598	largely
+0.4719176598	analysed
+0.4717623152	reduces
+0.4717623152	unclear
+0.4715236168	seek
+0.4714732922	assistance
+0.4714732922	homeostasis
+0.4714732922	substrate
+0.4714732922	interplay
+0.4714732922	syndromes
+0.4714732922	assumed
+0.4714732922	fragments
+0.4714732922	antivirals
+0.4714732922	restrictive
+0.4714182011	intervention
+0.4713773775	continents
+0.4713773775	moment
+0.4713773775	priority
+0.4713773775	extremely
+0.4713773775	confirm
+0.4713773775	exacerbated
+0.4713190843	marked
+0.4713190843	reveal
+0.4713190843	describing
+0.4713103305	affect
+0.4712851508	personnel
+0.4710760823	in
+0.4709797424	remaining
+0.4709797424	demonstrating
+0.4709797424	contained
+0.4709503618	dysfunction
+0.4709216759	severe disease
+0.4708370147	varying
+0.4708370147	raised
+0.4708370147	fixed
+0.4707439676	works
+0.4706996380	sufficient
+0.4706816700	prepared
+0.4706816700	advantages
+0.4706816700	severely
+0.4702859858	infected patients
+0.4702180287	comprises
+0.4702180287	projects
+0.4702180287	concluded
+0.4702180287	gained
+0.4699284740	subject
+0.4698759502	assays
+0.4698104160	representing
+0.4697495701	created
+0.4696689249	examined
+0.4696689249	offer
+0.4696689249	substantially
+0.4696606684	reaching
+0.4696606684	supports
+0.4695065209	representative
+0.4694528322	variables
+0.4694048926	option
+0.4694048926	humanity
+0.4694048926	societal
+0.4694048926	partially
+0.4694048926	believed
+0.4694048926	assigned
+0.4694048926	bound
+0.4694048926	completed
+0.4694048926	expanded
+0.4694048926	favor
+0.4691574132	prognosis
+0.4691233085	pose
+0.4691233085	lacking
+0.4685176171	human health
+0.4684357108	reflect
+0.4684357108	valuable
+0.4684357108	headache
+0.4684357108	establishing
+0.4684357108	noted
+0.4684157289	altered
+0.4684157289	performing
+0.4684053203	tools
+0.4683858120	predictive
+0.4682960029	directly
+0.4679733975	decisions
+0.4678772583	apply
+0.4678772583	structured
+0.4678566691	novel
+0.4677280980	facilities
+0.4675928613	inflammation
+0.4674899844	efficiency
+0.4673944723	during
+0.4673384311	calculated
+0.4673384311	roles
+0.4673384311	documented
+0.4673384311	younger
+0.4671126797	strains
+0.4670939612	actions
+0.4667507563	behaviors
+0.4665440441	worth
+0.4665440441	mid
+0.4665075033	million people worldwide
+0.4662924170	features
+0.4660737247	receptors
+0.4657978126	pathogens
+0.4657916000	following
+0.4657764173	variations
+0.4657764173	pharmacological
+0.4656800282	do
+0.4656148866	properly
+0.4656148866	infecting
+0.4656023775	implementing
+0.4655978459	lungs
+0.4655600082	measured
+0.4655467645	accurate
+0.4654595420	location
+0.4654323521	old
+0.4654155728	investigation
+0.4653336392	the
+0.4653171670	hospitals
+0.4652853459	steps
+0.4651516048	experiences
+0.4649425127	classes
+0.4648949457	components
+0.4645655088	easy
+0.4645655088	initiated
+0.4645191636	changing
+0.4645191636	consideration
+0.4645191636	greatly
+0.4642755447	advanced
+0.4641015445	second wave
+0.4640300059	years old
+0.4640295547	2.5
+0.4638717132	limitations
+0.4638491840	articles
+0.4632640544	cancer cells
+0.4628730471	other
+0.4628036555	hospitalizations
+0.4627038287	de la
+0.4626181794	week
+0.4625430840	environments
+0.4625314498	commercial
+0.4623727300	virus transmission
+0.4623615976	invasive mechanical
+0.4623093538	employed
+0.4623093538	induce
+0.4622659226	published
+0.4622141673	reduced
+0.4619184890	does
+0.4618676730	recommended
+0.4618344524	about
+0.4618307087	world health
+0.4617814810	organizations
+0.4616744596	issue
+0.4613645125	candidates
+0.4613523804	serious
+0.4609375588	accordingly
+0.4608412999	patients hospitalized
+0.4607273803	regions
+0.4606677338	century
+0.4605464853	genus
+0.4604743190	3d
+0.4603941142	com
+0.4603728723	spreading
+0.4601876358	far
+0.4601766624	technologies
+0.4601766624	died
+0.4600490644	doses
+0.4600343104	previously
+0.4599254365	rather
+0.4591652864	each
+0.4591346538	few
+0.4591237926	successful
+0.4588988425	least
+0.4587150425	structures
+0.4585919292	risk of death
+0.4585476040	enhanced
+0.4583010205	difficulties
+0.4578958571	affecting
+0.4576918833	month
+0.4570758128	de salud
+0.4570205607	professional
+0.4569393028	cities
+0.4568420133	on
+0.4567484425	clear
+0.4567484425	makes
+0.4565346490	full
+0.4564623601	underlying
+0.4561599564	cd8 +
+0.4559173031	former
+0.4556827412	hospitalization
+0.4555866795	not necessarily
+0.4551056179	preventing
+0.4550941991	a
+0.4549563798	providing
+0.4544699811	risks
+0.4544256703	highlighted
+0.4543142707	extended
+0.4541137382	before
+0.4538674902	elements
+0.4538142707	maintaining
+0.4537135383	three
+0.4534804798	massive
+0.4534585500	rise
+0.4534585500	successfully
+0.4532529503	explored
+0.4532529503	scarce
+0.4530743789	reached
+0.4527931179	increasingly
+0.4526418392	validated
+0.4526418392	allowing
+0.4526418392	suggesting
+0.4526418392	achieved
+0.4526051297	changed
+0.4524632678	challenging
+0.4523386846	g
+0.4522476068	drugs
+0.4521892822	hours
+0.4521572292	protocols
+0.4521507678	situations
+0.4520649545	et
+0.4519389205	mentioned
+0.4519389205	trigger
+0.4517146059	organs
+0.4516631495	lockdown
+0.4516452406	solution
+0.4516351531	demonstrate
+0.4515172573	consider
+0.4507146059	entry
+0.4506458870	values
+0.4505805817	like
+0.4504919522	key role
+0.4503980101	sars cov 2 infection
+0.4503651027	properties
+0.4503327406	propose
+0.4502358145	an
+0.4500796933	addressed
+0.4496676050	none
+0.4495827406	worse
+0.4495827406	heterogeneous
+0.4495827406	involves
+0.4489485701	right
+0.4486596535	at
+0.4486585511	contamination
+0.4482304271	primarily
+0.4482152354	stranded rna
+0.4481747757	periods
+0.4481747757	substantial
+0.4481342325	genes
+0.4480391544	li et al
+0.4479794452	de saúde
+0.4478155838	presented
+0.4478010007	side
+0.4475597726	77
+0.4475427056	decreased
+0.4473781462	public health emergency of international
+0.4472964243	aspects
+0.4472471761	pathogen
+0.4472420272	shows
+0.4471575354	patterns
+0.4471528919	mechanisms
+0.4469821480	get
+0.4469457676	parameters
+0.4465499409	inner
+0.4462394038	course
+0.4455881274	techniques
+0.4455574903	declared
+0.4455249686	processes
+0.4453856489	https
+0.4452989343	along
+0.4447618094	causing
+0.4445001629	unknown
+0.4443143913	assessed
+0.4442527381	includes
+0.4442388605	also
+0.4440481087	more
+0.4440418495	represent
+0.4439462723	example
+0.4439248505	suggests
+0.4438326356	tested
+0.4437036142	reducing
+0.4436747254	find
+0.4435800993	diverse
+0.4435800993	named
+0.4432143913	costs
+0.4431356549	fundamental
+0.4431356549	allowed
+0.4430085089	studied
+0.4429323161	only
+0.4427185814	humans
+0.4426758245	represents
+0.4422313920	suggested
+0.4420229291	understood
+0.4419391362	affects
+0.4419391362	play
+0.4418554735	recorded
+0.4417496534	sites
+0.4417104291	registered
+0.4417026435	e.g
+0.4416985612	coronavirus disease 19
+0.4416544841	experienced
+0.4415641362	require
+0.4415388772	animals
+0.4415159847	requiring
+0.4412373388	largest
+0.4411929457	efficient
+0.4411758245	place
+0.4410756473	risk of developing
+0.4410641362	occur
+0.4407326633	remains
+0.4406758245	carried
+0.4406374387	selected
+0.4406374387	requires
+0.4405936461	benefits
+0.4403950166	criteria
+0.4403596132	discussed
+0.4402739466	received
+0.4402248505	remain
+0.4399418495	fact
+0.4398777735	revealed
+0.4397467600	investigated
+0.4396489378	unfortunately
+0.4395262799	ways
+0.4393989466	ongoing
+0.4393801470	institutions
+0.4393752633	two
+0.4392672623	35
+0.4392189822	presents
+0.4392041054	potentially
+0.4391612189	|
+0.4389183200	highlight
+0.4388718084	plays
+0.4388718084	occurs
+0.4388117985	keep
+0.4386998961	established
+0.4385608640	including
+0.4384642041	real time
+0.4384528148	indeed
+0.4382213034	mean
+0.4381536402	include
+0.4380384750	generating
+0.4380327587	i.e
+0.4380088988	brasileira de
+0.4374678690	nevertheless
+0.4374217944	associated
+0.4374215268	even though
+0.4373882513	he
+0.4373294735	analyzed
+0.4372012034	demonstrated
+0.4370384750	showing
+0.4369433911	origin
+0.4369184482	off
+0.4368808329	made
+0.4368347738	always
+0.4366041054	involving
+0.4366041054	frequently
+0.4364842089	come
+0.4364387753	36
+0.4363226176	35 36
+0.4361551446	q
+0.4359644791	31 32 33
+0.4358822751	way
+0.4357707720	adopted
+0.4355558118	26
+0.4354527284	2019
+0.4353963039	very
+0.4343378318	0
+0.4342287808	23
+0.4329896039	different
+0.4329066339	0.05
+0.4325902963	well
+0.4324318589	his
+0.4324226744	24
+0.4323108081	32
+0.4322764057	100
+0.4314851877	31
+0.4313383084	+
+0.4312423657	0.001
+0.4308652902	from
+0.4307003295	twenty
+0.4304068312	time
+0.4300881325	year
+0.4298108081	33
+0.4294574779	h
+0.4294220851	22
+0.4292286922	using
+0.4292068770	general population
+0.4289843110	seem
+0.4287023425	w
+0.4286558118	27
+0.4284624857	uso de
+0.4279621747	furthermore
+0.4277380291	apart
+0.4276670371	29
+0.4275358123	21
+0.4269352774	per day
+0.4267778885	y
+0.4267649114	for
+0.4262415085	25
+0.4259057686	respiratory syndrome coronavirus 2
+0.4256072824	2
+0.4255343218	=
+0.4255181938	high rates of
+0.4251308301	moreover
+0.4250328068	but
+0.4250293224	others
+0.4245365377	urgent need
+0.4245048734	12
+0.4242568111	infection by sars cov 2
+0.4242540634	work
+0.4237220474	changes
+0.4235969510	besides
+0.4233763398	up
+0.4233707959	use
+0.4232527598	make
+0.4226606031	in academia
+0.4226521282	day
+0.4225288375	19
+0.4224693377	interest
+0.4220547743	likely
+0.4218452946	16
+0.4216024630	per
+0.4215048734	15
+0.4213903364	herein
+0.4205048734	13
+0.4199146563	value
+0.4195183463	possible
+0.4193751818	20
+0.4193160564	covid 19 outbreak
+0.4188663854	14
+0.4187288843	v
+0.4186104640	by
+0.4185099848	17
+0.4183535649	9
+0.4181834798	health emergency
+0.4180997576	organized as follows
+0.4179457914	available
+0.4178204579	critical patients
+0.4177157051	4.0
+0.4170915963	e p r o o
+0.4168973397	18
+0.4167301481	3
+0.4165629484	non
+0.4164601082	may
+0.4162728162	with
+0.4162354330	10
+0.4161775670	s protein
+0.4160638496	8
+0.4160634815	7
+0.4157821363	4
+0.4155286742	hospitalized patients with covid 19
+0.4152400638	against
+0.4144864201	11
+0.4144770459	latter
+0.4142356849	computer
+0.4142295180	to
+0.4140217315	epidemiological studies
+0.4138968148	5
+0.4137466090	between
+0.4132855580	according
+0.4130816582	6
+0.4127644441	cause
+0.4127430921	not
+0.4126323344	28
+0.4124029945	95
+0.4122573942	so far
+0.4117821363	1
+0.4112378553	2020
+0.4107736902	1982
+0.4107524332	symptomatic patients
+0.4106035957	section 4
+0.4104653957	all
+0.4104580786	than
+0.4103895002	near
+0.4103843094	describe
+0.4100615213	patients admitted
+0.4100266873	60
+0.4096175246	people
+0.4096006790	part
+0.4094807400	mainly
+0.4090738153	useful
+0.4088380829	followed
+0.4085874351	particular
+0.4082415233	hence
+0.4072737437	rather than
+0.4071226106	best
+0.4061321498	described
+0.4061079622	thereby
+0.4059050832	co
+0.4057685188	the author funder
+0.4056506520	better
+0.4053803230	seems
+0.4052000084	eight
+0.4046690176	the early stages
+0.4046450444	last
+0.4045976704	0.03
+0.4045513511	70
+0.4044059708	however
+0.4034815779	show
+0.4032442795	soon
+0.4021547888	used
+0.4020936248	help
+0.4017679491	determine whether
+0.4016807689	44
+0.4013644699	section 5
+0.4012902552	us
+0.4006850920	de
+0.4005813257	ill
+0.4004087430	of
+0.3996634172	once
+0.3991586656	known
+0.3989983961	into
+0.3978526906	who
+0.3975977814	sars cov 1
+0.3974201914	amount
+0.3972864950	otherwise
+0.3966387369	especially
+0.3966299314	six
+0.3952583128	necessary
+0.3948256040	scientific community
+0.3941728102	despite
+0.3934650641	27 28 29
+0.3932383670	go
+0.3927806692	patients with severe covid
+0.3926313687	− 1
+0.3926010279	here
+0.3923453545	therefore
+0.3921690881	take
+0.3918747019	appear
+0.3918505162	health problems
+0.3916784298	clinical studies
+0.3914848248	same
+0.3914410898	1975
+0.3913840583	another
+0.3910712298	protection against
+0.3904024068	follows
+0.3901886560	overall
+0.3897103983	th
+0.3895065196	contain
+0.3892494828	consequently
+0.3892189632	call
+0.3890725793	what
+0.3888727453	seven
+0.3888673120	34
+0.3887798775	1273
+0.3885221251	un
+0.3884963962	although
+0.3883964720	given
+0.3875812789	re
+0.3873723411	needs
+0.3871361369	one step
+0.3870834217	if
+0.3865101197	considering
+0.3864790146	her
+0.3860206622	section 3
+0.3853448752	top
+0.3851004729	concerning
+0.3844463952	further
+0.3838973814	thus
+0.3838213535	normally
+0.3838204754	main results
+0.3838109517	seen
+0.3835042194	develop severe
+0.3832966762	again
+0.3831063055	epidemiological data
+0.3824904353	front
+0.3820224765	high income
+0.3810967821	beyond
+0.3810764016	detection of sars cov 2
+0.3804549553	while
+0.3800182337	need
+0.3796962895	deaths from covid 19
+0.3794607834	mean age
+0.3788793460	they
+0.3786022307	the preprint in perpetuity
+0.3785247622	due
+0.3783961355	increased risk
+0.3783460127	some
+0.3781390042	there
+0.3778613906	we
+0.3777442355	found
+0.3776459883	our
+0.3774366254	pharmaceutical interventions
+0.3773523608	1994
+0.3767897380	con
+0.3766514783	7.4
+0.3762104328	these
+0.3761575242	because
+0.3760938370	26 27 28
+0.3752104328	it
+0.3751503702	looking
+0.3748158593	able
+0.3744586311	respiratory infection
+0.3739465269	upon
+0.3738570067	when
+0.3737689017	or
+0.3734100046	2030
+0.3729250986	too
+0.3728304403	sometimes
+0.3726147486	#
+0.3718398259	later
+0.3699629546	nearly
+0.3699629546	namely
+0.3687756544	immunity against
+0.3686237236	until
+0.3681167809	broad range of
+0.3667799276	zhang et al
+0.3660990237	confirmed cases of covid 19
+0.3656568135	know
+0.3651788576	nine
+0.3650051377	whole
+0.3646551471	2021
+0.3645225135	every
+0.3639493413	rapid spread of
+0.3638341807	deaths worldwide
+0.3637922510	1985
+0.3637226741	1992
+0.3636184686	risk of infection
+0.3633883378	severity of covid 19
+0.3631932212	give
+0.3621310255	studies conducted
+0.3616550894	wu et al
+0.3610970916	virus infection
+0.3601182259	four
+0.3598309696	300
+0.3586971774	j o u r n
+0.3583945775	and
+0.3582784696	89
+0.3579464619	within
+0.3571085520	much
+0.3561980324	800
+0.3561156245	particularly
+0.3557331747	1998
+0.3555370143	sars cov 2 variants
+0.3554984826	transmission of sars cov 2
+0.3542340053	in latin america
+0.3541309824	highest number of
+0.3540967661	time dependent
+0.3536594395	2022
+0.3536409113	de las
+0.3532300428	throughout
+0.3524333482	whereas
+0.3515959066	@
+0.3505138450	better understanding
+0.3504930112	around
+0.3500218616	both
+0.3498860916	3.5
+0.3496765315	having
+0.3496714847	1987
+0.3492798425	1918
+0.3491831707	how
+0.3487536841	almost
+0.3484305926	1996
+0.3481272199	still
+0.3480146118	five
+0.3478590965	good
+0.3473828045	see
+0.3466705974	towards
+0.3466087306	92
+0.3462018346	000
+0.3461695283	higher risk
+0.3461683687	look
+0.3459710462	distancing measures
+0.3458574417	64
+0.3457213984	self rated
+0.3453734661	zero
+0.3453734661	detail
+0.3453065526	themselves
+0.3451806071	$
+0.3450639602	74
+0.3447636163	1995
+0.3445454335	1.5
+0.3445202368	converting enzyme 2
+0.3440052923	r o o f
+0.3428670628	taken
+0.3426936969	76
+0.3426890453	98
+0.3421943957	81
+0.3419495447	72
+0.3419336242	46
+0.3418718932	54
+0.3418137503	2001
+0.3417112889	1999
+0.3414697779	0.01
+0.3413617858	various
+0.3412115206	78
+0.3412115206	2.3
+0.3410302243	patients admitted to
+0.3408720753	probably
+0.3407723211	22 23 24
+0.3404784347	1990
+0.3404784347	79
+0.3401301217	cc by
+0.3399945485	certain
+0.3395809287	86
+0.3390521224	93
+0.3386736065	1997
+0.3384900828	150
+0.3384391477	the vast majority
+0.3382579846	severe covid 19
+0.3382137844	access to health
+0.3381266218	68
+0.3379078284	62
+0.3378977500	comes
+0.3377921234	leading cause
+0.3377908502	66
+0.3376464501	below
+0.3375733218	45
+0.3374932730	y el
+0.3373676054	move
+0.3367931603	88
+0.3362628721	why
+0.3361715896	75
+0.3361365471	host cell
+0.3359089291	53
+0.3357461634	october 2020
+0.3352790619	its
+0.3345463969	200
+0.3344181457	85
+0.3344133128	placed
+0.3340463969	enough
+0.3340463969	toward
+0.3339436192	took
+0.3339436192	500
+0.3337890682	the rapid spread
+0.3337530548	49
+0.3337262738	depend on
+0.3336802631	a l p r e p
+0.3336257397	52
+0.3335028843	section 6
+0.3334885522	wide range of
+0.3334197813	severe respiratory
+0.3331429438	itself
+0.3331429438	57
+0.3331006478	1000
+0.3331006478	87
+0.3330714091	o l
+0.3329336961	51
+0.3327694064	61
+0.3326850770	63
+0.3324290242	done
+0.3322824849	those
+0.3321853014	47
+0.3321850770	nor
+0.3318166472	late 2019
+0.3317346682	plus
+0.3317346682	82
+0.3315759534	56
+0.3315176695	1993
+0.3314072344	believe
+0.3312807675	health organization
+0.3312628151	alone
+0.3310579845	neither
+0.3310579845	73
+0.3309796198	tract infections
+0.3307907179	just
+0.3303298217	outside
+0.3297896618	usually
+0.3297667807	67
+0.3296614023	30
+0.3295704205	ten
+0.3291243903	becomes
+0.3290235704	name
+0.3290235704	96
+0.3290231160	25 26 27
+0.3287661908	correlation between
+0.3286962512	2006
+0.3286451929	higher mortality
+0.3285069283	quite
+0.3285069283	400
+0.3285069283	never
+0.3285069283	120
+0.3284319607	contains
+0.3284319607	etc
+0.3284243037	now
+0.3282967693	behind
+0.3282967693	immediate
+0.3282260880	put
+0.3282260880	back
+0.3282260880	hundred
+0.3280012572	sars cov 2 diagnosis
+0.3277967693	58
+0.3277665535	o u r n
+0.3276415105	patients with severe covid 19
+0.3274459606	de los
+0.3273266386	associations between
+0.3272183279	48
+0.3270868087	38
+0.3264737781	becoming
+0.3263745756	uses
+0.3259636102	down
+0.3259121070	case of covid 19
+0.3257667484	41
+0.3255534886	2008
+0.3254614714	should
+0.3253747044	*
+0.3250713423	often
+0.3250055156	42
+0.3248481127	spread of sars cov 2
+0.3247364761	2015
+0.3245740354	2003
+0.3245032873	2013
+0.3242388286	2011
+0.3241449993	2004
+0.3241161178	que
+0.3241060948	39
+0.3233344592	69
+0.3233344592	71
+0.3231464294	across
+0.3229805131	2000
+0.3226464294	any
+0.3225009251	2016
+0.3219373770	their
+0.3217642707	2007
+0.3216737559	2017
+0.3214075690	own
+0.3211770758	2005
+0.3210018483	59
+0.3208869611	65
+0.3206584274	43
+0.3205357799	2012
+0.3204830022	2010
+0.3202159636	de pacientes
+0.3200301099	high levels of
+0.3196720817	p 0
+0.3195948050	55
+0.3195624094	50
+0.3194957021	rio de
+0.3194603201	2018
+0.3192533282	through
+0.3188074548	whose
+0.3185390967	out
+0.3183801625	focusing on
+0.3178684587	37
+0.3176914752	2009
+0.3167953728	90
+0.3165002149	children and young people
+0.3161928584	diagnosis of covid 19
+0.3158866534	relatively
+0.3157710907	number of cases
+0.3156203501	wide variety of
+0.3153632821	&
+0.3147917050	april 2020
+0.3146421492	40
+0.3146144624	few months
+0.3145404753	21 22 23
+0.3139722398	indicates
+0.3139572522	23 24 25 26
+0.3138959383	antibodies against
+0.3136134364	infected by sars cov 2
+0.3134429365	them
+0.3134399780	80
+0.3133780227	being
+0.3132582168	belong to
+0.3130435252	can
+0.3129459341	t cell
+0.3122596502	refers to
+0.3116443236	2002
+0.3113910821	already
+0.3113406495	2014
+0.3112656423	little
+0.3109147090	respectively
+0.3109047632	causes
+0.3107295526	above
+0.3105701420	clinical data
+0.3100193529	would
+0.3097129164	is
+0.3096205849	well known
+0.3095497422	this regard
+0.3095150511	most prevalent
+0.3091288123	indicated
+0.3091288123	cannot
+0.3090899046	ones
+0.3090057277	a license to display
+0.3086547752	replaced by
+0.3086260468	where
+0.3085961840	emphasis on
+0.3081843679	appropriate
+0.3079311814	had
+0.3078871601	be
+0.3078871601	been
+0.3078871601	was
+0.3078871601	which
+0.3078871601	are
+0.3078871601	has
+0.3078871601	that
+0.3078871601	have
+0.3078871601	were
+0.3078119254	mostly
+0.3074464260	allow
+0.3070978481	could
+0.3069716095	become
+0.3069617940	via
+0.3065627941	fear of covid 19
+0.3065330223	will
+0.3056986420	allows
+0.3054618107	indicate
+0.3052602595	containing
+0.3051645540	became
+0.3047114620	p =
+0.3046677195	must
+0.3046060047	provides
+0.3044224707	sars cov 2 rt
+0.3042449551	disease transmission
+0.3041572214	made available under
+0.3038327343	accompanied by
+0.3035932063	refer to
+0.3031418338	million people
+0.3031060047	either
+0.3027703719	might
+0.3027136159	health measures
+0.3026819488	health problem
+0.3012083992	in são paulo
+0.3011919041	patients with covid 19
+0.3007317530	in silico
+0.2994777299	cov 2
+0.2988663989	c t
+0.2982908304	n =
+0.2982268627	health related
+0.2980747916	ranging from
+0.2980410677	dealing with
+0.2976773010	reported cases
+0.2952673514	cases of covid 19
+0.2943919807	this study aimed to evaluate
+0.2939246237	patients hospitalized with
+0.2923076507	et al
+0.2919959118	commonly used
+0.2915443297	january 2020
+0.2905414808	brazilian society
+0.2898635693	relationships between
+0.2887568033	to combat
+0.2887044121	r o o f journal pre
+0.2870261826	acute phase
+0.2851103071	did not
+0.2848456871	emerging infectious
+0.2847747508	studies reported
+0.2846461342	tend to
+0.2843522364	60 years
+0.2835115004	a wide range
+0.2833601189	important role
+0.2825155680	depends on
+0.2820107634	24 25 26 27
+0.2783350235	figure 2
+0.2782478555	depending on
+0.2779733403	attempt to
+0.2764683333	global pandemic
+0.2756960765	does not
+0.2754189902	corresponds to
+0.2749976385	pandemic outbreak
+0.2745518283	negative results
+0.2730303661	to participate
+0.2726821730	caused by sars cov 2
+0.2721748362	section 2
+0.2721241567	remainder of
+0.2718748060	24 25 26
+0.2717026452	contribute to
+0.2715398211	accounts for
+0.2710193777	virus spread
+0.2687749326	better understand
+0.2687390741	the general population
+0.2686638500	away from
+0.2683066884	r =
+0.2672302399	focused on
+0.2669199816	cases worldwide
+0.2662831292	disease control
+0.2653187452	during pregnancy
+0.2650659495	relies on
+0.2647337605	accounting for
+0.2646364826	concerns about
+0.2635767686	r e
+0.2631210211	severe acute
+0.2627957865	risk factor for
+0.2620729617	association between
+0.2614497734	health conditions
+0.2609351235	in vitro
+0.2608155689	non essential
+0.2598267463	high level of
+0.2592639522	this paper
+0.2592501258	widely used
+0.2586280874	more frequent
+0.2578080446	novel coronavirus
+0.2576541306	study aims
+0.2576341082	t cells
+0.2569790051	+ t cell
+0.2567256868	sars cov 2 detection
+0.2560401526	cov 2 infection
+0.2557977103	american countries
+0.2552454776	aimed at
+0.2541513255	for instance
+0.2534139916	higher levels of
+0.2533751221	ci =
+0.2500575296	questions about
+0.2497012934	early stages of
+0.2492900614	seeks to
+0.2488258972	16 17 18
+0.2465412263	high prevalence of
+0.2458418808	coronavirus 2019
+0.2458316547	per year
+0.2457703440	manifestations of covid 19
+0.2456092828	belongs to
+0.2450285390	the present study
+0.2446382826	belonging to
+0.2437823261	subjected to
+0.2437618560	sars cov 2 genome
+0.2417344091	to respond
+0.2410767249	affected countries
+0.2408126267	covid 19 infection
+0.2402347865	the globe
+0.2402237544	current pandemic
+0.2377733304	the acute phase
+0.2372882283	the renin
+0.2370786090	in vitro and in vivo
+0.2368310447	healthcare system
+0.2365610841	risk factors for
+0.2362811159	23 24 25
+0.2361151239	incidence of covid 19
+0.2354089461	contributes to
+0.2346579155	number of cases and deaths
+0.2329061916	june 2020
+0.2324952393	this preprint
+0.2321666197	based study
+0.2318633932	the renin angiotensin
+0.2315315578	millions of people
+0.2313776718	increased risk of
+0.2311526945	rates of covid 19
+0.2306648513	at least
+0.2298754358	to solve
+0.2295499975	march 2021
+0.2291138161	anti sars cov 2
+0.2289968230	covid 19 crisis
+0.2287695290	relationship between
+0.2278661849	responsible for
+0.2277275457	most commonly
+0.2271358789	to vaccinate
+0.2259982906	income countries
+0.2259637669	an important role
+0.2255682388	based on
+0.2254644755	the other hand
+0.2251378236	respond to
+0.2242508916	diagnosed with covid 19
+0.2241847195	covid 19 patients
+0.2232386729	covid 19 cases
+0.2227573806	compared to
+0.2227242318	july 2020
+0.2224491797	to diagnose
+0.2223469184	september 2020
+0.2211405265	14 15 16
+0.2210864709	use of masks
+0.2193009294	children under
+0.2192612635	people living
+0.2189486056	with regard
+0.2186758997	present study
+0.2183240366	correlated with
+0.2180543984	extracted from
+0.2179248858	characterized by
+0.2177868136	on march
+0.2177429740	rely on
+0.2154460567	the scientific community
+0.2153388305	in south america
+0.2151699474	not always
+0.2146703085	lead to
+0.2136574945	15 16 17
+0.2128719265	da covid 19
+0.2121431968	focus on
+0.2120193050	covid 19 related
+0.2119214934	treatment of covid
+0.2118289788	days after
+0.2117765855	the gold standard
+0.2111931819	february 2020
+0.2094179494	period of time
+0.2090282553	in addition
+0.2088207377	people aged
+0.2071314097	study aimed to evaluate
+0.2056372176	food safety and
+0.2054115059	activity against
+0.2051642328	caused by
+0.2046966162	7 8 9
+0.2045227907	tendency to
+0.2033018411	6 7 8
+0.2028308770	5 6 7
+0.2023953831	16 17 18 19
+0.2004653800	a l p r
+0.1996902650	r o
+0.1991775221	in suriname
+0.1991566347	aimed to
+0.1984132044	13 14 15
+0.1983284695	in hospital mortality
+0.1982283183	11 12 13
+0.1980273065	deaths per
+0.1975830355	emergence and spread of
+0.1972365674	covid 19 mortality
+0.1967726570	caused by sars cov
+0.1962059548	regard to
+0.1960370931	i c
+0.1959519154	since then
+0.1955797650	9 10 11
+0.1953523553	95 ci =
+0.1948438106	the current pandemic
+0.1947653838	12 13 14
+0.1943924629	the current covid 19 pandemic
+0.1929740271	12 13 14 15 16 17
+0.1928167317	this article
+0.1927333199	caused by severe acute respiratory syndrome
+0.1922644782	older people
+0.1905459371	associated factors
+0.1900137764	covid 19 severity
+0.1899939220	do not
+0.1899025219	to achieve
+0.1895214571	related to
+0.1895153838	19 20 21
+0.1893675767	young people
+0.1887870521	according to
+0.1883708664	influenced by
+0.1876764958	immune system
+0.1875736751	patients diagnosed with
+0.1865636034	8 9 10
+0.1862260342	leads to
+0.1856615810	covid 19 diagnosis
+0.1854538452	non specific
+0.1845391580	health system
+0.1842260246	greater than
+0.1837848631	to manage
+0.1832163528	20 21 22
+0.1829754617	to ensure
+0.1826916198	in brazil
+0.1824116035	large number of
+0.1824069780	sars cov 2 rna
+0.1813779286	serve as
+0.1811954890	patients diagnosed
+0.1810857968	to assess
+0.1807756153	on march 11
+0.1807557271	10 11 12
+0.1801471891	sars cov 2 pandemic
+0.1795217832	this reason
+0.1794522957	able to
+0.1790752511	patients with severe
+0.1785559509	related to covid 19
+0.1784609027	due to
+0.1765470882	derived from
+0.1764421115	to date
+0.1752902248	absence of
+0.1747248864	information about
+0.1746326847	15 16 17 18 19 20
+0.1741125784	march 2020
+0.1737207058	different scenarios
+0.1736023576	attributed to
+0.1730836115	most vulnerable
+0.1725365545	on january
+0.1713655544	a l p
+0.1711698124	to enhance
+0.1708206474	non communicable
+0.1705541960	such as
+0.1704712538	to quantify
+0.1695262171	high levels
+0.1683203988	with respect to
+0.1679366157	a cross sectional
+0.1672829814	march 11
+0.1666740821	+ t
+0.1657330134	18 19 20
+0.1655437159	this context
+0.1648955384	the absence
+0.1648292672	increasing number of
+0.1645228216	each country
+0.1644183494	try to
+0.1637016597	contributing to
+0.1631623831	leading to
+0.1631377569	to verify
+0.1624631719	sp a
+0.1623913164	an unprecedented
+0.1622658266	covid 19 vaccination
+0.1622460916	3 4 5
+0.1618043403	1 2 3
+0.1615120292	aims to
+0.1612505614	covid 19 group
+0.1605485726	covid 19 vaccines
+0.1602786943	28 29
+0.1602215141	treatment of covid 19
+0.1600634031	17 18 19
+0.1593158711	followed by
+0.1588149976	impact on
+0.1572086640	this study
+0.1571417063	to evaluate
+0.1570170300	number of patients
+0.1569396939	balance between
+0.1567098731	investigate whether
+0.1566133169	impact of covid 19
+0.1564529612	as well as
+0.1560017941	10 11 12 13 14 15
+0.1554581224	the most important
+0.1553191286	the innate immune
+0.1544376934	to understand
+0.1542147974	in sect
+0.1538165084	a systematic review and meta analysis
+0.1534632869	associated with
+0.1528080578	the intensive care unit
+0.1515197132	more than
+0.1509653713	non pharmaceutical
+0.1508224931	access to
+0.1506679369	affected by covid 19
+0.1501995589	hospitalized patients with
+0.1501433733	end of 2019
+0.1479350734	the brazilian society of
+0.1477168885	p i
+0.1473936259	in order to
+0.1472766460	higher levels
+0.1469063145	more likely to
+0.1469009664	the world population
+0.1462729747	this sense
+0.1459335051	kinds of
+0.1458010460	this phenomenon
+0.1455328029	covid 19 pandemic in brazil
+0.1455207943	sars cov 2 spike
+0.1452211841	not fully
+0.1450959371	non structural
+0.1445379336	differences between
+0.1443344023	number of infected
+0.1440008686	33 34
+0.1439209005	resulting from
+0.1434900775	for example
+0.1426778992	first confirmed
+0.1422819148	referred to
+0.1414442571	an increased risk
+0.1413371547	sars cov 2 virus
+0.1412405334	months after
+0.1406251246	31 32
+0.1395860091	obtained from
+0.1395534663	effects on
+0.1391666667	many countries
+0.1391627423	against sars cov
+0.1391061242	consisted of
+0.1386367310	to detect
+0.1382128044	to cope with
+0.1380985774	of são paulo
+0.1380521261	11 12 13 14 15
+0.1379249428	pandemic in brazil
+0.1378505416	in chile
+0.1374656800	the host cell
+0.1368931279	consists of
+0.1368663144	high level
+0.1364193915	pandemic caused by
+0.1360401575	covid 19 pneumonia
+0.1359454583	respiratory system
+0.1352216573	to treat
+0.1349076816	18 19 20 21
+0.1347155313	before and after
+0.1338611139	explained by
+0.1337038047	led to
+0.1331186105	to identify
+0.1327686378	to classify
+0.1327494729	public health emergency of
+0.1326981567	willingness to
+0.1326277774	to estimate
+0.1320649735	aiming to
+0.1310908164	on february
+0.1307009612	14 15 16 17 18 19
+0.1305219526	an important
+0.1294719240	to determine
+0.1293681431	covid 19 epidemic
+0.1292415983	triggered by
+0.1291831179	driven by
+0.1274442108	the art
+0.1273726195	coronavirus 2
+0.1267395557	kind of
+0.1266535682	14 15 16 17
+0.1264803362	new variants
+0.1263053420	originated from
+0.1262727995	less likely to
+0.1262268739	infected people
+0.1262028460	patients with chronic
+0.1261608061	compared with
+0.1261338952	4 5 6
+0.1252907313	prone to
+0.1250998853	patients with
+0.1244156290	supported by
+0.1243052083	higher than
+0.1234070589	among others
+0.1234052828	meta analysis of
+0.1233366336	10 11 12 13 14
+0.1231874767	this gap
+0.1222290255	several studies
+0.1214183889	in combination with
+0.1213668147	the spike protein
+0.1212500006	study aimed to
+0.1211324130	as follows
+0.1210466668	with regard to
+0.1206111789	the face of
+0.1202589062	the discovery of
+0.1199594724	the past
+0.1198801183	the incidence and
+0.1196111789	the structure of
+0.1193857755	appears to
+0.1193604179	a pandemic by
+0.1188342915	at home
+0.1186030634	16 17 18 19 20
+0.1184687108	information regarding
+0.1184097099	linked to
+0.1181802749	with and without
+0.1181111789	the practice of
+0.1176387645	spread of covid 19
+0.1176321853	the time of
+0.1176111789	the experience of
+0.1175521707	a public health emergency
+0.1172589062	the success of
+0.1169988211	results show
+0.1168819555	of sars cov 2
+0.1166111789	the reduction of
+0.1164861789	the increase of
+0.1164255728	a period of
+0.1160258354	an attractive
+0.1157203879	to prevent
+0.1153706141	to meet
+0.1152860087	and middle east respiratory syndrome
+0.1151111789	the activity of
+0.1149255728	the progression of
+0.1148687316	interactions between
+0.1146739365	to appear in
+0.1144269850	exposed to
+0.1143516008	6 7 8 9
+0.1142856706	the world
+0.1140724619	the peritoneum
+0.1139255728	the transmission of
+0.1137062815	4 5 6 7 8
+0.1136111789	a review of
+0.1135505728	a group of
+0.1134511086	relation between
+0.1133839062	a reduction of
+0.1133652726	to reduce
+0.1130522577	capable of
+0.1126909007	of rio de janeiro
+0.1126737020	covid 19 case
+0.1126111789	a patient with
+0.1122261696	to minimize
+0.1119975306	9 10 11 12 13 14
+0.1118227378	to mitigate
+0.1115412194	11 12 13 14
+0.1114968696	exposure to
+0.1113195122	the potential of
+0.1112589062	the expression of
+0.1112400026	caused by sars
+0.1110551555	of covid 19
+0.1110063236	different countries
+0.1108444293	implicated in
+0.1104445122	the study of
+0.1104445122	the ability of
+0.1104442618	a total of
+0.1103169508	lack of
+0.1102871782	2 3 4
+0.1102696987	to establish
+0.1102589062	the potential for
+0.1096802749	before and during
+0.1094816056	performed using
+0.1091851323	first case of
+0.1090579272	in relation to
+0.1087676060	covid 19 vaccine
+0.1087374367	a systematic review
+0.1087322811	the brazilian society
+0.1086271837	induced by
+0.1080211909	in argentina
+0.1080089950	covid 19 disease
+0.1077145896	consistent with
+0.1077038851	against covid 19
+0.1075909207	between march
+0.1074445122	the influence of
+0.1071108312	to perform
+0.1068598127	more recently
+0.1066442914	and mortality in
+0.1064624769	first wave
+0.1064445122	the process of
+0.1061409323	the renin angiotensin system
+0.1060674415	and middle east
+0.1059883164	to better understand
+0.1054445122	the design of
+0.1053839062	the diagnosis of
+0.1053112967	risk factors associated with
+0.1039685039	come from
+0.1039654926	in colombia
+0.1039445122	the control of
+0.1038913195	to health services
+0.1038469176	the brazilian
+0.1031650972	lower than
+0.1030007926	the most common
+0.1027408863	few studies
+0.1025892915	and mers cov
+0.1025877833	the former
+0.1021863155	to continue
+0.1019836090	high risk of
+0.1019324899	defined as
+0.1017520272	to avoid
+0.1017444310	than women
+0.1016749624	an interesting
+0.1016439349	affected by
+0.1014926018	the beginning of
+0.1014710508	contributed to
+0.1014445122	the outbreak of
+0.1014145848	one third
+0.1012410983	the first case
+0.1009498853	used to assess
+0.1009288799	sars cov 2 infections
+0.1004926018	the case of
+0.1003346912	first identified
+0.1003331866	a key role
+0.1001840363	caused by covid 19
+0.0997112345	this review
+0.0994466195	not yet
+0.0991840277	o u
+0.0990691486	the severe acute respiratory syndrome coronavirus
+0.0985084545	ability to
+0.0980936092	represented by
+0.0980931085	a global pandemic
+0.0978694433	number of
+0.0977456317	for covid 19
+0.0976644601	a wide range of
+0.0975245756	deal with
+0.0967736497	study aims to
+0.0965383296	to monitor
+0.0963870096	a second wave
+0.0958525561	against sars cov 2
+0.0956448680	sars cov 2 rna in
+0.0954808177	less than
+0.0952861219	and specificity of
+0.0949695068	interact with
+0.0949359606	32 33
+0.0947105909	the new coronavirus
+0.0945624675	the prevention and
+0.0943542579	calls for
+0.0941088803	account for
+0.0940009538	to protect
+0.0938719884	over time
+0.0938191054	the most recent
+0.0937978643	of vitamin d
+0.0935199277	variety of
+0.0933926472	for sars cov 2
+0.0928846521	the main
+0.0923600222	related to covid
+0.0921332352	to fight
+0.0920452749	type 2
+0.0917009538	added to
+0.0916446469	admitted to
+0.0916352394	12 13 14 15
+0.0913859443	the mortality rate
+0.0913754912	adherence to
+0.0911501003	to inform
+0.0906559260	resulted in
+0.0902458114	several countries
+0.0902281827	disease 2019
+0.0901901994	resulting in
+0.0900818415	the pandemic
+0.0897529697	patients compared to
+0.0894398089	for sars cov
+0.0886958928	in lac
+0.0883351633	0 0
+0.0881654535	data from
+0.0879127536	coupled with
+0.0876398089	from sars cov
+0.0875372333	not only
+0.0875355733	participate in
+0.0873782629	along with
+0.0872375360	to implement
+0.0872111641	by analyzing
+0.0870453532	act as
+0.0868324809	new coronavirus
+0.0867035035	p r e
+0.0866595816	the most effective
+0.0864193159	to promote
+0.0863368710	de covid 19
+0.0862148089	with sars cov
+0.0857788804	drop in
+0.0854505642	an overview
+0.0853708260	in lmics
+0.0853203790	taking into
+0.0848816674	sars cov 2 infection in
+0.0847016593	o f
+0.0846230735	and safety of
+0.0845354844	of sars cov 2 infection
+0.0842554697	to get
+0.0837392849	to develop
+0.0836755742	8 9 10 11
+0.0836218696	suitable for
+0.0833699902	the same
+0.0832954933	in terms of
+0.0829881742	involved in
+0.0825272298	effect on
+0.0824771735	9 10 11 12 13
+0.0823430040	disease caused by
+0.0823415784	infection caused by
+0.0823257150	the end of 2019
+0.0823107135	to improve
+0.0817681178	the pathogenesis of
+0.0815648608	in mexico
+0.0815103663	no significant
+0.0814970915	the government
+0.0811809268	in spain
+0.0808264087	a powerful
+0.0805750624	effects of
+0.0805494040	to analyze
+0.0804427308	to obtain
+0.0801855327	covid 19 pandemic on
+0.0801625987	higher risk of
+0.0799014651	the coronavirus disease
+0.0796525788	an increasing number of
+0.0794316389	proved to
+0.0794076022	association with
+0.0790486950	samples from
+0.0789833002	currently available
+0.0785701682	the number of cases and deaths
+0.0781064658	results from
+0.0776281642	in covid 19 patients
+0.0767056764	most frequent
+0.0764453680	against covid
+0.0763818180	classified as
+0.0759021669	e s
+0.0758511561	this work
+0.0758441706	compared to other
+0.0752361167	a risk factor
+0.0750468769	seem to
+0.0748908787	current covid 19 pandemic
+0.0745732432	the simulator
+0.0745148470	15 16 17 18
+0.0741880676	17 18 19 20
+0.0736417271	in peru
+0.0733191357	to address
+0.0731949936	millions of
+0.0731849196	emerged as
+0.0730854677	produced by
+0.0730152439	parts of
+0.0730015493	to investigate whether
+0.0722578253	2 3 4 5 6
+0.0722415864	alterations in
+0.0721192359	more severe
+0.0719681732	factors associated with
+0.0719067800	different types of
+0.0716134947	to compare
+0.0714292539	1 2 3 4 5
+0.0709568515	treated with
+0.0708413662	of severe acute respiratory
+0.0708143648	vary from
+0.0708128410	literature on
+0.0706871250	isolated from
+0.0706100570	dependent on
+0.0705522828	to receive
+0.0703847445	the emergence of
+0.0698738666	loss of
+0.0695407655	a new coronavirus
+0.0695174296	day 1
+0.0693589661	a wide variety of
+0.0690166223	number of covid 19
+0.0686338939	5 6 7 8 9
+0.0684922142	covid 19 outcomes
+0.0682637493	influenza a
+0.0681904695	opportunity to
+0.0681317078	to expand
+0.0679230109	in contrast
+0.0678432190	this scenario
+0.0675306062	com covid 19
+0.0674567108	to analyse
+0.0672606828	dispersion of
+0.0668376060	a higher risk
+0.0668369144	connected to
+0.0668169988	at least one
+0.0667580329	the latter
+0.0666472700	of pjt
+0.0664593359	but also
+0.0663976784	continue to
+0.0663797580	due to covid 19
+0.0663162515	of azt
+0.0662188827	recovery from
+0.0658193374	role in
+0.0656474328	the preprint in
+0.0656368568	with covid 19
+0.0655678336	to overcome
+0.0655483479	18 years
+0.0651299829	two main
+0.0650980834	the impact of covid 19
+0.0650799629	to predict
+0.0648626602	to characterize
+0.0648587067	an urgent
+0.0647226882	regardless of
+0.0647134433	identified as
+0.0646644568	a series of
+0.0646095037	7 8 9 10
+0.0640606384	the country
+0.0639218987	with sars cov 2 infection
+0.0638483744	a high risk
+0.0636104971	the chilean
+0.0635326835	the second wave
+0.0633595278	amounts of
+0.0631963975	susceptibility to
+0.0630622915	in december 2019
+0.0626684709	predictors of
+0.0624236451	to investigate
+0.0622264987	14 15 16 17 18
+0.0622198763	percentage of
+0.0615577277	in section
+0.0609071864	individuals with
+0.0606567184	the city of wuhan
+0.0605951201	the impact of
+0.0604945977	10 11 12 13
+0.0604722434	by means of
+0.0601297879	an essential
+0.0598927125	of covid 19 related
+0.0598530340	less likely
+0.0595477171	1 2 3 4
+0.0593376586	to carry
+0.0591328366	demand for
+0.0591105834	the spread of covid 19
+0.0587888988	impacts on
+0.0586127298	from covid 19
+0.0583149618	an increase in
+0.0581522289	one health
+0.0581331532	4 5 6 7
+0.0580385205	resistant to
+0.0580292876	the disease
+0.0579328062	the presence of
+0.0577509877	very high
+0.0574501864	in wuhan
+0.0572838647	restrictions on
+0.0572431373	a l
+0.0569474705	the most severe
+0.0568616240	new cases
+0.0567416615	of covid 19 cases
+0.0566064470	the peritoneal
+0.0566005554	to examine
+0.0561465204	this purpose
+0.0560292876	the virus
+0.0559592379	the same time
+0.0559467975	of covid 19 patients
+0.0556967018	proportion of
+0.0555173024	mediated by
+0.0554711161	the most affected
+0.0554528410	a significant
+0.0554181502	known about
+0.0552931038	3 4 5 6 7
+0.0552828607	the current
+0.0549725410	the existence of
+0.0548543779	the treatment of covid 19
+0.0547807260	the mental health of
+0.0544419957	compliance with
+0.0541938486	this study aimed to
+0.0540708990	recommendations for
+0.0539835001	provided by
+0.0539114746	in critically ill
+0.0539022342	thousands of
+0.0534307260	this study aims to
+0.0528144840	rejection of
+0.0527899034	of brd
+0.0526232065	imposed by
+0.0524227059	in bogotá
+0.0523725956	by applying
+0.0523492520	a j
+0.0522038270	covid 19 pandemic in
+0.0521702576	in china
+0.0521686223	an analysis
+0.0518989454	made available
+0.0518617970	degree of
+0.0517452801	the neighborhood
+0.0516007768	early 2020
+0.0514165177	the chinese
+0.0509668102	several factors
+0.0508864287	during covid 19 pandemic
+0.0508821976	in venezuela
+0.0506734936	the end of
+0.0504771996	a consequence
+0.0502898713	the total number of
+0.0502520516	the use of
+0.0500503918	during covid 19
+0.0499582111	difficult to
+0.0499227897	appear to
+0.0498895584	the detection of sars cov 2
+0.0497722227	2 3 4 5
+0.0497530390	the potential to
+0.0496268487	estimation of
+0.0494716790	a major
+0.0494326449	of pm
+0.0492843583	the literature
+0.0491629021	m 3
+0.0491435473	an anti
+0.0487803661	a variety of
+0.0486495717	elimination of
+0.0483588515	the central nervous system
+0.0482570173	in january
+0.0482273713	a higher risk of
+0.0481927125	by sars cov 2
+0.0481402659	close to
+0.0480920516	to maintain
+0.0480636630	on people's
+0.0479311731	the development of
+0.0477971958	13 14 15 16
+0.0477232428	genomes from
+0.0476956761	27 28
+0.0476387980	adoption of
+0.0475836532	need to
+0.0473403294	advantage of
+0.0471689159	the magnitude of
+0.0468695606	in april
+0.0467208022	5 6 7 8
+0.0466985800	3 4 5 6
+0.0466352860	restricted to
+0.0465448351	the present work
+0.0465154553	required for
+0.0464930830	this type of
+0.0463285958	to respond to
+0.0461948351	the pathophysiology of
+0.0461451064	an overview of
+0.0461113618	for bandwidth
+0.0460779946	a brief
+0.0460360050	in rio de
+0.0459767902	an adequate
+0.0457907828	an increase of
+0.0456535108	interaction with
+0.0456503555	generated by
+0.0456246713	the possibility of
+0.0456144840	purification of
+0.0455690398	began to
+0.0454574495	the occurrence of
+0.0453868648	to contain
+0.0453270488	the last
+0.0453262182	characterization of
+0.0452030061	associated with covid 19
+0.0451052624	the adoption of
+0.0448700370	known as
+0.0447528764	a set of
+0.0447038249	contact with
+0.0444079989	the quality of
+0.0442898713	a large number of
+0.0442416615	the current covid 19
+0.0441753188	in comparison with
+0.0441743879	9 10 11 12
+0.0441603108	the first
+0.0441025387	a variety
+0.0440513725	the course of
+0.0439323636	the importance of
+0.0439143176	a single
+0.0438484779	relationship with
+0.0438046837	circulation of
+0.0437535008	similar to
+0.0437023326	a public health emergency of
+0.0435507380	to produce
+0.0434202492	in march
+0.0433283637	transmitted by
+0.0433058743	a cohort of
+0.0430468935	this technique
+0.0429836948	in turn
+0.0429135725	the spread of
+0.0427696294	binds to
+0.0426896302	of hcq
+0.0426836177	also known as
+0.0426549872	expansion of
+0.0426010725	the context of
+0.0425385725	the aim of
+0.0422354843	improvement of
+0.0421120652	changes in
+0.0421034938	construction of
+0.0421020656	the most frequent
+0.0419770573	the appearance of
+0.0418700979	diagnosed with
+0.0417404808	quantification of
+0.0417268028	complexity of
+0.0417252065	no specific
+0.0416462801	evaluation of
+0.0416432840	observed in
+0.0415404029	threat to
+0.0413386505	seems to
+0.0412754757	participation in
+0.0412325622	of covid 19 infection
+0.0411689320	the editor
+0.0411260800	the right to
+0.0408492332	implications for
+0.0408036919	most common
+0.0406599055	expected to
+0.0405353290	applied to
+0.0403541232	new virus
+0.0403001382	the number of
+0.0401458864	person to
+0.0401033744	in march 2020
+0.0400186739	to generate
+0.0399816059	characterized as
+0.0399760725	the role of
+0.0399760725	the effect of
+0.0399466087	30 31
+0.0398215326	prior to
+0.0397469326	assessment of
+0.0395632562	the emergence and spread of
+0.0395618677	numbers of
+0.0395190522	induction of
+0.0394739508	the first wave
+0.0393912050	this approach
+0.0392615033	combined with
+0.0392195401	15 16 17 18 19
+0.0391880642	promotion of
+0.0390984751	the majority of
+0.0390972846	the objective of
+0.0389402466	composition of
+0.0388530070	an epidemic
+0.0387701605	propagation of
+0.0386457844	to deal with
+0.0386062912	a suitable
+0.0385948564	about covid 19
+0.0384969840	a retrospective
+0.0384552585	of interest
+0.0384135725	in addition to
+0.0383686101	but not
+0.0383639650	half of
+0.0382794309	the number of infected
+0.0382093346	24 25
+0.0379682046	proven to
+0.0379591625	the population
+0.0379439494	other countries
+0.0379327876	the elderly
+0.0378904048	interaction between
+0.0378480578	the parasite
+0.0376842665	part of
+0.0375874287	information on
+0.0373047537	to explore
+0.0372916267	the promotion of
+0.0371883568	an outbreak
+0.0371101774	range from
+0.0370423342	1 2
+0.0370392844	countries like
+0.0369760725	the relationship between
+0.0368611387	sought to
+0.0366334715	the risk of
+0.0365990343	the need for
+0.0365845522	stay at
+0.0365572958	measures such as
+0.0365328926	list of
+0.0363736061	by covid 19
+0.0363650110	two groups
+0.0361901501	a nationwide
+0.0361180830	the association of
+0.0359768571	disparities in
+0.0358968942	an example
+0.0356554263	21 22
+0.0356191107	for detecting
+0.0355651227	at risk
+0.0355455753	one year
+0.0354714189	a key role in
+0.0353077719	a global
+0.0352137326	class of
+0.0350675370	seroprevalence of
+0.0350554829	increase in
+0.0350392240	adults with
+0.0349279903	the rest of
+0.0349241029	2 weeks
+0.0348827188	enzyme 2
+0.0347565383	reasons for
+0.0346553020	types of
+0.0342783988	prevalence of
+0.0342097748	e p
+0.0341705947	a large
+0.0340334388	essential for
+0.0340053144	to define
+0.0339072059	susceptible to
+0.0338508386	an important role in
+0.0337421291	the number of cases
+0.0336933741	data about
+0.0335931615	fragment of
+0.0335345523	modification of
+0.0334784397	an alternative to
+0.0334314989	other factors
+0.0333961789	considered as
+0.0333708941	to provide
+0.0331918913	tool to
+0.0331318675	need for
+0.0329282858	evidence on
+0.0328671961	together with
+0.0327124503	defined by
+0.0326795922	2 3
+0.0326144471	resistance to
+0.0325559495	the treatment of
+0.0324320209	used to
+0.0323993812	to limit
+0.0322756561	to support
+0.0322754207	to contribute
+0.0321693409	method for
+0.0321376255	an emerging
+0.0321283389	approved by
+0.0320294437	to create
+0.0319857562	an effective
+0.0319241082	performance of
+0.0318131617	deaths due to
+0.0314754117	addition to
+0.0314633401	cope with
+0.0313274897	implementation of
+0.0313204645	living with
+0.0312893969	evaluated by
+0.0312668556	mainly due to
+0.0312400479	reductions in
+0.0311596958	to guide
+0.0310059043	view of
+0.0309771980	detected in
+0.0309662220	composed of
+0.0309117705	positive for
+0.0308957363	to reach
+0.0306072341	forms of
+0.0305803398	the absence of
+0.0305585344	disease 19
+0.0305011483	levels of
+0.0303972376	role of
+0.0303549872	integration of
+0.0303009401	the first wave of
+0.0302894062	new infections
+0.0302752986	the first cases
+0.0302083200	variability of
+0.0300260381	response to
+0.0299418485	obtained by
+0.0299355299	to increase
+0.0297578748	emergence of
+0.0297038815	the first time
+0.0296532199	use of
+0.0295896056	necessary to
+0.0295636152	a great
+0.0295216539	definition of
+0.0294633401	rest of
+0.0291604215	determined by
+0.0290159676	most affected
+0.0289961652	accuracy of
+0.0288073700	3 4
+0.0287400654	ill patients
+0.0287250161	far from
+0.0287187941	living in
+0.0287152505	an individual
+0.0286511587	the prevalence of
+0.0285643929	history of
+0.0284158999	adapted to
+0.0282640283	instead of
+0.0281566843	risk for
+0.0281204596	a broad
+0.0281174872	description of
+0.0280972846	a decrease in
+0.0280608670	collected from
+0.0280078639	analysis of
+0.0280014955	a median
+0.0279754126	heterogeneity in
+0.0279541402	to explain
+0.0279299149	the early stages of
+0.0279169858	fear of
+0.0278276289	shown to
+0.0278270930	the effectiveness of
+0.0278198941	up to
+0.0277331770	goal of
+0.0276940239	the provision of
+0.0276143274	to describe
+0.0276102215	a comprehensive
+0.0275999476	the onset of
+0.0275641627	to face
+0.0275540468	profile of
+0.0274600858	tool for
+0.0271341133	vulnerable to
+0.0270142599	reported in
+0.0269856853	an online
+0.0269569732	right to
+0.0269279735	confirmed by
+0.0269112130	the world's
+0.0268811954	to control
+0.0268625684	as part of
+0.0268092574	the pandemic on
+0.0267568246	perception of
+0.0267490544	provision of
+0.0267325280	the spike
+0.0267199598	existence of
+0.0266940239	the likelihood of
+0.0266860085	to keep
+0.0266568558	activation of
+0.0266508080	the likelihood
+0.0266035397	the lack of
+0.0265999476	a reduction in
+0.0265359779	in south
+0.0264743496	identification of
+0.0264512191	effort to
+0.0264502886	this problem
+0.0263812852	introduction of
+0.0263475349	the analysis of
+0.0263134424	consequence of
+0.0262991191	effectiveness of
+0.0260409666	efficacy of
+0.0259745037	an alternative
+0.0259584191	contribution to
+0.0259319357	to cope
+0.0259301557	other hand
+0.0258769652	the association between
+0.0258678495	targets for
+0.0257631192	the right
+0.0257409792	limited by
+0.0256976220	occurring in
+0.0256895953	required to
+0.0256537960	deaths from
+0.0256289087	an additional
+0.0256225091	the relation between
+0.0256193113	a set
+0.0253932656	the second
+0.0252784069	an average
+0.0252685526	replication in
+0.0252441909	occurred in
+0.0252072872	the pandemic in
+0.0249981475	a number of
+0.0249922574	light on
+0.0248108849	infected with
+0.0247592935	the closure of
+0.0247365663	relation to
+0.0247221653	spectrum of
+0.0246940239	the scope of
+0.0246924109	started to
+0.0246272937	majority of
+0.0246136085	alternative to
+0.0246112640	evolution of
+0.0245999476	the introduction of
+0.0245063600	the virus in
+0.0244345487	first time
+0.0243512982	impact of
+0.0243475349	the increase in
+0.0243356526	estimated to
+0.0243246363	different types
+0.0243221462	different levels of
+0.0242984547	the municipality
+0.0242462389	an active
+0.0242085188	developed by
+0.0242063834	the duration of
+0.0241920087	benefit of
+0.0241412243	regulation of
+0.0241204248	the city
+0.0240966890	incidence of
+0.0240463655	the majority
+0.0240421707	source of
+0.0239919752	used for
+0.0239893858	an open
+0.0239496788	an increased risk of
+0.0239150469	closure of
+0.0239117705	objective of
+0.0238211520	component of
+0.0237592935	the construction of
+0.0236887687	the disease in
+0.0236426892	19 pneumonia
+0.0236231475	the state of
+0.0236158241	essential to
+0.0234886790	prediction of
+0.0234795866	accumulation of
+0.0234284022	the emergence
+0.0233994332	inhibition of
+0.0233916048	needed to
+0.0233587458	intention to
+0.0233541380	to infect
+0.0233422679	stages of
+0.0233352411	first cases
+0.0232747774	detection of
+0.0231600858	attention to
+0.0231068345	influence on
+0.0231040468	a unique
+0.0230767976	9 10
+0.0230767976	10 11
+0.0230628649	a history of
+0.0230149756	none of
+0.0230029525	a state of
+0.0229889894	designed to
+0.0229531904	formation of
+0.0229185513	this situation
+0.0228868078	relevance of
+0.0228826648	improvement in
+0.0227959253	an increasing
+0.0227281421	guidelines for
+0.0225967168	research on
+0.0225966478	duration of
+0.0224807112	a random
+0.0224732846	likelihood of
+0.0224680267	the occurrence
+0.0223862294	means of
+0.0223629449	on average
+0.0223475504	basis for
+0.0222783798	each other
+0.0222030549	release of
+0.0221527389	purpose of
+0.0221184282	decrease in
+0.0220860722	conducted with
+0.0220126529	distribution of
+0.0219672001	area of
+0.0219578747	this research
+0.0219517976	6 7
+0.0219343342	described as
+0.0219343342	described by
+0.0218914491	and quality of
+0.0218867009	the concept of
+0.0218489540	the severity of
+0.0218467009	a result of
+0.0218467009	the purpose of
+0.0217703062	model for
+0.0217194056	aim to
+0.0216041857	risk of
+0.0215149885	search for
+0.0214935120	an international
+0.0214001665	the incidence of
+0.0213323094	the health system
+0.0213262347	series of
+0.0213261106	overview of
+0.0212997940	secondary to
+0.0212571543	countries such as
+0.0212073513	crucial for
+0.0210169586	scope of
+0.0209877798	the immune system
+0.0209637557	to discuss
+0.0209011376	moderate to
+0.0208467009	the city of
+0.0208467009	the performance of
+0.0208412085	the population in
+0.0208378791	the probability of
+0.0208376665	the rate of
+0.0208025984	important to
+0.0207222908	the availability of
+0.0207011294	the prevalence
+0.0206368272	discovered in
+0.0206231475	the evolution of
+0.0205298694	treatment of
+0.0205218273	modulation of
+0.0204772867	challenge for
+0.0204304845	all over
+0.0204275522	factors such as
+0.0203900176	approach to
+0.0203276294	crucial to
+0.0202915903	most severe
+0.0202718077	a lack of
+0.0202252598	an estimated
+0.0201926779	the possibility
+0.0201914440	management of
+0.0201872003	19 pandemic
+0.0201776050	a few
+0.0200970890	in latin
+0.0200666017	length of
+0.0200395934	the novel coronavirus
+0.0199293596	a combination of
+0.0198895939	spread of
+0.0198489540	in response to
+0.0198459760	the complexity
+0.0198376665	the level of
+0.0198343077	the generation of
+0.0198234885	performed by
+0.0198183933	the need
+0.0198052533	a considerable
+0.0197917949	a promising
+0.0197644796	introduced in
+0.0197608855	diseases such as
+0.0197359779	the presence
+0.0196846963	more likely
+0.0196656427	the set of
+0.0196505448	the production of
+0.0196092800	target for
+0.0195877173	type of
+0.0195763933	therapy for
+0.0195406359	dissemination of
+0.0194830414	used as
+0.0194573094	the distribution of
+0.0194523354	application of
+0.0193102184	or even
+0.0191680510	emerged in
+0.0191517615	form of
+0.0190510805	in contrast to
+0.0190417615	concentration of
+0.0189567569	the dissemination of
+0.0189117705	result in
+0.0189057692	wave of
+0.0188343077	the regulation of
+0.0188204185	the degree of
+0.0187981963	the evaluation of
+0.0187825993	people worldwide
+0.0187553805	the need to
+0.0187440299	the understanding of
+0.0187387324	the value of
+0.0187295393	reduction in
+0.0187194056	terms of
+0.0186822908	the management of
+0.0186590630	possibility of
+0.0186574397	factor for
+0.0186560636	proposed by
+0.0186068123	respect to
+0.0185468726	the impact
+0.0185250023	amount of
+0.0185176735	especially in
+0.0184926256	binding to
+0.0184573094	the type of
+0.0184559055	to measure
+0.0184523136	development of
+0.0183998844	the promotion
+0.0183942569	the search for
+0.0183668596	a range of
+0.0183573524	also known
+0.0183542431	appearance of
+0.0183323094	the behavior of
+0.0183193113	a combination
+0.0183050669	the probability
+0.0182551735	the most
+0.0182305745	rate of
+0.0181988284	understanding of
+0.0180705962	relevant to
+0.0180578748	combination of
+0.0180129220	a new
+0.0179398487	4 5
+0.0179350230	likely to
+0.0179231688	conducted in
+0.0178343077	the formation of
+0.0177859779	a decrease
+0.0177664506	the relevance of
+0.0177529748	this period
+0.0177493933	located in
+0.0177414003	as compared to
+0.0177040449	a result
+0.0177023193	mild to
+0.0176822908	the identification of
+0.0176822908	the ability to
+0.0176656427	and treatment of
+0.0176602719	aim of
+0.0176581107	effect of
+0.0176505448	the implementation of
+0.0176503206	a wide
+0.0176466446	distributed in
+0.0176105002	this strategy
+0.0175510805	the interaction between
+0.0175442647	to take
+0.0175407291	a case
+0.0174797109	production of
+0.0174601714	an analysis of
+0.0174536634	infected by
+0.0174411540	probability of
+0.0174362294	face to
+0.0174333478	the author
+0.0173630644	the disease caused by
+0.0173520777	capacity to
+0.0173412025	performed in
+0.0173251055	present work
+0.0172970474	to help
+0.0172960051	a risk factor for
+0.0172959400	the concept
+0.0172943232	needs to
+0.0172784828	identified in
+0.0172718077	the detection of
+0.0172718077	the efficacy of
+0.0172406359	comparison with
+0.0172296180	the development
+0.0172134307	to contribute to
+0.0169523354	burden of
+0.0169486450	this field
+0.0169227556	set of
+0.0169145966	occurrence of
+0.0168615965	a multi
+0.0168612640	implemented in
+0.0168412025	included in
+0.0168412025	level of
+0.0168343077	the combination of
+0.0167919847	corresponding to
+0.0167040299	the proportion of
+0.0166683116	infection with
+0.0166656427	the release of
+0.0166505448	the application of
+0.0166113748	the implementation
+0.0165868505	this way
+0.0165049126	to make
+0.0164973405	onset of
+0.0164523354	frequency of
+0.0164001665	the frequency of
+0.0163773200	a novel
+0.0163289194	presence of
+0.0163227375	may 2020
+0.0162514039	to display
+0.0162075545	found in
+0.0161193113	a series
+0.0160967641	the percentage of
+0.0160776294	strategy for
+0.0160578748	generation of
+0.0160535239	concept of
+0.0160406427	at risk of
+0.0160094783	availability of
+0.0158513271	range of
+0.0158459862	phase of
+0.0158069736	the relationship
+0.0157352193	limited to
+0.0156973405	city of
+0.0156878649	the perception of
+0.0156760805	an outbreak of
+0.0156656427	the burden of
+0.0156532199	used in
+0.0155049126	way to
+0.0154423271	the number
+0.0154257468	or =
+0.0154053991	the amount of
+0.0153811666	behavior of
+0.0153037367	expressed in
+0.0152650893	stability of
+0.0152143251	necessary for
+0.0151467449	an increase
+0.0151030856	a key
+0.0150926659	in são
+0.0149117705	context of
+0.0147431100	a systematic
+0.0146957029	severity of
+0.0146831863	started in
+0.0146637907	total of
+0.0146215911	not associated with
+0.0145028714	importance of
+0.0144827290	the activation of
+0.0144611583	in december
+0.0143323094	the form of
+0.0142743571	value of
+0.0141589358	the proportion
+0.0140601142	a consequence of
+0.0139631888	agent of
+0.0139459590	a challenge
+0.0136973405	end of
+0.0136784490	and fear of
+0.0136590826	most effective
+0.0135511376	hospitalized with
+0.0135211442	this novel
+0.0134836327	and severity of
+0.0134309710	to find
+0.0130134985	seen in
+0.0129629544	state of
+0.0128298555	proposed to
+0.0127615272	useful for
+0.0126494319	possible to
+0.0125414791	known to
+0.0125068140	result of
+0.0124073805	measures to
+0.0117390643	the best
+0.0117074479	the magnitude
+0.0116390233	a serious
+0.0115487455	interest in
+0.0114526707	11 12
+0.0113154318	during covid
+0.0112327250	associated with covid
+0.0109563123	learning to
+0.0108726462	as well
+0.0107360040	14 15
+0.0102894012	to consider
+0.0101678725	described in
+0.0101678725	cause of
+0.0087149773	help to

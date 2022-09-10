@@ -1,0 +1,763 @@
+0.9727284375	clinical trials
+0.9610858106	immune responses
+0.9609789891	primary care
+0.9606997686	systematic review
+0.9603281566	drug discovery
+0.9592794769	public health
+0.9580953836	mental health
+0.9544107432	machine learning
+0.9490188932	peer review
+0.9478681683	research ethics
+0.9441958254	social media
+0.9438370117	world health organization
+0.9416826608	immune response
+0.9414512263	blood pressure
+0.9382743921	united states
+0.9375761899	respiratory tract
+0.9370103374	united kingdom
+0.9340990872	climate change
+0.9300007514	wild type
+0.9274336675	humoral immunity
+0.9251100185	reading frame
+0.9231151697	gene expression
+0.9224541327	european countries
+0.9219250238	cohort study
+0.9194958935	unit testing
+0.9167105102	clinical trial
+0.9155994835	displaced persons
+0.9124960852	stem loop
+0.9065475501	amino acid
+0.9061189550	uk biobank
+0.9053280515	closely related
+0.9030014182	hydrogen fuel
+0.9016317371	lassa fever
+0.8977073169	influenza virus
+0.8974286358	epithelial cells
+0.8961994665	weight loss
+0.8956685409	infectious diseases
+0.8919577295	hospital admission
+0.8912215006	social distancing
+0.8889169191	intensive care
+0.8882285744	healthcare workers
+0.8864205471	weight management
+0.8857280587	hybrid state
+0.8830873887	filtration efficiency
+0.8824679162	delta variant
+0.8806564313	adaptive immune
+0.8793917810	health care
+0.8766402001	functional elements
+0.8764943887	drug development
+0.8734492694	physical distancing
+0.8730938489	severe acute respiratory syndrome
+0.8728747347	contact tracing
+0.8726946903	patient facing
+0.8724264573	cov abdab
+0.8723626117	weight loss maintenance
+0.8722872304	antibody responses
+0.8714199282	meta analysis
+0.8703602806	high resolution
+0.8687074256	neutralising antibodies
+0.8673581294	long term
+0.8645676838	hiv testing
+0.8635342704	global health
+0.8630776696	neurodegenerative diseases
+0.8623192010	face mask
+0.8619767958	slippery sequence
+0.8618478924	infectious disease
+0.8607926549	receptor binding domain
+0.8593398055	policy makers
+0.8558044080	medrxiv preprint
+0.8550623888	web based
+0.8544170654	family members
+0.8536281501	granted medrxiv
+0.8525020183	neuropsychiatric symptoms
+0.8503333420	zika virus
+0.8500133602	cell types
+0.8485275062	psychiatric disorders
+0.8457377409	food literacy
+0.8447431206	viral vectors
+0.8446540366	small world
+0.8417993721	ribosomal frameshifting
+0.8375125077	pre existing
+0.8339306823	short term
+0.8329869898	innate immune
+0.8328526987	viral loads
+0.8323743438	501y lineages
+0.8313920896	sars cov2
+0.8313514268	template switching
+0.8311012256	large scale
+0.8306733244	commitment devices
+0.8300599613	general psychiatric disorders
+0.8297587937	author funder
+0.8294775182	digital technology
+0.8279264344	il 6
+0.8221176755	real world
+0.8206809260	mesh surgery
+0.8183255590	vaccine candidates
+0.8182196432	income countries
+0.8176609705	pfizer biontech
+0.8176382286	malignant progression
+0.8176091407	health services
+0.8174674075	long covid
+0.8174202726	antibody nanobody
+0.8170061607	critical care
+0.8155886085	disease progression
+0.8139331198	fabric face
+0.8084516508	reading frames
+0.8061191516	intraday volatility
+0.8036523714	vaccine development
+0.7985182132	conflict affected
+0.7967123678	plasma glucose
+0.7937219448	viral infections
+0.7899801334	face masks
+0.7878212086	triage question
+0.7681145082	spike protein
+0.7677954073	human mobility
+0.7673107239	journal pre proof
+0.7621880445	rna viruses
+0.7511069781	host species
+0.7507975080	x ray
+0.7406984821	symptomatic patients
+0.7400072380	rna virus
+0.7399258935	severe acute respiratory syndrome coronavirus
+0.7377351275	respiratory syndrome coronavirus
+0.7369935822	high frequency
+0.7289912595	certified by peer review
+0.7260937954	severe acute respiratory
+0.7253597516	structural proteins
+0.7177609520	severe acute respiratory syndrome coronavirus 2
+0.7163400957	sars cov
+0.7151987393	disease severity
+0.7081220108	risk factors
+0.7073248820	cc by nc
+0.7068680599	journal pre
+0.7059761460	antigen specific
+0.7030283985	age groups
+0.6963540869	vaccine efficacy
+0.6954428265	hiv 1
+0.6848879038	stay at home
+0.6818526925	host cell
+0.6818427372	cell epitopes
+0.6770519866	mir 145
+0.6741501247	cell responses
+0.6719989313	distancing measures
+0.6716229790	significantly higher
+0.6677387158	acute respiratory syndrome coronavirus 2
+0.6618169690	infected cells
+0.6572953199	pyr 1 apelin 13
+0.6543947128	control measures
+0.6538593729	mir 143
+0.6513287829	data collection
+0.6513170107	care workers
+0.6506363965	systematic review and meta analysis
+0.6415678499	variants of concern
+0.6406974272	mrna 1273
+0.6374612127	trem 1
+0.6337128000	strem 1
+0.6286185537	respiratory syndrome
+0.6284330049	severe disease
+0.6278763095	cell response
+0.6269752886	high risk
+0.6212212777	high quality
+0.6207382381	coronavirus disease 2019
+0.6176189226	risk of bias
+0.6033394879	review and meta analysis
+0.5992950871	recent years
+0.5960185550	protein as01 b
+0.5867539375	cd8 + t cell
+0.5861250743	sars cov 2
+0.5735472153	grs 1915 + 105
+0.5677144766	open reading
+0.5509409959	pharmaceutical interventions
+0.5463543543	non pharmaceutical interventions
+0.5448929129	wang et al
+0.5331079730	4.0 international license
+0.5322487398	december 2019
+0.5217398765	covid 19
+0.5071456086	t cell responses
+0.5067329352	tested positive for
+0.5058974567	follow up
+0.4952995337	− 1
+0.4939718333	year olds
+0.4876556246	protein as01
+0.4768564238	table 1
+0.4713442843	nc nd
+0.4642180255	acute respiratory
+0.4630143589	the general population
+0.4585783895	p 0.05
+0.4496588779	young people
+0.4491331734	95 ci
+0.4479087182	disease control
+0.4460662670	the united kingdom
+0.4346380493	the sars cov 2 virus
+0.4345670240	cd4 +
+0.4337145505	endolysosomal ca 2 +
+0.4325464488	ex vivo
+0.4319533601	t cell
+0.4302845861	p 0.001
+0.4212513549	nd 4.0 international license
+0.4175653469	cd8 + t
+0.4158158187	covid 19 outbreaks
+0.4117832040	cd4 + t
+0.4116414754	self reported
+0.4109919447	cd8 +
+0.4107379645	second dose
+0.4103380549	april 2020
+0.4084616441	severe covid 19
+0.4037550182	ca 2 +
+0.4033353575	grs 1915 +
+0.4027239089	publicly available
+0.4017697406	figure 1
+0.3885333029	sars cov 2 infection
+0.3848569045	covid 19 outbreak
+0.3820920946	nd 4.0
+0.3809566236	virus infection
+0.3799178926	et al
+0.3733567357	real time
+0.3727077725	severe acute
+0.3674213124	a license to display
+0.3674198453	the author funder
+0.3667009817	cc by
+0.3662022614	the united states
+0.3615561949	as01 b
+0.3582592919	spike only
+0.3559801725	spread of covid 19
+0.3480672659	march 2020
+0.3480038196	22 23
+0.3474358070	protection against
+0.3429303734	january 2020
+0.3423599657	increased risk of
+0.3399021409	e p r o o
+0.3369228666	t cells
+0.3298832719	insights into
+0.3259494737	clinical data
+0.3258318862	binding domain
+0.3241664754	covid 19 related
+0.3241534433	covid 19 patients
+0.3184345975	link between
+0.3166483035	sars cov 2 variants
+0.3156362586	novel coronavirus
+0.3155777933	covid 19 pandemic
+0.3105445936	covid 19 vaccines
+0.3103625896	the preprint in perpetuity
+0.3099614138	sars cov 2 specific
+0.3050564437	a meta analysis
+0.3045068502	p r o o f
+0.3020700490	b cell
+0.3007228974	apelin 13
+0.2952057666	j o u r n
+0.2918067579	12 weeks
+0.2912371532	the covid 19 pandemic
+0.2834801132	non pharmaceutical
+0.2799853398	in vitro
+0.2798681572	non structural
+0.2790060597	covid 19 disease
+0.2777828878	o u r n
+0.2748842006	and chloroquine
+0.2745873472	patients with covid 19
+0.2698511617	commonly used
+0.2692112463	n =
+0.2666391766	rather than
+0.2658503911	referred to
+0.2620259822	accounting for
+0.2618757734	p =
+0.2605560405	covid 19 vaccination
+0.2566958864	this paper
+0.2559361183	within host
+0.2535199047	a l p r e
+0.2533685978	rely on
+0.2531362196	so far
+0.2526086576	focused on
+0.2516958811	13 14 15
+0.2513474970	based on
+0.2475450367	p r e
+0.2453946294	million people
+0.2413874402	the neon
+0.2389586926	a l p r
+0.2389075511	12 13 14
+0.2388892628	capable of
+0.2385277502	covid 19 cases
+0.2331150572	immune system
+0.2310897219	coronavirus disease
+0.2309943050	risk factors for
+0.2303288740	a systematic review
+0.2279939198	caused by
+0.2258772914	5 6 7
+0.2254448548	health interventions
+0.2254032914	covid 19 infection
+0.2227529188	in scotland
+0.2222518235	did not
+0.2219893599	characterised by
+0.2186347917	resulted in
+0.2181711236	the spike protein
+0.2172051702	8 9 10
+0.2162391563	20 21
+0.2113292855	ranging from
+0.2093265189	with ibd
+0.2074860035	3 4 5
+0.2074655637	4.0 international
+0.2022539011	with respect to
+0.2008444117	for instance
+0.1991284399	7 8 9
+0.1988401045	covid 19 vaccine
+0.1987011658	association between
+0.1929029413	most important
+0.1914977859	associations between
+0.1912356084	a wide range of
+0.1910226850	made available under
+0.1903891409	due to
+0.1890407031	according to
+0.1883067480	the severe acute respiratory syndrome
+0.1880681062	the time of
+0.1854997451	the case of
+0.1848633887	variety of
+0.1847768818	do not
+0.1845286412	the preprint in
+0.1839667481	compared to
+0.1819384079	5 6 7 8
+0.1788935485	does not
+0.1783171304	2 3 4
+0.1774520187	such as
+0.1730335171	contribute to
+0.1729482372	this study
+0.1728787748	as well as
+0.1723174033	associated with
+0.1718700057	focus on
+0.1701801173	to treat
+0.1700196878	e p
+0.1697665753	relationship between
+0.1695857192	first wave of
+0.1674351286	17 18
+0.1646017965	of covid 19
+0.1642823022	1 2 3
+0.1638879929	at least
+0.1625137412	a cough
+0.1609907913	to date
+0.1597384260	no evidence
+0.1591695777	able to
+0.1583251389	6 7 8
+0.1579543556	a portfolio
+0.1571167161	in wuhan
+0.1540196628	an overview of
+0.1520186779	a variety of
+0.1518379684	increased risk
+0.1516240395	many countries
+0.1488243096	led to
+0.1444638863	more than
+0.1444115010	this article
+0.1401760569	4 5 6
+0.1399519733	in order to
+0.1385926213	women with
+0.1374458195	percent of
+0.1362558031	of sars cov 2
+0.1361944515	bind to
+0.1361041383	to quantify
+0.1338691204	known about
+0.1330968644	in cuba
+0.1329146778	characterized by
+0.1320172700	with sars cov
+0.1312655543	the most common
+0.1304071794	to avoid
+0.1296543691	responsible for
+0.1295501078	less than
+0.1292653269	correlated with
+0.1283456913	to prevent
+0.1280029185	the role of
+0.1279687619	the sars cov
+0.1272589724	rise to
+0.1255629360	11 12
+0.1251928543	sought to
+0.1251536337	for sars cov
+0.1239446920	the covid 19
+0.1229421945	an alternative
+0.1225074817	lead to
+0.1211420286	subset of
+0.1206961181	living with
+0.1206947527	as follows
+0.1187070475	to determine
+0.1174311679	21 22
+0.1162077324	driven by
+0.1158485696	derived from
+0.1157374962	to identify
+0.1115859725	more likely to
+0.1105357290	the importance of
+0.1094149132	against covid 19
+0.1091534871	for covid 19
+0.1085153120	for example
+0.1075615319	ability to
+0.1058464414	in england
+0.1050779888	higher than
+0.1048495866	followed by
+0.1037810388	respond to
+0.1024278808	to understand
+0.1023115200	induction of
+0.1021264684	r e
+0.1020851896	data from
+0.1020487259	these findings
+0.1000325994	to detect
+0.0995087908	this process
+0.0994007791	to generate
+0.0993585640	during covid 19
+0.0987344827	aimed to
+0.0972692544	affected by
+0.0949907898	the same
+0.0948401765	access to
+0.0943654505	from covid 19
+0.0938666773	in section
+0.0935216124	to achieve
+0.0925063908	an important
+0.0917281957	impact on
+0.0908207329	in terms of
+0.0904010212	the uk
+0.0901168321	patients with
+0.0895159644	thousands of
+0.0894603487	an increase
+0.0891750814	all three
+0.0891502538	in mice
+0.0884012297	with covid 19
+0.0879356297	to ensure
+0.0867787119	a single
+0.0860911115	compared with
+0.0859691946	cov 2
+0.0849178919	at least one
+0.0846414766	dependent on
+0.0843585640	after covid 19
+0.0835539831	most common
+0.0831863259	treated with
+0.0824132833	the introduction of
+0.0821859991	collected from
+0.0816755083	variation in
+0.0814459929	to examine
+0.0809051312	the world health
+0.0807710216	over time
+0.0806353990	hundreds of
+0.0799718467	decline in
+0.0798789684	p r
+0.0784843964	the delta
+0.0774157186	of hfss
+0.0768651552	coronavirus 2
+0.0766304626	to explore
+0.0766282610	opportunity to
+0.0760100530	the context of
+0.0756076003	this review
+0.0752260245	the impact of
+0.0749830337	number of
+0.0747990943	restrictions on
+0.0747905085	12 13
+0.0743582513	by nc
+0.0743154302	forms of
+0.0742846210	role in
+0.0736660245	the development of
+0.0732048533	regulation of
+0.0723722076	a simple
+0.0718517105	difficult to
+0.0717098495	majority of
+0.0714543262	to assess
+0.0713394069	involved in
+0.0710581488	in addition
+0.0703657610	suitable for
+0.0699268332	the pandemic
+0.0697884977	the usa
+0.0694786336	leading to
+0.0691448184	an additional
+0.0690187443	leads to
+0.0680285611	as part of
+0.0677615943	appears to
+0.0675195162	to face
+0.0673399363	the ribosome
+0.0667659644	likelihood of
+0.0664780085	14 15
+0.0662699277	aims to
+0.0658008100	stages of
+0.0654122314	determinants of
+0.0653222987	consistent with
+0.0648885854	10 11
+0.0648629942	the emergence of
+0.0646820499	in contrast
+0.0645696592	linked to
+0.0644228315	the first time
+0.0643124473	not yet
+0.0633650557	the trna
+0.0624447604	the virus
+0.0623793677	these viruses
+0.0621012127	the world
+0.0618953002	effect on
+0.0612699277	susceptibility to
+0.0612467085	absence of
+0.0612260245	the use of
+0.0611406059	at home
+0.0610916372	proportion of
+0.0610580687	implications for
+0.0598297159	nature of
+0.0596079136	to investigate
+0.0592987785	the possibility of
+0.0591026657	defined as
+0.0587211599	ability of
+0.0585762511	these results
+0.0570790095	aspects of
+0.0570564917	not only
+0.0563298176	the radio
+0.0559966433	exposure to
+0.0559573669	made available
+0.0557180410	to predict
+0.0557065839	a range of
+0.0546520153	to develop
+0.0543298176	of tau
+0.0540449734	effects on
+0.0537840310	the immune system
+0.0532260245	the spread of
+0.0530586112	a p
+0.0527762286	this approach
+0.0527721712	generated by
+0.0526656059	to estimate
+0.0525833955	numbers of
+0.0518118563	the european
+0.0517065839	the potential to
+0.0517065839	the presence of
+0.0517065839	the majority of
+0.0512966433	designed to
+0.0511055046	combined with
+0.0510291640	of dengue
+0.0504907610	exposed to
+0.0499133100	prior to
+0.0494518721	samples from
+0.0492477245	a large
+0.0485907058	to reduce
+0.0481645905	the relationship between
+0.0481529925	members of
+0.0476269605	of artemis
+0.0476181061	appear to
+0.0474061362	to protect
+0.0471331120	1 2
+0.0457531517	a result
+0.0455798533	history of
+0.0451849233	2 3
+0.0449080879	in addition to
+0.0448863069	of ai
+0.0440342407	and tmprss2
+0.0436534755	the aim of
+0.0435606474	the first
+0.0434934755	the end of
+0.0430571402	a systematic
+0.0422762078	data on
+0.0422053102	in people with
+0.0421497507	the number of
+0.0418164020	resulting in
+0.0417268912	a major
+0.0410453806	but also
+0.0409889510	differences in
+0.0409679918	the brain
+0.0407814992	in vivo
+0.0406090349	the absence of
+0.0405303102	a number of
+0.0402647507	the level of
+0.0397282610	reduction in
+0.0396823184	a significant
+0.0394979238	the efficacy of
+0.0392152010	7 8
+0.0388264510	lack of
+0.0387673533	inhibition of
+0.0385573644	the severity of
+0.0385292288	understanding of
+0.0384979238	the distribution of
+0.0384979238	the prevalence of
+0.0377867204	in response to
+0.0377548533	series of
+0.0377414213	a lack of
+0.0375098152	used to
+0.0374611144	the rate of
+0.0372218962	but not
+0.0371283871	the identification of
+0.0370340349	the effectiveness of
+0.0368478487	to improve
+0.0364223152	known as
+0.0362830687	required for
+0.0362435145	levels of
+0.0362053102	the expression of
+0.0362053102	the proportion of
+0.0360793341	the effect of
+0.0353353487	to address
+0.0351222146	a potential
+0.0350864850	to inform
+0.0348264510	types of
+0.0334830841	the risk of
+0.0334448830	the s
+0.0332647507	the effects of
+0.0332460007	the need for
+0.0319083281	information on
+0.0310018721	induced by
+0.0309026175	to provide
+0.0300558512	the main
+0.0298428520	method for
+0.0290830995	this work
+0.0287102054	applied to
+0.0282448361	risk of
+0.0281667988	shown to
+0.0278256047	changes in
+0.0276441798	relative to
+0.0274974973	the lockdown
+0.0274885435	the past
+0.0270756047	a novel
+0.0268217592	analysis of
+0.0267457824	targets for
+0.0266001322	observed in
+0.0265102995	the original
+0.0265066798	loss of
+0.0265042988	approach to
+0.0264198794	at risk
+0.0263752779	a new
+0.0259890413	overview of
+0.0257769695	to offer
+0.0253108465	framework for
+0.0248217592	related to
+0.0247503306	individuals with
+0.0247191798	set of
+0.0245087072	a rapid
+0.0244228556	9 10
+0.0243483465	needed to
+0.0237509258	rates of
+0.0236378739	a global
+0.0232185871	the extent
+0.0230066798	properties of
+0.0228545406	a key
+0.0225212072	to support
+0.0223814605	source of
+0.0215667988	infected with
+0.0214692772	a substantial
+0.0213692772	a unique
+0.0209255315	the possibility
+0.0208217592	response to
+0.0207457824	expected to
+0.0205824937	synthesis of
+0.0204436456	studies on
+0.0203395223	3 4
+0.0202690424	identified by
+0.0202126546	in china
+0.0194707721	identification of
+0.0191646970	the last
+0.0190852054	close to
+0.0190322223	together with
+0.0186634258	research on
+0.0185440424	effect of
+0.0184384258	expression of
+0.0184384258	patterns of
+0.0183908068	burden of
+0.0181546402	to induce
+0.0179677993	necessary to
+0.0179048274	activation of
+0.0178981272	combination of
+0.0178256047	likely to
+0.0178072726	to evaluate
+0.0176736186	outbreaks in
+0.0175982091	identified as
+0.0175212072	to increase
+0.0174231424	crucial to
+0.0170169515	mutations in
+0.0169096351	benefits of
+0.0168780557	to take
+0.0162483548	the most
+0.0162241401	quality of
+0.0161726572	a strong
+0.0160678218	used as
+0.0160625655	administration of
+0.0157427379	prevention of
+0.0156376322	range of
+0.0149487834	dose of
+0.0147427379	method to
+0.0147427379	wave of
+0.0141634258	important for
+0.0137031134	incidence of
+0.0135603556	19 outcomes
+0.0135552812	the emergence
+0.0134967592	potential for
+0.0134384258	management of
+0.0134384258	effects of
+0.0133342592	form of
+0.0132031694	identified in
+0.0129745223	6 7
+0.0126332873	risks of
+0.0125626322	required to
+0.0125076311	reviewed in
+0.0124975578	effectiveness of
+0.0124626322	aim to
+0.0124384258	impact of
+0.0124025181	capacity of
+0.0123256384	of concern
+0.0121999388	presence of
+0.0120671480	the next
+0.0120642245	implementation of
+0.0120257065	diagnosis of
+0.0117800925	support for
+0.0117519204	to guide
+0.0115092592	similar to
+0.0115076311	goal of
+0.0114650181	availability of
+0.0114055376	a wide
+0.0114025181	aim of
+0.0113255950	influence of
+0.0113255950	expressed in
+0.0111761326	need to
+0.0110882065	impacts of
+0.0110257065	important to
+0.0109142245	implications of
+0.0108886146	the role
+0.0108780557	to make
+0.0107800925	proposed to
+0.0107322223	need for
+0.0106555376	the covid
+0.0105092592	increase in
+0.0104393771	onset of
+0.0104173991	frequency of
+0.0104025181	production of
+0.0103927501	decrease in
+0.0103728556	5 6
+0.0101999388	addition to
+0.0101316848	terms of
+0.0100227104	survey of
+0.0097800925	development of
+0.0097150181	distribution of
+0.0096347043	the presence
+0.0096347043	the majority
+0.0094650181	performance of
+0.0094393771	consequences of
+0.0094025181	end of
+0.0094025181	role of
+0.0092805376	a range
+0.0092289689	more likely
+0.0092086112	used for
+0.0091316848	result in
+0.0091219168	evaluation of
+0.0088951497	in patients with
+0.0088425925	reported to
+0.0087800925	evidence for
+0.0087180376	the effectiveness
+0.0087150181	efficiency of
+0.0085092592	strategies for
+0.0084650181	prevalence of
+0.0084650181	rate of
+0.0084025181	potential to
+0.0084025181	severity of
+0.0083572223	a few
+0.0081316848	detection of
+0.0080861697	part of
+0.0080257065	level of
+0.0079263710	to test
+0.0077294446	to describe
+0.0077294446	way to
+0.0076669446	found to
+0.0075629813	seen in
+0.0073816848	delivery of
+0.0073594659	known to
+0.0072483548	use of
+0.0072124471	the best
+0.0071461112	people with
+0.0071316848	assessment of
+0.0071316848	result of
+0.0071316848	efficacy of
+0.0071316848	months of
+0.0070066882	as well
+0.0067685369	course of
+0.0067419446	up to
+0.0063518702	described in
+0.0057685369	interest in
+0.0057685369	help to
